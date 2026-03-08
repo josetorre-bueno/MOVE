@@ -14,6 +14,6 @@ Merged Dataset
     - Zip (Site zip code)
     - County (Site county; all sites in San Diego County)
     - Email (Site email address; missing for all sites)
-    - TelephoneNumber (Site phone number; available only for Adult_Residential_Facilities.csv and Elder_Care_Facilities.csv)
+    - PhoneNumber (Site phone number; available only for Adult_Residential_Facilities.csv and Elder_Care_Facilities.csv)
 
   

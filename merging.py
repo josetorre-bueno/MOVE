@@ -95,7 +95,24 @@ df5.insert(6, "State", pd.Series(dtype = 'str'))
 df5.insert(9, "Email", pd.Series(dtype = 'str'))
 df5.insert(10, "PhoneNumber", pd.Series(dtype = 'str'))
 
+# From Places.csv
+cols_to_use_6 = ["NAME", "TYPE", "ADDR", "CITYNM", "Zipcode"]
+df6 = pd.read_csv("Places.csv", 
+                  usecols = cols_to_use_6)[cols_to_use_6]
+df6 = df6.rename(columns={"NAME" : "Name", 
+                    "TYPE" : "SiteDescription",
+                    "ADDR" : "StreetAddress",
+                    "CITYNM" : "City", "Zipcode" : "Zip"})
+df6.insert(2, "Administrator", pd.Series(dtype = 'str'))
+df6.insert(3, "Licensee", pd.Series(dtype = 'str'))
+df6.insert(6, "State", pd.Series(dtype = 'str'))
+df6["State"] = "CA"
+df6.insert(8, "County", pd.Series(dtype = 'str'))
+df6["County"] = "SAN DIEGO"
+df6.insert(9, "Email", pd.Series(dtype = 'str'))
+df6.insert(10, "PhoneNumber", pd.Series(dtype = 'str'))
+
 # merge dataframes
-df = pd.concat([df1, df2, df3, df4, df5])
+df = pd.concat([df1, df2, df3, df4, df5, df6])
 # export dataframes to csv as final merged dataset
 df.to_csv("Merged_Dataset.csv", index = False)

@@ -1,7 +1,7 @@
 Merged Dataset 
 
 - Datasets Merged So Far: Business_Sites.csv, Adult_Residential_Facilities.csv, City_Owned_Lands.csv,
-  Elder_Care_Facilities.csv, Healthcare_Facilities.csv
+  Elder_Care_Facilities.csv, Healthcare_Facilities.csv, Places.csv
 
 - Merged Dataset Columns:
     - Name (Site business name)

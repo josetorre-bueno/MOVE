@@ -13,7 +13,7 @@ df['EIN'] = df['EIN'].str.replace(".0","")
 df['EIN'] = df['EIN'].str.zfill(9)
 
 
-for i in range(967, 7518):
+for i in range(1619, 7518):
 
     ein = df['EIN'][i]
         
@@ -38,7 +38,7 @@ for i in range(967, 7518):
         keyboard.press('enter')
         keyboard.release('enter')
 
-        time.sleep(10)
+        time.sleep(3)
         driver.quit()
 
     except NoSuchElementException:

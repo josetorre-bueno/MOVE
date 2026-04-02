@@ -83,8 +83,9 @@ data = []
 for file in folder.iterdir():
     tree = ET.parse(file)
     root = tree.getroot()
-
+# Modify this portion to get the specifc fields that you want 
     # Preparer Firm
+
     preparer_firm_ein = root.find(".//{*}PreparerFirmGrp/{*}PreparerFirmEIN")
     preparer_firm_name = root.find(".//{*}PreparerFirmName/{*}BusinessNameLine1Txt")
     preparer_addr = root.find(".//{*}PreparerUSAddress/{*}AddressLine1Txt")
@@ -134,6 +135,7 @@ for file in folder.iterdir():
     board_title = root.find(".//{*}Form990PartVIISectionAGrp/{*}TitleTxt")
     board_hours = root.find(".//{*}Form990PartVIISectionAGrp/{*}AverageHoursPerWeekRt")
     board_officer = root.find(".//{*}Form990PartVIISectionAGrp/{*}OfficerInd")
+
 
     data.append({
         "preparer_firm_ein": preparer_firm_ein.text if preparer_firm_ein is not None else None,

@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-08-12T19:07:12-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>450250958</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>EIDE BAILLY LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>19200 VON KARMAN AVE STE 850</AddressLine1Txt>
+        <CityNm>IRVINE</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>926128522</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>834621843</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>LADIES WHO LAUNCH INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LADI</BusinessNameControlTxt>
+      <PhoneNum>8609124541</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>12275 EL CAMINO REAL STE 100</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SARAH FRIAR</PersonNm>
+      <PersonTitleTxt>CHIEF EXECUTIVE OFFICER</PersonTitleTxt>
+      <PhoneNum>8609124541</PhoneNum>
+      <SignatureDt>2025-08-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>EUGENE KIM CPA</PreparerPersonNm>
+      <PTIN>P00738418</PTIN>
+      <PhoneNum>9494530256</PhoneNum>
+      <PreparationDt>2025-08-11</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>55337</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>170467</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>9</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>9</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>9</InterestOnSavingsAdjNetIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>0</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>170476</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>9</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>9</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>100000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>100000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>64549</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsAdjNetIncmAmt>0</OthEmplSlrsWgsAdjNetIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>64549</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>3227</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>0</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftAdjNetIncmAmt>0</PensionEmplBnftAdjNetIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>3227</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">20073</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>20073</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">31692</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>31692</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">7727</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>0</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>0</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>7727</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">14846</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>0</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>14846</TaxesDsbrsChrtblAmt>
+        <OccupancyRevAndExpnssAmt>11587</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>0</OccupancyNetInvstIncmAmt>
+        <OccupancyAdjNetIncmAmt>0</OccupancyAdjNetIncmAmt>
+        <OccupancyDsbrsChrtblAmt>11587</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>8211</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>0</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>8211</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">58036</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>0</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>0</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>58036</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>319948</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>319948</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>319948</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>319948</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-149472</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>9</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>9</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>224705</CashBOYAmt>
+        <CashEOYAmt>53239</CashEOYAmt>
+        <CashEOYFMVAmt>53239</CashEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>4499</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>2098</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>2098</PrepaidExpensesEOYFMVAmt>
+        <TotalAssetsBOYAmt>229204</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>55337</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>55337</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>24447</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>52</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>24447</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>52</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>204757</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>55285</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>204757</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>55285</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>229204</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>55337</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>204757</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-149472</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>55285</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>55285</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>0</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>1</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.LADIESWHOLAUNCH.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SARAH FRIAR</IndividualWithBooksNm>
+        <PhoneNum>8609124541</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>12275 EL CAMINO REAL SUITE 100</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>921304092</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SARAH FRIAR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHIEF EXECUTIVE OFFICER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KELLY MCGONIGLE SQUIER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANA COLLINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELENA GOMEZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FREDERIQUE IRWIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TOKUNBOH ISMAEL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID RILEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROSIE RIOS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>AARON ZAMOST</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JENNIFER WARREN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </USAddress>
+          <TitleTxt>FORMER EXECUTIVE DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>100000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PROVIDES FREE EDUCATIONAL PROGRAMS, SERVICES AND RESOURCES.HOLDS IN-PERSON AND VIRTUAL EDUCATIONAL EVENTS, INCLUDINGSUMMITS AND WEBINARS, TO HELP SMALL BUSINESS OWNERS ANDENTREPRENEURS GROW AND SUSTAIN THEIR BUSINESS. THROUGH LWL'SOFFERINGS, SMALL BUSINESSES LEARN PRACTICAL BUSINESS SKILLS,ACCESS CRITICAL FUNDING OPPORTUNITIES, BUILD POWERFULCONNECTIONS, NETWORKS, AND COMMUNITY, AND GAIN OPPORTUNITIESTO AMPLIFY THEIR BUSINESS TO HELP THEIR CONTINUED GROWTH.</Description1Txt>
+        <Expenses1Amt>104515</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>94852</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>94852</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>94852</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1423</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>93429</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>4671</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>319948</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>319948</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2019-06-19</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>9</CurrentYearAmt>
+          <Year1Amt>94</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>103</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>8</CurrentYearAmt>
+          <Year1Amt>80</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>88</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>319948</CurrentYearAmt>
+          <Year1Amt>1251690</Year1Amt>
+          <Year2Amt>1057282</Year2Amt>
+          <Year3Amt>488277</Year3Amt>
+          <TotalAmt>3117197</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriNotUsedDrtGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </QualifyingDistriNotUsedDrtGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>319948</CurrentYearAmt>
+          <Year1Amt>1251690</Year1Amt>
+          <Year2Amt>1057282</Year2Amt>
+          <Year3Amt>488277</Year3Amt>
+          <TotalAmt>3117197</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <CurrentYearAmt>55337</CurrentYearAmt>
+          <Year1Amt>229204</Year1Amt>
+          <Year2Amt>456153</Year2Amt>
+          <Year3Amt>330221</Year3Amt>
+          <TotalAmt>1070915</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <CurrentYearAmt>55337</CurrentYearAmt>
+          <Year1Amt>229203</Year1Amt>
+          <TotalAmt>284540</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>3114</CurrentYearAmt>
+          <Year1Amt>6008</Year1Amt>
+          <Year2Amt>7740</Year2Amt>
+          <Year3Amt>10149</Year3Amt>
+          <TotalAmt>27011</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+        <TotalSupportGrp>
+          <CurrentYearAmt>170467</CurrentYearAmt>
+          <Year1Amt>1016934</Year1Amt>
+          <TotalAmt>1187401</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <CurrentYearAmt>155417</CurrentYearAmt>
+          <TotalAmt>155417</TotalAmt>
+        </PublicSupportType>
+        <LargestSupportFromEOGrp>
+          <CurrentYearAmt>145000</CurrentYearAmt>
+          <TotalAmt>145000</TotalAmt>
+        </LargestSupportFromEOGrp>
+        <GrossInvestmentIncomeGrp>
+          <CurrentYearAmt>9</CurrentYearAmt>
+          <TotalAmt>9</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>SARAH FRIAR</ContributingManagerNm>
+        <ContributingManagerNm>DAVID RILEY</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>LADIES WHO LAUNCH ONLINE SUBMISSION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>909 MONTGOMERY STREET STE 300</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94133</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8609124541</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>HELLO@LADIESWHOLAUNCH.ORG</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>(1) 2024 LAUNCH PROGRAM APPLICATION (2) IF APPLICANTS WERE SELECTED TO ADVANCE IN THE PROCESS, THEY WERE REQUIRED TO SHARE PROFIT &amp; LOSS STATEMENTS FOR 2021 AND 2022 AND 2023 TO VERIFY REVENUE, EXPENSE, ETC.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>THE DEADLINE FOR THE SUBMISSION OF APPLICATIONS WAS 11:59PM PT ON APRIL 3, 2024</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>MUST BE A FOUNDER THAT IS A WOMAN OR NON-BINARY PERSON, FOUNDER MUST OWN 51% OR GREATER STAKE IN THE BUSINESS AS OF THE APPLICATION DUE DATE, APPLICANT MUST BE A LEGAL RESIDENT AND CITIZEN OF THE UNITED STATES, APPLICANT MUST BE 21 YEARS OR OLDER AS OF APPLICATION DUE DATE, MUST HAVE A TEAM THAT IS MADE UP OF 50% OR MORE WOMEN, FEMME,OR NON-BINARY PEOPLE, PROFICIENT IN ENGLISH. BUSINESS CRITERIA: BUSINESS MUST BE INCORPORATED, LOCATED, AND OPERATE IN THE US, CONSUMER-BASED PRODUCTS / BUSINESS (DIRECT TO CONSUMER, BUSINESS TO BUSINESS), 2023 GROSS REVENUE OF $75K - $2M USD, BUSINESS MUST NOT HAVE PREVIOUSLY RAISED FUNDING FROM VENTURE CAPITAL FIRMS, FOR-PROFIT COMPANIES IN BUSINESS SINCE OR PRIOR TO JANUARY 1, 2020, STAFF SIZE BETWEEN 2-30 EMPLOYEES (FULL-TIME,PART-TIME,INDEPENDENT CONTRACTORS). NOT ELIGIBLE: LOCATIONS OWNED BY PUBLICLY-TRADED CORPORATIONS DO NOT QUALIFY, NONPROFIT ORGANIZATIONS AND SUBSIDARY BUSINESSES OR FRANCHISEES DO NOT QUALIFY. AWARDS WILL BE $10,000.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <TotalGrantOrContriPdDurYrAmt>0</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>9</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>9</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>9</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>DAVID RILEYSARAH FRIAR DAF</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 1092</AddressLine1Txt>
+          <CityNm>ROSS</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94957</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>145000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>ELENA GOMEZ CO TOAST INC</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>301 HOWARD ST STE 500</AddressLine1Txt>
+          <CityNm>SAN FRANCISCO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94105</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>15000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>BRIDES FOR A CAUSE CO ERIN SCHARF</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2505 SE 11TH AVENUE STE 120</AddressLine1Txt>
+          <CityNm>PORTLAND</CityNm>
+          <StateAbbreviationCd>OR</StateAbbreviationCd>
+          <ZIPCd>97202</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>31692</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>31692</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>20073</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>20073</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>WORKERS' COMPENSATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>104</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>104</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>1216</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1216</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK AND MERCHANT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1442</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1442</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>10606</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>10606</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES &amp; SUBCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>2491</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2491</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>149</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>149</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COMPUTER HARDWARE AND SOFTWARE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1017</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1017</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>STAFF DEVELOPMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>641</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>641</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>23</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>23</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EVENT EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>40347</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>40347</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTANTS</CategoryTxt>
+        <Amt>4800</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4800</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER</CategoryTxt>
+        <Amt>239</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>239</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>NONPROFIT COMPLIANCE</CategoryTxt>
+        <Amt>1679</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1679</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PAYROLL PROCESSING FEE</CategoryTxt>
+        <Amt>1009</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1009</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAX</CategoryTxt>
+        <Amt>14346</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>14346</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>TAX &amp; LICENSE</CategoryTxt>
+        <Amt>500</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>500</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

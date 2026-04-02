@@ -1,0 +1,1574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-17T14:08:02-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Baker Tilly Advisory Group LP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3 Lagoon Drive Ste 400</AddressLine1Txt>
+        <CityNm>Redwood CIty</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94065</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>843344588</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The JEM Project</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% RACHEL SHOCKET</InCareOfNm>
+      <BusinessNameControlTxt>JEMP</BusinessNameControlTxt>
+      <PhoneNum>7045647765</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1 Blackfield Drive 129</AddressLine1Txt>
+        <CityNm>Tiburon</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94920</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JESSICA MANNING</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>7045647765</PhoneNum>
+      <SignatureDt>2025-11-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>NANCY N YOUNG</PreparerPersonNm>
+      <PTIN>P00711292</PTIN>
+      <PhoneNum>6503654646</PhoneNum>
+      <PreparationDt>2025-11-17</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="14">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>41313013</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>952438</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>929485</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>2448847</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>15824357</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2445876</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">36370</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>1154</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>3437655</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>3376515</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>148080</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>149553</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>75674</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>75674</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>35552</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>32383</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSch">9525</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>9525</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">81358</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>40679</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>40679</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">218954</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>218954</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">213796</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>36934</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>141949</TaxesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>12547</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>12547</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">29282</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>704</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>29282</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>824768</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>297271</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>491592</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>3022819</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>3022819</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>3847587</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>297271</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>3514411</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-409932</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>3079244</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>23057</CashBOYAmt>
+        <CashEOYAmt>94131</CashEOYAmt>
+        <CashEOYFMVAmt>94131</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>1281744</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>739125</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>739125</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>405205</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvGovtObligSch">201182</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>192641</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>24266890</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">22621038</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>30274652</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>4970585</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestCorpBondsSch">5837009</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>5731951</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>3165281</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">4193917</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>4262990</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">1337</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">17523</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSch">17523</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>34114099</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>33703925</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>41313013</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabSch">9360</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabSch">9118</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>9360</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>9118</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>34104739</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>33694807</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>34104739</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>33694807</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>34114099</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>33703925</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>34104739</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-409932</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>33694807</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>33694807</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>15822736</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13378481</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2444255</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2444255</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>LONG TERM CAPITAL GAIN DISTRIBUTION</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>673</GrossSalesPriceAmt>
+          <GainOrLossAmt>673</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>673</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>KKR PRIVATE EQUITY CONGLOMERATE LLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>948</GrossSalesPriceAmt>
+          <GainOrLossAmt>948</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>948</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>2445876</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>42801</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>42801</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>42801</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>44811</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>50000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>94811</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>52010</OverpaymentAmt>
+        <AppliedToESTaxAmt>52010</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2 BinaryAttachN3 BinaryAttachN4 BinaryAttachN5 BinaryAttachN6 BinaryAttachN7 BinaryAttachN8 BinaryAttachN9 BinaryAttachN10 BinaryAttachN11 BinaryAttachN12 BinaryAttachN13">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2 BinaryAttachN3 BinaryAttachN4 BinaryAttachN5 BinaryAttachN6 BinaryAttachN7 BinaryAttachN8 BinaryAttachN9 BinaryAttachN10 BinaryAttachN11 BinaryAttachN12 BinaryAttachN13">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2 BinaryAttachN3 BinaryAttachN4 BinaryAttachN5 BinaryAttachN6 BinaryAttachN7 BinaryAttachN8 BinaryAttachN9 BinaryAttachN10 BinaryAttachN11 BinaryAttachN12 BinaryAttachN13">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.thejemproject.org</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>RACHEL SHOCKET</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7045647765</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1 BLACKFIELD DRIVE 129</AddressLine1Txt>
+          <CityNm>TIBURON</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94920</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JESSICA MANNING</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1 Blackfield Drive 129</AddressLine1Txt>
+            <CityNm>Tiburon</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94920</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>20.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>91500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Rachel Shocket</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2815 28TH ST</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director of Operations</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>138458</CompensationAmt>
+          <EmployeeBenefitProgramAmt>5538</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>1347</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>KELLY LARKAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1 BLACKFIELD DRIVE 129</AddressLine1Txt>
+            <CityNm>TIBURON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94920</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>30.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>120000</CompensationAmt>
+          <EmployeeBenefitsAmt>4800</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>UBS FINANCIAL SERVICES INC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>555 California Street34th Floor</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>INVESTMENT MGT</ServiceTypeTxt>
+          <CompensationAmt>218954</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>39647314</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2057476</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>9430</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>41714220</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>41714220</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>625713</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>41088507</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>2054425</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>2054425</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>42801</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>42801</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>2011624</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>2011624</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>2011624</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>3514411</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>3514411</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>2011624</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2022</PriorYear1Yr>
+        <PriorYear2Yr>2021</PriorYear2Yr>
+        <PriorYear3Yr>2020</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr4Amt>2693391</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>2089198</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>6049760</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>2841474</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>13673823</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>3514411</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>2011624</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>1502787</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>15176610</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>15176610</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>2693391</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>2089198</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>6049760</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>2841474</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>1502787</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JESSICA MANNING</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Children's Miracle Network</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>205 WEST 700 SOUTH</AddressLine1Txt>
+            <CityNm>Salt Lake City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>79180</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>A Kid Again INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>777 DEARBORN PARK LANE</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>43085</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Agua Hedionda Lagoon Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1580 CANNON RD</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the foundation's academy of environmental stewardship, to offer open spaces, public access to trails, Discovery Center and equitable environmental educational opportunities for community.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Big Brothers Big Sisters of San Diego County</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4305 UNIVERSITY AVE 590</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the Community Mentoring and the Fund-a-Match at the 62nd Annual Gourmet Dinner to help vulnerable children avoid risky behaviors and achieve their full potential and educational success.</GrantOrContributionPurposeTxt>
+          <Amt>105000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Boys &amp; Girls Clubs of Central Orange Coast</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17701 Cowan 110</AddressLine1Txt>
+            <CityNm>Irvine</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92614</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Boys and Girls Clubs of East County</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8820 TAMBERLY WAY</AddressLine1Txt>
+            <CityNm>Santee</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92071</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Grants for Low-cost, high-quality after-school and school-break camps in the coomunities of El Cajon, Lakeside, Santee and La Mesa.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Boys and Girls Clubs of Greater San Diego</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 178569</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92177</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the PACE after school and summer camp programming.</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Brother Wolf Animal Rescue</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 8195</AddressLine1Txt>
+            <CityNm>Asheville</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28814</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To rebuild in the wake of Hurricane Helene's devastation and continue to run lifesaving programs in community</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Catherine's House</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>141 Mercy Dr</AddressLine1Txt>
+            <CityNm>BELMONT</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28012</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To empower women and children who are experiencing homelessness through safe housing and services that build self-sufficiency.</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Children's Attention Home</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2912</AddressLine1Txt>
+            <CityNm>Rock Hill</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29732</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Providing safe environment, well-being, and promoting the development of children.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Coastal Roots Farm</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>441 SAXONY ROAD</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>providing vulnerable members of community with fresh, organic produce, education on how to prepare it, as well as allow us to provide youth with hands-on, STEM-based farm education and offer our community opportunities to engage in Jewish life.</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Compassion for the Family Vida Reavivida Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>26876 29TH RD</AddressLine1Txt>
+            <CityNm>BRANFORD</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Conservation Fisheries Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3424 DiVisioN STreeT</AddressLine1Txt>
+            <CityNm>KNOXVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37919</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to educate visitors and guests about rare and imperiled fishes and further CFI's mission to preserve aquatic biodiversity in streams and rivers</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Dress For Success Charlotte</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500-A Clanton Rd</AddressLine1Txt>
+            <CityNm>Charlotte</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28217</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the 2024 Your Hour Her Power campaign.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Foundation for Animal Care and Education (FACE)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10505 Sorrento Valley Road Suite 1</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the Save-A-Life Program to save beloved pets in need of emergency medical care.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Helix Charter HIGH School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7323 UNIVERSITY AVE</AddressLine1Txt>
+            <CityNm>LA MESA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91942</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to support the NHS program, the SADD Club and the C4Me College Tour Trip</GrantOrContributionPurposeTxt>
+          <Amt>30700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Helping Hands Hawaii</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2100 N Nimitz Hwy</AddressLine1Txt>
+            <CityNm>Honolulu</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96819</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>in support of the Ready to Learn to help students experience more in the classroom with the school supplies and educational tools they need to learn.</GrantOrContributionPurposeTxt>
+          <Amt>37000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Holy Angels Foundation Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6600 WILKINSON BLVD</AddressLine1Txt>
+            <CityNm>BELMONT</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28012</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the Children's Campus Expansion Project.</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Home Start Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5005 texas st 203</AddressLine1Txt>
+            <CityNm>san diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the Home Start's 17th annual Hallo-Wine Fall Festival</GrantOrContributionPurposeTxt>
+          <Amt>85000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>House of Hope of the Pee Dee</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 7129</AddressLine1Txt>
+            <CityNm>Florence</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29502</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>La Maestra Family Clinic INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4060 Fairmount Avenue</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to support the pack n' plays program, vaccine supplies and GRANT FOR DR. STEPHANIE CONE.</GrantOrContributionPurposeTxt>
+          <Amt>77700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Lions Tigers and Bears</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>24402 Martin Way</AddressLine1Txt>
+            <CityNm>Alpine</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>in support of the solar energy projects, solar installation, and grant toward general operations at the sanctuary and for Tiger Habitat Climbing Structure.</GrantOrContributionPurposeTxt>
+          <Amt>99336</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Mama's Kitchen</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3960 Home Avenue</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to support mama's kitchen's children's nutritional health program.</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MISSION BEACH WOMEN'S CLUB Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>840 Santa Clara Place</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the Servicewomen Campaign (SOS)</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Survivors Alliance for Growth and Employment</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>55 N 4TH ST</AddressLine1Txt>
+            <CityNm>SOUDERTON</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18964</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>1200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Nine Lives Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3137 Jefferson Ave</AddressLine1Txt>
+            <CityNm>Redwood City</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94062</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To save lives of homeless and at-risk cats and kittens in the Bay Area, and cares for them until they are adopted into loving homes, provide low-cost, affordable veterinary care for our feline friends and their families.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Nothing Pink Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2764 Pleasant Rd 11326</AddressLine1Txt>
+            <CityNm>Fort Mill</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>29708</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To create awareness and educate community members about the importance of genetic testing for hereditary breast and gynecological cancer.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Nutured by Nature</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15630 RIM OF THE VALLEY</AddressLine1Txt>
+            <CityNm>VALLEY CENTER</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92082</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>grant towards make-a-wish programs.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Ocean Discovery Institute</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4255 Thorn St</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to support the Ocean Discovery institute to provide access to the science education by students.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Pilgrims' Inn</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 11328</AddressLine1Txt>
+            <CityNm>Rock Hill</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29731</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide shelter, assistance and supportive services to our community's most vulnerable citizens, women and children facing homelessness and hunger, and to support expansion of food pantry operation.</GrantOrContributionPurposeTxt>
+          <Amt>22500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ProduceGood</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4057 VIA DE LA PAZ</AddressLine1Txt>
+            <CityNm>OCEANSIDE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92057</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the recovery of 960,000 additional servings of fruit and vegetables to benefit the 1 in 4 who struggle to be nutritionally secure.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Reality Changers</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 50220</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92165</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to support college town academic tutoring and mentorship program.</GrantOrContributionPurposeTxt>
+          <Amt>33152</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Foundation for Rock Hill Schools</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 12286</AddressLine1Txt>
+            <CityNm>Rock Hill</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29731</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Rocky Mountain Raptor Program</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2519 s shields street 1k-115</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80526</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to rehabilitate and release raptors, educate about human/ wildlife conflicts and conduct research that helps more raptors survive in the wild.</GrantOrContributionPurposeTxt>
+          <Amt>84500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Diego Center for Children</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3002 Armstrong St</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to enhance access to mental health care for youth and families in need, increase capacity to serve more youth in outpatient and intensive clinical services and soon launch a partial hospitalization program, and to advocate on behalf of youth covered by medical to gain access to intensive clinical services.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Diego Children's Discovery Museum</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>320 N Broadway</AddressLine1Txt>
+            <CityNm>Escondido</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide hands-on learning opportunities for children and schools and offer accessible, quality education.</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Diego Food System Alliance</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 3185</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92163</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to steward and implement community-led plan and movement, San Diego County Food Vision 2030.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Diego Humane Society &amp; SPCA San Diego</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5500 Gaines St</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support 2024 Fur Ball, 2024 Fur Ball Stand-up Match, 2025 Give Humane, 2024 San Diego Gives and 2024 Giving Tuesday general match pools.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Soroptimist International of Idyllwild</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 901</AddressLine1Txt>
+            <CityNm>IDYLLWILD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92549</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to improve women's lives and girls through providing basic hygiene needs and access to education.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SR3 Sealife Response Rehabilitation and Research</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2003 S 216th st 98811</AddressLine1Txt>
+            <CityNm>Des Moines</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98198</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Delivering life-saving care to orphaned seals, fueling emergency response missions for entangled sea lions, driving urgent recovery actions for endangered whales.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>the Center for Reproductive Rights inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>199 WATER STREET 22nd floor</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Marine Mammal Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2000 Bunker Rd</AddressLine1Txt>
+            <CityNm>fort cronkhite</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94965</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>grant toward backup generator for hospital in Sausalito.</GrantOrContributionPurposeTxt>
+          <Amt>45000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Voices for the Children</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2851 MEADOWLARK DRIVE</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to support foster care in San Diego County</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Volcan Mountain Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2015 Main St Suite C</AddressLine1Txt>
+            <CityNm>Julian</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To restore VMF's Copper Spur Ranch into a healthy forest and riparian ecosystem during phase three of the conservation plan.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Youth Assistance Coalition</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2801 b street 238</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to support staff for drop-in center.</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Appalachian Wildlife Refuge</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 824</AddressLine1Txt>
+            <CityNm>Candler</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28715</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to support veterinary care.</GrantOrContributionPurposeTxt>
+          <Amt>5150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Leukemia &amp; Lymphoma Society Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3 International Drive Suite 200</AddressLine1Txt>
+            <CityNm>Rye Brook</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10573</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>grant towards life-saving research and services that provide help and recovery to patients and their families their families.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Maryland Avenue Elementary PTA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5400 Maryland Ave</AddressLine1Txt>
+            <CityNm>La MEsa</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91942</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Purrfect Match Cat Rescue</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8092 HWY 51 North</AddressLine1Txt>
+            <CityNm>Millington</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38053</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to help with rescuing felines from throughout western tennessee.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Diego Breastfeeding Center Foundation Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3355 4th Ave</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>to reduce socioeconomic and racial disparities in chest/breastfeeding support throughout San Diego county.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SBCS Corporation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>430 F Street</AddressLine1Txt>
+            <CityNm>Chula Vista</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91910</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To help support the construction of a new center.</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Foundation for Appalachian Kentucky</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>420 Main Street</AddressLine1Txt>
+            <CityNm>Hazard</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>41701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To help with the Appalachia communities rebuild and recover.</GrantOrContributionPurposeTxt>
+          <Amt>5208</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Boys to Men Mentoring</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3322 Sweetwater Springs Blvd 102</AddressLine1Txt>
+            <CityNm>Spring Valley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91977</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To help with programs to impact the lives of young men, giving them hope and opening doors to a brighter future.</GrantOrContributionPurposeTxt>
+          <Amt>5250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Destination Home Puppy Rescue</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>644 Goldflower Drive</AddressLine1Txt>
+            <CityNm>Rock Hill</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29732</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Dogs Finding Dogs</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1129 Ingate RD</AddressLine1Txt>
+            <CityNm>Halethorpe</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21227</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Food Bank for Larimer County</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5706 Wright Dr</AddressLine1Txt>
+            <CityNm>Loveland</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80536</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Giants Community Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>24 Willie Mays Plaza</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94107</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Helix Instrumental Music Association</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7323 University Ave</AddressLine1Txt>
+            <CityNm>LA MESA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91942</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the Helix Charter High School Music Programs.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Maui Food Bank Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>760 Kolu Street</AddressLine1Txt>
+            <CityNm>Wailuku</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96793</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support those facing food insecurity within Maui community.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>McKinley School Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3045 Felton St</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>2060</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Scripps Mercy Hospital</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10140 Campus Point DR</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support Symphony and Medela PumpInStyle breast pumps for vulnerable, low-income mothers in need.</GrantOrContributionPurposeTxt>
+          <Amt>25150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>World Central Kitchen inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 Massachusetts Ave NW 7th flr</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Unrestricted</GrantOrContributionPurposeTxt>
+          <Amt>5233</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SAN DIEGO FOUNDATION (Birch Aquarium)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2508 HISTORIC DECATUR ROAD 200</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To support the Deep Sea Debris Program</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SAN MARCOS PROMISE DBA PROJECT NEXT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>255 Pico Ave suite 103</AddressLine1Txt>
+            <CityNm>SAN MARCOS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92069</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNRESTRICTED</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>3022819</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>952438</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>2448847</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>EXCISE TAX REFUND</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>34811</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INCOME</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>1559</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>3437655</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>3437655</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>81358</Amt>
+        <NetInvestmentIncomeAmt>40679</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>40679</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpBondsSchedule documentId="InvestCorpBondsSch">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>UBS #4164 - ATTACHMENT B1</BondNm>
+        <EOYBookValueAmt>3706054</EOYBookValueAmt>
+        <EOYFMVAmt>3600230</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>UBS #4167 - ATTACHMENT B2</BondNm>
+        <EOYBookValueAmt>2130955</EOYBookValueAmt>
+        <EOYFMVAmt>2131721</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #4163 - ATTACHMENT A1</StockNm>
+        <EOYBookValueAmt>1027281</EOYBookValueAmt>
+        <EOYFMVAmt>1505088</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #4167 - ATTACHMENT A2</StockNm>
+        <EOYBookValueAmt>6912379</EOYBookValueAmt>
+        <EOYFMVAmt>10335475</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #4168 - ATTACHMENT A3</StockNm>
+        <EOYBookValueAmt>2430097</EOYBookValueAmt>
+        <EOYFMVAmt>4641316</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #4170 - ATTACHMENT A4</StockNm>
+        <EOYBookValueAmt>385948</EOYBookValueAmt>
+        <EOYFMVAmt>440108</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #4171 - ATTACHMENT A5</StockNm>
+        <EOYBookValueAmt>1414273</EOYBookValueAmt>
+        <EOYFMVAmt>1568674</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #4173 - ATTACHMENT A6</StockNm>
+        <EOYBookValueAmt>2115560</EOYBookValueAmt>
+        <EOYFMVAmt>2429037</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #4174 - ATTACHMENT A7</StockNm>
+        <EOYBookValueAmt>1985514</EOYBookValueAmt>
+        <EOYFMVAmt>2168791</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #4176 - ATTACHMENT A8</StockNm>
+        <EOYBookValueAmt>3660739</EOYBookValueAmt>
+        <EOYFMVAmt>4564372</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #4770 - ATTACHMENT A9</StockNm>
+        <EOYBookValueAmt>1643750</EOYBookValueAmt>
+        <EOYFMVAmt>1451687</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #7339 - ATTACHMENT A10</StockNm>
+        <EOYBookValueAmt>1045497</EOYBookValueAmt>
+        <EOYFMVAmt>1170104</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvGovtObligSch">
+      <USGovtObligationsBookVlEOYAmt>201182</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>192641</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>UBS #4167 - ATTACHMENT C1</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>802617</BookValueAmt>
+        <EOYFMVAmt>869461</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>UBS #4172 - ATTACHMENT C2</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>3391300</BookValueAmt>
+        <EOYFMVAmt>3393529</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>9525</LegalFeesAmt>
+        <DisbursementsCharitablePrpsAmt>9525</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>OTHER RECEIVABLE</Desc>
+        <BOYBookValueAmt>1337</BOYBookValueAmt>
+        <EOYBookValueAmt>17523</EOYBookValueAmt>
+        <EOYFMVAmt>17523</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES AND SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>10110</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>10110</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>400</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>400</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL PROCESSING FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>4083</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4083</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1967</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1967</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1888</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1888</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>456</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>456</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>287</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>287</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>8463</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>8463</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>780</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>780</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COMPUTER AND INTERNET</Desc>
+        <RevenueAndExpensesPerBooksAmt>848</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>848</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT EXPENSE</Desc>
+        <NetInvestmentIncomeAmt>704</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>Excise Tax Refund</Desc>
+        <RevenueAndExpensesPerBooksAmt>34811</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Other Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>1559</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1154</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>CREDIT CARD PAYABLE</Desc>
+        <BOYBookValueAmt>5330</BOYBookValueAmt>
+        <EOYBookValueAmt>5089</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>OTHER PAYABLE</Desc>
+        <BOYBookValueAmt>4030</BOYBookValueAmt>
+        <EOYBookValueAmt>4029</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>218954</Amt>
+        <NetInvestmentIncomeAmt>218954</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>44811</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>20319</Amt>
+        <NetInvestmentIncomeAmt>36934</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAXES</CategoryTxt>
+        <Amt>148666</Amt>
+        <DisbursementsCharitablePrpsAmt>141949</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

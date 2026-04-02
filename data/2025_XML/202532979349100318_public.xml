@@ -1,0 +1,606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-10-24T10:31:27-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>263548265</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Coleydocter Inc</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>12520 High Bluff Drive Suite 285</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>275224067</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>JOHN AND ELIZABETH LEONARD</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FAMILY FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JOHN</BusinessNameControlTxt>
+      <PhoneNum>8587949700</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>12520 HIGH BLUFF DR STE 285</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN LEONARD</PersonNm>
+      <PersonTitleTxt>Foundation Manager</PersonTitleTxt>
+      <SignatureDt>2025-10-24</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Christina M Docter-Smith</PreparerPersonNm>
+      <PTIN>P00715876</PTIN>
+      <PhoneNum>8587949700</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation BinaryAttachment.1" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>17840026</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>650678</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>336416</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>336416</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>336416</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1597342</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>4689000</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1597342</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>2584436</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1933758</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>336416</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">4835</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4835</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>4835</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>4835</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">168109</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>168109</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>168109</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>168109</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>134</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>134</InterestNetInvstIncmAmt>
+        <InterestAdjNetIncmAmt>134</InterestAdjNetIncmAmt>
+        <InterestDsbrsChrtblAmt>134</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">18366</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1751</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>18366</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>18366</TaxesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>600</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>600</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>600</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>600</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">227</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>227</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>227</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>227</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>192271</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>175656</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>192271</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>192271</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1408268</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1408268</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1600539</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>175656</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>192271</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1600539</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>983897</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1758102</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>144145</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>223767</CashBOYAmt>
+        <CashEOYAmt>722644</CashEOYAmt>
+        <CashEOYFMVAmt>722644</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>8873644</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>9358664</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>17117382</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>9097411</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>10081308</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>17840026</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>9097411</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>10081308</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>9097411</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>10081308</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>9097411</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>10081308</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>9097411</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>983897</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>10081308</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>10081308</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC - 1459 ST NON COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>2633</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>88931</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-86298</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-86298</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC - 1459 LT NON COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>981163</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>162901</CostOrOtherBasisAmt>
+          <GainOrLossAmt>818262</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>818262</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC - 2318 ST NON COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>480030</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>498484</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-18454</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-18454</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC - 2318 LT NON COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>2059709</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1425984</CostOrOtherBasisAmt>
+          <GainOrLossAmt>633725</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>633725</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC 5987 ST NON COVERED-</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>409256</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>471113</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-61857</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-61857</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC - 5987 LT NON COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>369840</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>138159</CostOrOtherBasisAmt>
+          <GainOrLossAmt>231681</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>231681</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC - 6008 ST NON COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>50643</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>45283</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5360</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5360</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC - 6008 LT NON COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2024-01-01</SoldDt>
+          <GrossSalesPriceAmt>122840</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>110274</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12566</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12566</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC - 7904 ST NON COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>7013</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6150</CostOrOtherBasisAmt>
+          <GainOrLossAmt>863</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>863</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>RBC - 7904 LT NON COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>205873</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>144379</CostOrOtherBasisAmt>
+          <GainOrLossAmt>61494</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>61494</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>1597342</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-147820</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>24438</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>24438</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>24438</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>10800</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>10800</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>742</EsPenaltyAmt>
+        <TaxDueAmt>14380</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JOHN LEONARD</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8587949700</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>12520 HIGH BLUFF DRIVE STE 385</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN E LEONARD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3440 CAMINO ALEGRE</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92009</ZIPCd>
+          </USAddress>
+          <TitleTxt>Foundation Mgr.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIZABETH S LEONARD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3440 CAMINO ALEGRE</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92009</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>UC RIVERSIDE FOUNDATION</Description1Txt>
+        <Expenses1Amt>454500</Expenses1Amt>
+        <Description2Txt>PARTNERS IN HEALTH</Description2Txt>
+        <Expenses2Amt>85000</Expenses2Amt>
+        <Description3Txt>CALIFORNIA STATE UNIVSERSITY LONG BEACH</Description3Txt>
+        <Expenses3Amt>384000</Expenses3Amt>
+        <Description4Txt>EJE ACADEMICS</Description4Txt>
+        <Expenses4Amt>100000</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>24438</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>24438</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>24438</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>24438</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1600539</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1600539</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>785774</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>581399</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>1299940</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>2026356</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1326835</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>6020304</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1600539</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>1600539</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>7620843</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>785774</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>6835069</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>581399</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>1299940</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>2026356</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1326835</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>1600539</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JOHN E LEONARD</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UC RIVERSIDE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>900 UNIVERSITY AVE</AddressLine1Txt>
+            <CityNm>RIVERSIDE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92521</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP FUND</GrantOrContributionPurposeTxt>
+          <Amt>454500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CALIFORNIA STATE UNIVERSITY LONG BE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1250 BELLFLOWER BLVD - MS0116</AddressLine1Txt>
+            <CityNm>LONG BEACH</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90840</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP FUND</GrantOrContributionPurposeTxt>
+          <Amt>384000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>YOSEMITE CONSERVANCY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 MONTGOMERY ST STE 1700</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>PARK PROJECTS</GrantOrContributionPurposeTxt>
+          <Amt>41082</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>YELLOWSTONE PARK FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>222 East Main Street Suite 301</AddressLine1Txt>
+            <CityNm>Bozeman</CityNm>
+            <StateAbbreviationCd>MT</StateAbbreviationCd>
+            <ZIPCd>59715</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>PARK PROJECTS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN ASSOCIATION FOR CANCER RES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 CHESTNUT STREET 17TH FLOOR</AddressLine1Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>81000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CONQUER CANCER FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2318 MILL ROAD SUITE 800</AddressLine1Txt>
+            <CityNm>ALEXANDRIA</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22314</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PARTNERS IN HEALTH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>888 COMMONWEALTH AVE 3RD FLOOR</AddressLine1Txt>
+            <CityNm>BOSTA</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>85000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMUNITY RESOURCE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>169 SAXONY ROAD STE 104</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SOCIAL SERVICES</GrantOrContributionPurposeTxt>
+          <Amt>78936</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST JOHN FISHER COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3690 EAST AVE</AddressLine1Txt>
+            <CityNm>ROCHESTER</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>14618</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>GENERAL GIFT</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATURE COLLECTIVE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 230634</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92023</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>ENVIRONMENT CONSERVANCY</GrantOrContributionPurposeTxt>
+          <Amt>70000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EJE ACADEMICS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>851 SOUTH JOHNSON AVE</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92020</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>FUNDS ALLOCATED TO S.T.E.A.M. MAKERSPACE AND COMMUNITY HEALTH CENTER.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AGUA HEDIONDA LAGOON FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1580 CANNON ROAD</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>ACADEMY FOR ENVIRONMENTAL STEWARDSHIP</GrantOrContributionPurposeTxt>
+          <Amt>18750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1408268</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>336416</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>1597342</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>1933758</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1933758</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>THE ORGANIZATION INVESTS IN VARIOUS STOCK TO GENERATE CASH NEEDED TO DONATE TO AND FUND SCHOLARSHIPS WITH VARIOUS EDUCATIONAL INSTITUTIONS, PER THE ORGANIZATION'S MISSION STATEMENT. DIVIDENDS AND INTEREST RESULTED FROM THESE INVESTMENTS.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>THE ORGANIZATION RECEIVES DONATIONS OF STOCK IN ADDITION TO CASH DONATIONS, AND IN ORDER TO GENERATE CASH TO DONATE TO EDUCATIONAL INSTITUTIONS PER THE ORGANIZATION'S MISSION STATEMENT, THE ORGANIZATION MAY SELL THE STOCK. A SHORT- OR LONG-TERM CAPITAL GAIN MAY RESULT FROM THESE SALES.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREP FEES</CategoryTxt>
+        <Amt>4835</Amt>
+        <NetInvestmentIncomeAmt>4835</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>4835</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4835</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>WEBPUBLISHING</Desc>
+        <RevenueAndExpensesPerBooksAmt>227</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>227</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>227</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>227</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>RBC INVESTMENT FEES</CategoryTxt>
+        <Amt>168109</Amt>
+        <NetInvestmentIncomeAmt>168109</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>168109</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>168109</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX WITHHOLDING</CategoryTxt>
+        <Amt>1751</Amt>
+        <NetInvestmentIncomeAmt>1751</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1751</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1751</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES</CategoryTxt>
+        <Amt>16615</Amt>
+        <AdjustedNetIncomeAmt>16615</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>16615</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

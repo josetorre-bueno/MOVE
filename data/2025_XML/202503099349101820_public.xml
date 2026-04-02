@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-05T11:23:46-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>952076568</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Leaf &amp; Cole LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2810 Camino Del Rio South Suite 200</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92108</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>836614733</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CHARITABLE SHARE CREATED UNDER THE</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>VICTOR E LEFTWICH TRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CHAR</BusinessNameControlTxt>
+      <PhoneNum>8778295500</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>15103 LINCOLN LOOP</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92127</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JUDY LEFTWICH</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-11-05</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CAROLE SCHMERBAUCH</PreparerPersonNm>
+      <PTIN>P00372367</PTIN>
+      <PhoneNum>6192947200</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>508272</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>4098</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>1352</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1352</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>1352</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>10508</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>10508</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>10508</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>11506</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>451742</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>11799</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>27464</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>23659</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>11860</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">3035</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3035</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">12333</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>12333</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">531</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>531</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>15899</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>15899</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>57684</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>57684</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>73583</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>15899</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>57684</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-46119</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7760</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>11860</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>13060</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>2854</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>2854</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>266429</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">335146</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>382667</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>222155</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">118209</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>122751</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>501644</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>456209</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>508272</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>501644</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>456209</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>501644</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>456209</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>501644</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>456209</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>501644</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-46119</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">684</OtherIncreasesAmt>
+        <SubtotalAmt>456209</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>456209</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB COVERED TRANSACTIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>113702</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>124592</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-10890</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-10890</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>57,000 FIDELITY INVESTMENTS MM FDS INSTL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-04-05</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>57000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>57000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>110,000 ALLSPRING MONEY MARKET FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>110000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>110000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB COVERED TRANSACTIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>169512</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>148644</CostOrOtherBasisAmt>
+          <GainOrLossAmt>20868</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>20868</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Dividends</PropertyDesc>
+          <GainOrLossAmt>1528</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Wash Sale</PropertyDesc>
+          <GainOrLossAmt>293</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>11799</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-10597</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>108</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>108</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>108</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>400</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>400</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>292</OverpaymentAmt>
+        <AppliedToESTaxAmt>292</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>KEVIN AUFMANN</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8778295500</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>15103 LINCOLN LOOP</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92127</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JUDY LEFTWICH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>8880 RIO SAN DIEGO DR 800</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>108</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>108</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>108</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>108</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>57684</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>57684</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>57500</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>73750</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>78000</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>38740</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>41646</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>289636</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>57684</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>57684</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>347320</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>57500</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>289820</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>73750</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>78000</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>38740</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>41646</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>57684</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EDUCATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8880 RIO SAN DIEGO DR 800</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE SUPPORT IN THE FIELD OF EDUCATION AND RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>30150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HEALTH AND SOCIAL SUPPORT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8880 RIO SAN DIEGO DR 800</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR HEALTH AND SOCIAL SUPPORT FOR COMMUNITIES</GrantOrContributionPurposeTxt>
+          <Amt>13000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CULTURAL CENTERS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8880 RIO SAN DIEGO DR 800</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE SUPPORT FOR THE PRESERVATION CONSERVATION AND ADVANCEMENT OF THE VARIOUS ART FORMS AND NATURE</GrantOrContributionPurposeTxt>
+          <Amt>14534</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>57684</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1352</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>10508</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>11506</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>23366</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>23366</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION</CategoryTxt>
+        <Amt>3035</Amt>
+        <NetInvestmentIncomeAmt>3035</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO ADVISORS</StockNm>
+        <EOYBookValueAmt>335146</EOYBookValueAmt>
+        <EOYFMVAmt>382667</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WELLS FARGO ADVISORS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>111709</BookValueAmt>
+        <EOYFMVAmt>116251</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ARTWORK</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>6500</BookValueAmt>
+        <EOYFMVAmt>6500</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WELLS FARGO ADVISORS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherIncreasesDetail>
+        <Desc>NONDIVIDEND DISTRIBUTIONS</Desc>
+        <Amt>194</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>TIMING DIFFERENCE</Desc>
+        <Amt>490</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <Amt>3000</Amt>
+        <NetInvestmentIncomeAmt>3000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>MANAGEMENT FEES</CategoryTxt>
+        <Amt>9308</Amt>
+        <NetInvestmentIncomeAmt>9308</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>SOS</CategoryTxt>
+        <Amt>25</Amt>
+        <NetInvestmentIncomeAmt>25</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>18</Amt>
+        <NetInvestmentIncomeAmt>18</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>IRS</CategoryTxt>
+        <Amt>513</Amt>
+        <NetInvestmentIncomeAmt>513</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-10-03T14:37:48-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BDO USA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>601 Union Street Suite 2300</AddressLine1Txt>
+        <CityNm>Seattle</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98101</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>873944823</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Future In You Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% WALSH BANKS PLLC</InCareOfNm>
+      <BusinessNameControlTxt>FUTU</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>PO Box 720428</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92172</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Joseph Lauer</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>7607174471</PhoneNum>
+      <SignatureDt>2025-10-02</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Patrick Riley</PreparerPersonNm>
+      <PTIN>P00560071</PTIN>
+      <PhoneNum>2063827777</PhoneNum>
+      <PreparationDt>2025-10-02</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>6948700</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>140228</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>114376</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>114376</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>391119</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>11575407</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>391119</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">-309</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-81</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>645414</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>505414</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">3500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1750</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1750</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">3160</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>1580</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1580</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">2155</TaxesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>8815</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>3330</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>3330</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1160109</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1160109</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1168924</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>3330</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1163439</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-523510</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>502084</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>295872</CashBOYAmt>
+        <CashEOYAmt>1137</CashEOYAmt>
+        <CashEOYFMVAmt>1137</CashEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1973919</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvGovtObligSch">2399573</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>2399573</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>3887113</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">2876809</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2596754</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>2130468</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">2486343</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1951236</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>8287372</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>7763862</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>6948700</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>8287372</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>7763862</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>8287372</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7763862</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>8287372</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>7763862</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>8287372</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-523510</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>7763862</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7763862</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ST COVERED - MORGAN STANLEY #2889</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>11575405</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11309710</CostOrOtherBasisAmt>
+          <GainOrLossAmt>274366</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>265695</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CANTILLION INVESTMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>1015835</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>899082</CostOrOtherBasisAmt>
+          <GainOrLossAmt>116753</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>116753</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>391119</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>6979</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>6979</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6979</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1020</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>6000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>7020</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>12</EsPenaltyAmt>
+        <OverpaymentAmt>29</OverpaymentAmt>
+        <AppliedToESTaxAmt>29</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>WALSH BANKS PLLC</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4072592426</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>228 HILLCREST STREET</AddressLine1Txt>
+          <CityNm>Orlando</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>32801</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOSEPH LAUER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 720428</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92172</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALMA LAUER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 720428</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92172</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAGE LAUER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 720428</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92172</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>7001929</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>575495</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>7577424</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>7577424</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>113661</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>7463763</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>373188</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>373188</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6979</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>6979</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>366209</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>366209</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>366209</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1163439</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>1163439</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>366209</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2022</PriorYear1Yr>
+        <PriorYear2Yr>2021</PriorYear2Yr>
+        <PriorYear3Yr>2020</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr3Amt>469677</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>72578</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>37709</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>579964</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1163439</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>366209</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>797230</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1377194</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>1377194</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>469677</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>72578</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>37709</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>797230</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JOSEPH LAUER</ContributingManagerNm>
+        <ContributingManagerNm>ALMA LAUER</ContributingManagerNm>
+        <ContributingManagerNm>PAGE LAUER</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE CAMBRIDGE SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12855 BLACK MOUNTAIN RD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>110109</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KENOSHA CHRISTIAN ACADEMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6410 25th Ave</AddressLine1Txt>
+            <CityNm>Kenosha</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53143</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1050000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1160109</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>114376</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>391119</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INVESTMENT LOSS</Desc>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-309</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>505186</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>505186</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>JOSEPH AND ALMA LAUER</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>211 WAYNE AVE</AddressLine1Txt>
+          <CityNm>INDIALANTIC</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>32903</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>110119</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>JOSEPH AND ALMA LAUER</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>211 WAYNE AVE</AddressLine1Txt>
+          <CityNm>INDIALANTIC</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>32903</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>30109</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>3500</Amt>
+        <NetInvestmentIncomeAmt>1750</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1750</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY X294</StockNm>
+        <EOYBookValueAmt>54098</EOYBookValueAmt>
+        <EOYFMVAmt>25364</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY X291</StockNm>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY X296</StockNm>
+        <EOYBookValueAmt>1666431</EOYBookValueAmt>
+        <EOYFMVAmt>1329628</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHARLES SCHWAB 2889</StockNm>
+        <EOYBookValueAmt>1156280</EOYBookValueAmt>
+        <EOYFMVAmt>1241762</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvGovtObligSch">
+      <USGovtObligationsBookVlEOYAmt>2399573</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>2399573</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>TIGER GLOBAL EQUITY PIP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1899758</BookValueAmt>
+        <EOYFMVAmt>1348831</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>STRIPES VI LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>548878</BookValueAmt>
+        <EOYFMVAmt>561779</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>STRIPES VI LP OFFSHORE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>37707</BookValueAmt>
+        <EOYFMVAmt>40626</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>TIGER GLOBAL EQUITY PIP</Desc>
+        <RevenueAndExpensesPerBooksAmt>-72</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>STRIPES VI LP OFFSHORE</Desc>
+        <RevenueAndExpensesPerBooksAmt>-237</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-81</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreasesDetail>
+        <Desc>OTHER BOOK VALUE ADJUSTMENT - NONTAXABLE</Desc>
+        <Amt>0</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER PROFESSIONAL FEES</CategoryTxt>
+        <Amt>3160</Amt>
+        <NetInvestmentIncomeAmt>1580</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1580</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL INCOME TAXES</CategoryTxt>
+        <Amt>2155</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

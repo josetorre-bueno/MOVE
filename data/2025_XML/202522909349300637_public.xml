@@ -1,0 +1,683 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-10-17T11:51:48-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>933711040</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Get Better Books</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>14781 Pomerado Rd 425</AddressLine1Txt>
+        <CityNm>Poway</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92064</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>844115119</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Internet Safety Labs</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>INTE</BusinessNameControlTxt>
+      <PhoneNum>6198949030</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3146B Sports Arena Blvd 1004</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92110</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>LISA LEVASSEUR</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-10-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Laura Vetterman</PreparerPersonNm>
+      <PTIN>P03127131</PTIN>
+      <PhoneNum>6192880055</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <PrincipalOfficerNm>LISA LEVASSEUR</PrincipalOfficerNm>
+      <GrossReceiptsAmt>775389</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>internetsafetylabs.org</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>2019</FormationYr>
+      <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>Internet Safety labs is an independent software product safety testing organization.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>4</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>3</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>7</TotalEmployeeCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <PYContributionsGrantsAmt>855705</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>774314</CYContributionsGrantsAmt>
+      <CYProgramServiceRevenueAmt>0</CYProgramServiceRevenueAmt>
+      <CYInvestmentIncomeAmt>0</CYInvestmentIncomeAmt>
+      <CYOtherRevenueAmt>1075</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>855705</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>775389</CYTotalRevenueAmt>
+      <CYGrantsAndSimilarPaidAmt>0</CYGrantsAndSimilarPaidAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>724315</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>664431</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>16880</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>109702</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>131752</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>94675</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>856067</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>775986</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>-362</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>-597</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>251256</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>106962</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>173764</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>30067</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>77492</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>76895</NetAssetsOrFundBalancesEOYAmt>
+      <MissionDesc>Internet Safety labs is an independent software product safety testing organization.</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>512606</ExpenseAmt>
+      <RevenueAmt>147194</RevenueAmt>
+      <Desc>SAFETY RESEARCH &amp; BENCHMARKS : RESEARCH, MEASURE, AND REPORT ON THE BEHAVIOR OF CONNECTED TECHNOLOGY.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>37884</ExpenseAmt>
+        <RevenueAmt>39755</RevenueAmt>
+        <Desc>PRODUCT AUDITS: CONDUCT PRODUCT SAFETY AUDITS FOR TECHNOLOGY DEVELOPERS AND PROCURERS.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <ProgSrvcAccomActy3Grp>
+        <ExpenseAmt>6372</ExpenseAmt>
+        <Desc>POLICY ADVOCACY : PROMOTE PRODUCT SAFETY IN PUBLIC POLICY.</Desc>
+      </ProgSrvcAccomActy3Grp>
+      <TotalProgramServiceExpensesAmt>556862</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="IRS990ScheduleA">true</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="IRS990ScheduleB">true</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>false</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+      <ConservationEasementsInd>false</ConservationEasementsInd>
+      <CollectionsOfArtInd>false</CollectionsOfArtInd>
+      <CreditCounselingInd>false</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>false</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd>false</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd>false</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd>false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd>false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd>false</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd>false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd>false</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd>false</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>true</ForeignOfficeInd>
+      <ForeignActivitiesInd referenceDocumentId="IRS990ScheduleF">true</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd referenceDocumentId="IRS990ScheduleF">false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd referenceDocumentId="IRS990ScheduleF">false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd referenceDocumentId="IRS990ScheduleG">true</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd referenceDocumentId="IRS990ScheduleG">false</FundraisingActivitiesInd>
+      <GamingActivitiesInd referenceDocumentId="IRS990ScheduleG">false</GamingActivitiesInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>false</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>false</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>false</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd>false</DisregardedEntityInd>
+      <RelatedEntityInd>false</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd>false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>5</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <BackupWthldComplianceInd>false</BackupWthldComplianceInd>
+      <EmployeeCnt>7</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>true</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>false</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>false</Form8282PropertyDisposedOfInd>
+      <Form8282FiledCnt>0</Form8282FiledCnt>
+      <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+      <Form8899Filedind>false</Form8899Filedind>
+      <Form1098CFiledInd>false</Form1098CFiledInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>false</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>4</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>3</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>false</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>false</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>false</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>false</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>true</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>true</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>true</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>false</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>false</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>true</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>true</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <OtherInd>X</OtherInd>
+      <BooksInCareOfDetail>
+        <PersonNm>Lisa Levasseur</PersonNm>
+        <PhoneNum>6198949030</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>3146B SPORTS ARENA BLVD 1004</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92110</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Lisa LeVasseur</PersonNm>
+        <TitleTxt>President</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>141630</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>14273</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Cam Geer</PersonNm>
+        <TitleTxt>Treasurer</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Whitney Merrill</PersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Eve Maler</PersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Rachel P Leavitt</PersonNm>
+        <TitleTxt>Secretary</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>141630</TotalReportableCompFromOrgAmt>
+      <TotalOtherCompensationAmt>14273</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>1</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>true</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <CntrctRcvdGreaterThan100KCnt>0</CntrctRcvdGreaterThan100KCnt>
+      <AllOtherContributionsAmt>774314</AllOtherContributionsAmt>
+      <NoncashContributionsAmt>20000</NoncashContributionsAmt>
+      <TotalContributionsAmt>774314</TotalContributionsAmt>
+      <TotalProgramServiceRevenueAmt>0</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </InvestmentIncomeGrp>
+      <IncmFromInvestBondProceedsGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </IncmFromInvestBondProceedsGrp>
+      <RoyaltiesRevenueGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </RoyaltiesRevenueGrp>
+      <NetRentalIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </NetRentalIncomeOrLossGrp>
+      <NetGainOrLossInvestmentsGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </NetGainOrLossInvestmentsGrp>
+      <NetIncmFromFundraisingEvtGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </NetIncmFromFundraisingEvtGrp>
+      <NetIncomeFromGamingGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </NetIncomeFromGamingGrp>
+      <NetIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </NetIncomeOrLossGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Credit Card Rebate</Desc>
+        <TotalRevenueColumnAmt>1075</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1075</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>1075</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>775389</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1075</RelatedOrExemptFuncIncomeAmt>
+      </TotalRevenueGrp>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>0</TotalAmt>
+      </GrantsToDomesticOrgsGrp>
+      <GrantsToDomesticIndividualsGrp>
+        <TotalAmt>0</TotalAmt>
+      </GrantsToDomesticIndividualsGrp>
+      <ForeignGrantsGrp>
+        <TotalAmt>0</TotalAmt>
+      </ForeignGrantsGrp>
+      <BenefitsToMembersGrp>
+        <TotalAmt>0</TotalAmt>
+      </BenefitsToMembersGrp>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>190424</TotalAmt>
+        <ProgramServicesAmt>102334</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>28672</ManagementAndGeneralAmt>
+        <FundraisingAmt>59418</FundraisingAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <CompDisqualPersonsGrp>
+        <TotalAmt>0</TotalAmt>
+      </CompDisqualPersonsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>414565</TotalAmt>
+        <ProgramServicesAmt>370947</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>43618</ManagementAndGeneralAmt>
+      </OtherSalariesAndWagesGrp>
+      <PensionPlanContributionsGrp>
+        <TotalAmt>11571</TotalAmt>
+        <ProgramServicesAmt>10038</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1533</ManagementAndGeneralAmt>
+      </PensionPlanContributionsGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>17409</TotalAmt>
+        <ProgramServicesAmt>15102</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2307</ManagementAndGeneralAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>30462</TotalAmt>
+        <ProgramServicesAmt>23949</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>3658</ManagementAndGeneralAmt>
+        <FundraisingAmt>2855</FundraisingAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesManagementGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesManagementGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>2133</TotalAmt>
+        <ManagementAndGeneralAmt>2133</ManagementAndGeneralAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>18182</TotalAmt>
+        <ManagementAndGeneralAmt>18182</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesLobbyingGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesLobbyingGrp>
+      <FeesForServicesProfFundraising>
+        <TotalAmt>16880</TotalAmt>
+        <FundraisingAmt>16880</FundraisingAmt>
+      </FeesForServicesProfFundraising>
+      <FeesForSrvcInvstMgmntFeesGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForSrvcInvstMgmntFeesGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>16567</TotalAmt>
+        <ProgramServicesAmt>10654</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>338</ManagementAndGeneralAmt>
+        <FundraisingAmt>5575</FundraisingAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>26883</TotalAmt>
+        <ProgramServicesAmt>5524</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>369</ManagementAndGeneralAmt>
+        <FundraisingAmt>20990</FundraisingAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>377</TotalAmt>
+        <ProgramServicesAmt>44</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>333</ManagementAndGeneralAmt>
+      </OfficeExpensesGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>3383</TotalAmt>
+        <ProgramServicesAmt>699</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2684</ManagementAndGeneralAmt>
+      </InformationTechnologyGrp>
+      <RoyaltiesGrp>
+        <TotalAmt>0</TotalAmt>
+      </RoyaltiesGrp>
+      <OccupancyGrp>
+        <TotalAmt>0</TotalAmt>
+      </OccupancyGrp>
+      <TravelGrp>
+        <TotalAmt>4366</TotalAmt>
+        <ProgramServicesAmt>1059</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>178</ManagementAndGeneralAmt>
+        <FundraisingAmt>3129</FundraisingAmt>
+      </TravelGrp>
+      <PymtTravelEntrtnmntPubOfclGrp>
+        <TotalAmt>0</TotalAmt>
+      </PymtTravelEntrtnmntPubOfclGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>0</TotalAmt>
+      </ConferencesMeetingsGrp>
+      <InterestGrp>
+        <TotalAmt>0</TotalAmt>
+      </InterestGrp>
+      <PaymentsToAffiliatesGrp>
+        <TotalAmt>0</TotalAmt>
+      </PaymentsToAffiliatesGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>0</TotalAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>4662</TotalAmt>
+        <ProgramServicesAmt>1103</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>3428</ManagementAndGeneralAmt>
+        <FundraisingAmt>131</FundraisingAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>Research &amp; Development</Desc>
+        <TotalAmt>9335</TotalAmt>
+        <ProgramServicesAmt>9335</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Payroll services</Desc>
+        <TotalAmt>7909</TotalAmt>
+        <ProgramServicesAmt>6074</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1111</ManagementAndGeneralAmt>
+        <FundraisingAmt>724</FundraisingAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Business Taxes</Desc>
+        <TotalAmt>878</TotalAmt>
+        <ManagementAndGeneralAmt>878</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>0</TotalAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>775986</TotalAmt>
+        <ProgramServicesAmt>556862</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>109422</ManagementAndGeneralAmt>
+        <FundraisingAmt>109702</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>218412</BOYAmt>
+        <EOYAmt>98729</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <EOYAmt>0</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <PledgesAndGrantsReceivableGrp>
+        <EOYAmt>0</EOYAmt>
+      </PledgesAndGrantsReceivableGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>30121</BOYAmt>
+        <EOYAmt>5480</EOYAmt>
+      </AccountsReceivableGrp>
+      <ReceivablesFromOfficersEtcGrp>
+        <EOYAmt>0</EOYAmt>
+      </ReceivablesFromOfficersEtcGrp>
+      <RcvblFromDisqualifiedPrsnGrp>
+        <EOYAmt>0</EOYAmt>
+      </RcvblFromDisqualifiedPrsnGrp>
+      <OthNotesLoansReceivableNetGrp>
+        <EOYAmt>0</EOYAmt>
+      </OthNotesLoansReceivableNetGrp>
+      <InventoriesForSaleOrUseGrp>
+        <EOYAmt>0</EOYAmt>
+      </InventoriesForSaleOrUseGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>2723</BOYAmt>
+        <EOYAmt>2753</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <LandBldgEquipBasisNetGrp>
+        <EOYAmt>0</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsPubTradedSecGrp>
+        <EOYAmt>0</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <InvestmentsOtherSecuritiesGrp>
+        <EOYAmt>0</EOYAmt>
+      </InvestmentsOtherSecuritiesGrp>
+      <InvestmentsProgramRelatedGrp>
+        <EOYAmt>0</EOYAmt>
+      </InvestmentsProgramRelatedGrp>
+      <IntangibleAssetsGrp>
+        <EOYAmt>0</EOYAmt>
+      </IntangibleAssetsGrp>
+      <OtherAssetsTotalGrp>
+        <EOYAmt>0</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>251256</BOYAmt>
+        <EOYAmt>106962</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>29070</BOYAmt>
+        <EOYAmt>30067</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>144694</BOYAmt>
+      </DeferredRevenueGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>173764</BOYAmt>
+        <EOYAmt>30067</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>77492</BOYAmt>
+        <EOYAmt>76895</EOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>77492</BOYAmt>
+        <EOYAmt>76895</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>251256</BOYAmt>
+        <EOYAmt>106962</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>-597</ReconcilationRevenueExpnssAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>false</FSAuditedInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>151503</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>610551</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>690763</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>855705</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>774314</CurrentTaxYearAmt>
+        <TotalAmt>3082836</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TaxRevLeviedOrgnztnlBnft170Grp>
+        <TotalAmt>0</TotalAmt>
+      </TaxRevLeviedOrgnztnlBnft170Grp>
+      <GovtFurnSrvcFcltsVl170Grp>
+        <TotalAmt>0</TotalAmt>
+      </GovtFurnSrvcFcltsVl170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>151503</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>610551</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>690763</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>855705</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>774314</CurrentTaxYearAmt>
+        <TotalAmt>3082836</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <SubstantialContributorsTotAmt>2774603</SubstantialContributorsTotAmt>
+      <PublicSupportTotal170Amt>308233</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <TotalAmt>0</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <UnrelatedBusinessNetIncm170Grp>
+        <TotalAmt>0</TotalAmt>
+      </UnrelatedBusinessNetIncm170Grp>
+      <OtherIncome170Grp>
+        <TotalAmt>0</TotalAmt>
+      </OtherIncome170Grp>
+      <TotalSupportAmt>3082836</TotalSupportAmt>
+      <GrossReceiptsRltdActivitiesAmt>2500</GrossReceiptsRltdActivitiesAmt>
+      <PublicSupportCY170Pct>0.10000</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.08140</PublicSupportPY170Pct>
+      <TenPctFactsCrcmstncsTestCYInd>X</TenPctFactsCrcmstncsTestCYInd>
+      <Form990ScheduleAPartVIGrp>
+        <FormAndLineReferenceDesc>Support Schedule: Additional Supplemental Information</FormAndLineReferenceDesc>
+        <ExplanationTxt>Internet Safety Labs (ISL) is an independent product safety testing and research organization, committed to the empirical measurement and reporting of safety risks in digital products. As a mainly technical organization, engagement with and support from donors has been challenging since our inception, but we have achieved consistent, year-on-year progress in growing our public support contributions and expect it to continue to grow. Founded in late 2019, ISL was originally called the Me2B Alliance, a standards developing organization (SDO). The COVID pandemic in 2020 prevented us from opening an office which hampered our ability to develop a community/physical presence but did not impede our ability to conduct necessary research on how to evaluate safety risks in digital products. We remain a remote work team. In our foundational years, we envisioned a business model comprised of three revenue streams: project-based grants from philanthropic organizations, membership dues, and services revenues. For services revenues, we envisioned that companies would seek certification from the Me2B Alliance for their mobile apps and websites. After auditing a few companies websites and mobile apps, however, it became evident that companies (especially in the US) were not interested in an independent assessment of their digital products that divulged truths about data sharing behaviors, and other safety risks for users of their technology. Like many start-ups, we pivoted changing the name of the organization to Internet Safety Labs in 2021 and modeling ourselves like Underwriters Labs, but for software. We shifted to focusing on independent product safety testing for digital products, presently websites and mobile apps, developing both the techniques for measuring and assessing risk as well as the infrastructure to generate safety labels (like this one: https://appmicroscope.org/app/403/). ISLs safety labels provide a vital consumer protection that is not provided anywhere else, which requires substantial R&amp;D financial support. Since our restructuring in 2021, we have reorganized our business model around three revenue streams: institutional grants, donations, and products/services. As our grants have been largely project based, it has been challenging to support a dedicated fundraising development role; sources of unrestricted funding have been difficult to come by. Similarly, without a dedicated fundraiser, it has been challenging to develop a donor base. Through the quality of our research and tools, however, we have been able to successfully foster worldwide awareness of our work. In late 2022, upon publication of our first major research findings showing serious privacy risks in apps used by students in US K-12 schools, 42 news stories were published with our findings, reaching nearly 250M online readers. Since 2023 we have published 4 more research findings from the same data set. The research is a gold standard and continues to be referenced in news stories regarding online privacy for students. In 2024, ISL generated new public support and awareness of its mission through publishing six academic papers, increasing our visibility through averaging 21,650 new website visitors per month, and participating in ten speaking engagements. Additionally, ISL increased individual donors by 200% and increased public participation in the Software Safety Standards Panel by 75%. Moving into 2025, ISL maintains committed to serving the public and growing its public support base through increasing public awareness by growing its board of directors, partnering with other research and public safety organizations, publishing research in academic papers, sharing research at speaking engagements and engagement with the public through different social media channels.</ExplanationTxt>
+      </Form990ScheduleAPartVIGrp>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleF documentId="IRS990ScheduleF" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <AccountActivitiesOutsideUSGrp>
+        <RegionTxt>North America</RegionTxt>
+        <OfficesCnt>0</OfficesCnt>
+        <EmployeeCnt>1</EmployeeCnt>
+        <TypeOfActivitiesConductedTxt>Technology Director</TypeOfActivitiesConductedTxt>
+        <SpecificServicesProvidedTxt>Led Res. Team &amp; Benchmark PROJ</SpecificServicesProvidedTxt>
+        <RegionTotalExpendituresAmt>115546</RegionTotalExpendituresAmt>
+      </AccountActivitiesOutsideUSGrp>
+      <SubtotalEmployeesCnt>1</SubtotalEmployeesCnt>
+      <TotalEmployeeCnt>1</TotalEmployeeCnt>
+      <SubtotalSpentAmt>115546</SubtotalSpentAmt>
+      <TotalSpentAmt>115546</TotalSpentAmt>
+      <TransferToForeignCorpInd>false</TransferToForeignCorpInd>
+      <InterestInForeignTrustInd>false</InterestInForeignTrustInd>
+      <ForeignCorpOwnershipInd>false</ForeignCorpOwnershipInd>
+      <PassiveForeignInvestmestCoInd>false</PassiveForeignInvestmestCoInd>
+      <ForeignPartnershipInd>false</ForeignPartnershipInd>
+      <BoycottCountriesInd>false</BoycottCountriesInd>
+    </IRS990ScheduleF>
+    <IRS990ScheduleG documentId="IRS990ScheduleG" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <SolicitationOfNonGovtGrantsInd>X</SolicitationOfNonGovtGrantsInd>
+      <AgrmtProfFundraisingActyInd>true</AgrmtProfFundraisingActyInd>
+      <FundraiserActivityInfoGrp>
+        <OrganizationBusinessName>
+          <BusinessNameLine1Txt>FORDABLE FUNDRAISING</BusinessNameLine1Txt>
+        </OrganizationBusinessName>
+        <USAddress>
+          <AddressLine1Txt>2801 B Street 202</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92102</ZIPCd>
+        </USAddress>
+        <ActivityTxt>Grant writing</ActivityTxt>
+        <FundraiserControlOfFundsInd>false</FundraiserControlOfFundsInd>
+        <RetainedByContractorAmt>16880</RetainedByContractorAmt>
+      </FundraiserActivityInfoGrp>
+      <TotalRetainedByContractorsAmt>16880</TotalRetainedByContractorsAmt>
+      <LicensedStatesCd>CA</LicensedStatesCd>
+      <LicensedStatesCd>DC</LicensedStatesCd>
+      <LicensedStatesCd>NV</LicensedStatesCd>
+      <LicensedStatesCd>UT</LicensedStatesCd>
+    </IRS990ScheduleG>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <SeverancePaymentInd>false</SeverancePaymentInd>
+      <SupplementalNonqualRtrPlanInd>false</SupplementalNonqualRtrPlanInd>
+      <EquityBasedCompArrngmInd>false</EquityBasedCompArrngmInd>
+      <CompBasedOnRevenueOfFlngOrgInd>false</CompBasedOnRevenueOfFlngOrgInd>
+      <CompBsdOnRevRelatedOrgsInd>false</CompBsdOnRevRelatedOrgsInd>
+      <CompBsdNetEarnsFlngOrgInd>false</CompBsdNetEarnsFlngOrgInd>
+      <CompBsdNetEarnsRltdOrgsInd>false</CompBsdNetEarnsRltdOrgsInd>
+      <AnyNonFixedPaymentsInd>false</AnyNonFixedPaymentsInd>
+      <InitialContractExceptionInd>false</InitialContractExceptionInd>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>Lisa LeVasseur</PersonNm>
+        <TitleTxt>President</TitleTxt>
+        <BaseCompensationFilingOrgAmt>141630</BaseCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>4500</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>9773</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>155903</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="IRS990ScheduleO" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, Line 11b</FormAndLineReferenceDesc>
+        <ExplanationTxt>DRAFT VERSION OF FORM 990 WILL BE SHARED ELECTRONICALLY AND REVIEWED BY BOARD OF DIRECTORS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, Line 12c</FormAndLineReferenceDesc>
+        <ExplanationTxt>CONFLICT OF INTEREST FORM IS COMPLETED AND REVIEWED ANNUALLY</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, Line 15a</FormAndLineReferenceDesc>
+        <ExplanationTxt>COMPREHENSIVE RESEARCH OF COMPARABLE COMPENSATION IS COMPLETED ANNUALLY.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section B, Line 15b</FormAndLineReferenceDesc>
+        <ExplanationTxt>COMPREHENSIVE RESEARCH OF COMPARABLE COMPENSATION IS COMPLETED ANNUALLY FOR KEY EMPLOYEES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section C, Line 18</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION FORM 990 ARE MADE AVAILABLE ON GUIDESTAR, IRS OR UPON REQUEST.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990, Part VI, Section C, Line 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION GOVERNING DOCUMENTS AND POLICIES ARE MADE AVAILABLE ON ORGNIZATION WEBSITE. THE ORGANIZATION FINANCIAL STATEMENTS ARE MADE AVAILABLE UPON REQUEST.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

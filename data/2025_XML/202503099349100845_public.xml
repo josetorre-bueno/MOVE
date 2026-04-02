@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-05T09:32:01-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>472767168</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Royer Group LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3505 Spring Lake Ter</AddressLine1Txt>
+        <CityNm>Fairfax</CityNm>
+        <StateAbbreviationCd>VA</StateAbbreviationCd>
+        <ZIPCd>22030</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>830461425</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE MEDIA PROJECT</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MEDI</BusinessNameControlTxt>
+      <PhoneNum>8583963590</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>5965 VILLAGE WAY</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>STACY VARGHESE</PersonNm>
+      <PersonTitleTxt>PRESIDENT/COO</PersonTitleTxt>
+      <PhoneNum>8583963590</PhoneNum>
+      <SignatureDt>2025-11-05</SignatureDt>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Kyle Royer</PreparerPersonNm>
+      <PTIN>P01982789</PTIN>
+      <PhoneNum>7033461846</PhoneNum>
+      <PreparationDt>2025-11-05</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF-01">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>43127</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>688880</ContriRcvdRevAndExpnssAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <GrossProfitRevAndExpnssAmt>0</GrossProfitRevAndExpnssAmt>
+        <OtherIncomeRevAndExpnssAmt>0</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>688880</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>208735</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>208735</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>50206</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>50206</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>29026</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>29026</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt>0</LegalFeesRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule-01" referenceDocumentName="AccountingFeesSchedule">15000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>15000</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedu-01" referenceDocumentName="OtherProfessionalFeesSchedule">91367</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>0</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>0</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>91367</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt>0</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>0</DeprecAndDpltnRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>67175</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>0</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>67175</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>7546</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubNetInvstIncmAmt>0</PrintingAndPubNetInvstIncmAmt>
+        <PrintingAndPubAdjNetIncmAmt>0</PrintingAndPubAdjNetIncmAmt>
+        <PrintingAndPubDsbrsChrtblAmt>7546</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule-01" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">207653</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>0</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>0</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>207653</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>676708</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>676708</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>676708</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>676708</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>12172</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>30804</CashBOYAmt>
+        <CashEOYAmt>43127</CashEOYAmt>
+        <CashEOYFMVAmt>43127</CashEOYFMVAmt>
+        <RcvblFromOfficersEOYAmt>0</RcvblFromOfficersEOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>0</OtherNtsAndLoansRcvblEOYAmt>
+        <LandBldgInvestmentsEOYAmt>0</LandBldgInvestmentsEOYAmt>
+        <OtherInvestmentsEOYAmt>0</OtherInvestmentsEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>11730</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>11730</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>0</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2-01" referenceDocumentName="LandEtcSchedule2">0</LandEOYAmt>
+        <LandEOYFMVAmt>0</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt>0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt>0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>30804</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>43127</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>43127</TotalAssetsEOYFMVAmt>
+        <AccountsPayableEOYAmt>2952</AccountsPayableEOYAmt>
+        <LoansFromOfficersEOYAmt>0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableEOYAmt>0</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt>2801</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt>0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>2801</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>2952</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>28003</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>40175</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>28003</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>40175</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>30804</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>43127</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>28003</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>12172</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>40175</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>40175</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>0</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.THEMEDIAPROJECT.ORG</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE MEDIA PROJECT</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8583963590</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>5965 VILLAGE WAY SUITESUITE 105-255</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERTA GREEN AHMANSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIR/PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HOWARD F AHMANSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID FIELDSTAD GREEN AHMANSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>REYNALDO ARAGON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VISHAL ARORA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JENNIFER ARUL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EMEKA IZEZE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAUL MARSHALL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE CHAIR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JODY HASSETT SANCHEZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARKUS SPIEKER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>1000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARK A BATHEL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO &amp; TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVEN P FERGUSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STACY VARGHESE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/COO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>49987</CompensationAmt>
+          <EmployeeBenefitProgramAmt>5287</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>CLEMENTE LISI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5965 VILLAGE WAY SUITE 105-255</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>EXECUTIVE EDITOR OF</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>151748</CompensationAmt>
+          <EmployeeBenefitsAmt>0</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>SEE ATTACHED SCHEDULE.</Description1Txt>
+        <Expenses1Amt>506254</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>39628</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>39628</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>39628</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>594</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>39034</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1952</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>676708</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>676708</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>0</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>0</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>0</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>0</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>674783</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>674783</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>676708</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>676708</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1351491</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>1351491</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>0</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>0</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>0</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>674783</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>676708</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2008-06-22</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>676708</CurrentYearAmt>
+          <Year1Amt>674783</Year1Amt>
+          <Year2Amt>508253</Year2Amt>
+          <Year3Amt>483032</Year3Amt>
+          <TotalAmt>2342776</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>676708</CurrentYearAmt>
+          <Year1Amt>674783</Year1Amt>
+          <Year2Amt>508253</Year2Amt>
+          <Year3Amt>483032</Year3Amt>
+          <TotalAmt>2342776</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>1308</CurrentYearAmt>
+          <Year1Amt>1532</Year1Amt>
+          <Year2Amt>835</Year2Amt>
+          <Year3Amt>751</Year3Amt>
+          <TotalAmt>4426</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+        <TotalSupportGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </PublicSupportType>
+        <LargestSupportFromEOGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </LargestSupportFromEOGrp>
+        <GrossInvestmentIncomeGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>FIELDSTEAD AND COMPANY</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 19599</AddressLine1Txt>
+          <CityNm>IRVINE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92623</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>650000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>MIAMI FOUNDATION</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>40 NW 3RD STREET SUITE 305</AddressLine1Txt>
+          <CityNm>MIAMI</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33128</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>11865</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>PETER GAIL OCHS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 10156</AddressLine1Txt>
+          <CityNm>NEWPORT BEACH</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92658</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>7000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>4</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>THE T ROWE PRICE PROGRAM FOR CHARITABLE GIVING</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 17115</AddressLine1Txt>
+          <CityNm>BALTIMORE</CityNm>
+          <StateAbbreviationCd>MD</StateAbbreviationCd>
+          <ZIPCd>21297</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule-01">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING SERVICES ACCOUNTING AND FINANCIAL SERVICES</CategoryTxt>
+        <Amt>15000</Amt>
+        <DisbursementsCharitablePrpsAmt>15000</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2-01">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>MACBOOK AIR</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1647</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1647</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>LAPTOP</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>509</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>509</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>LAPTOP</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>2293</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>2293</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>LAPTOP</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1649</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1649</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>LAPTOP</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1959</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1959</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>SONY CAMERA</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>3673</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>3673</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule-01">
+      <OtherExpensesScheduleGrp>
+        <Desc>WRITER FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>157093</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>157093</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COMPUTER &amp; WEB SERVICES</Desc>
+        <RevenueAndExpensesPerBooksAmt>19781</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>19781</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES &amp; FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>10783</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>10783</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>9417</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>9417</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>9081</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>9081</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1011</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1011</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>487</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>487</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedu-01">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES PROFESSIONAL SERVICES</CategoryTxt>
+        <Amt>91367</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>91367</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

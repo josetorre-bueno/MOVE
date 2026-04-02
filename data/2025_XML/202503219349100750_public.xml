@@ -1,0 +1,3176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-17T03:00:36-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>861065772</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DELOITTE TAX LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>50 SOUTH SIXTH STREET</AddressLine1Txt>
+        <CityNm>MINNEAPOLIS</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>55402</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>854224393</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>TORREY COAST FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>TORR</BusinessNameControlTxt>
+      <PhoneNum>8587548156</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>5930 CORNERSTONE COURT WEST 300</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92121</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>THOMAS ANTUNEZ</PersonNm>
+      <PersonTitleTxt>OFFICER</PersonTitleTxt>
+      <PhoneNum>8587548156</PhoneNum>
+      <SignatureDt>2025-11-16</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ANNA KOLAKALURI</PreparerPersonNm>
+      <PTIN>P01275237</PTIN>
+      <PhoneNum>6123974000</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>317053780</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>186068</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>11465351</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>10572097</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>236288</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>236288</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>3187602</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>216808636</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>3187666</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">-57858</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-50820</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>15017451</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>13945231</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">184461</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>64561</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>117199</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">493399</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>491728</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1671</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">210000</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>887860</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>556289</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>118870</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>9190429</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>10685429</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>10078289</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>556289</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>10804299</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>4939162</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>13388942</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>101524489</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>19159360</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>19159360</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>0</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">11978153</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>11978153</USGovtObligationsEOYFMVAmt>
+        <CorporateBondsBOYAmt>210623878</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">283264750</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>283264750</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>0</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">2651517</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>2651517</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>312148367</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>317053780</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>317053780</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>84943</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>137597</AccountsPayableEOYAmt>
+        <GrantsPayableBOYAmt>7235000</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>5740000</GrantsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>7319943</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>5877597</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>304828424</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>311176183</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>304828424</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>311176183</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>312148367</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>317053780</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>304828424</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>4939162</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc2049700001">1408597</OtherIncreasesAmt>
+        <SubtotalAmt>311176183</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>311176183</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>216808636</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>213620970</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3187666</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3187666</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>3187666</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>186106</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>186106</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>186106</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>214169</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>214169</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1192000001">X</Form2220AttachedInd>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>28063</OverpaymentAmt>
+        <AppliedToESTaxAmt>28063</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>AKRAM AND ASSOCIATES</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9193771097</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>206 HIGH HOUSE RD SUITE 106</AddressLine1Txt>
+          <CityNm>CARY</CityNm>
+          <StateAbbreviationCd>NC</StateAbbreviationCd>
+          <ZIPCd>27513</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>1</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>1</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>0</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd referenceDocumentId="RetDoc2118100001">1</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALAN BRAYNIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5930 CORNERSTONE COURT WEST STE 300</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>15.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>GOLDMAN SACHS</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>SANTA MONICA BOULEVARD SUITE 2600</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>10100</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>INVESTMENT AND MANAGEMENT FEES</ServiceTypeTxt>
+          <CompensationAmt>487637</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>AKRAM &amp; ASSOCIATES PLLC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>206 HIGH HOUSE RD SUITE 106</AddressLine1Txt>
+            <CityNm>CARY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>27513</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>ACCOUNTING SERVICES</ServiceTypeTxt>
+          <CompensationAmt>104704</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>ANDERSEN TAX HOLDINGS LLC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>333 BUSH STREET STE 1700</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>ACCOUNTING SERVICES</ServiceTypeTxt>
+          <CompensationAmt>66632</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>278434850</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>75550277</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2651517</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>356636644</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>356636644</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>5349550</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>351287094</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>17564355</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>17564355</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>186106</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>186106</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>17378249</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>17378249</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>17378249</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>10804299</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>10804299</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>17378249</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr2Amt>2412773</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>2412773</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>10804299</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>10804299</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>2412773</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>2412773</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>4161177</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>ALAN BRAYNIN</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JOANNA SOTOLOV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5390 CORNERSTONE COURT WEST SUITE</AddressLine1Txt>
+            <AddressLine2Txt>300</AddressLine2Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8587548156</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>HTTPS://WWW.TEAMGEMINI.ORG/GRANTS-AND-FUNDING</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>APPLICATIONS ARE TO BE SUBMITTED ON THE TEAM GEMINI WEBSITE. SUBMISSIONS MUST INCLUDE A BIOSKETCH, A JUSTIFIED BUDGET, AND A TWO PAGE PROPOSAL THAT INCLUDES BACKGROUND, PROPOSED EXPERIMENTS, RATIONALE, EXPECTED OUTCOME, AND TIMELINE.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NO SUBMISSION DEADLINES.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>RESTRITCTED TO SCIENTIFIC AND MEDICAL RESEARCH.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WHITEHEAD INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>455 MAIN ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02142</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>160000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STANFORD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>450 JANE STANFORD WAY</AddressLine1Txt>
+            <CityNm>STANFORD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94305</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SU2C CONVERGENCE - PROJECT 2</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 843721</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90084</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>1150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEDICAL COLLEGE CORNELL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1300 YORK AVENUE ROOM F113</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10065</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>302500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>STANFORD UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>450 JANE STANFORD WAY</AddressLine1Txt>
+            <CityNm>STANFORD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94305</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SU2C AMENDMENT #3 - PROJECT 3</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 843721</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90084</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>690000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COLUMBIA UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>630 WEST 168TH STREET 2-401</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10032</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LYELL IMMUNOPHARMA (FKA IMMPACT BIO USA INC)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8501 FALLBROOK AVE STE 200</AddressLine1Txt>
+            <CityNm>WEST HILLS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91304</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>259122</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE UNIVERSITY OF TEXAS MD ANDERSON CANCER CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1515 HOLCOMBE BLVD</AddressLine1Txt>
+            <CityNm>HOUSTON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77030</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LA JOLLA INSTITUTE FOR IMMUNOLOGY GEMINI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9420 ATHENA CIR</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUNDING</GrantOrContributionPurposeTxt>
+          <Amt>175000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GATEWAY CANCER RESEARCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 N MARTINGALE ROAD SUITE 180</AddressLine1Txt>
+            <CityNm>SCHAUMBURG</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60173</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARK FOUNDATION FOR CANCER RESEARCH (MFCR)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1350 6TH AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LA JOLLA COUNTRY DAY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9490 GENESEE AVE</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUNDING</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF PENNSYLVANIA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3451 WALNUT STREET</AddressLine1Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>247500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEMORIAL SLOAN KETTERING CANCER CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1275 YORK AVENUE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10065</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DANA-FARBER CANCER INSTITUTE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>450 BROOKLINE AVN</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02215</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>249731</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 GUSTAVE L LEVY PL</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10029</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>234576</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SCRIPPS HEALTH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4555 EXECUTIVE DRIVE HQ 303</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARK FOUNDATION FOR CANCER RESEARCH (MFCR)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1350 6TH AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BROAD INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>415 MAIN ST</AddressLine1Txt>
+            <CityNm>CAMBRIDGE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02142</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>157000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL ASSOCIATION SAN DIEGO FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2508 HISTORIC DECATUR RD STE 200</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UCSD FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9500 GILMAN DRIVE 0940</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92093</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>535000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE ENTERTAINMENT INDUSTRY FOUNDATION ( STAND UP FOR CANCER)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10880 WILSHIRE BOULEVARD SUITE 1400</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>2550000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COLUMBIA UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>630 WEST 168TH STREET 2-401</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10032</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CANCER RESEARCH INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>29 BROADWAY FLOOR 4</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>10685429</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SU2C AMENDMENT #3 - PROJECT 3</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 843721</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90084</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>690000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF CALIFORNIA SAN DIEGO (UC SAN DIEGO)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9500 GILMAN DRIVE 0940</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92093</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCIENTIFIC RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>1000000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SU2C AMENDMENT #4</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 843721</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90084</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>2190000</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>11465351</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>236288</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>3187602</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INCOME</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>-57858</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>14831383</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>14831383</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>N/A</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>A456 LLC</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>6230 IRVINE BLVD 145</AddressLine1Txt>
+          <CityNm>IRVINE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92620</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10554</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>STREETWISE CAPITAL MANAGEMENT</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>14271 JEFFREY RD STE 512</AddressLine1Txt>
+          <CityNm>IRVINE</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>92620</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>175514</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING &amp; AUDIT FEES</CategoryTxt>
+        <Amt>184461</Amt>
+        <NetInvestmentIncomeAmt>64561</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>117199</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <ExpenditureResponsibilityStmt documentId="RetDoc2118100001">
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>LYELL IMMUNOPHARMA (FKA IMMPACT BIO USA INC)</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>8501 FALLBROOK AVE STE 200</AddressLine1Txt>
+          <CityNm>WEST HILLS</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91304</ZIPCd>
+        </USAddress>
+        <GrantDt>2024-12-31</GrantDt>
+        <GrantAmt>259122</GrantAmt>
+        <PurposeOfGrantTxt>TO CONDUCT SCIENTIFIC RESEARCH</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>259122</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>THERE IS NO KNOWN DIVERSION OF FUNDS BY THE GRANTEE</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>IN PROCESS</DatesOfReportsByGranteeTxt>
+        <ResultsOfVerificationTxt>N/A</ResultsOfVerificationTxt>
+      </ExpenditureResponsibilityGrp>
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>IMMPACT BIO USA INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>8501 FALLBROOK AVE STE 200</AddressLine1Txt>
+          <CityNm>WEST HILLS</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91304</ZIPCd>
+        </USAddress>
+        <GrantDt>2023-12-31</GrantDt>
+        <GrantAmt>740878</GrantAmt>
+        <PurposeOfGrantTxt>TO CONDUCT SCIENTIFIC RESEARCH</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>740878</ExpendedByGranteeAmt>
+        <AnyDiversionByGranteeTxt>THERE IS NO KNOWN DIVERSION OF FUNDS BY THE GRANTEE</AnyDiversionByGranteeTxt>
+        <DatesOfReportsByGranteeTxt>04/30/24</DatesOfReportsByGranteeTxt>
+        <ResultsOfVerificationTxt>N/A</ResultsOfVerificationTxt>
+      </ExpenditureResponsibilityGrp>
+    </ExpenditureResponsibilityStmt>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ZF NA CAPITAL 4.75% 04/29/2025 PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>154462</EOYBookValueAmt>
+        <EOYFMVAmt>154462</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>YUM! BRANDS, INC 3.625% 03/15/2031 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>314946</EOYBookValueAmt>
+        <EOYFMVAmt>314946</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WYNDHAM DESTINATIONS, INC. STEP 04/01/2027 USD SR LIEN 6.0% 10/01/20-04/01/2</BondNm>
+        <EOYBookValueAmt>153291</EOYBookValueAmt>
+        <EOYFMVAmt>153291</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WESTERN DIGITAL CORP 4.75% 02/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>160320</EOYBookValueAmt>
+        <EOYFMVAmt>160320</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WALGREENS BOOTS ALLIANCE, INC. 3.45% 06/01/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>380544</EOYBookValueAmt>
+        <EOYFMVAmt>380544</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VISTRA OPERATIONS COMPANY LLC 5.0% 07/31/2027 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>387783</EOYBookValueAmt>
+        <EOYFMVAmt>387783</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>UNITED RENTALS (NORTH AMERICA), INC. 3.75% 01/15/2032 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>318844</EOYBookValueAmt>
+        <EOYFMVAmt>318844</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TWILIO INC 3.875% 03/15/2031 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>322432</EOYBookValueAmt>
+        <EOYFMVAmt>322432</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TRI POINTE GROUP INC 5.7% 06/15/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>155381</EOYBookValueAmt>
+        <EOYFMVAmt>155381</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TRANSDIGM INC. 4.875% 05/01/2029 USD SER WI SRSUB LIEN</BondNm>
+        <EOYBookValueAmt>384780</EOYBookValueAmt>
+        <EOYFMVAmt>384780</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TENET HEALTHCARE CORP 4.375% 01/15/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>158480</EOYBookValueAmt>
+        <EOYFMVAmt>158480</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SS&amp;C TECHNOLOGIES, INC. 5.5% 09/30/2027 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>385628</EOYBookValueAmt>
+        <EOYFMVAmt>385628</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SIRIUS XM RADIO INC. 3.875% 09/01/2031 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>158044</EOYBookValueAmt>
+        <EOYFMVAmt>158044</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SILGAN HOLDINGS INC 4.125% 02/01/2028 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>382030</EOYBookValueAmt>
+        <EOYFMVAmt>382030</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SERVICE CORPORATION INTERNATIONAL 4.0% 05/15/2031 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>155942</EOYBookValueAmt>
+        <EOYFMVAmt>155942</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SEALED AIR CORPORATION 6.125% 02/01/2028 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>394050</EOYBookValueAmt>
+        <EOYFMVAmt>394050</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SEAGATE HDD CAYMAN 4.125% 01/15/2031 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>328171</EOYBookValueAmt>
+        <EOYFMVAmt>328171</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SBA COMMUNICATIONS CORPORATION 3.125% 02/01/2029 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>385493</EOYBookValueAmt>
+        <EOYFMVAmt>385493</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>RYMAN HOSPITALITY PROPERTIES, INC. 4.75% 10/15/2027 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>155390</EOYBookValueAmt>
+        <EOYFMVAmt>155390</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ROYAL CARIBBEAN GROUP 3.7% 03/15/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>160154</EOYBookValueAmt>
+        <EOYFMVAmt>160154</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>RANGE RESOURCES CORPORATION 8.25% 01/15/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>384351</EOYBookValueAmt>
+        <EOYFMVAmt>384351</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PRIME SECSRVC BRW/FINANC 3.375% 08/31/2027 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>374692</EOYBookValueAmt>
+        <EOYFMVAmt>374692</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PERRIGO FINANCE UNLIMITE STEP 06/15/2030 USD SR LIEN 4.9% 06/15/24-06/15/30</BondNm>
+        <EOYBookValueAmt>314708</EOYBookValueAmt>
+        <EOYFMVAmt>314708</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PERFORMANCE FOOD GROUP I 4.25% 08/01/2029 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>297845</EOYBookValueAmt>
+        <EOYFMVAmt>297845</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PENSKE AUTOMOTIVE GROUP 3.75% 06/15/2029 USD SRSUB LIEN</BondNm>
+        <EOYBookValueAmt>157511</EOYBookValueAmt>
+        <EOYFMVAmt>157511</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ONEMAIN FINANCE CORP 4.0% 09/15/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>164798</EOYBookValueAmt>
+        <EOYFMVAmt>164798</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NUSTAR LOGISTICS LP 6.375% 10/01/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>305594</EOYBookValueAmt>
+        <EOYFMVAmt>305594</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NRG ENERGY, INC. 5.75% 01/15/2028 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>158561</EOYBookValueAmt>
+        <EOYFMVAmt>158561</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NORDSTROM, INC. 4.25% 08/01/2031 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>157039</EOYBookValueAmt>
+        <EOYFMVAmt>157039</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NEWELL BRANDS INC. 6.625% 09/15/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>165827</EOYBookValueAmt>
+        <EOYFMVAmt>165827</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MURPHY OIL USA, INC. 4.75% 09/15/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>317749</EOYBookValueAmt>
+        <EOYFMVAmt>317749</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MGM RESORTS INTERNATIONAL 4.75% 10/15/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>382197</EOYBookValueAmt>
+        <EOYFMVAmt>382197</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MARRIOTT OWNERSHIP RESORTS, INC. 4.75% 01/15/2028 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>161821</EOYBookValueAmt>
+        <EOYFMVAmt>161821</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KINETIK HOLDINGS LP 5.875% 06/15/2030 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>306929</EOYBookValueAmt>
+        <EOYFMVAmt>306929</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KB HOME 6.875% 06/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>59405</EOYBookValueAmt>
+        <EOYFMVAmt>59405</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>IRON MOUNTAIN INC 5.25% 07/15/2030 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>92004</EOYBookValueAmt>
+        <EOYFMVAmt>92004</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HOLOGIC, INC. 3.25% 02/15/2029 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>382230</EOYBookValueAmt>
+        <EOYFMVAmt>382230</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HILTON GRAND VACATIONS BORROWER ESCROW LLC 5.0% 06/01/2029 USD PVT REGS SR L</BondNm>
+        <EOYBookValueAmt>60573</EOYBookValueAmt>
+        <EOYFMVAmt>60573</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HILTON DOMESTIC OPERATING CO INC 4.875% 01/15/2030 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>318067</EOYBookValueAmt>
+        <EOYFMVAmt>318067</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HILLENBRAND INC 3.75% 03/01/2031 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>320059</EOYBookValueAmt>
+        <EOYFMVAmt>320059</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>H.B. FULLER CO 4.0% 02/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>158310</EOYBookValueAmt>
+        <EOYFMVAmt>158310</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GOODYEAR TIRE &amp; RUBBER COMPANY (THE) 5.0% 07/15/2029 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>156260</EOYBookValueAmt>
+        <EOYFMVAmt>156260</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FAIR ISAAC CORP 5.25% 05/15/2026 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>385512</EOYBookValueAmt>
+        <EOYFMVAmt>385512</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EXPAND ENERGY CORPORATION 4.75% 02/01/2032 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>322254</EOYBookValueAmt>
+        <EOYFMVAmt>322254</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENERGIZER HOLDINGS INC 4.375% 03/31/2029 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>158824</EOYBookValueAmt>
+        <EOYFMVAmt>158824</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENCOMPASS HEALTH CORP 4.625% 04/01/2031 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>314188</EOYBookValueAmt>
+        <EOYFMVAmt>314188</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ELANCO ANIMAL HEALTH INCORPORATED STEP 08/28/2028 USD SER WI SR LIEN 6.65% 0</BondNm>
+        <EOYBookValueAmt>383442</EOYBookValueAmt>
+        <EOYFMVAmt>383442</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CROWN AMERICAS LLC 5.25% 04/01/2030 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>310692</EOYBookValueAmt>
+        <EOYFMVAmt>310692</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CROWDSTRIKE HOLDINGS INC 3.0% 02/15/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>388866</EOYBookValueAmt>
+        <EOYFMVAmt>388866</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>COMMERCIAL METALS COMPANY 4.375% 03/15/2032 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>157148</EOYBookValueAmt>
+        <EOYFMVAmt>157148</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CIVITAS RESOURCES, INC. 8.375% 07/01/2028 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>154504</EOYBookValueAmt>
+        <EOYFMVAmt>154504</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CENTRAL GARDEN &amp; PET CO 4.125% 10/15/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>155124</EOYBookValueAmt>
+        <EOYFMVAmt>155124</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CCO HOLDINGS, LLC 4.5% 05/01/2032 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>330578</EOYBookValueAmt>
+        <EOYFMVAmt>330578</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CALPINE CORP 4.5% 02/15/2028 USD PVT REGS SR LIEN</BondNm>
+        <EOYBookValueAmt>385563</EOYBookValueAmt>
+        <EOYFMVAmt>385563</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BUCKEYE PARTNERS, L.P. 4.125% 12/01/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>156985</EOYBookValueAmt>
+        <EOYFMVAmt>156985</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BLOCK INC 3.5% 06/01/2031 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>312825</EOYBookValueAmt>
+        <EOYFMVAmt>312825</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BALL CORPORATION 3.125% 09/15/2031 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>314868</EOYBookValueAmt>
+        <EOYFMVAmt>314868</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ASBURY AUTOMOTIVE GROUP, INC. 4.75% 03/01/2030 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>160726</EOYBookValueAmt>
+        <EOYFMVAmt>160726</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERICAN AXLE &amp; MANUFACTURING, INC. 5.0% 10/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>158290</EOYBookValueAmt>
+        <EOYFMVAmt>158290</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AECOM 5.125% 03/15/2027 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>385091</EOYBookValueAmt>
+        <EOYFMVAmt>385091</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>1011778 BC / NEW RED FIN 4.0% 10/15/2030 USD PVT REGS SRSUB LIEN</BondNm>
+        <EOYBookValueAmt>309655</EOYBookValueAmt>
+        <EOYFMVAmt>309655</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ZIMMER BIOMET HOLDINGS 3.05% 01/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>866701</EOYBookValueAmt>
+        <EOYFMVAmt>866701</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WELLS FARGO &amp; COMPANY HYBRID MTN 06/17/2027 USD SR LIEN CPN 06/17/19 3.196%</BondNm>
+        <EOYBookValueAmt>1034791</EOYBookValueAmt>
+        <EOYFMVAmt>1034791</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WELLS FARGO &amp; COMPANY HYBRID MTN 04/25/2026 SR LIEN CPN 04/25/22 3.908%</BondNm>
+        <EOYBookValueAmt>897246</EOYBookValueAmt>
+        <EOYFMVAmt>897246</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VERIZON COMMUNICATIONS, INC. 4.329% 09/21/2028 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>16885</EOYBookValueAmt>
+        <EOYFMVAmt>16885</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VERIZON COMMUNICATIONS, INC. 4.016% 12/03/2029 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>1179153</EOYBookValueAmt>
+        <EOYFMVAmt>1179153</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VALERO ENERGY CORP 2.15% 09/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1761155</EOYBookValueAmt>
+        <EOYFMVAmt>1761155</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>UDR INC MTN 3.2% 01/15/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1758296</EOYBookValueAmt>
+        <EOYFMVAmt>1758296</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>U.S. BANCORP MTN 3.0% 07/30/2029 USD SUB LIEN</BondNm>
+        <EOYBookValueAmt>15792</EOYBookValueAmt>
+        <EOYFMVAmt>15792</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>U.S. BANCORP HYBRID MTN 07/22/2028 USD SR LIEN CPN 07/22/22 4.548%</BondNm>
+        <EOYBookValueAmt>873181</EOYBookValueAmt>
+        <EOYFMVAmt>873181</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TRUIST FINANCIAL CORPORATION HYBRID MTN 03/02/2027 USD SR LIEN CPN 03/02/21</BondNm>
+        <EOYBookValueAmt>23115</EOYBookValueAmt>
+        <EOYFMVAmt>23115</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TRUIST BANK HYBRID 09/17/2029 USD SER BKNT SUB LIEN CPN 09/16/19 4.632%</BondNm>
+        <EOYBookValueAmt>777208</EOYBookValueAmt>
+        <EOYFMVAmt>777208</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TRACTOR SUPPLY COMPANY 1.75% 11/01/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1628391</EOYBookValueAmt>
+        <EOYFMVAmt>1628391</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TOTAL SYSTEM SERVICES IN 4.8% 04/01/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>336200</EOYBookValueAmt>
+        <EOYFMVAmt>336200</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TORONTO-DOMINION BANK (THE) MTN 1.2% 06/03/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>739120</EOYBookValueAmt>
+        <EOYFMVAmt>739120</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>THOMSON REUTERS CORPORATION 3.35% 05/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>512777</EOYBookValueAmt>
+        <EOYFMVAmt>512777</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>THE WILLIAMS COMPANIES, INC. 4.0% 09/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>960352</EOYBookValueAmt>
+        <EOYFMVAmt>960352</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>THE SOUTHERN COMPANY 3.25% 07/01/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>662293</EOYBookValueAmt>
+        <EOYFMVAmt>662293</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>THE BANK OF NOVA SCOTIA 4.5% 12/16/2025 SUB LIEN</BondNm>
+        <EOYBookValueAmt>1699450</EOYBookValueAmt>
+        <EOYFMVAmt>1699450</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TELEFONICA EMISIONES SA 4.103% 03/08/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>337030</EOYBookValueAmt>
+        <EOYFMVAmt>337030</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TAKEDA PHARMACEUTICAL COMPANY LIMITED 2.05% 03/31/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1739641</EOYBookValueAmt>
+        <EOYFMVAmt>1739641</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>T-MOBILE USA, INC. 3.875% 04/15/2030 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>940499</EOYBookValueAmt>
+        <EOYFMVAmt>940499</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>T-MOBILE USA, INC. 3.375% 04/15/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>346098</EOYBookValueAmt>
+        <EOYFMVAmt>346098</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SYNCHRONY FINANCIAL 3.7% 08/04/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>349609</EOYBookValueAmt>
+        <EOYFMVAmt>349609</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SUMITOMO MITSUI FINANCIAL GROUP, INC. 3.784% 03/09/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>22033</EOYBookValueAmt>
+        <EOYFMVAmt>22033</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SUMITOMO MITSUI FINANCIAL GROUP, INC. 2.632% 07/14/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>674256</EOYBookValueAmt>
+        <EOYFMVAmt>674256</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>STATE STREET CORPORATION HYBRID 11/18/2027 USD SR LIEN CPN 11/18/21 1.684%</BondNm>
+        <EOYBookValueAmt>25625</EOYBookValueAmt>
+        <EOYFMVAmt>25625</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>STATE STREET CORPORATION HYBRID 02/07/2028 USD SR LIEN CPN 02/07/22 2.203%</BondNm>
+        <EOYBookValueAmt>3093072</EOYBookValueAmt>
+        <EOYFMVAmt>3093072</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SRS CCD 26745899 MTN 3.75% 06/01/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>19753</EOYBookValueAmt>
+        <EOYFMVAmt>19753</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SPECTRA ENERGY PARTNERS, L.P. 3.5% 03/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>1047275</EOYBookValueAmt>
+        <EOYFMVAmt>1047275</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SKYWORKS SOLUTIONS, INC. 1.8% 06/01/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>11511</EOYBookValueAmt>
+        <EOYFMVAmt>11511</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SIMON PROPERTY GROUP, L.P. 3.3% 01/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>604445</EOYBookValueAmt>
+        <EOYFMVAmt>604445</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SIMON PROPERTY GROUP, L.P. 3.25% 11/30/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>496722</EOYBookValueAmt>
+        <EOYFMVAmt>496722</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SIMON PROPERTY GROUP LP 3.375% 06/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>875554</EOYBookValueAmt>
+        <EOYFMVAmt>875554</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SHERWIN-WILLIAMS CO 2.3% 05/15/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1306547</EOYBookValueAmt>
+        <EOYFMVAmt>1306547</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SANTANDER UK GROUP HOLDINGS PLC HYBRID 11/03/2028 USD SR LIEN CPN 11/03/17 3</BondNm>
+        <EOYBookValueAmt>1216779</EOYBookValueAmt>
+        <EOYFMVAmt>1216779</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SANTANDER UK GROUP HOLDINGS PLC HYBRID 01/11/2028 USD SR LIEN CPN 01/11/22 2</BondNm>
+        <EOYBookValueAmt>271354</EOYBookValueAmt>
+        <EOYFMVAmt>271354</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SABINE PASS LIQUEFACTION, LLC 5.0% 03/15/2027 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>954749</EOYBookValueAmt>
+        <EOYFMVAmt>954749</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ROYALTY PHARMA PLC 1.2% 09/02/2025 SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>358385</EOYBookValueAmt>
+        <EOYFMVAmt>358385</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ROYAL BANK OF CANADA MTN 4.875% 01/12/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>580459</EOYBookValueAmt>
+        <EOYFMVAmt>580459</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ROYAL BANK OF CANADA MTN 4.65% 01/27/2026 USD SUB LIEN</BondNm>
+        <EOYBookValueAmt>1359726</EOYBookValueAmt>
+        <EOYFMVAmt>1359726</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ROPER TECHNOLOGIES INC 1.4% 09/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1330265</EOYBookValueAmt>
+        <EOYFMVAmt>1330265</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>REPUBLIC SERVICES INC 4.875% 04/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1257061</EOYBookValueAmt>
+        <EOYFMVAmt>1257061</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>REALTY INCOME CORP 3.4% 01/15/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>2211635</EOYBookValueAmt>
+        <EOYFMVAmt>2211635</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PRINCIPAL FINANCIAL GROUP, INC. 3.7% 05/15/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>4786</EOYBookValueAmt>
+        <EOYFMVAmt>4786</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PNC FINANCIAL SERVICES HYBRID 06/12/2029 USD SR LIEN CPN 06/12/23 5.582%</BondNm>
+        <EOYBookValueAmt>780542</EOYBookValueAmt>
+        <EOYFMVAmt>780542</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PIEDMONT NATURAL GAS CO 3.5% 06/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>447210</EOYBookValueAmt>
+        <EOYFMVAmt>447210</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PHILIP MORRIS INTL INC 5.625% 11/17/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>236485</EOYBookValueAmt>
+        <EOYFMVAmt>236485</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PHILIP MORRIS INTERNATIONAL INC. 4.875% 02/13/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1166898</EOYBookValueAmt>
+        <EOYFMVAmt>1166898</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PHILIP MORRIS INTERNATIONAL INC. 4.875% 02/13/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>786430</EOYBookValueAmt>
+        <EOYFMVAmt>786430</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ORACLE CORPORATION 3.25% 11/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>982252</EOYBookValueAmt>
+        <EOYFMVAmt>982252</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ORACLE CORPORATION 2.95% 05/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>328571</EOYBookValueAmt>
+        <EOYFMVAmt>328571</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ONEOK, INC. 5.8% 11/01/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1260041</EOYBookValueAmt>
+        <EOYFMVAmt>1260041</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>OMNICOM GROUP INC. 3.6% 04/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>722267</EOYBookValueAmt>
+        <EOYFMVAmt>722267</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NXP BV/NXP FDG/NXP USA 4.3% 06/18/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>437541</EOYBookValueAmt>
+        <EOYFMVAmt>437541</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NXP B.V. 4.4% 06/01/2027 USD SR LIEN NXP FUNDING LLC / NXP USA INC</BondNm>
+        <EOYBookValueAmt>532727</EOYBookValueAmt>
+        <EOYFMVAmt>532727</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NUTRIEN LTD 4.2% 04/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1500977</EOYBookValueAmt>
+        <EOYFMVAmt>1500977</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NORTHROP GRUMMAN CORPORATION 4.6% 02/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1752773</EOYBookValueAmt>
+        <EOYFMVAmt>1752773</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NEXTERA ENERGY CAPITAL HOLDINGS, INC. 4.9% 02/28/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>923382</EOYBookValueAmt>
+        <EOYFMVAmt>923382</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NEXTERA ENERGY CAPITAL HOLDINGS, INC. 3.5% 04/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>10476</EOYBookValueAmt>
+        <EOYFMVAmt>10476</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NETAPP, INC. 1.875% 06/22/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>19704</EOYBookValueAmt>
+        <EOYFMVAmt>19704</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NATIONAL GRID PLC 5.602% 06/12/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>855721</EOYBookValueAmt>
+        <EOYFMVAmt>855721</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NATIONAL AUSTRALIA BANK LTD-NEW YORK BRANCH 3.905% 06/09/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>3463195</EOYBookValueAmt>
+        <EOYFMVAmt>3463195</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NASDAQ INC 3.85% 06/30/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>869537</EOYBookValueAmt>
+        <EOYFMVAmt>869537</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MPLX LP 4.25% 12/01/2027 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>18767</EOYBookValueAmt>
+        <EOYFMVAmt>18767</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MPLX LP 4.125% 03/01/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>436550</EOYBookValueAmt>
+        <EOYFMVAmt>436550</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MPLX LP 1.75% 03/01/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>531281</EOYBookValueAmt>
+        <EOYFMVAmt>531281</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MORGAN STANLEY HYBRID 12/10/2026 USD SR LIEN CPN 12/10/20 0.985%</BondNm>
+        <EOYBookValueAmt>1084620</EOYBookValueAmt>
+        <EOYFMVAmt>1084620</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MORGAN STANLEY HYBRID 04/20/2028 USD SR LIEN CPN 04/20/22 4.21%</BondNm>
+        <EOYBookValueAmt>1075317</EOYBookValueAmt>
+        <EOYFMVAmt>1075317</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MIZUHO FINANCIAL GROUP, INC. HYBRID 05/27/2029 USD SR LIEN CPN 02/27/23 5.66</BondNm>
+        <EOYBookValueAmt>2132535</EOYBookValueAmt>
+        <EOYFMVAmt>2132535</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MITSUBISHI UFJ FINANCIAL GROUP, INC. HYBRID 07/20/2027 USD SR LIEN CPN 07/20</BondNm>
+        <EOYBookValueAmt>819020</EOYBookValueAmt>
+        <EOYFMVAmt>819020</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MITSUBISHI UFJ FINANCIAL GROUP, INC. 3.961% 03/02/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>947888</EOYBookValueAmt>
+        <EOYFMVAmt>947888</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MCKESSON CORP 0.9% 12/03/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>595962</EOYBookValueAmt>
+        <EOYFMVAmt>595962</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MCCORMICK &amp; CO 0.9% 02/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1024607</EOYBookValueAmt>
+        <EOYFMVAmt>1024607</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MARATHON PETROLEUM CORPORATION 5.125% 12/15/2026 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>423145</EOYBookValueAmt>
+        <EOYFMVAmt>423145</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MARATHON PETROLEUM CORP 4.7% 05/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>19128</EOYBookValueAmt>
+        <EOYFMVAmt>19128</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>M&amp;T BANK CORPORATION HYBRID 08/16/2028 USD SR LIEN CPN 08/16/22 4.553%</BondNm>
+        <EOYBookValueAmt>271713</EOYBookValueAmt>
+        <EOYFMVAmt>271713</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LOWE'S COMPANIES INC 1.7% 10/15/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1754189</EOYBookValueAmt>
+        <EOYFMVAmt>1754189</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LLOYDS BANKING GROUP PLC HYBRID 05/11/2027 USD SR LIEN CPN 03/11/21 1.627%</BondNm>
+        <EOYBookValueAmt>764092</EOYBookValueAmt>
+        <EOYFMVAmt>764092</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>L3HARRIS TECHNOLOGIES, INC. 4.4% 06/15/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>502949</EOYBookValueAmt>
+        <EOYFMVAmt>502949</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>L3HARRIS TECHNOLOGIES, INC. 3.85% 12/15/2026 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>451538</EOYBookValueAmt>
+        <EOYFMVAmt>451538</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KRAFT HEINZ FOODS COMPANY 3.875% 05/15/2027 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>961995</EOYBookValueAmt>
+        <EOYFMVAmt>961995</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KINDER MORGAN, INC. 4.3% 06/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>18023</EOYBookValueAmt>
+        <EOYFMVAmt>18023</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KINDER MORGAN INC 5.0% 02/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1088889</EOYBookValueAmt>
+        <EOYFMVAmt>1088889</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KEURIG DR PEPPER INC. 4.597% 05/25/2028 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>508857</EOYBookValueAmt>
+        <EOYFMVAmt>508857</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KEURIG DR PEPPER INC. 3.95% 04/15/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>451222</EOYBookValueAmt>
+        <EOYFMVAmt>451222</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KELLOGG CO 4.3% 05/15/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>18754</EOYBookValueAmt>
+        <EOYFMVAmt>18754</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KELLOGG CO 3.4% 11/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1291247</EOYBookValueAmt>
+        <EOYFMVAmt>1291247</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>JPMORGAN CHASE &amp; CO. HYBRID 05/01/2028 USD SR LIEN CPN 04/25/17 3.54%</BondNm>
+        <EOYBookValueAmt>1100654</EOYBookValueAmt>
+        <EOYFMVAmt>1100654</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>JPMORGAN CHASE &amp; CO. HYBRID 03/13/2026 SR LIEN CPN 03/13/20 2.005%</BondNm>
+        <EOYBookValueAmt>907723</EOYBookValueAmt>
+        <EOYFMVAmt>907723</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>JM SMUCKER CO 5.9% 11/15/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1273276</EOYBookValueAmt>
+        <EOYFMVAmt>1273276</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTERNATIONAL BUSINESS MACHINES CORPORATION 1.7% 05/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1547046</EOYBookValueAmt>
+        <EOYFMVAmt>1547046</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTERCONTINENTAL EXCHANGE, INC. 3.75% 12/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>857965</EOYBookValueAmt>
+        <EOYFMVAmt>857965</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTERCONTINENTAL EXCHANGE, INC. 3.1% 09/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1303680</EOYBookValueAmt>
+        <EOYFMVAmt>1303680</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTEL CORPORATION 4.875% 02/10/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1928407</EOYBookValueAmt>
+        <EOYFMVAmt>1928407</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ING GROEP NV HYBRID 03/19/2030 USD SR LIEN CPN 03/19/24 5.335%</BondNm>
+        <EOYBookValueAmt>588975</EOYBookValueAmt>
+        <EOYFMVAmt>588975</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ING GROEP N.V. HYBRID 03/28/2028 USD SR LIEN CPN 03/28/22 4.017%</BondNm>
+        <EOYBookValueAmt>1457011</EOYBookValueAmt>
+        <EOYFMVAmt>1457011</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HUNTINGTON BANCSHARES INCORPORATED 4.0% 05/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>392879</EOYBookValueAmt>
+        <EOYFMVAmt>392879</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HUMANA INC. 5.75% 03/01/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>440851</EOYBookValueAmt>
+        <EOYFMVAmt>440851</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HUMANA INC. 3.7% 03/23/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>514390</EOYBookValueAmt>
+        <EOYFMVAmt>514390</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC HOLDINGS PLC HYBRID 08/17/2029 USD SR LIEN CPN 08/17/21 2.206%</BondNm>
+        <EOYBookValueAmt>553056</EOYBookValueAmt>
+        <EOYFMVAmt>553056</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC HOLDINGS PLC HYBRID 06/04/2026 SR LIEN CPN 06/04/20 2.099%</BondNm>
+        <EOYBookValueAmt>414736</EOYBookValueAmt>
+        <EOYFMVAmt>414736</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC HOLDINGS PLC HYBRID 03/13/2028 USD SR LIEN CPN 03/13/17 4.041%</BondNm>
+        <EOYBookValueAmt>438006</EOYBookValueAmt>
+        <EOYFMVAmt>438006</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HONEYWELL INTERNATIONAL INC 4.875% 09/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1515923</EOYBookValueAmt>
+        <EOYFMVAmt>1515923</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GLOBAL PAYMENTS INC. 3.2% 08/15/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>316642</EOYBookValueAmt>
+        <EOYFMVAmt>316642</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GILEAD SCIENCES INC. 3.65% 03/01/2026 USD SER SR LIEN</BondNm>
+        <EOYBookValueAmt>1205201</EOYBookValueAmt>
+        <EOYFMVAmt>1205201</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MOTORS FINL CO 4.3% 04/06/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>990612</EOYBookValueAmt>
+        <EOYFMVAmt>990612</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MOTORS FINANCIAL COMPANY, INC. 4.35% 01/17/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>14115</EOYBookValueAmt>
+        <EOYFMVAmt>14115</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MILLS, INC. 4.0% 04/17/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>447484</EOYBookValueAmt>
+        <EOYFMVAmt>447484</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FOX CORPORATION 4.709% 01/25/2029 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>990647</EOYBookValueAmt>
+        <EOYFMVAmt>990647</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FORTIVE CORPORATION 3.15% 06/15/2026 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>974586</EOYBookValueAmt>
+        <EOYFMVAmt>974586</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FISERV, INC. 3.85% 06/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>941461</EOYBookValueAmt>
+        <EOYFMVAmt>941461</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FISERV INC 3.2% 07/01/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>19882</EOYBookValueAmt>
+        <EOYFMVAmt>19882</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FIFTH THIRD BANCORP 2.55% 05/05/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>576974</EOYBookValueAmt>
+        <EOYFMVAmt>576974</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EVERSOURCE ENERGY 4.25% 04/01/2029 USD SER O SR LIEN</BondNm>
+        <EOYBookValueAmt>1291032</EOYBookValueAmt>
+        <EOYFMVAmt>1291032</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENTERPRISE PRODUCTS OPERATING LLC 3.125% 07/31/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>570866</EOYBookValueAmt>
+        <EOYFMVAmt>570866</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENTERGY CORPORATION 2.8% 06/15/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>2467395</EOYBookValueAmt>
+        <EOYFMVAmt>2467395</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENERGY TRANSFER OPERATNG 5.5% 06/01/2027 USD SER * SR LIEN</BondNm>
+        <EOYBookValueAmt>703995</EOYBookValueAmt>
+        <EOYFMVAmt>703995</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENBRIDGE ENERGY PARTNERS 5.875% 10/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>5088</EOYBookValueAmt>
+        <EOYFMVAmt>5088</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EMERA US FINANCE LP 3.55% 06/15/2026 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>1461895</EOYBookValueAmt>
+        <EOYFMVAmt>1461895</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EBAY INC. 1.4% 05/10/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1258763</EOYBookValueAmt>
+        <EOYFMVAmt>1258763</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DOWDUPONT INC. 4.493% 11/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>557813</EOYBookValueAmt>
+        <EOYFMVAmt>557813</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DOW CHEMICAL COMPANY (THE) 4.8% 11/30/2028 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>1696299</EOYBookValueAmt>
+        <EOYFMVAmt>1696299</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DOLLAR GENERAL CORPORATION 4.15% 11/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>952511</EOYBookValueAmt>
+        <EOYFMVAmt>952511</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DIGITAL REALTY TRUST LP 3.7% 08/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>19718</EOYBookValueAmt>
+        <EOYFMVAmt>19718</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DELL INT LLC / EMC CORP 4.9% 10/01/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>389821</EOYBookValueAmt>
+        <EOYFMVAmt>389821</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CVS HEALTH CORPORATION 4.3% 03/25/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>18624</EOYBookValueAmt>
+        <EOYFMVAmt>18624</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CVS HEALTH CORPORATION 3.0% 08/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>435108</EOYBookValueAmt>
+        <EOYFMVAmt>435108</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CVS HEALTH CORPORATION 2.875% 06/01/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>527581</EOYBookValueAmt>
+        <EOYFMVAmt>527581</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CUMMINS INC. 4.9% 02/20/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>3065947</EOYBookValueAmt>
+        <EOYFMVAmt>3065947</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CROWN CASTLE INTL CORP 3.65% 09/01/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>516404</EOYBookValueAmt>
+        <EOYFMVAmt>516404</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CROWN CASTLE INTERNATIONAL CORP. 3.7% 06/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>453341</EOYBookValueAmt>
+        <EOYFMVAmt>453341</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CREDIT SUISSE NEW YORK 5.0% 07/09/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>2214175</EOYBookValueAmt>
+        <EOYFMVAmt>2214175</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>COOPERAT RABOBANK UA/NY 5.041% 03/05/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>2202142</EOYBookValueAmt>
+        <EOYFMVAmt>2202142</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CONSTELLATION BRANDS, INC. 4.4% 11/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>334103</EOYBookValueAmt>
+        <EOYFMVAmt>334103</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>COMERICA INC 4.0% 02/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>322306</EOYBookValueAmt>
+        <EOYFMVAmt>322306</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>COMCAST CORP 3.4% 04/01/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>2152116</EOYBookValueAmt>
+        <EOYFMVAmt>2152116</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CLOROX COMPANY (THE) 1.8% 05/15/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1621477</EOYBookValueAmt>
+        <EOYFMVAmt>1621477</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP INC. HYBRID 06/09/2027 USD SR LIEN CPN 06/09/21 1.462%</BondNm>
+        <EOYBookValueAmt>22872</EOYBookValueAmt>
+        <EOYFMVAmt>22872</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP INC. HYBRID 01/29/2031 USD SR LIEN CPN 01/29/20 2.666%</BondNm>
+        <EOYBookValueAmt>534874</EOYBookValueAmt>
+        <EOYFMVAmt>534874</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP INC. HYBRID 01/28/2027 USD SR LIEN CPN 01/28/21 1.122%</BondNm>
+        <EOYBookValueAmt>781722</EOYBookValueAmt>
+        <EOYFMVAmt>781722</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP INC. HYBRID 01/25/2026 SR LIEN CPN 10/25/24-01/24/25 2.014%</BondNm>
+        <EOYBookValueAmt>686431</EOYBookValueAmt>
+        <EOYFMVAmt>686431</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CIGNA CORPORATION 4.5% 02/25/2026 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>669659</EOYBookValueAmt>
+        <EOYFMVAmt>669659</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CIGNA CORP 1.25% 03/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>548682</EOYBookValueAmt>
+        <EOYFMVAmt>548682</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CARRIER GLOBAL CORPORATION 2.493% 02/15/2027 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>346639</EOYBookValueAmt>
+        <EOYFMVAmt>346639</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CARDINAL HEALTH, INC. 5.125% 02/15/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1309752</EOYBookValueAmt>
+        <EOYFMVAmt>1309752</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CANADIAN NATURAL RESOURCES LIMITED 3.85% 06/01/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1304983</EOYBookValueAmt>
+        <EOYFMVAmt>1304983</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CANADIAN IMPERIAL BANK OF COMMERCE 5.986% 10/03/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>2057188</EOYBookValueAmt>
+        <EOYFMVAmt>2057188</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CANADIAN IMPERIAL BANK 1.25% 06/22/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>924365</EOYBookValueAmt>
+        <EOYFMVAmt>924365</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BUNGE LIMITED FINANCE CORP. 3.25% 08/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>457975</EOYBookValueAmt>
+        <EOYFMVAmt>457975</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BROADCOM INC. 4.75% 04/15/2029 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>341203</EOYBookValueAmt>
+        <EOYFMVAmt>341203</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BROADCOM CORPORATION 3.5% 01/15/2028 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>296600</EOYBookValueAmt>
+        <EOYFMVAmt>296600</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BOEING COMPANY (THE) 2.196% 02/04/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>15659</EOYBookValueAmt>
+        <EOYFMVAmt>15659</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BOEING CO 2.7% 02/01/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>329821</EOYBookValueAmt>
+        <EOYFMVAmt>329821</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BIOGEN INC. 4.05% 09/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>19119</EOYBookValueAmt>
+        <EOYFMVAmt>19119</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BERRY GLOBAL INC 1.57% 01/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>354878</EOYBookValueAmt>
+        <EOYFMVAmt>354878</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BECTON DICKINSON AND CO 3.7% 06/06/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>450266</EOYBookValueAmt>
+        <EOYFMVAmt>450266</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BAXTER INTERNATIONAL INC 2.272% 12/01/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>459710</EOYBookValueAmt>
+        <EOYFMVAmt>459710</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BAXTER INTERNATIONAL INC 1.915% 02/01/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>553191</EOYBookValueAmt>
+        <EOYFMVAmt>553191</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BARCLAYS PLC HYBRID 11/24/2027 USD SR LIEN CPN 11/24/21 2.279%</BondNm>
+        <EOYBookValueAmt>621644</EOYBookValueAmt>
+        <EOYFMVAmt>621644</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BARCLAYS PLC 4.337% 01/10/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>995675</EOYBookValueAmt>
+        <EOYFMVAmt>995675</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF NEW YORK MELLON CORPORATION (THE) HYBRID MTN 07/26/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>3072869</EOYBookValueAmt>
+        <EOYFMVAmt>3072869</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF AMERICA CORPORATION HYBRID MTN 04/24/2028 USD SR LIEN CPN 04/24/17 3</BondNm>
+        <EOYBookValueAmt>1095582</EOYBookValueAmt>
+        <EOYFMVAmt>1095582</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF AMERICA CORPORATION HYBRID 03/11/2027 USD SER N SR LIEN CPN 03/11/21</BondNm>
+        <EOYBookValueAmt>1067426</EOYBookValueAmt>
+        <EOYFMVAmt>1067426</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANCO SANTANDER, S.A. HYBRID 03/24/2028 USD SR LIEN CPN 03/24/22 4.175%</BondNm>
+        <EOYBookValueAmt>1386531</EOYBookValueAmt>
+        <EOYFMVAmt>1386531</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANCO SANTANDER SA HYBRID 03/14/2030 USD SER * SR LIEN CPN 03/14/24 5.538%</BondNm>
+        <EOYBookValueAmt>204183</EOYBookValueAmt>
+        <EOYFMVAmt>204183</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANCO SANTANDER SA 2.746% 05/28/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>397175</EOYBookValueAmt>
+        <EOYFMVAmt>397175</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>B.A.T. CAPITAL CORPORATION 4.7% 04/02/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>452304</EOYBookValueAmt>
+        <EOYFMVAmt>452304</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>B.A.T. CAPITAL CORPORATION 3.557% 08/15/2027 USD SR LIEN M-W+20.00BP</BondNm>
+        <EOYBookValueAmt>533625</EOYBookValueAmt>
+        <EOYFMVAmt>533625</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AXA EQUITABLE HOLDINGS, INC. 4.35% 04/20/2028 USD SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>2965</EOYBookValueAmt>
+        <EOYFMVAmt>2965</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AUTOZONE INC 3.75% 06/01/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1299686</EOYBookValueAmt>
+        <EOYFMVAmt>1299686</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AUTONATION INC 4.75% 06/01/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>687247</EOYBookValueAmt>
+        <EOYFMVAmt>687247</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AT&amp;T INC. 3.8% 02/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>449973</EOYBookValueAmt>
+        <EOYFMVAmt>449973</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ARCH CAPITAL FINANCE LLC 4.011% 12/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>563220</EOYBookValueAmt>
+        <EOYFMVAmt>563220</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AON PLC 3.875% 12/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>639246</EOYBookValueAmt>
+        <EOYFMVAmt>639246</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AON CORP/AON GLOBAL HOLD 2.85% 05/28/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>570363</EOYBookValueAmt>
+        <EOYFMVAmt>570363</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMGEN INC. 5.15% 03/02/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>641164</EOYBookValueAmt>
+        <EOYFMVAmt>641164</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMGEN INC. 3.125% 05/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>562813</EOYBookValueAmt>
+        <EOYFMVAmt>562813</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERIPRISE FINANCIAL, INC. 5.7% 12/15/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>2114959</EOYBookValueAmt>
+        <EOYFMVAmt>2114959</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERICAN TOWER CORPORATION 3.6% 01/15/2028 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>580902</EOYBookValueAmt>
+        <EOYFMVAmt>580902</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERICAN TOWER CORP 1.3% 09/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>341074</EOYBookValueAmt>
+        <EOYFMVAmt>341074</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERICAN EXPRESS COMPANY HYBRID 07/27/2029 USD SR LIEN CPN 07/28/23 5.282%</BondNm>
+        <EOYBookValueAmt>3002134</EOYBookValueAmt>
+        <EOYFMVAmt>3002134</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERICAN ELECTRIC POWER 3.2% 11/13/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1411079</EOYBookValueAmt>
+        <EOYFMVAmt>1411079</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ALTRIA GROUP, INC. 4.4% 02/14/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>5059</EOYBookValueAmt>
+        <EOYFMVAmt>5059</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ALTRIA GROUP, INC. 2.625% 09/16/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>455521</EOYBookValueAmt>
+        <EOYFMVAmt>455521</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ALEXANDRIA REAL ESTATE E 4.9% 12/15/2030 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1701067</EOYBookValueAmt>
+        <EOYFMVAmt>1701067</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AIR LEASE CORPORATION 5.85% 12/15/2027 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>511720</EOYBookValueAmt>
+        <EOYFMVAmt>511720</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AIR LEASE CORP 1.875% 08/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>458031</EOYBookValueAmt>
+        <EOYFMVAmt>458031</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AERCAP IRELAND CAP/GLOBA 1.75% 01/30/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>772185</EOYBookValueAmt>
+        <EOYFMVAmt>772185</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>3M COMPANY MTN 3.375% 03/01/2029 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>1955730</EOYBookValueAmt>
+        <EOYFMVAmt>1955730</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>JPMORGAN CHASE &amp; CO. HYBRID 04/22/2027 USD SR LIEN CPN 04/22/21 1.578%</BondNm>
+        <EOYBookValueAmt>1070739</EOYBookValueAmt>
+        <EOYFMVAmt>1070739</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CAPITAL ONE FINANCIAL CORPORATION HYBRID 05/10/2028 USD SR LIEN CPN 05/09/2</BondNm>
+        <EOYBookValueAmt>1199409</EOYBookValueAmt>
+        <EOYFMVAmt>1199409</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WOODSIDE FINANCE LIMITED 3.65% 03/05/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>757140</EOYBookValueAmt>
+        <EOYFMVAmt>757140</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WESTPAC BANKING CORPORATION CP 10/03/2024 07/02/2025 SOFRRATE1DY +25.00BP</BondNm>
+        <EOYBookValueAmt>268038</EOYBookValueAmt>
+        <EOYFMVAmt>268038</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WESTPAC BANKING CORPORATION CP 05/07/2024 05/01/2025 SOFRRATE1DY +33.00BP</BondNm>
+        <EOYBookValueAmt>750499</EOYBookValueAmt>
+        <EOYFMVAmt>750499</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WESTPAC BANKING CORPORATION CP 0.000000 02/14/2025</BondNm>
+        <EOYBookValueAmt>540013</EOYBookValueAmt>
+        <EOYFMVAmt>540013</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WESTERN UNION CO/THE 2.85% 01/10/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>266429</EOYBookValueAmt>
+        <EOYFMVAmt>266429</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WELLS FARGO BANK NA 5.55% 08/01/2025 SER BKNT SR LIEN</BondNm>
+        <EOYBookValueAmt>256899</EOYBookValueAmt>
+        <EOYFMVAmt>256899</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VERSAILLES COMMERCIAL PAPER LLC</BondNm>
+        <EOYBookValueAmt>248918</EOYBookValueAmt>
+        <EOYFMVAmt>248918</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VERISK ANALYTICS, INC. 4.0% 06/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>495955</EOYBookValueAmt>
+        <EOYFMVAmt>495955</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>UBS AG - LONDON BRANCH CP 0.000000 12/03/2025</BondNm>
+        <EOYBookValueAmt>524697</EOYBookValueAmt>
+        <EOYFMVAmt>524697</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TRANS-CANADA PIPELINES 4.875% 01/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>222859</EOYBookValueAmt>
+        <EOYFMVAmt>222859</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TRANS-ALLEGHENY INTERSTATE LINE COMPANY 3.85% 06/01/2025 PVT 144A PVT SR LIE</BondNm>
+        <EOYBookValueAmt>1303738</EOYBookValueAmt>
+        <EOYFMVAmt>1303738</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TORONTO-DOMINION BANK (THE)-NEW YORK BRANCH CD 5.400000 01/03/2025</BondNm>
+        <EOYBookValueAmt>640230</EOYBookValueAmt>
+        <EOYFMVAmt>640230</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TORONTO-DOMINION BANK (THE)-NEW YORK BRANCH CD 5.000000 01/16/2025</BondNm>
+        <EOYBookValueAmt>716237</EOYBookValueAmt>
+        <EOYFMVAmt>716237</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TORONTO-DOMINION BANK (THE) CP 05/10/2024 05/09/2025 SOFRRATE1DY +34.00BP</BondNm>
+        <EOYBookValueAmt>274103</EOYBookValueAmt>
+        <EOYFMVAmt>274103</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TORONTO-DOMINION BANK (THE) - NEW YORK BRANCH</BondNm>
+        <EOYBookValueAmt>521136</EOYBookValueAmt>
+        <EOYFMVAmt>521136</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TORONTO-DOMINION BANK (THE)</BondNm>
+        <EOYBookValueAmt>645674</EOYBookValueAmt>
+        <EOYFMVAmt>645674</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TORONTO DOMINION BANK NY FRN 04/01/2025 SER YCD SOFRRATE O/N +33.00BP SR LIE</BondNm>
+        <EOYBookValueAmt>191448</EOYBookValueAmt>
+        <EOYFMVAmt>191448</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>THE WILLIAMS COMPANIES, INC. 3.9% 01/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>129232</EOYBookValueAmt>
+        <EOYFMVAmt>129232</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TELUS CORPORATION CP 0.000000 04/14/2025</BondNm>
+        <EOYBookValueAmt>246678</EOYBookValueAmt>
+        <EOYFMVAmt>246678</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TELUS CORPORATION</BondNm>
+        <EOYBookValueAmt>414203</EOYBookValueAmt>
+        <EOYFMVAmt>414203</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>TC PIPELINES, LP 4.375% 03/13/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>757467</EOYBookValueAmt>
+        <EOYFMVAmt>757467</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SWEDBANK AB CP 0.000000 03/03/2025</BondNm>
+        <EOYBookValueAmt>598399</EOYBookValueAmt>
+        <EOYFMVAmt>598399</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SVENSKA HANDELSBANKEN AB-NEW YORK BRANCH CP 06/10/2024 06/09/2025 SOFRRATE</BondNm>
+        <EOYBookValueAmt>600336</EOYBookValueAmt>
+        <EOYFMVAmt>600336</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SVENSKA HANDELSBANKEN AB-NEW YORK BRANCH CD 06/20/2024 06/20/2025 SOFRRATE</BondNm>
+        <EOYBookValueAmt>241491</EOYBookValueAmt>
+        <EOYFMVAmt>241491</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SVENSKA HANDELSBANKEN AB-NEW YORK BRANCH CD 01/19/2024 01/17/2025 SOFRRATE</BondNm>
+        <EOYBookValueAmt>566049</EOYBookValueAmt>
+        <EOYFMVAmt>566049</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SUNOCO LOGISTICS PARTNERS OPERATIONS L.P. 5.95% 12/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>527241</EOYBookValueAmt>
+        <EOYFMVAmt>527241</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SUMITOMO MITSUI FINANCIAL GROUP, INC. 2.348% 01/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>1176576</EOYBookValueAmt>
+        <EOYFMVAmt>1176576</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>STEEL DYNAMICS, INC. 2.4% 06/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>132559</EOYBookValueAmt>
+        <EOYFMVAmt>132559</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>STANDARD CHARTERED PLC MTN 3.2% 04/17/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>751034</EOYBookValueAmt>
+        <EOYFMVAmt>751034</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>STANDARD CHARTERED BANK-NEW YORK BRANCH CD 4.660000 11/20/2025</BondNm>
+        <EOYBookValueAmt>569615</EOYBookValueAmt>
+        <EOYFMVAmt>569615</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SONOCO PRODUCTS CO 1.8% 02/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>880947</EOYBookValueAmt>
+        <EOYFMVAmt>880947</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SOCIETE GENERALE MTN 2.625% 01/22/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>896068</EOYBookValueAmt>
+        <EOYFMVAmt>896068</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SKANDINAVISKA ENSKILDA BANKEN AB CD 07/09/2024 02/10/2025 SOFRRATE1DY +20.</BondNm>
+        <EOYBookValueAmt>307012</EOYBookValueAmt>
+        <EOYFMVAmt>307012</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SHEFFIELD RECEIVABLES COMPANY LLC</BondNm>
+        <EOYBookValueAmt>248946</EOYBookValueAmt>
+        <EOYFMVAmt>248946</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SHEFFIELD RECEIVABLES COMPANY LLC</BondNm>
+        <EOYBookValueAmt>248224</EOYBookValueAmt>
+        <EOYFMVAmt>248224</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SCHLUMBERGER HOLDINGS CORPORATION 4.0% 12/21/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>357826</EOYBookValueAmt>
+        <EOYFMVAmt>357826</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SANTANDER UK PLC</BondNm>
+        <EOYBookValueAmt>313925</EOYBookValueAmt>
+        <EOYFMVAmt>313925</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SALISBURY RECEIVABLES COMPANY LLC CP 0.000000 01/31/2025</BondNm>
+        <EOYBookValueAmt>588766</EOYBookValueAmt>
+        <EOYFMVAmt>588766</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SALISBURY RECEIVABLES COMPANY LLC</BondNm>
+        <EOYBookValueAmt>250986</EOYBookValueAmt>
+        <EOYFMVAmt>250986</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SABINE PASS LIQUEFACTION, LLC 5.625% 03/01/2025 SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>68282</EOYBookValueAmt>
+        <EOYFMVAmt>68282</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ROYAL BANK OF CANADA-NEW YORK BRANCH CD 06/07/2024 06/05/2025 SOFRRATE1DY</BondNm>
+        <EOYBookValueAmt>111524</EOYBookValueAmt>
+        <EOYFMVAmt>111524</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ROYAL BANK OF CANADA</BondNm>
+        <EOYBookValueAmt>246968</EOYBookValueAmt>
+        <EOYFMVAmt>246968</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>RELIANCE STEEL &amp; ALUM 1.3% 08/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>894676</EOYBookValueAmt>
+        <EOYFMVAmt>894676</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PURE GROVE FUNDING</BondNm>
+        <EOYBookValueAmt>1653754</EOYBookValueAmt>
+        <EOYFMVAmt>1653754</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PURE GROVE FUNDING</BondNm>
+        <EOYBookValueAmt>575269</EOYBookValueAmt>
+        <EOYFMVAmt>575269</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PROTECTIVE LIFE GLOBAL 1.646% 01/13/2025 PVT 144A PVT</BondNm>
+        <EOYBookValueAmt>278853</EOYBookValueAmt>
+        <EOYFMVAmt>278853</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PODIUM FUNDING TRUST CP 0.000000 02/05/2025</BondNm>
+        <EOYBookValueAmt>415158</EOYBookValueAmt>
+        <EOYFMVAmt>415158</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PODIUM FUNDING TRUST</BondNm>
+        <EOYBookValueAmt>275616</EOYBookValueAmt>
+        <EOYFMVAmt>275616</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PENSKE TRUCK LEASING/PTL 4.0% 07/15/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>740411</EOYBookValueAmt>
+        <EOYFMVAmt>740411</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PENSKE TRUCK LEASING CO., L.P. 3.95% 03/10/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>134367</EOYBookValueAmt>
+        <EOYFMVAmt>134367</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PENSKE TRUCK LEASING CO., L.P.</BondNm>
+        <EOYBookValueAmt>360395</EOYBookValueAmt>
+        <EOYFMVAmt>360395</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PARADELLE FUNDING LLC</BondNm>
+        <EOYBookValueAmt>244789</EOYBookValueAmt>
+        <EOYFMVAmt>244789</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PARADELLE FUNDING LLC</BondNm>
+        <EOYBookValueAmt>498194</EOYBookValueAmt>
+        <EOYFMVAmt>498194</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PACIFIC LIFE SHORT TERM FUNDING, LLC CP 0.000000 01/30/2025</BondNm>
+        <EOYBookValueAmt>348708</EOYBookValueAmt>
+        <EOYFMVAmt>348708</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>PACCAR FINANCIAL CORP MTN 1.8% 02/06/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>142635</EOYBookValueAmt>
+        <EOYFMVAmt>142635</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ORACLE CORPORATION 2.5% 04/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>1181591</EOYBookValueAmt>
+        <EOYFMVAmt>1181591</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NOVARTIS CAPITAL CORPORATION 3.0% 11/20/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>144648</EOYBookValueAmt>
+        <EOYFMVAmt>144648</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NISOURCE INC 0.95% 08/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>894796</EOYBookValueAmt>
+        <EOYFMVAmt>894796</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NIEUW AMSTERDAM RECEIVABLES CORPORATION</BondNm>
+        <EOYBookValueAmt>1180521</EOYBookValueAmt>
+        <EOYFMVAmt>1180521</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NEXTERA ENERGY CAPITAL HOLDINGS, INC. 4.95% 01/29/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>135018</EOYBookValueAmt>
+        <EOYFMVAmt>135018</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NEXTERA ENERGY CAPITAL 6.051% 03/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>298406</EOYBookValueAmt>
+        <EOYFMVAmt>298406</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NEXTERA ENERGY CAPITAL 5.749% 09/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>120985</EOYBookValueAmt>
+        <EOYFMVAmt>120985</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NETAPP, INC. 1.875% 06/22/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>885703</EOYBookValueAmt>
+        <EOYFMVAmt>885703</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NATWEST MARKETS PLC 3.479% 03/22/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>614703</EOYBookValueAmt>
+        <EOYFMVAmt>614703</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NATIONAL SECURITIES CLEARING CORPORATION CP 0.000000 02/03/2025</BondNm>
+        <EOYBookValueAmt>298758</EOYBookValueAmt>
+        <EOYFMVAmt>298758</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NATIONAL RURAL UTIL COOP FRN MTN 12/03/2025 USD SOFRRATE O/N +40.00BP SR LIE</BondNm>
+        <EOYBookValueAmt>640574</EOYBookValueAmt>
+        <EOYFMVAmt>640574</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NATIONAL BANK OF KUWAIT S.A.K.P - NEW YORK BRANCH CD 4.860000 05/16/2025</BondNm>
+        <EOYBookValueAmt>596597</EOYBookValueAmt>
+        <EOYFMVAmt>596597</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NATIONAL BANK OF KUWAIT S.A.K.P - NEW YORK BRANCH CD 12/13/2024 12/12/2025</BondNm>
+        <EOYBookValueAmt>601503</EOYBookValueAmt>
+        <EOYFMVAmt>601503</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NATIONAL BANK OF KUWAIT S.A.K.P - NEW YORK BRANCH 5.73% 01/10/2025 SER YCD S</BondNm>
+        <EOYBookValueAmt>475378</EOYBookValueAmt>
+        <EOYFMVAmt>475378</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NATIONAL BANK OF CANADA 5.25% 01/17/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>256034</EOYBookValueAmt>
+        <EOYFMVAmt>256034</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MPLX LP 4.875% 06/01/2025 SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>451522</EOYBookValueAmt>
+        <EOYFMVAmt>451522</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MONDELEZ INTL HLDINGS NE 4.25% 09/15/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>670916</EOYBookValueAmt>
+        <EOYFMVAmt>670916</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MONDELEZ INTERNATIONAL 1.5% 05/04/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>178379</EOYBookValueAmt>
+        <EOYFMVAmt>178379</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MITSUBISHI UFJ FIN GRP 2.193% 02/25/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>1165465</EOYBookValueAmt>
+        <EOYFMVAmt>1165465</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MICROCHIP TECHNOLOGY INCORPORATED 4.25% 09/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>894104</EOYBookValueAmt>
+        <EOYFMVAmt>894104</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MATCHPOINT FINANCE PLC CP 0.000000 04/16/2025</BondNm>
+        <EOYBookValueAmt>493323</EOYBookValueAmt>
+        <EOYFMVAmt>493323</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MARRIOTT INTERNATIONAL, INC 3.75% 03/15/2025 SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>879431</EOYBookValueAmt>
+        <EOYFMVAmt>879431</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MACQUARIE BANK LIMITED CP 10/07/2024 10/03/2025 SOFRTERMCME1DY +36.00BPSOF</BondNm>
+        <EOYBookValueAmt>1204237</EOYBookValueAmt>
+        <EOYFMVAmt>1204237</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MACQUARIE BANK LIMITED</BondNm>
+        <EOYBookValueAmt>595011</EOYBookValueAmt>
+        <EOYFMVAmt>595011</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LVMH MOET HENNESSY LOUIS VUITTON CP 0.000000 04/07/2025</BondNm>
+        <EOYBookValueAmt>568152</EOYBookValueAmt>
+        <EOYFMVAmt>568152</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LMA-AMERICAS LLC CP ISS 08/26/24 MAT 02/27/25 LMA R 0.0% USD</BondNm>
+        <EOYBookValueAmt>290889</EOYBookValueAmt>
+        <EOYFMVAmt>290889</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LMA-AMERICAS LLC CP ISS 04/02/25 MAT 04/09/25 LMA R 0.0% USD</BondNm>
+        <EOYBookValueAmt>325931</EOYBookValueAmt>
+        <EOYFMVAmt>325931</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LLOYDS BANKING GROUP PLC 4.45% 05/08/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>200948</EOYBookValueAmt>
+        <EOYFMVAmt>200948</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LIBERTY STREET FUNDING (R) CP ISS 03/14/25 MAT 03/17/25 LIBERTY R 0.0% USD</BondNm>
+        <EOYBookValueAmt>1063851</EOYBookValueAmt>
+        <EOYFMVAmt>1063851</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LENNOX INTERNATIONAL INC 1.35% 08/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>657536</EOYBookValueAmt>
+        <EOYFMVAmt>657536</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LANDESBANK HESSEN-THUERINGEN GIROZENTRALE-NEW YORK BRANCH CD 4.540000 12/</BondNm>
+        <EOYBookValueAmt>1192306</EOYBookValueAmt>
+        <EOYFMVAmt>1192306</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LABORATORY CORPORATION OF AMERICA HOLDINGS 3.6% 02/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>119643</EOYBookValueAmt>
+        <EOYFMVAmt>119643</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>L3HARRIS TECHNOLOGIES, INC. 3.832% 04/27/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>1262469</EOYBookValueAmt>
+        <EOYFMVAmt>1262469</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>KOOKMIN BANK CO., LTD - NEW YORK BRANCH CD 01/29/2024 01/29/2025 SOFRRATE1</BondNm>
+        <EOYBookValueAmt>567220</EOYBookValueAmt>
+        <EOYFMVAmt>567220</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>JUNIPER NETWORKS INC 1.2% 12/10/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>788383</EOYBookValueAmt>
+        <EOYFMVAmt>788383</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTESA SANPAOLO S.P.A. 7.0% 11/21/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>980450</EOYBookValueAmt>
+        <EOYFMVAmt>980450</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTESA FUNDING LLC CP 0.000000 04/04/2025</BondNm>
+        <EOYBookValueAmt>598330</EOYBookValueAmt>
+        <EOYFMVAmt>598330</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTESA FUNDING LLC CP 0.000000 01/09/2025</BondNm>
+        <EOYBookValueAmt>602286</EOYBookValueAmt>
+        <EOYFMVAmt>602286</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INTEL CORPORATION 3.7% 07/29/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>760742</EOYBookValueAmt>
+        <EOYFMVAmt>760742</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ING (U.S.) FUNDING LLC CP ISS 01/30/25 MAT 06/20/25 ING FUND 0.0% USD</BondNm>
+        <EOYBookValueAmt>279039</EOYBookValueAmt>
+        <EOYFMVAmt>279039</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>IBERDROLA INTERNATIONAL B.V. 5.81% 03/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>227089</EOYBookValueAmt>
+        <EOYFMVAmt>227089</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HYUNDAI CAPITAL AMERICA 5.8% 06/26/2025 PVT 144A PVT QP SR LIEN</BondNm>
+        <EOYBookValueAmt>306347</EOYBookValueAmt>
+        <EOYFMVAmt>306347</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HYUNDAI CAPITAL AMERICA 2.65% 02/10/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>1377743</EOYBookValueAmt>
+        <EOYFMVAmt>1377743</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HYUNDAI CAPITAL AMERICA 1.8% 10/15/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>543240</EOYBookValueAmt>
+        <EOYFMVAmt>543240</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC USA INC. CP 0.000000 08/27/2025</BondNm>
+        <EOYBookValueAmt>488775</EOYBookValueAmt>
+        <EOYFMVAmt>488775</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC USA INC. CP 0.000000 06/27/2025</BondNm>
+        <EOYBookValueAmt>244365</EOYBookValueAmt>
+        <EOYFMVAmt>244365</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC USA INC.</BondNm>
+        <EOYBookValueAmt>411384</EOYBookValueAmt>
+        <EOYFMVAmt>411384</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC BANK USA, NATIONAL ASSOCIATION FRN 06/06/2025 SER CD SOFRRATE O/N +35.0</BondNm>
+        <EOYBookValueAmt>328290</EOYBookValueAmt>
+        <EOYFMVAmt>328290</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC BANK PLC CP 06/06/2024 06/04/2025 SOFRRATE1DY +36.00BP CPN06/06/24 5.</BondNm>
+        <EOYBookValueAmt>282202</EOYBookValueAmt>
+        <EOYFMVAmt>282202</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HSBC BANK PLC CP 02/09/2024 02/07/2025 SOFRRATE1DY +33.00BP CPN02/12/24 0.</BondNm>
+        <EOYBookValueAmt>301065</EOYBookValueAmt>
+        <EOYFMVAmt>301065</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HEALTH CARE SERVICE CORPORATION 1.5% 06/01/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>1777500</EOYBookValueAmt>
+        <EOYFMVAmt>1777500</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HANNOVER FUNDING COMPANY LLC CP 0.000000 06/06/2025</BondNm>
+        <EOYBookValueAmt>894693</EOYBookValueAmt>
+        <EOYFMVAmt>894693</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>HALEON UK CAPITAL PLC 3.125% 03/24/2025 SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>251113</EOYBookValueAmt>
+        <EOYFMVAmt>251113</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GULFSTREAM NATURAL GAS 4.6% 09/15/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>875292</EOYBookValueAmt>
+        <EOYFMVAmt>875292</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GOTHAM FUNDING CORPORATION CP 0.000000 01/24/2025</BondNm>
+        <EOYBookValueAmt>472599</EOYBookValueAmt>
+        <EOYFMVAmt>472599</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GOLDMAN SACHS ULTRA SHORT BOND ETF ETF</BondNm>
+        <EOYBookValueAmt>4367129</EOYBookValueAmt>
+        <EOYFMVAmt>4367129</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MOTORS FINL CO 6.05% 10/10/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>665454</EOYBookValueAmt>
+        <EOYFMVAmt>665454</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MOTORS FINL CO 4.0% 01/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>201569</EOYBookValueAmt>
+        <EOYFMVAmt>201569</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MOTORS FINANCIAL COMPANY, INC. CP 0.000000 02/24/2025</BondNm>
+        <EOYBookValueAmt>248225</EOYBookValueAmt>
+        <EOYFMVAmt>248225</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GENERAL MOTORS FINANCIAL COMPANY, INC. 2.75% 06/20/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>247760</EOYBookValueAmt>
+        <EOYFMVAmt>247760</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GE HEALTHCARE TECH INC 5.6% 11/15/2025 SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>325448</EOYBookValueAmt>
+        <EOYFMVAmt>325448</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>GATX CORPORATION 3.25% 03/30/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>882231</EOYBookValueAmt>
+        <EOYFMVAmt>882231</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FORTUNE BRANDS HOME &amp; SE 4.0% 06/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>878062</EOYBookValueAmt>
+        <EOYFMVAmt>878062</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FLORIDA GAS TRANSMISSION 4.35% 07/15/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>898081</EOYBookValueAmt>
+        <EOYFMVAmt>898081</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FFCB FRN 06/12/2025 OTHER NONE +7.00BP CPN 06/03/25-06/12/25 4.366153%</BondNm>
+        <EOYBookValueAmt>1159869</EOYBookValueAmt>
+        <EOYFMVAmt>1159869</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FEDERATION DES CAISSES DESJARDINS DU QUEBEC 2.05% 02/10/2025 PVT 144A PVT SR</BondNm>
+        <EOYBookValueAmt>967930</EOYBookValueAmt>
+        <EOYFMVAmt>967930</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EXELON GENERATION CO LLC 3.25% 06/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>205221</EOYBookValueAmt>
+        <EOYFMVAmt>205221</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EXELON CORPORATION 3.95% 06/15/2025 SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>862747</EOYBookValueAmt>
+        <EOYFMVAmt>862747</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EVERSOURCE ENERGY 0.8% 08/15/2025 SER Q SR LIEN</BondNm>
+        <EOYBookValueAmt>781128</EOYBookValueAmt>
+        <EOYFMVAmt>781128</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ERAC USA FINANCE LLC 3.8% 11/01/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>134928</EOYBookValueAmt>
+        <EOYFMVAmt>134928</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>EQUITABLE FINANCIAL LIFE 1.4% 07/07/2025 PVT 144A PVT</BondNm>
+        <EOYBookValueAmt>69326</EOYBookValueAmt>
+        <EOYFMVAmt>69326</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENTERGY CORPORATION</BondNm>
+        <EOYBookValueAmt>271661</EOYBookValueAmt>
+        <EOYFMVAmt>271661</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ENERGY TRANSFER PARTNERS 4.75% 01/15/2026 USD SR LIEN</BondNm>
+        <EOYBookValueAmt>401018</EOYBookValueAmt>
+        <EOYFMVAmt>401018</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DOLLAR TREE INC 4.0% 05/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>474664</EOYBookValueAmt>
+        <EOYFMVAmt>474664</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DOLLAR GENERAL CORPORATION 4.15% 11/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>648348</EOYBookValueAmt>
+        <EOYFMVAmt>648348</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DNB BANK ASA CP 0.000000 10/09/2025</BondNm>
+        <EOYBookValueAmt>507463</EOYBookValueAmt>
+        <EOYFMVAmt>507463</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DEUTSCHE BANK AG-NEW YORK BRANCH FRN 11/21/2025 USD SER YCD SOFRRATE 1DY +39</BondNm>
+        <EOYBookValueAmt>190069</EOYBookValueAmt>
+        <EOYFMVAmt>190069</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DEUTSCHE BANK AG-NEW YORK BRANCH FRN 05/22/2025 SER YCD SOFRRATE O/N +40.00B</BondNm>
+        <EOYBookValueAmt>515093</EOYBookValueAmt>
+        <EOYFMVAmt>515093</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DEUTSCHE BANK AG-NEW YORK BRANCH CD 4.630000 11/06/2025</BondNm>
+        <EOYBookValueAmt>302144</EOYBookValueAmt>
+        <EOYFMVAmt>302144</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DANSKE BANK A/S CP 0.000000 05/30/2025</BondNm>
+        <EOYBookValueAmt>981500</EOYBookValueAmt>
+        <EOYFMVAmt>981500</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>D.R. HORTON INC 2.6% 10/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>881064</EOYBookValueAmt>
+        <EOYFMVAmt>881064</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CVS HEALTH CORPORATION 3.875% 07/20/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>525678</EOYBookValueAmt>
+        <EOYFMVAmt>525678</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CREDIT SUISSE NEW YORK 7.95% 01/09/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>1393578</EOYBookValueAmt>
+        <EOYFMVAmt>1393578</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CREDIT INDUSTRIEL ET COMMERCIAL-NEW YORK BRANCH</BondNm>
+        <EOYBookValueAmt>507108</EOYBookValueAmt>
+        <EOYFMVAmt>507108</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CREDIT AGRICOLE SA-LONDON BRANCH 2.375% 01/22/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>1177694</EOYBookValueAmt>
+        <EOYFMVAmt>1177694</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK-NEW YORK BRANCH</BondNm>
+        <EOYBookValueAmt>358480</EOYBookValueAmt>
+        <EOYFMVAmt>358480</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CD 09/23/2024 04/03/2025 SOF</BondNm>
+        <EOYBookValueAmt>371122</EOYBookValueAmt>
+        <EOYFMVAmt>371122</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>COMMONWEALTH BANK AUST FRN 03/14/2025 PVT 144A PVT SOFRRATE O/N +74.00BP SR</BondNm>
+        <EOYBookValueAmt>120179</EOYBookValueAmt>
+        <EOYFMVAmt>120179</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>COLUMBIA PIPELINE GROUP, INC. 4.5% 06/01/2025 SER WI SR LIEN</BondNm>
+        <EOYBookValueAmt>875980</EOYBookValueAmt>
+        <EOYFMVAmt>875980</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>COLONIAL PIPELINE COMPANY 3.75% 10/01/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>355343</EOYBookValueAmt>
+        <EOYFMVAmt>355343</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP INC. HYBRID 01/25/2026 SR LIEN CPN 10/25/24-01/24/25 2.014%</BondNm>
+        <EOYBookValueAmt>168085</EOYBookValueAmt>
+        <EOYFMVAmt>168085</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CITIGROUP GLOBAL MARKETS INC.</BondNm>
+        <EOYBookValueAmt>332934</EOYBookValueAmt>
+        <EOYFMVAmt>332934</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CISCO SYSTEMS, INC. R CP ISS 02/03/25 MAT 02/07/25 CISCO R 0.0% USD</BondNm>
+        <EOYBookValueAmt>596239</EOYBookValueAmt>
+        <EOYFMVAmt>596239</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CISCO SYSTEMS, INC. CP 0.000000 01/31/2025</BondNm>
+        <EOYBookValueAmt>600740</EOYBookValueAmt>
+        <EOYFMVAmt>600740</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CDP FINANCIAL INC.</BondNm>
+        <EOYBookValueAmt>300713</EOYBookValueAmt>
+        <EOYFMVAmt>300713</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CANADIAN IMPERIAL BANK OF COMMERCE 3.3% 04/07/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>369443</EOYBookValueAmt>
+        <EOYFMVAmt>369443</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CANADIAN IMP BK COMM NY FRN 02/14/2025 SER YCD SOFRRATE O/N +25.00BP SR LIEN</BondNm>
+        <EOYBookValueAmt>357856</EOYBookValueAmt>
+        <EOYFMVAmt>357856</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CAISSE D'AMORTISSEMENT DE LA DETTE SOCIALE CP 0.000000 03/03/2025</BondNm>
+        <EOYBookValueAmt>783025</EOYBookValueAmt>
+        <EOYFMVAmt>783025</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CABOT TRAIL FUNDING LLC CP 0.000000 01/13/2025</BondNm>
+        <EOYBookValueAmt>249602</EOYBookValueAmt>
+        <EOYFMVAmt>249602</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BRAMBLES USA INC 4.125% 10/23/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>875631</EOYBookValueAmt>
+        <EOYFMVAmt>875631</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BPCE FRN 01/14/2025 PVT 144A PVT SOFRRATE O/N +57.00BP SR LIEN CPN 10/15/24-</BondNm>
+        <EOYBookValueAmt>252859</EOYBookValueAmt>
+        <EOYFMVAmt>252859</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BPCE CP 0.000000 11/06/2025</BondNm>
+        <EOYBookValueAmt>342614</EOYBookValueAmt>
+        <EOYFMVAmt>342614</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BPCE 5.029% 01/15/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>285453</EOYBookValueAmt>
+        <EOYFMVAmt>285453</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BPCE 2.375% 01/14/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>885876</EOYBookValueAmt>
+        <EOYFMVAmt>885876</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BOFA SECURITIES, INC. CP 0.000000 11/13/2025</BondNm>
+        <EOYBookValueAmt>273936</EOYBookValueAmt>
+        <EOYFMVAmt>273936</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BOFA SECURITIES, INC. CP 0.000000 03/11/2025</BondNm>
+        <EOYBookValueAmt>468877</EOYBookValueAmt>
+        <EOYFMVAmt>468877</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BOFA SECURITIES, INC.</BondNm>
+        <EOYBookValueAmt>560903</EOYBookValueAmt>
+        <EOYFMVAmt>560903</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BOFA SECURITIES, INC.</BondNm>
+        <EOYBookValueAmt>297541</EOYBookValueAmt>
+        <EOYFMVAmt>297541</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BNP PARIBAS FRN 03/07/2025 SER YCD SOFRRATE 1DY +31.00BP SR LIEN CPN 03/05/2</BondNm>
+        <EOYBookValueAmt>210720</EOYBookValueAmt>
+        <EOYFMVAmt>210720</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BNP PARIBAS CD 4.390000 10/07/2025</BondNm>
+        <EOYBookValueAmt>182673</EOYBookValueAmt>
+        <EOYFMVAmt>182673</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BNP PARIBAS 3.375% 01/09/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>203156</EOYBookValueAmt>
+        <EOYFMVAmt>203156</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BMW US CAPITAL, LLC FRN 04/01/2025 USD PVT 144A PVT SOFRINDX1DY +84.00BPSOF</BondNm>
+        <EOYBookValueAmt>197428</EOYBookValueAmt>
+        <EOYFMVAmt>197428</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BAYERISCHE LANDESBANK - NEW YORK BRANCH</BondNm>
+        <EOYBookValueAmt>630173</EOYBookValueAmt>
+        <EOYFMVAmt>630173</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BARCLAYS PLC 3.65% 03/16/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>1080614</EOYBookValueAmt>
+        <EOYFMVAmt>1080614</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BARCLAYS BANK PLC-NEW YORK BRANCH CD 05/09/2024 05/08/2025 SOFRRATE1DY +38</BondNm>
+        <EOYBookValueAmt>1155795</EOYBookValueAmt>
+        <EOYFMVAmt>1155795</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BARCLAYS BANK PLC CD 02/07/2024 02/07/2025 SOFRRATE1DY +38.00BP CPN06/12/2</BondNm>
+        <EOYBookValueAmt>540202</EOYBookValueAmt>
+        <EOYFMVAmt>540202</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF NOVA SCOTIA (THE) MTN 3.45% 04/11/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>210768</EOYBookValueAmt>
+        <EOYFMVAmt>210768</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF NOVA SCOTIA (THE) MTN 1.45% 01/10/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>135808</EOYBookValueAmt>
+        <EOYFMVAmt>135808</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF NOVA SCOTIA (THE) 2.2% 02/03/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>423743</EOYBookValueAmt>
+        <EOYFMVAmt>423743</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF NEW ZEALAND 2.0% 02/21/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>250834</EOYBookValueAmt>
+        <EOYFMVAmt>250834</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANK OF MONTREAL-CHICAGO BRANCH CD 10/09/2024 11/07/2025 SOFRRATE1DY +40.0</BondNm>
+        <EOYBookValueAmt>803187</EOYBookValueAmt>
+        <EOYFMVAmt>803187</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANCO SANTANDER, S.A.-NEW YORK BRANCH CD 5.260000 03/03/2025</BondNm>
+        <EOYBookValueAmt>102337</EOYBookValueAmt>
+        <EOYFMVAmt>102337</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANCO SANTANDER SA 5.147% 08/18/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>611967</EOYBookValueAmt>
+        <EOYFMVAmt>611967</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANCO SANTANDER SA 3.496% 03/24/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>201416</EOYBookValueAmt>
+        <EOYFMVAmt>201416</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANCO SANTANDER SA 2.746% 05/28/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>1390112</EOYBookValueAmt>
+        <EOYFMVAmt>1390112</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BANCO BILBAO VIZCAYA ARG 1.125% 09/18/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>195660</EOYBookValueAmt>
+        <EOYFMVAmt>195660</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>B.A.T. INTERNATIONAL FINANCE P.L.C. 3.95% 06/15/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>737247</EOYBookValueAmt>
+        <EOYFMVAmt>737247</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AVANGRID INC 3.2% 04/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>869489</EOYBookValueAmt>
+        <EOYFMVAmt>869489</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED CP 0.000000 07/10/2025</BondNm>
+        <EOYBookValueAmt>702430</EOYBookValueAmt>
+        <EOYFMVAmt>702430</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>APT PIPELINES LTD 4.2% 03/23/2025 PVT 144A PVT SR LIEN</BondNm>
+        <EOYBookValueAmt>120059</EOYBookValueAmt>
+        <EOYFMVAmt>120059</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AON PLC 3.875% 12/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>725738</EOYBookValueAmt>
+        <EOYFMVAmt>725738</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ANTHEM, INC. 2.375% 01/15/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>326260</EOYBookValueAmt>
+        <EOYFMVAmt>326260</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>ALBION CAPITAL LLC CP 0.000000 02/18/2025</BondNm>
+        <EOYBookValueAmt>257423</EOYBookValueAmt>
+        <EOYFMVAmt>257423</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AIR LEASE CORPORATION MTN 2.3% 02/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>513633</EOYBookValueAmt>
+        <EOYFMVAmt>513633</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AFFILIATED MANAGERS GROUP, INC. 3.5% 08/01/2025 SR LIEN</BondNm>
+        <EOYBookValueAmt>892177</EOYBookValueAmt>
+        <EOYFMVAmt>892177</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>11978153</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>11978153</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>0</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>0</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>HERITAGE FUND IV TCF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>960761</BookValueAmt>
+        <EOYFMVAmt>960761</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>WEST STREET CAPITAL PARTNERS IX OFFSHORE LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>350000</BookValueAmt>
+        <EOYFMVAmt>350000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ALPINVEST SECONDARIES VIII ACC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>1340756</BookValueAmt>
+        <EOYFMVAmt>1340756</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>FROM FLOW THROUGH</Desc>
+        <RevenueAndExpensesPerBooksAmt>0</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>-50820</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>OTHER INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>-57858</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>-57858</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN</Desc>
+        <Amt>1408597</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>5762</Amt>
+        <NetInvestmentIncomeAmt>4091</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1671</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT FEES</CategoryTxt>
+        <Amt>487637</Amt>
+        <NetInvestmentIncomeAmt>487637</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>2023 FEDERAL TAX EXPENSE</CategoryTxt>
+        <Amt>210000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

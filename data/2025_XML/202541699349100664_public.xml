@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-06-18T14:40:19-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>462037525</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Murrill &amp; Gerbino LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>9191 Towne Centre Drive Ste 355</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92122</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330653839</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>WARREN-NEELY FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WARR</BusinessNameControlTxt>
+      <PhoneNum>6192987043</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3919 PORTOLA PLACE</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>KENNETH WARREN</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-06-18</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JASON S GERBINO EA</PreparerPersonNm>
+      <PTIN>P00992842</PTIN>
+      <PhoneNum>8584555400</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation BinaryAttachment.1 BinaryAttachment.2" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>75</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>75</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>75</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>19971</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>19971</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>19971</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>63807</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>144779</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>63807</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>83853</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>83853</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>20046</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">250</LegalFeesRevAndExpnssAmt>
+        <LegalFeesAdjNetIncmAmt>250</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>250</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1550</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesAdjNetIncmAmt>1550</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1550</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">1371</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1346</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>25</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>25</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">25973</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>10319</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>15654</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>15654</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>29144</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>11665</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>17479</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>17479</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>37500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>37500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>66644</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>11665</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>17479</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>54979</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>17209</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>72188</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2567</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>12813</CashBOYAmt>
+        <CashEOYAmt>38328</CashEOYAmt>
+        <OtherInvestmentsBOYAmt>1028854</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>1152896</OtherInvestmentsEOYAmt>
+        <TotalAssetsBOYAmt>1041667</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1191224</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>1041667</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>1191224</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1041667</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1191224</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1041667</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1191224</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1041667</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>17209</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">132348</OtherIncreasesAmt>
+        <SubtotalAmt>1191224</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1191224</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - SEE ATTACHED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>144779</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>80972</CostOrOtherBasisAmt>
+          <GainOrLossAmt>63807</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>63807</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>63807</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1003</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1003</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1003</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>642</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>642</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>361</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>KENNETH WARREN</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6192987043</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3919 PORTOLA PLACE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92103</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JULIE WARREN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3919 PORTOLA PLACE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92103</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KENNETH WARREN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3919 PORTOLA PLACE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92103</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PROVIDE FUNDS FOR SCHOLARSHIPS, HOSPITALS AND SOCIAL ORGANIZATIONS THAT SUPPORT THE COMMUNITY.</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>1003</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1003</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1003</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1003</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>54979</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>54979</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>39259</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>45975</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>52372</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>63470</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>54312</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>255388</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>54979</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>54979</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>310367</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>39259</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>271108</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>45975</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>52372</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>63470</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>54312</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>54979</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>WARREN-NEELY FOUNDATION INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3919 PORTOLA PLACE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6192987043</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>kenandjuls@aol.com</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>APPLICATIONS ONLY ACCEPTED FROM NON-PROFIT CHARITABLE ORGANIZATIONS. APPLICATIONS MUST INCLUDE, BUT ARE NOT LIMITED TO, DETAILED DESCRIPTION OF ORGANIZATION'S QUALIFICATION AS A NON-PROFIT CHARITY, HISTORY OF CHARITABLE ACTIVITIES, AMOUNT OF REQUEST, AND HOW SAID FUNDS SHALL BE USED.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NOT APPLICABLE.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>DISCRETION OF WARREN-NEELY BOARD OF DIRECTORS.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIVITY PREP ACADEMY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2755 55TH STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>YOUTH OPPORTUNITIES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAN DIEGO MARITIME MUSEUM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1492 NORTH HARBOR DRIVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PUBLIC AWARENESS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EAST COUNTY YOUTH SYMPHONY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 25</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>YOUTH EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MEALS ON WHEELS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2254 SAN DIEGO AVENUE STE 200</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SENIOR MEAL DELIVERY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JACOBS CUSHMAN SD FOOD BANK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9850 DISTRIBUTION AVENUE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CORONA VIRUS RESPONSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN DIEGO AUTOMOTIVE MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2080 PAN AMERICAN PLAZA</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>26500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHRISTIAN SURFERS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1330 POINSETTIA LANE</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LAKESIDE RIVERPARK CONSERVANCE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13121 HA HANA RD</AddressLine1Txt>
+            <CityNm>LAKESIDE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92040</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EOF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEADERSHIP INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1101 N HIGHLAND STREET</AddressLine1Txt>
+            <CityNm>ARLINGTON</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22201</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MISSION HILLS BUSINESS ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>MISSION HILLS</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>37500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>75</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>19971</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>63807</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>20046</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>63807</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>83853</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>1550</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1550</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1550</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL</CategoryTxt>
+        <LegalFeesAmt>250</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>250</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>250</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <OtherExpensesScheduleGrp>
+        <Desc>MANAGEMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>10319</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10319</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SCHOLARSHIPS</Desc>
+        <RevenueAndExpensesPerBooksAmt>13200</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>13200</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>13200</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SPECIAL EVENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>2454</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>2454</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2454</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <TaxesDetail>
+        <CategoryTxt>FEES AND LICENSES</CategoryTxt>
+        <Amt>25</Amt>
+        <AdjustedNetIncomeAmt>25</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>1346</Amt>
+        <NetInvestmentIncomeAmt>1346</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

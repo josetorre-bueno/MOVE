@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-10T11:33:16-08:00</ReturnTs>
+    <TaxPeriodEndDt>2025-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>952076568</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Leaf &amp; Cole LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2810 Camino Del Rio South Suite 200</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92108</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330359369</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BARRIO SENIOR VILLAS</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BARR</BusinessNameControlTxt>
+      <PhoneNum>6192855600</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3180 UNIVERSITY AVE 400</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92104</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>PAUL GLASGO</PersonNm>
+      <PersonTitleTxt>Treasurer</PersonTitleTxt>
+      <SignatureDt>2025-11-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JENNY KIKUNO</PreparerPersonNm>
+      <PTIN>P01347644</PTIN>
+      <PhoneNum>6192947200</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>594154</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>15514</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>40</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>40</InterestOnSavNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">64299</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>64299</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>79853</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>40</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>64299</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>24414</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>5892</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>18522</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">21398</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesAdjNetIncmAmt>5164</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>16234</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>16599</InterestRevAndExpnssAmt>
+        <InterestAdjNetIncmAmt>4006</InterestAdjNetIncmAmt>
+        <InterestDsbrsChrtblAmt>12593</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">1849</TaxesRevAndExpnssAmt>
+        <TaxesAdjNetIncmAmt>446</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>1403</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">30568</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>30568</DeprecAndDpltnAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">75499</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>18223</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>57276</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>170327</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>64299</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>106028</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>170327</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>64299</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>106028</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-90474</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>40</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>64543</CashBOYAmt>
+        <CashEOYAmt>29838</CashEOYAmt>
+        <CashEOYFMVAmt>29838</CashEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>1254010</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>794481</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>475996</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">459529</LandEOYAmt>
+        <LandEOYFMVAmt>459529</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">100817</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">104787</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">104787</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>641356</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>594154</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>594154</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>219707</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>244503</AccountsPayableEOYAmt>
+        <DeferredRevenueEOYAmt>738</DeferredRevenueEOYAmt>
+        <MortgagesAndNotesPayableBOYAmt>550850</MortgagesAndNotesPayableBOYAmt>
+        <MortgagesAndNotesPayableEOYAmt referenceDocumentId="MortgagesAndNotesPayableSchedu">550850</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">463505</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">481243</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>1234062</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>1277334</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>-592706</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>-688006</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsEOYAmt>4826</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>-592706</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>-683180</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>641356</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>594154</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>-592706</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-90474</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>-683180</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>-683180</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>1</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>ELIZABETH RAMIREZ</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6192855600</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3180 UNIVERSITY AVE STE 400</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92104</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VERONICA RUIZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALBERT DUENAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>PAST PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JORGE CARRETO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>PAST VP</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RACHAEL ORTIZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>PAST SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MIGUEL ESPINOZA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>24414</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DENISSE NEWELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAUL GLASGO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMIE CABRERA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ADRIANNA O'DONNELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JIMMY FIGUEROA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3180 UNIVERSITY AVE STE 317</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>THE OBJECTIVES OF THE CORPORATION ARE TO PROVIDE HOUSING FOR LOW AND MODERATE INCOME INDIVIDUALS.</Description1Txt>
+        <Expenses1Amt>170327</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>47191</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>47191</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>47191</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>708</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>46483</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>2324</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>106028</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>106028</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <TotalAmt>0</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>106028</CurrentYearAmt>
+          <Year1Amt>133872</Year1Amt>
+          <Year2Amt>68483</Year2Amt>
+          <Year3Amt>60361</Year3Amt>
+          <TotalAmt>368744</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>106028</CurrentYearAmt>
+          <Year1Amt>133872</Year1Amt>
+          <Year2Amt>68483</Year2Amt>
+          <Year3Amt>60361</Year3Amt>
+          <TotalAmt>368744</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <TotalAmt>0</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+        <TotalSupportGrp>
+          <CurrentYearAmt>64299</CurrentYearAmt>
+          <Year1Amt>66130</Year1Amt>
+          <Year2Amt>89110</Year2Amt>
+          <Year3Amt>58893</Year3Amt>
+          <TotalAmt>278432</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <CurrentYearAmt>64299</CurrentYearAmt>
+          <Year1Amt>66130</Year1Amt>
+          <Year2Amt>64110</Year2Amt>
+          <Year3Amt>58893</Year3Amt>
+          <TotalAmt>253432</TotalAmt>
+        </PublicSupportType>
+        <GrossInvestmentIncomeGrp>
+          <CurrentYearAmt>40</CurrentYearAmt>
+          <Year1Amt>35</Year1Amt>
+          <Year2Amt>10</Year2Amt>
+          <Year3Amt>10</Year3Amt>
+          <TotalAmt>95</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>40</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>LOW INCOME HOUSING RENT</Desc>
+          <RelatedOrExemptFunctionIncmAmt>64299</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>40</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>64299</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>64339</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>54</LineNumberTxt>
+          <RelationshipStatementTxt>INCOME FROM PROPERTY HELPED PROVIDE DECENT RENTAL HOUSING TO LOW AND MODERATE INCOME SENIORS.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>CHICANO FEDERATION</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>3180 UNIVERSITY AVE STE 400</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92104</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>15514</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>STRUCTURES</PropertyDesc>
+        <AcquiredDt>1996-08-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1091070</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>761483</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>40.0000</LifeRt>
+        <CurrentYearExpenseAmt>27277</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2023-10-01</AcquiredDt>
+        <CostOrOtherBasisAmt>64839</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2431</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>20.0000</LifeRt>
+        <CurrentYearExpenseAmt>3242</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HVAC Improvements</PropertyDesc>
+        <AcquiredDt>2025-06-04</AcquiredDt>
+        <CostOrOtherBasisAmt>5628</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>15.0000</LifeRt>
+        <CurrentYearExpenseAmt>31</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Range Hood (8 Units)</PropertyDesc>
+        <AcquiredDt>2025-06-04</AcquiredDt>
+        <CostOrOtherBasisAmt>1097</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+        <CurrentYearExpenseAmt>18</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1091070</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>788759</AccumulatedDepreciationAmt>
+        <BookValueAmt>302311</BookValueAmt>
+        <EOYFMVAmt>302311</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>78940</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>5722</AccumulatedDepreciationAmt>
+        <BookValueAmt>73218</BookValueAmt>
+        <EOYFMVAmt>73218</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>84000</CostOrOtherBasisAmt>
+        <BookValueAmt>84000</BookValueAmt>
+        <EOYFMVAmt>84000</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <MortgagesAndNotesPayableSch documentId="MortgagesAndNotesPayableSchedu" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <MortgageAmt>550850</MortgageAmt>
+      <NotePayableGrp>
+        <LenderNameGrp>
+          <PersonNm>CA DEPT OF HSNG COMM DEV</PersonNm>
+        </LenderNameGrp>
+        <LoanOriginalAmt>550850</LoanOriginalAmt>
+        <BalanceDueAmt>550850</BalanceDueAmt>
+        <NoteDt>1995-10</NoteDt>
+        <LoanMaturityDt>2048-10</LoanMaturityDt>
+        <InterestRt>3.0000</InterestRt>
+        <LoanPurposeTxt>RESIDUAL RECEIPTS NOTE</LoanPurposeTxt>
+      </NotePayableGrp>
+    </MortgagesAndNotesPayableSch>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherAssetsScheduleGrp>
+        <Desc>CIP</Desc>
+        <EOYBookValueAmt>4005</EOYBookValueAmt>
+        <EOYFMVAmt>4005</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>LOAN FEES</Desc>
+        <BOYBookValueAmt>909</BOYBookValueAmt>
+        <EOYBookValueAmt>834</EOYBookValueAmt>
+        <EOYFMVAmt>834</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>OPERATING RESERVE</Desc>
+        <BOYBookValueAmt>40866</BOYBookValueAmt>
+        <EOYBookValueAmt>40882</EOYBookValueAmt>
+        <EOYFMVAmt>40882</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>REPLACEMENT RESERVE</Desc>
+        <BOYBookValueAmt>54451</BOYBookValueAmt>
+        <EOYBookValueAmt>54473</EOYBookValueAmt>
+        <EOYFMVAmt>54473</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>TENANT SECURITY DEPOSITS</Desc>
+        <BOYBookValueAmt>4591</BOYBookValueAmt>
+        <EOYBookValueAmt>4593</EOYBookValueAmt>
+        <EOYFMVAmt>4593</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADMINISTRATIVE RENT FREE UNIT</Desc>
+        <RevenueAndExpensesPerBooksAmt>1992</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>481</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1511</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BENEFITS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1270</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>307</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>963</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>11538</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>2785</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>8753</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MANAGEMENT FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>3000</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>724</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2276</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>6947</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1677</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>5270</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OPERATING AND MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>41153</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>9932</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>31221</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>226</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>55</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>171</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UTILITIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>9373</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>2262</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7111</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherIncomeDetail>
+        <Desc>LOW INCOME HOUSING RENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>64299</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherLiabilitiesDetail>
+        <Desc>TENANT SECURITY DEPOSITS</Desc>
+        <BOYBookValueAmt>4563</BOYBookValueAmt>
+        <EOYBookValueAmt>4363</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>INTEREST PAYABLE</Desc>
+        <BOYBookValueAmt>458942</BOYBookValueAmt>
+        <EOYBookValueAmt>475466</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>BANK OVERDRAFT</Desc>
+        <EOYBookValueAmt>1414</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>21398</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5164</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>16234</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAX</CategoryTxt>
+        <Amt>1849</Amt>
+        <AdjustedNetIncomeAmt>446</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1403</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

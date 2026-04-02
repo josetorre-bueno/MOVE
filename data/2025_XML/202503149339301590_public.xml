@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-10T16:20:05-08:00</ReturnTs>
+    <TaxPeriodEndDt>2025-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>953742642</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>PANDELIS P CHRYSSOSTOMIDES INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2566 W AVENUE K</AddressLine1Txt>
+        <CityNm>LANCASTER</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>93536</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>352697719</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MISSION HILLS COMMUNITY PRESCHOOL</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MISS</BusinessNameControlTxt>
+      <PhoneNum>6192912112</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1211 WEST LEWIS STREET</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ANNA DIMARTINO</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-11-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Pandelis P Chryssostomides CPAEA</PreparerPersonNm>
+      <PTIN>P00186056</PTIN>
+      <PhoneNum>6619480474</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T documentId="IRS990T" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>176188</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="IRS990TScheduleA.0">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <PersonNm>CLAIRE RODRIGUEZ</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>1211 WEST LEWIS STREET</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92103</ZIPCd>
+        </USAddress>
+        <PhoneNum>9518343859</PhoneNum>
+      </BooksInCareOfDetail>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>0</TotalUBTIAmt>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <TaxExemptInterestAmt>0</TaxExemptInterestAmt>
+    </IRS990T>
+    <IRS990TScheduleA documentId="IRS990TScheduleA.0" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <PrincipalBusinessActivityCd>611600</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>PRE SCHOOL</TradeOrBusinessDesc>
+      <TotUnrltTrdBusIncmAmt>0</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>0</TotNetUnrltTrdBusIncmAmt>
+    </IRS990TScheduleA>
+  </ReturnData>
+</Return>

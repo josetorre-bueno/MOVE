@@ -1,0 +1,842 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-14T13:10:28-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>954244393</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DUFFY KRUSPODIN LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>4365 EXECUTIVE DR SUITE 1500</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92121</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>953797996</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SERVING HANDS INTERNATIONAL</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SERV</BusinessNameControlTxt>
+      <PhoneNum>6192878873</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4607 MISSION GORGE PLACE</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92120</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>TERRENCE R CASTER</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>6192878873</PhoneNum>
+      <SignatureDt>2025-11-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>1</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JOSHUA J BODENSTADT CPA</PreparerPersonNm>
+      <PTIN>P00289075</PTIN>
+      <PhoneNum>8586425050</PhoneNum>
+      <PreparationDt>2025-11-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <PrincipalOfficerNm>TERRENCE R CASTER</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>4607 MISSION GORGE PLACE</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92120</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>1673315</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>0</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>WWW.SERVINGHANDS.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1982</FormationYr>
+      <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>SERVING HANDS INTERNATIONAL MISSION IS TO AID THE POOREST PEOPLE IN THE WORLD.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>4</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>4</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>0</TotalEmployeeCnt>
+      <TotalVolunteersCnt>0</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>1815534</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>1673315</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>0</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>0</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>0</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>0</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>0</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>0</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>1815534</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>1673315</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>1490823</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>1431868</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>0</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>0</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>0</CYSalariesCompEmpBnftPaidAmt>
+      <PYTotalProfFndrsngExpnsAmt>0</PYTotalProfFndrsngExpnsAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>254028</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>268265</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>1744851</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>1700133</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>70683</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>-26818</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>250383</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>223719</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>10991</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>11145</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>239392</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>212574</NetAssetsOrFundBalancesEOYAmt>
+      <MissionDesc>SERVING HANDS INTERNATIONAL MISSION IS TO AID THE POOREST PEOPLE IN THE WORLD AND STRIVE TO ENCOURAGE IN THEM SELF-SUFFICIENCY, DIGNITY, AND HOPE BY PROVIDING EDUCATIONAL AND VOCATIONAL OPPORTUNITIES, FOOD, CLOTHING, SHELTER, MEDICAL ASSISTANCE, AND SPIRITUAL GUIDANCE.</MissionDesc>
+      <SignificantNewProgramSrvcInd>0</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>0</SignificantChangeInd>
+      <ExpenseAmt>221705</ExpenseAmt>
+      <GrantAmt>221705</GrantAmt>
+      <RevenueAmt>0</RevenueAmt>
+      <Desc>EDUCATION PROGRAM:SHI SUPPORTED THE EDUCATION, INCLUDING AFTER SCHOOL PROGRAMS, OF ABOUT 7,500 CHILDREN BY PROVIDING FINANCIAL AID, CLASSROOM SUPPLIES, BACKPACKS, AND OTHER LEARNING MATERIALS IN IMPOVERISHED AREAS.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>1169363</ExpenseAmt>
+        <GrantAmt>1169363</GrantAmt>
+        <RevenueAmt>0</RevenueAmt>
+        <Desc>FOOD AND DEVELOPMENT AID PROGRAM:HUMANITARIAN AID WAS MADE AVAILABLE TO ABOUT 724,000 PEOPLE IN NEED. THE AID INCLUDED BASIC LIFE NECESSITIES SUCH AS FOOD, WATER, CLOTHING, BLANKETS, EMERGENCY SHELTERS, SANDBAGS, AND OTHER NEEDED RESOURCES.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <ProgSrvcAccomActy3Grp>
+        <ExpenseAmt>40800</ExpenseAmt>
+        <GrantAmt>40800</GrantAmt>
+        <RevenueAmt>0</RevenueAmt>
+        <Desc>MEDICAL AID PROGRAM:MEDICAL AID WAS PROVIDED TO OVER 19,000 IMPOVERISHED PEOPLE IN MEXICO. THE PROGRAMS INCLUDED FUNDING SERVICES FOR SURGERIES, MEDICATIONS, AND PREVENTATIVE MEDICINE. THE PROGRAMS ADDRESS A WIDE RANGE OF MEDICAL TREATMENTS SUCH AS DENTAL CARE, EYE CARE, INTERNAL MEDICINE, PEDIATRICS, CANCER TREATMENT, RECONSTRUCTIVE SURGERIES, AND HOSPICE.</Desc>
+      </ProgSrvcAccomActy3Grp>
+      <ProgSrvcAccomActyOtherGrp>
+        <RevenueAmt>0</RevenueAmt>
+      </ProgSrvcAccomActyOtherGrp>
+      <TotalProgramServiceExpensesAmt>1431868</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc1039100001">1</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="RetDoc1234500001">1</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>0</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>0</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>0</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc1040000001">0</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc1040000001">0</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc1040000001">0</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>0</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc1040000001">1</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc1040000001">0</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc1040000001">0</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc1040000001">0</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc1040000001">0</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <ForeignOfficeInd>0</ForeignOfficeInd>
+      <ForeignActivitiesInd referenceDocumentId="RetDoc1040500001">1</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd referenceDocumentId="RetDoc1040500001">1</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd referenceDocumentId="RetDoc1040500001">0</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>0</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>0</FundraisingActivitiesInd>
+      <GamingActivitiesInd>0</GamingActivitiesInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>0</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>0</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>0</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>0</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>0</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>0</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>0</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>0</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>0</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd>0</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>0</DeductibleArtContributionInd>
+      <TerminateOperationsInd>0</TerminateOperationsInd>
+      <PartialLiquidationInd>0</PartialLiquidationInd>
+      <DisregardedEntityInd>0</DisregardedEntityInd>
+      <RelatedEntityInd>0</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>0</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd>0</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd>0</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>1</ScheduleORequiredInd>
+      <IRPDocumentCnt>0</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>0</EmployeeCnt>
+      <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>0</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>0</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>0</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>0</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+      <IndoorTanningServicesInd>0</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>0</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>4</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>4</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>0</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>1</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>0</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>0</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>0</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>0</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>0</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>1</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>1</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>0</OfficerMailingAddressInd>
+      <LocalChaptersInd>0</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>1</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>1</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>1</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>1</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>1</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>1</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>0</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>0</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>0</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>TERRENCE R CASTER</BusinessNameLine1Txt>
+        </BusinessName>
+        <PhoneNum>6192878873</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>4607 MISSION GORGE PLACE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92120</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <NoListedPersonsCompensatedInd>X</NoListedPersonsCompensatedInd>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>TERRENCE R CASTER</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>10.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BARBARA CULVER</PersonNm>
+        <TitleTxt>SECRETARY</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>TOM KEARNEY</PersonNm>
+        <TitleTxt>TRUSTEE</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MARIA FRAUSTO CHAVEZ</PersonNm>
+        <TitleTxt>TRUSTEE</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>0</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>0</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>0</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>0</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>0</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>0</CompensationFromOtherSrcsInd>
+      <CntrctRcvdGreaterThan100KCnt>0</CntrctRcvdGreaterThan100KCnt>
+      <AllOtherContributionsAmt>1673315</AllOtherContributionsAmt>
+      <TotalContributionsAmt>1673315</TotalContributionsAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>1673315</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>0</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>0</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>0</ExclusionAmt>
+      </TotalRevenueGrp>
+      <ForeignGrantsGrp>
+        <TotalAmt>1431868</TotalAmt>
+        <ProgramServicesAmt>1431868</ProgramServicesAmt>
+      </ForeignGrantsGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>268265</TotalAmt>
+        <ManagementAndGeneralAmt>268265</ManagementAndGeneralAmt>
+      </OfficeExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>1700133</TotalAmt>
+        <ProgramServicesAmt>1431868</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>268265</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>250383</BOYAmt>
+        <EOYAmt>223719</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <LandBldgEquipCostOrOtherBssAmt>5580</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>5580</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>250383</BOYAmt>
+        <EOYAmt>223719</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>10991</BOYAmt>
+        <EOYAmt>11145</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>10991</BOYAmt>
+        <EOYAmt>11145</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+      <CapStkTrPrinCurrentFundsGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </CapStkTrPrinCurrentFundsGrp>
+      <PdInCapSrplsLandBldgEqpFundGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </PdInCapSrplsLandBldgEqpFundGrp>
+      <RtnEarnEndowmentIncmOthFndsGrp>
+        <BOYAmt>239392</BOYAmt>
+        <EOYAmt>212574</EOYAmt>
+      </RtnEarnEndowmentIncmOthFndsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>239392</BOYAmt>
+        <EOYAmt>212574</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>250383</BOYAmt>
+        <EOYAmt>223719</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>-26818</ReconcilationRevenueExpnssAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>0</AccountantCompileOrReviewInd>
+      <FSAuditedInd>0</FSAuditedInd>
+      <FederalGrantAuditRequiredInd>0</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>1983205</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>1695100</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>324821</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>1815534</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>1673315</CurrentTaxYearAmt>
+        <TotalAmt>7491975</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>1983205</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>1695100</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>324821</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>1815534</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>1673315</CurrentTaxYearAmt>
+        <TotalAmt>7491975</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <SubstantialContributorsTotAmt>1338980</SubstantialContributorsTotAmt>
+      <PublicSupportTotal170Amt>6152995</PublicSupportTotal170Amt>
+      <TotalSupportAmt>7491975</TotalSupportAmt>
+      <PublicSupportCY170Pct>0.82130</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.78760</PublicSupportPY170Pct>
+      <ThirtyThrPctSuprtTestsCY170Ind>X</ThirtyThrPctSuprtTestsCY170Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <OtherLandBuildingsGrp>
+        <OtherCostOrOtherBasisAmt>5580</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>5580</DepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </OtherLandBuildingsGrp>
+      <TotalBookValueLandBuildingsAmt>0</TotalBookValueLandBuildingsAmt>
+    </IRS990ScheduleD>
+    <IRS990ScheduleF documentId="RetDoc1040500001">
+      <GrantRecordsMaintainedInd>0</GrantRecordsMaintainedInd>
+      <AccountActivitiesOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <OfficesCnt>0</OfficesCnt>
+        <EmployeeCnt>0</EmployeeCnt>
+        <TypeOfActivitiesConductedTxt>GRANTS TO RECIPIENTS LOCATED IN REGION</TypeOfActivitiesConductedTxt>
+        <RegionTotalExpendituresAmt>1431868</RegionTotalExpendituresAmt>
+      </AccountActivitiesOutsideUSGrp>
+      <SubtotalOfficesCnt>0</SubtotalOfficesCnt>
+      <SubtotalEmployeesCnt>0</SubtotalEmployeesCnt>
+      <ContinuationTotalOfficeCnt>0</ContinuationTotalOfficeCnt>
+      <ContinuationTotalEmployeeCnt>0</ContinuationTotalEmployeeCnt>
+      <TotalOfficeCnt>0</TotalOfficeCnt>
+      <TotalEmployeeCnt>0</TotalEmployeeCnt>
+      <SubtotalSpentAmt>1431868</SubtotalSpentAmt>
+      <ContinuationSpentAmt>0</ContinuationSpentAmt>
+      <TotalSpentAmt>1431868</TotalSpentAmt>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>9284</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>2000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>9240</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>6880</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>SCHOOL TUITION, SHOES, FOOD DISTRIBUTION, BLANKETS, ROOFING SUPPLIES</PurposeOfGrantTxt>
+        <CashGrantAmt>13000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>19566</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,E,S,B,R</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>16169</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>MEDICINE/MEDICAL</PurposeOfGrantTxt>
+        <CashGrantAmt>36000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>M</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>53816</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>13785</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>11647</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>MEDICINE/MEDICAL, CLEANING SUPPLIES, REPAIRS, FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>4800</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>6281</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,M,R</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES, ROOFING SUPPLIES</PurposeOfGrantTxt>
+        <CashGrantAmt>4000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>22142</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S,R</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION</PurposeOfGrantTxt>
+        <CashGrantAmt>10800</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>SCHOOL TUITION, CLASSROOM REPAIR, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>76000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>E,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>SCHOOL TUITION, SHOES, FOOD DISTRIBUTION, BLANKETS, ROOFING SUPPLIES</PurposeOfGrantTxt>
+        <CashGrantAmt>84500</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>98706</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S,E,R</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, PORTABLE BUILDING, BLANKETS, ROOFING SUPPLIES, REPAIRS</PurposeOfGrantTxt>
+        <CashGrantAmt>39228</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>29787</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,E,R</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>2000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>19528</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>SCHOOL TUITION, OPERATIONAL COSTS, SHOES, FOOD DISTRIBUTION, BLANKETS, ROOFING SUPPLIES</PurposeOfGrantTxt>
+        <CashGrantAmt>53167</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>71534</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,E,R</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>7731</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>7166</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>11036</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>9261</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>SCHOOL TUITION, OPERATIONAL COSTS</PurposeOfGrantTxt>
+        <CashGrantAmt>20000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>E</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>7354</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, REPAIRS, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>6000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>10838</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,R</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, UTILITIES, SHOES, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>6966</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>17615</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S,E</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>SCHOOL TUITION, CLASSROOM REPAIR, FOOD DISTRIBUTION, BLANKETS, ROOFING SUPPLIES, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>24000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>66968</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,E,R</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>12715</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>36748</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>10488</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>MONASTERY REPAIRS, FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>9705</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>41020</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>11589</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>3000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>6469</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>3000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>15578</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>8322</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>2000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>4188</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>10962</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>16150</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>10854</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>3000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>7359</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>7250</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>8344</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>1000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>11136</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>11238</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>4000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>11887</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>7248</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>1000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>11136</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>5584</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>2000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>10123</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>13538</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>12650</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>11207</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS</PurposeOfGrantTxt>
+        <CashGrantAmt>0</CashGrantAmt>
+        <NonCashAssistanceAmt>6476</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES</PurposeOfGrantTxt>
+        <CashGrantAmt>25000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>36380</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <GrantsToOrgOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA</RegionTxt>
+        <PurposeOfGrantTxt>FOOD DISTRIBUTION, BLANKETS, SHOES, MONASTARY REPAIRS</PurposeOfGrantTxt>
+        <CashGrantAmt>35000</CashGrantAmt>
+        <MannerOfCashDisbursementTxt>CHECK</MannerOfCashDisbursementTxt>
+        <NonCashAssistanceAmt>23885</NonCashAssistanceAmt>
+        <DescriptionOfNonCashAsstTxt>F,B,S,R</DescriptionOfNonCashAsstTxt>
+      </GrantsToOrgOutsideUSGrp>
+      <TransferToForeignCorpInd>0</TransferToForeignCorpInd>
+      <InterestInForeignTrustInd>0</InterestInForeignTrustInd>
+      <ForeignCorpOwnershipInd>0</ForeignCorpOwnershipInd>
+      <PassiveForeignInvestmestCoInd>0</PassiveForeignInvestmestCoInd>
+      <ForeignPartnershipInd>0</ForeignPartnershipInd>
+      <BoycottCountriesInd>0</BoycottCountriesInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>SHI REQUIRES PERIODIC REPORTING ON GRANTS AND CONTRIBUTIONS MADE TO ORGANIZATIONS AND PROJECTS OUTSIDE THE UNITED STATES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART II, LINE 1 - ADDITIONAL SUPPLEMENTAL INFORMATION</FormAndLineReferenceDesc>
+        <ExplanationTxt>SCHEDULE F, PART II, COLUMN H: DESCRIPTION KEY AND EXPLANATION FOR LETTERS USED TO DESCRIBE NON-CASH ASSISTANCE IN COLUMN H: B: BLANKETS E: EDUCATION SUPPLIES AND TUITION F: FOOD DISTRIBUTION P: PORTABLE BUILDING AND TRANSPORT R: REPAIRS AND REPAIR SUPPLIES S: SHOES M: MEDICAL SUPPLIES AND SERVICES</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleF>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 3</FormAndLineReferenceDesc>
+        <ExplanationTxt>ALL EXPENSES RELATED TO LABOR, OVERHEAD AND OPERATING COSTS ARE UNDERWRITTEN BY A BENEFACTOR. THE ORGANIZATION DID NOT COMPENSATE ANY EMPLOYEES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>A COPY OF FORM 990 WAS GIVEN TO EACH MEMBER OF THE GOVERNING BOARD BEFORE THE FILING DATE EITHER BY MAIL OR EMAIL. EACH MEMBER WAS REQUESTED TO REVIEW THE FORM AND RECOMMEND CHANGES TO THE TAX PREPARER BY THE DUE DATE OF THE RETURN.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION REVIEWS THE POLICY ANNUALLY AT A BOARD MEETING AND REQUIRES THE TRUSTEES AND OFFICERS TO COMPLETE AND SIGN A CONFLICT OF INTEREST DISCLOSURE STATEMENT.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION C, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION VOLUNTARILY PROVIDES GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS TO THE PUBLIC WHEN THERE IS REASONABLE CAUSE TO DO SO.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

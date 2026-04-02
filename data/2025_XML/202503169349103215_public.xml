@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-12T16:14:26-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>953562280</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>McDermand &amp; McDermand</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>7230 Hunnington Dr</AddressLine1Txt>
+        <CityNm>Sanger</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>76266</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>956054171</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>EDWARDS FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% VICTORIA HAMILTON</InCareOfNm>
+      <BusinessNameControlTxt>EDWA</BusinessNameControlTxt>
+      <PhoneNum>6192231211</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3548 BAYONNE DR</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92109</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>VICTORIA HAMILTON</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>6192231211</PhoneNum>
+      <SignatureDt>2025-11-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SCOTT C MCDERMAND</PreparerPersonNm>
+      <PTIN>P00033695</PTIN>
+      <PhoneNum>6196690759</PhoneNum>
+      <PreparationDt>2025-11-12</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>488337</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>10058</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>10058</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>10058</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="GainLossSaleOtherAssetsSch">9816</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>30596</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>19874</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>10058</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>10058</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1850</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1850</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>1850</AccountingFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">1892</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1892</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>1892</TaxesAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedul-133-Copy1">2672</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>2672</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>2672</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>6414</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6414</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>6414</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>16700</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>23114</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6414</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>6414</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>0</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-3240</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>3644</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3644</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashEOYAmt>10269</CashEOYAmt>
+        <CashEOYFMVAmt>10269</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>6238</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>13509</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>13509</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>248623</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">227843</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>310638</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>153921</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">153921</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>153921</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>408782</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>405542</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>488337</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>408782</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>405542</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>408782</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>405542</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>408782</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>405542</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>408782</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-3240</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>405542</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>405542</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>51</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>51</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>51</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>51</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd referenceDocumentId="ExplnOfNonFilingWith-144-Copy1">false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <IndividualWithBooksNm>VICTORIA HAMILTON</IndividualWithBooksNm>
+        <PhoneNum>6192231211</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3548 BAYONNE DR</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92109</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SABRA L VAUGHN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1551 FAIRVIEW ST</AddressLine1Txt>
+            <CityNm>BELLINGHAM</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98225</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JONATHAN R EDWARDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>19207 N E 141ST ST</AddressLine1Txt>
+            <CityNm>WOODINVILLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98072</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARK EDWARDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>425 ENCINO CT</AddressLine1Txt>
+            <CityNm>ESCONDIDO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92025</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VICTORIA HAMILTON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3548 BAYONNE DR</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92109</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>281771</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>28990</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>153291</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>464052</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>243146</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>220906</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>23776</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>197130</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>9857</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>9857</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>51</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>51</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>9806</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>9806</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>9806</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>0</ExpensesAndContributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>9806</DistributableAsAdjustedAmt>
+        <UndistributedIncomeCYAmt>9806</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VISTA HILL FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8910 CLAREMONT MESA BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNITED CEREBRAL PALSY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8525 GIBBS DR</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BELLINGHAM 1ST CONGREGATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2401 CORNWALL AVE</AddressLine1Txt>
+            <CityNm>BELLINGHAM</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98225</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FOOD BANK OF NORTH NEVADA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>550 ITALY ST</AddressLine1Txt>
+            <CityNm>SPARKS</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89434</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RONALD MCDONALD HOUSE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2929 CHILDRENS WAY</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CATHOLIC CHARITIES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5099</AddressLine1Txt>
+            <CityNm>RENO</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89513</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ARTS OF ALL NEVADA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>250 ARTS ST</AddressLine1Txt>
+            <CityNm>RENO</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOY SCOUT TROUP 19</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>UNKNOWN</AddressLine1Txt>
+            <CityNm>REDLANDS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92374</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>350</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MENTONE MOOSE LODGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2139 MENTONE ST</AddressLine1Txt>
+            <CityNm>MENTONE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92359</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>350</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AAUW-ISPF</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1165 MINNESOTA AVE</AddressLine1Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95125</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HOPELINK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3577</AddressLine1Txt>
+            <CityNm>REDMOND</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98073</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEWIS CLARK UNIV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>0615 SW PALATINE HILL RD</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>16700</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>10058</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>10058</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>10058</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCTG &amp; TAX RETURN PREP</CategoryTxt>
+        <Amt>1850</Amt>
+        <NetInvestmentIncomeAmt>1850</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1850</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="GainLossSaleOtherAssetsSch">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ELI LILLY &amp; CO</AssetDesc>
+        <AcquiredDt>2022-10</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>THE EDWARDS FOUNDATION</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>3990</GrossSalesPriceAmt>
+        <BasisAmt>1613</BasisAmt>
+        <SalesExpenseAmt>0</SalesExpenseAmt>
+        <TotalNetAmt>2377</TotalNetAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>INVESCO ESCH TRADED FD TR II</AssetDesc>
+        <AcquiredDt>2022-10</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-11</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>THE EDWARDS FOUNDATION</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>6432</GrossSalesPriceAmt>
+        <BasisAmt>4686</BasisAmt>
+        <SalesExpenseAmt>0</SalesExpenseAmt>
+        <TotalNetAmt>1746</TotalNetAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>NEXTERA ENERGY INC</AssetDesc>
+        <AcquiredDt>2022-10</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>THE EDWARDS FOUNDATION</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>5430</GrossSalesPriceAmt>
+        <BasisAmt>6111</BasisAmt>
+        <SalesExpenseAmt>0</SalesExpenseAmt>
+        <TotalNetAmt>-681</TotalNetAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SERVICENOW INC</AssetDesc>
+        <AcquiredDt>2022-10</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>THE EDWARDS FOUNDATION</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>5253</GrossSalesPriceAmt>
+        <BasisAmt>1964</BasisAmt>
+        <SalesExpenseAmt>0</SalesExpenseAmt>
+        <TotalNetAmt>3289</TotalNetAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SPDR S&amp;P 500 ETF TR</AssetDesc>
+        <AcquiredDt>2020-11</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>THE EDWARDS FOUNDATION</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>5939</GrossSalesPriceAmt>
+        <BasisAmt>3598</BasisAmt>
+        <SalesExpenseAmt>0</SalesExpenseAmt>
+        <TotalNetAmt>2341</TotalNetAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SPDR SER TR S&amp;P BIOTECH</AssetDesc>
+        <AcquiredDt>2022-10</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-09</SoldDt>
+        <PurchaserNameGrp>
+          <PersonNm>THE EDWARDS FOUNDATION</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>3552</GrossSalesPriceAmt>
+        <BasisAmt>2808</BasisAmt>
+        <SalesExpenseAmt>0</SalesExpenseAmt>
+        <TotalNetAmt>744</TotalNetAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIDELITY INVESTMENTS</StockNm>
+        <EOYBookValueAmt>227843</EOYBookValueAmt>
+        <EOYFMVAmt>310638</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BELLINGHAM INVESTMENTS</CategoryOrItemTxt>
+        <BookValueAmt>153921</BookValueAmt>
+        <EOYFMVAmt>153921</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule">
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2672</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2672</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2672</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>DEPARTMENT OF JUSTICE</CategoryTxt>
+        <Amt>25</Amt>
+        <NetInvestmentIncomeAmt>25</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>25</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>42</Amt>
+        <NetInvestmentIncomeAmt>42</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>42</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>REAL ESTATE</CategoryTxt>
+        <Amt>1779</Amt>
+        <NetInvestmentIncomeAmt>1779</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1779</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>DEPT OF TREAS</CategoryTxt>
+        <Amt>46</Amt>
+        <NetInvestmentIncomeAmt>46</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>46</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

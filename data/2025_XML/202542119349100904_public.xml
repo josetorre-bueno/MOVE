@@ -1,0 +1,1856 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2023v6.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-07-30T11:23:14-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>202598160</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Haack &amp; Co Intl Tax and Bus Consulting Inc</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>610 India Street</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92101</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2023-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330526533</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>DeFalco Family Foundation Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DEFA</BusinessNameControlTxt>
+      <PhoneNum>6192356800</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>401 B Street 1530</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92101</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Santina J DeFalco</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-07-30</SignatureDt>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Mark E Haack JD LLM</PreparerPersonNm>
+      <PTIN>P00007600</PTIN>
+      <PhoneNum>6195441985</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2023</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>7441579</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>357</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>357</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>357</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>213638</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>213638</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>213638</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>197825</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>360503</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>197825</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>411820</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>411820</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>213995</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>52600</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>5260</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>47340</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">5621</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>5059</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>562</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">25666</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>23099</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2567</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">34840</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>34840</OtherProfFeesNetInvstIncmAmt>
+        <InterestRevAndExpnssAmt>186</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>186</InterestNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">564</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>564</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">3025</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>100</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>2925</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>122502</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>69108</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>53394</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>300000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>300000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>422502</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>69108</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>353394</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-10682</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>342712</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>213995</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>102568</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>116066</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>116066</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>1360285</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">1588958</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1588958</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>4914386</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">5736555</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>5736555</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>6377239</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>7441579</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>7441579</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>6377239</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>7441579</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6377239</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7441579</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6377239</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>7441579</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6377239</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-10682</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">1075022</OtherIncreasesAmt>
+        <SubtotalAmt>7441579</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7441579</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>105 shrs Activision Blizzard Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-09-30</AcquiredDt>
+          <SoldDt>2023-10-13</SoldDt>
+          <GrossSalesPriceAmt>9975</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5552</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4423</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4423</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Fractional shs Solventum Corp Com</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-08-29</AcquiredDt>
+          <SoldDt>2024-04-01</SoldDt>
+          <GrossSalesPriceAmt>33</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20 shrs Adient PLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-10-31</AcquiredDt>
+          <SoldDt>2024-06-27</SoldDt>
+          <GrossSalesPriceAmt>496</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>932</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-436</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-436</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>832+ shrs DFA US Core Equity 2 I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-11-02</AcquiredDt>
+          <SoldDt>2024-06-27</SoldDt>
+          <GrossSalesPriceAmt>30000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21437</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8563</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8563</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,299+ shrs DFA US Hi Rltv Prfblty Inst</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-11-02</AcquiredDt>
+          <SoldDt>2024-06-27</SoldDt>
+          <GrossSalesPriceAmt>30000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19236</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10764</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10764</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 shrs Occidental Petroleum Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-08-03</AcquiredDt>
+          <SoldDt>2024-06-27</SoldDt>
+          <GrossSalesPriceAmt>1019</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>124</CostOrOtherBasisAmt>
+          <GainOrLossAmt>895</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>895</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>62 shrs Viatris, Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1992-10-21</AcquiredDt>
+          <SoldDt>2024-06-27</SoldDt>
+          <GrossSalesPriceAmt>655</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>164</CostOrOtherBasisAmt>
+          <GainOrLossAmt>491</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>491</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>17 shrs Organon &amp; Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2003-11-12</AcquiredDt>
+          <SoldDt>2024-06-27</SoldDt>
+          <GrossSalesPriceAmt>349</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>125</CostOrOtherBasisAmt>
+          <GainOrLossAmt>224</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>224</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>17 shrs Solventum Corp Com</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-08-26</AcquiredDt>
+          <SoldDt>2024-06-27</SoldDt>
+          <GrossSalesPriceAmt>869</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>756</CostOrOtherBasisAmt>
+          <GainOrLossAmt>113</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>113</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 shrs Ge Vernova LLC Com</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2002-06-28</AcquiredDt>
+          <SoldDt>2024-06-27</SoldDt>
+          <GrossSalesPriceAmt>4420</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3800</CostOrOtherBasisAmt>
+          <GainOrLossAmt>620</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>620</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30 shrs AbbVie Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1993-01-14</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>5289</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>201</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5088</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5088</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20 shrs Amgen Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1999-08-12</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>6722</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>795</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5927</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5927</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>45 shrs American Express Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-03-07</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>10948</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1850</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9098</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9098</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>120 shrs Bank of America Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-05-08</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>5092</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>929</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4163</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4163</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 shrs Berkshire Hathaway Inc B</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1996-10-15</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>10831</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>686</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10145</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10145</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 shrs Costco Wholesale Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1993-04-22</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>8303</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>70</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8233</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8233</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>120 shrs Cognizant Tech Solutions</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2019-09-30</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>8723</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7213</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1510</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1510</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>543+ shrs DFA US Sm Cp Growth Instl</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-24</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>15000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11857</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3143</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3143</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>120 shrs Gilead Sciences Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-08-05</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>8795</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2150</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6645</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6645</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>120 shrs Corning Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-07</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>5274</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2718</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2556</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2556</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>70 shrs Alphabet Inc C</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-10-20</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>12195</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>631</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11564</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11564</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>350 shrs Hewlett Packard Enterprise</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1996-07-24</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>7064</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1797</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5267</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5267</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 shrs HP Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1996-07-24</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>7558</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1565</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5993</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5993</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20 shrs Eli Lilly and Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-03-07</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>17198</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>993</CostOrOtherBasisAmt>
+          <GainOrLossAmt>16205</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>16205</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>12 shrs Mastercard Inc A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-06-11</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>5205</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>244</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4961</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4961</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75 shrs Merck &amp; Co Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2003-11-12</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>9418</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1102</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8316</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8316</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>60 shrs Target Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2005-12-28</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>8735</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3354</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5381</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5381</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>18 shrs Texas Instruments Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-10-20</AcquiredDt>
+          <SoldDt>2024-07-24</SoldDt>
+          <GrossSalesPriceAmt>3563</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>319</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3244</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3244</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>511+ shrs DFA US Large Cap Value I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-11-02</AcquiredDt>
+          <SoldDt>2024-08-15</SoldDt>
+          <GrossSalesPriceAmt>25000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16386</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8614</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8614</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>870+ shrs DFA Int'l Sm Cp Value</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-02-02</AcquiredDt>
+          <SoldDt>2024-08-15</SoldDt>
+          <GrossSalesPriceAmt>20000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16818</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3182</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3182</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>118+ shrs Vanguard Extd Mkt Adm</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1992-09-17</AcquiredDt>
+          <SoldDt>2024-08-15</SoldDt>
+          <GrossSalesPriceAmt>15634</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1923</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13711</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13711</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 shrs Caterpillar Inc.</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2004-04-15</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>3911</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>405</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3506</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3506</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,306+ shrs DFA Int'l Core Equity I</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-02-02</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>22000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19294</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2706</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2706</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>40 shrs Emerson Electric Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2002-01-18</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>4361</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1087</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3274</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3274</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20 shrs General Electric Co</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2002-06-28</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>3717</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2991</CostOrOtherBasisAmt>
+          <GainOrLossAmt>726</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>726</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>20 shrs Alphabet Inc C</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-10-20</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>3312</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>180</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3132</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3132</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>15 shrs Honeywell Intl Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2003-01-30</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>3121</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>336</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2785</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2785</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>5 shrs Lockheed Martin Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-12-22</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>2920</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>378</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2542</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2542</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 shrs Union Pacific Corp</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-03-07</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>2445</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>470</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1975</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1975</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>210 shrs Walgreen Boots Alliance</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2004-04-15</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>1899</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6906</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5007</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5007</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>70 shrs Yum Brands Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-09-30</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>9755</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1659</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8096</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8096</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25 shrs Raytheon Technologies Ord</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2004-03-05</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>3025</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>623</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2402</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2402</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10 shrs Meta Platforms Inc</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-11-02</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>5674</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2600</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3074</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3074</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>197825</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>4764</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>4764</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4764</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>4000</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>1000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>5000</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>164</EsPenaltyAmt>
+        <OverpaymentAmt>72</OverpaymentAmt>
+        <AppliedToESTaxAmt>72</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Santina J DeFalco</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6192356800</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>c/o 401 B Street 1530</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>921014238</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Santina J DeFalco</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11181 Bower Lane SE</AddressLine1Txt>
+            <CityNm>Port Orchard</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98367</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>15.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>44000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Victoria J Shrewsbury</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>200 West Portland St 1416</AddressLine1Txt>
+            <CityNm>Phoenix</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85003</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>8600</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>6872644</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>126639</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>6999283</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>6999283</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>104989</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>6894294</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>344715</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>344715</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4764</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>4764</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>339951</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>339951</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>339951</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>353394</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>353394</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>339951</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>197754</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>259858</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>88023</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>75694</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>621329</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>353394</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>339951</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>13443</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>634772</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>197754</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>437018</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>259858</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>88023</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>75694</ExcessFromYear2Amt>
+        <ExcessFromCurrentYearAmt>13443</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Santina J DeFalco</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Elder Help of San Diego</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4069 30th Street</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Greatest need</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Optimist Club Fdn Point Loma</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>310 San Antonio Street</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Grants</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Emergency Food Network</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3318 92nd Street South</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98499</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Greatest Need</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Mary's Food Bank Alliance</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2831 N 31st Ave</AddressLine1Txt>
+            <CityNm>Phoenix</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Food Bank</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Shoes That Fit</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1420 N Claremont Blvd 107-B</AddressLine1Txt>
+            <CityNm>Claremont</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91711</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund / Expend Funds in San Diego, Gig Harbor &amp; Kitsap County WA &amp; Arizona</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Waste Not Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1700 North Granite Reef Rd</AddressLine1Txt>
+            <CityNm>Scottsdale</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85257</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fund for Food Redistribution</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TEARS Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 9415</AddressLine1Txt>
+            <CityNm>Tacoma</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98405</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Greatest Need</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Children's Museum of Tacoma</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>936 Broadway</AddressLine1Txt>
+            <CityNm>Tacoma</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98402</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>3rd yr of a 3 yr Grant</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Umom New Day Center Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3320 East Van Buren St</AddressLine1Txt>
+            <CityNm>Phoenix</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Tacoma Youth Symphony Association I</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>901 Broadway Ste 500</AddressLine1Txt>
+            <CityNm>Tacoma</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98402</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Symphony 2U Youth Program</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Lindquist Dental Clinic for Childre</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>324 Garfield Street</AddressLine1Txt>
+            <CityNm>Tacoma</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98499</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Uncompensated Care Tacoma &amp; Kitsap County</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Neighborhood Christian Clinic</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1929 W Fillmore Building C</AddressLine1Txt>
+            <CityNm>Phoenix</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Mentorkids USA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15300 N 90th St Ste 200</AddressLine1Txt>
+            <CityNm>Scottsdale</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85260</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Greatest Need</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Friends of Am Lake Veterans Golf Co</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 99608</AddressLine1Txt>
+            <CityNm>Lakewood</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98496</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Salmon for Soldiers</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3906 Ray Nash Dr NW</AddressLine1Txt>
+            <CityNm>Gig Harbor</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98335</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Puget Sound Anglers - Gig Harbor Ch</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 91</AddressLine1Txt>
+            <CityNm>Gig Harbor</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98335</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Washington Women in Need</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>232 5th Ave South Ste 201</AddressLine1Txt>
+            <CityNm>Kirkland</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98033</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship Program, Courage 360</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Promises2kids Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9400 Ruffin Court Ste A</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Greatest Need</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Banner Health Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2901 N Central Ave Ste 160</AddressLine1Txt>
+            <CityNm>Phoeniz</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85012</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Young Life Arizona Region</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1130 E Missouri Ave Ste 404</AddressLine1Txt>
+            <CityNm>Phoeniz</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85014</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fnd</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AZ General Fund</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Home Start Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5005 Texas St Ste 203</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OASIS Institute</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5500 Grossmont Center Dr Ste269</AddressLine1Txt>
+            <CityNm>La Mesa</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91942</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Children's Discovery Muse</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>320 N Broadway</AddressLine1Txt>
+            <CityNm>Escondido</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fnd</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Enhance Educational, Interactive Exhibits and Programs, Pay as you Will Program</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>United Through Reading</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1455 Frazee Rd Ste 500</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fnd</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Greatest Need</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Catherine Place</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>923 S 8th Street</AddressLine1Txt>
+            <CityNm>Tacoma</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98405</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fnd</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Rehabilitation and Support for Women in Need</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Communities in Schools of Peninsula</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 684</AddressLine1Txt>
+            <CityNm>Vaughn</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98394</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fdn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Greatest Need, Tacoma Students</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MaMa's Kitchen</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3960 Home Ave</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fnd</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Greatest Need</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hustle USA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 N 1st St Ste 708</AddressLine1Txt>
+            <CityNm>Phoenix</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fnd</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Artlink Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 3426</AddressLine1Txt>
+            <CityNm>Phoenix</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85030</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fnd</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Carol Milgard Breast Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4525 S 19th St</AddressLine1Txt>
+            <CityNm>Tacoma</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98405</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fnd</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Acres of Diamonds</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1672</AddressLine1Txt>
+            <CityNm>Duvall</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fndn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Neighborhood Ministries</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1918 W Van Buren St</AddressLine1Txt>
+            <CityNm>Phoenix</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fndn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Friends of the Verde River</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2535</AddressLine1Txt>
+            <CityNm>Cottonwood</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86326</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fndn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Tremble Clefs Arizona</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1161</AddressLine1Txt>
+            <CityNm>Sun City</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85372</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fndn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Franciscan Renewal Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5802 E Lincoln Drive</AddressLine1Txt>
+            <CityNm>Scottsdale</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85253</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NP Fndn</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Fund</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>300000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>357</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>213638</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>197825</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>213995</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>197825</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>411820</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting</CategoryTxt>
+        <Amt>25666</Amt>
+        <NetInvestmentIncomeAmt>23099</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2567</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>140 shs Abbott Laboratories</StockNm>
+        <EOYBookValueAmt>15961</EOYBookValueAmt>
+        <EOYFMVAmt>15961</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>165 shs Bristol-Myers Squibb Co</StockNm>
+        <EOYBookValueAmt>8537</EOYBookValueAmt>
+        <EOYFMVAmt>8537</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shs JP Morgan Chase</StockNm>
+        <EOYBookValueAmt>21086</EOYBookValueAmt>
+        <EOYFMVAmt>21086</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>180 shs Coca-Cola Company</StockNm>
+        <EOYBookValueAmt>12935</EOYBookValueAmt>
+        <EOYFMVAmt>12935</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>350 shs Hewlett-Packard Ent.</StockNm>
+        <EOYBookValueAmt>7161</EOYBookValueAmt>
+        <EOYFMVAmt>7161</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>50 shs Kimberly Clark Corporation</StockNm>
+        <EOYBookValueAmt>7114</EOYBookValueAmt>
+        <EOYFMVAmt>7114</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>95 shs Merck &amp; Company Inc</StockNm>
+        <EOYBookValueAmt>10788</EOYBookValueAmt>
+        <EOYFMVAmt>10788</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>230 shs Microsoft Inc</StockNm>
+        <EOYBookValueAmt>98969</EOYBookValueAmt>
+        <EOYFMVAmt>98969</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>15 shs Costco Wholesale Inc</StockNm>
+        <EOYBookValueAmt>13298</EOYBookValueAmt>
+        <EOYFMVAmt>13298</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>80 shs Berkshire Hathaway B</StockNm>
+        <EOYBookValueAmt>36821</EOYBookValueAmt>
+        <EOYFMVAmt>36821</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>75 shs Home Depot Inc</StockNm>
+        <EOYBookValueAmt>30390</EOYBookValueAmt>
+        <EOYFMVAmt>30390</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>325 shs Intel</StockNm>
+        <EOYBookValueAmt>7625</EOYBookValueAmt>
+        <EOYFMVAmt>7625</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>30 shs FedEx Corporation</StockNm>
+        <EOYBookValueAmt>8210</EOYBookValueAmt>
+        <EOYFMVAmt>8210</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>40 shs Amgen</StockNm>
+        <EOYBookValueAmt>12888</EOYBookValueAmt>
+        <EOYFMVAmt>12888</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>130 shs Johnson &amp; Johnson</StockNm>
+        <EOYBookValueAmt>21068</EOYBookValueAmt>
+        <EOYFMVAmt>21068</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>125 shs Medtronic Plc</StockNm>
+        <EOYBookValueAmt>11254</EOYBookValueAmt>
+        <EOYFMVAmt>11254</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>325 shs Cisco Systems</StockNm>
+        <EOYBookValueAmt>17297</EOYBookValueAmt>
+        <EOYFMVAmt>17297</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>225 shs Wal-Mart Stores Inc</StockNm>
+        <EOYBookValueAmt>18169</EOYBookValueAmt>
+        <EOYFMVAmt>18169</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>105 shs IBM</StockNm>
+        <EOYBookValueAmt>23213</EOYBookValueAmt>
+        <EOYFMVAmt>23213</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>120 shs Qualcomm Corporation</StockNm>
+        <EOYBookValueAmt>20406</EOYBookValueAmt>
+        <EOYFMVAmt>20406</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shs McDonald's Corporation</StockNm>
+        <EOYBookValueAmt>30451</EOYBookValueAmt>
+        <EOYFMVAmt>30451</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>110 shs Emerson Electric Co</StockNm>
+        <EOYBookValueAmt>12031</EOYBookValueAmt>
+        <EOYFMVAmt>12031</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>80 shs General Electric Co</StockNm>
+        <EOYBookValueAmt>15086</EOYBookValueAmt>
+        <EOYFMVAmt>15086</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>30 shs Illinois Tool Works</StockNm>
+        <EOYBookValueAmt>7862</EOYBookValueAmt>
+        <EOYFMVAmt>7862</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>35 shs Adobe Systems Inc</StockNm>
+        <EOYBookValueAmt>18122</EOYBookValueAmt>
+        <EOYFMVAmt>18122</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>115 shs Applied Materials</StockNm>
+        <EOYBookValueAmt>23236</EOYBookValueAmt>
+        <EOYFMVAmt>23236</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>35 shs Auto Data Processing</StockNm>
+        <EOYBookValueAmt>9686</EOYBookValueAmt>
+        <EOYFMVAmt>9686</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>57 shs Texas Instruments</StockNm>
+        <EOYBookValueAmt>11774</EOYBookValueAmt>
+        <EOYFMVAmt>11774</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 shs Colgate-Palmolive Co</StockNm>
+        <EOYBookValueAmt>10381</EOYBookValueAmt>
+        <EOYFMVAmt>10381</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>85 shs Walt Disney Hold Co</StockNm>
+        <EOYBookValueAmt>8176</EOYBookValueAmt>
+        <EOYFMVAmt>8176</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>55 shs Honeywell</StockNm>
+        <EOYBookValueAmt>11369</EOYBookValueAmt>
+        <EOYFMVAmt>11369</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>130 shs Comcast Corp Class A</StockNm>
+        <EOYBookValueAmt>5430</EOYBookValueAmt>
+        <EOYFMVAmt>5430</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>121 shs Kraft Heinz Co</StockNm>
+        <EOYBookValueAmt>4248</EOYBookValueAmt>
+        <EOYFMVAmt>4248</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500 shs Pfizer, Inc.</StockNm>
+        <EOYBookValueAmt>14470</EOYBookValueAmt>
+        <EOYFMVAmt>14470</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>235 shs Wells Fargo &amp; Company</StockNm>
+        <EOYBookValueAmt>13275</EOYBookValueAmt>
+        <EOYFMVAmt>13275</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>105 shs SPDR Utilities ETF</StockNm>
+        <EOYBookValueAmt>8482</EOYBookValueAmt>
+        <EOYFMVAmt>8482</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>40 shs Caterpillar, Inc.</StockNm>
+        <EOYBookValueAmt>15645</EOYBookValueAmt>
+        <EOYFMVAmt>15645</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>0 shs Walgreen Boots</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>567 shs AT&amp;T Inc</StockNm>
+        <EOYBookValueAmt>12474</EOYBookValueAmt>
+        <EOYFMVAmt>12474</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>70 shs 3M Company</StockNm>
+        <EOYBookValueAmt>9569</EOYBookValueAmt>
+        <EOYFMVAmt>9569</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>35 shs General Dynamics</StockNm>
+        <EOYBookValueAmt>10577</EOYBookValueAmt>
+        <EOYFMVAmt>10577</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>75 shs Target Corporation</StockNm>
+        <EOYBookValueAmt>11690</EOYBookValueAmt>
+        <EOYFMVAmt>11690</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>65 shs Pepsico Incorporated</StockNm>
+        <EOYBookValueAmt>11053</EOYBookValueAmt>
+        <EOYFMVAmt>11053</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>80 shs Procter &amp; Gamble Company</StockNm>
+        <EOYBookValueAmt>13856</EOYBookValueAmt>
+        <EOYFMVAmt>13856</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>50 shs Eli Lilly &amp; Company</StockNm>
+        <EOYBookValueAmt>44297</EOYBookValueAmt>
+        <EOYFMVAmt>44297</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>320 shs Bank of America Corporation</StockNm>
+        <EOYBookValueAmt>12698</EOYBookValueAmt>
+        <EOYFMVAmt>12698</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>25 shs Goldman Sachs</StockNm>
+        <EOYBookValueAmt>12378</EOYBookValueAmt>
+        <EOYFMVAmt>12378</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>532 shs Apple Computer</StockNm>
+        <EOYBookValueAmt>123956</EOYBookValueAmt>
+        <EOYFMVAmt>123956</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>230 shs eBay, Inc.</StockNm>
+        <EOYBookValueAmt>14975</EOYBookValueAmt>
+        <EOYFMVAmt>14975</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>60 shs American Express Co.</StockNm>
+        <EOYBookValueAmt>16272</EOYBookValueAmt>
+        <EOYFMVAmt>16272</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>320 shs Amazon.com</StockNm>
+        <EOYBookValueAmt>59626</EOYBookValueAmt>
+        <EOYFMVAmt>59626</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>180 shs Yum Brands Inc</StockNm>
+        <EOYBookValueAmt>25148</EOYBookValueAmt>
+        <EOYFMVAmt>25148</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>190 shs CVS Health Corp</StockNm>
+        <EOYBookValueAmt>11947</EOYBookValueAmt>
+        <EOYFMVAmt>11947</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>30 shs UnitedHealth Group</StockNm>
+        <EOYBookValueAmt>17540</EOYBookValueAmt>
+        <EOYFMVAmt>17540</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>230 shs US Bancorp</StockNm>
+        <EOYBookValueAmt>10518</EOYBookValueAmt>
+        <EOYFMVAmt>10518</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>480 shs Alphabet Inc A</StockNm>
+        <EOYBookValueAmt>79608</EOYBookValueAmt>
+        <EOYFMVAmt>79608</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>230 shs Oracle Corp</StockNm>
+        <EOYBookValueAmt>39192</EOYBookValueAmt>
+        <EOYFMVAmt>39192</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>65 shs Visa Inc.</StockNm>
+        <EOYBookValueAmt>17872</EOYBookValueAmt>
+        <EOYFMVAmt>17872</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>20 shs Lockheed Martin</StockNm>
+        <EOYBookValueAmt>11691</EOYBookValueAmt>
+        <EOYFMVAmt>11691</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>70 shs United Parcel Service</StockNm>
+        <EOYBookValueAmt>9544</EOYBookValueAmt>
+        <EOYFMVAmt>9544</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>35 shs Gilead Sciences</StockNm>
+        <EOYBookValueAmt>2934</EOYBookValueAmt>
+        <EOYFMVAmt>2934</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>195 shs Citigroup Inc</StockNm>
+        <EOYBookValueAmt>12207</EOYBookValueAmt>
+        <EOYFMVAmt>12207</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>150 shs MetLife Inc</StockNm>
+        <EOYBookValueAmt>12372</EOYBookValueAmt>
+        <EOYFMVAmt>12372</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>120 shs Morgan Stanley</StockNm>
+        <EOYBookValueAmt>12509</EOYBookValueAmt>
+        <EOYFMVAmt>12509</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>33 shs Mastercard</StockNm>
+        <EOYBookValueAmt>16295</EOYBookValueAmt>
+        <EOYFMVAmt>16295</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>45 shs Union Pacific</StockNm>
+        <EOYBookValueAmt>11092</EOYBookValueAmt>
+        <EOYFMVAmt>11092</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>130 shs Corning</StockNm>
+        <EOYBookValueAmt>5870</EOYBookValueAmt>
+        <EOYFMVAmt>5870</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>43 shs Cigna Corp</StockNm>
+        <EOYBookValueAmt>14897</EOYBookValueAmt>
+        <EOYFMVAmt>14897</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>165 shrs Mondelez Intl Inc</StockNm>
+        <EOYBookValueAmt>12156</EOYBookValueAmt>
+        <EOYFMVAmt>12156</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>71 shs AbbVie Inc</StockNm>
+        <EOYBookValueAmt>14021</EOYBookValueAmt>
+        <EOYFMVAmt>14021</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>50 shs Alphabet Inc C</StockNm>
+        <EOYBookValueAmt>8360</EOYBookValueAmt>
+        <EOYFMVAmt>8360</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>85 shs Paypal Hlds Inc</StockNm>
+        <EOYBookValueAmt>6633</EOYBookValueAmt>
+        <EOYFMVAmt>6633</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>215 shs Am. Intl. Group</StockNm>
+        <EOYBookValueAmt>15744</EOYBookValueAmt>
+        <EOYFMVAmt>15744</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>20 shs Blackrock Inc</StockNm>
+        <EOYBookValueAmt>18990</EOYBookValueAmt>
+        <EOYFMVAmt>18990</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shs HP Inc</StockNm>
+        <EOYBookValueAmt>7174</EOYBookValueAmt>
+        <EOYFMVAmt>7174</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>0 shs Adient PLC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>30 shs Boeing Co</StockNm>
+        <EOYBookValueAmt>4561</EOYBookValueAmt>
+        <EOYFMVAmt>4561</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>5 shs Booking Holdings Inc</StockNm>
+        <EOYBookValueAmt>21061</EOYBookValueAmt>
+        <EOYFMVAmt>21061</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>35 shs Estee Lauder Companies</StockNm>
+        <EOYBookValueAmt>3489</EOYBookValueAmt>
+        <EOYFMVAmt>3489</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>20 shs Thermo Fisher Scientific</StockNm>
+        <EOYBookValueAmt>12371</EOYBookValueAmt>
+        <EOYFMVAmt>12371</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>50 shs Accenture PLC A</StockNm>
+        <EOYBookValueAmt>17674</EOYBookValueAmt>
+        <EOYFMVAmt>17674</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>350 shs Broadcom Ltd</StockNm>
+        <EOYBookValueAmt>60375</EOYBookValueAmt>
+        <EOYFMVAmt>60375</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>110 shs Cognizant Tech Solutions</StockNm>
+        <EOYBookValueAmt>8490</EOYBookValueAmt>
+        <EOYFMVAmt>8490</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>45 shs Salesforce.com Inc</StockNm>
+        <EOYBookValueAmt>12317</EOYBookValueAmt>
+        <EOYFMVAmt>12317</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>0 shs Activision Blizzard Inc</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>95 shs Raytheon Technologies (UTC)</StockNm>
+        <EOYBookValueAmt>11510</EOYBookValueAmt>
+        <EOYFMVAmt>11510</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>0 shs Occidental Petroleum Corp</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>0 shs Viatris Inc</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>95 shs Meta Platforms Inc</StockNm>
+        <EOYBookValueAmt>54382</EOYBookValueAmt>
+        <EOYFMVAmt>54382</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 shs Verizon Comm Inc</StockNm>
+        <EOYBookValueAmt>8982</EOYBookValueAmt>
+        <EOYFMVAmt>8982</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>0 shs Organon &amp; Co</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>33 shs GE Healthcare Tech (spinoff GE)</StockNm>
+        <EOYBookValueAmt>3097</EOYBookValueAmt>
+        <EOYFMVAmt>3097</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>33,117+ shs Vanguard Bond Index Fd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>326871</BookValueAmt>
+        <EOYFMVAmt>326871</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>8,666+ shs DFA Int'l Small Cap Value</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>207654</BookValueAmt>
+        <EOYFMVAmt>207654</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>4,661+ shs DFA US Sm Cap Value</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>226651</BookValueAmt>
+        <EOYFMVAmt>226651</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>0 shs Vanguard Extended Market Adm</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>11,887+ shs Vanguard Total Int'l</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>413798</BookValueAmt>
+        <EOYFMVAmt>413798</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>41,113+ shs Vanguard ST Bond Adm</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>423470</BookValueAmt>
+        <EOYFMVAmt>423470</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>250 shs Vangard Utility ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>43513</BookValueAmt>
+        <EOYFMVAmt>43513</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>32,336+ shs Vangard ST Invest Grd</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>338238</BookValueAmt>
+        <EOYFMVAmt>338238</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>205 shs Vangard Materials ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>43351</BookValueAmt>
+        <EOYFMVAmt>43351</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>8,719+ shs DFA Emerg Mkts Core Eq</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>221118</BookValueAmt>
+        <EOYFMVAmt>221118</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>50,462+ shs DFA Intl REIT</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>204878</BookValueAmt>
+        <EOYFMVAmt>204878</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>6,657+ shs DFA Real Estate</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>295474</BookValueAmt>
+        <EOYFMVAmt>295474</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>4,119+ shs Vngd ST Infl Pro Adm</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>101205</BookValueAmt>
+        <EOYFMVAmt>101205</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>28,533+ shs DFA Five-Year Global</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>287901</BookValueAmt>
+        <EOYFMVAmt>287901</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>1,289 shs Vangd Emrg Govt ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>85551</BookValueAmt>
+        <EOYFMVAmt>85551</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>740 shs SPDR Energy ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>64972</BookValueAmt>
+        <EOYFMVAmt>64972</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>10,226+ shs DFA US Core Equity 2 I</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>391472</BookValueAmt>
+        <EOYFMVAmt>391472</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>11,539+ shs DFA US Hi Rltv Prfblty Inst</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>282605</BookValueAmt>
+        <EOYFMVAmt>282605</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>7,610+ shs DFA US Large Cap Value I</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>385529</BookValueAmt>
+        <EOYFMVAmt>385529</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>11,886+ shs DFA US Sm Cp Growth Instl</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>343640</BookValueAmt>
+        <EOYFMVAmt>343640</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>428+ shs Vanguard Mid Cap Adm</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>139851</BookValueAmt>
+        <EOYFMVAmt>139851</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>26,765+ shs DFA Int'l Core Equity I</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>450203</BookValueAmt>
+        <EOYFMVAmt>450203</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>12,619+ shs Intl Hi Rel Prof Instl</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>173395</BookValueAmt>
+        <EOYFMVAmt>173395</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>525 shs Vanguard Total Intl ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>33989</BookValueAmt>
+        <EOYFMVAmt>33989</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>1,700 shs Vangd Sh Trm Tip ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>83827</BookValueAmt>
+        <EOYFMVAmt>83827</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>740 shs Vanguard Shrt Trm Bond ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>58231</BookValueAmt>
+        <EOYFMVAmt>58231</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>800 shrs Vangard Ttl Bond Mkt ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>60106</BookValueAmt>
+        <EOYFMVAmt>60106</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>1,700 shrs Dimensional Glbl RE ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>49062</BookValueAmt>
+        <EOYFMVAmt>49062</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <LegalFeesGrp>
+        <CategoryTxt>Legal Fees</CategoryTxt>
+        <LegalFeesAmt>5621</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>5059</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>562</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Filing Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>100</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>100</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>2827</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2827</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>98</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>98</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Managment/Advisor</CategoryTxt>
+        <Amt>34840</Amt>
+        <NetInvestmentIncomeAmt>34840</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal Tax</CategoryTxt>
+        <Amt>564</Amt>
+        <NetInvestmentIncomeAmt>564</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

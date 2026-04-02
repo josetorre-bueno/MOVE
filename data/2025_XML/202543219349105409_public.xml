@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-17T15:23:33-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>843160768</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>GONDA AND CO</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>51625 DESERT CLUB DRIVE STE 101</AddressLine1Txt>
+        <CityNm>LA QUINTA</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92253</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>817125697</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CLARK FAMILY CHARITABLE TRUST</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CLAR</BusinessNameControlTxt>
+      <PhoneNum>8582320012</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>11366 W SAN RAPHAEL DRIVEWAY</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>921308614</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>AARON CLARK</PersonNm>
+      <PersonTitleTxt>COO</PersonTitleTxt>
+      <PhoneNum>8582320012</PhoneNum>
+      <SignatureDt>2025-11-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MATTHEW GONDA</PreparerPersonNm>
+      <PTIN>P01558932</PTIN>
+      <PhoneNum>7606712345</PhoneNum>
+      <PreparationDt>2025-11-13</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc10">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>8049856</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>300290</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>288879</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>300290</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-192408</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>540291</GrossSalesPriceAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>241</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>107882</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>288879</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>300531</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>135420</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>135420</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>63050</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>63050</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>13286</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>13286</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc4">3337</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>3337</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">24661</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>8220</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>8220</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>16441</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc8">99697</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>94289</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>94289</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>5408</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc9">4510</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">112309</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>112309</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>456270</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>102509</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>102509</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>349251</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>23950</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>23950</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>480220</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>102509</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>102509</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>373201</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-372338</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>186370</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>198022</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>27498</CashBOYAmt>
+        <CashEOYAmt>21176</CashEOYAmt>
+        <CashEOYFMVAmt>21175</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>723429</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1150172</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1150172</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesEOYAmt>3872</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>3872</PrepaidExpensesEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>1030668</InvstLandCostOrOtherBasisAmt>
+        <LandBldgInvestmentsBOYAmt>1030668</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentId="RetDoc2">1030668</LandBldgInvestmentsEOYAmt>
+        <OtherInvestmentsBOYAmt>6352031</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc3">6874637</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>6874637</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>8133626</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>9080525</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>8049856</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc7">7433</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc7">8277</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>7433</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>8277</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>8126193</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>9072248</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>8126193</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9072248</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>8133626</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>9080525</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>8126193</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-372338</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc6">1318393</OtherIncreasesAmt>
+        <SubtotalAmt>9072248</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9072248</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIDELITY 7200 S/T BOX B</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>150001</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>149760</CostOrOtherBasisAmt>
+          <GainOrLossAmt>241</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>241</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIDELITY 7200 L/T BOX D</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>381695</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>205876</CostOrOtherBasisAmt>
+          <GainOrLossAmt>175819</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>175819</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>FIDELITY 7200 L/T BOX E</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>6761</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>377063</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-370302</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-370302</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-192408</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>241</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2591</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2591</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2591</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>6463</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>6463</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>3872</OverpaymentAmt>
+        <AppliedToESTaxAmt>3872</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>UT</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.REACH360UTAH.ORG</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MATTHEW GONDA</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>7606712345</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>51625 DESERT CLUB DR</AddressLine1Txt>
+          <AddressLine2Txt>STE 101</AddressLine2Txt>
+          <CityNm>LA QUINTA</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92253</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>true</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>AARON CLARK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11366 W SAN RAPHAEL DRIVEWAY</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>COO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>20.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>63187</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>AMY CLARK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11366 W SAN RAPHAEL DRIVEWAY</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>72233</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>CARY ROGERS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4589 W CADDIE LANE</AddressLine1Txt>
+            <CityNm>HIGHLAND</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84003</ZIPCd>
+          </USAddress>
+          <TitleTxt>PROGRAM DIRE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>60000</CompensationAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>1.ENGINEERING IN THE CLASSROOM. STEAM (SCIENCE, TECHNOLOGY, ENGINEERING, ART, MATH) PROGRAMS ARE BEING ADOPTED BY SCHOOLS AROUND THE COUNTRY, ALTHOUGH FUNDING IS STILL AN ISSUE FOR MANY SCHOOLS. 3D PRINTING IS A PARTICULARLY IMPORTANT TOOL FOR INNOVATIVE EDUCATION, BECAUSE IT CAN SPAN MANY DIFFERENT STEAM DISCIPLINES AND IT GIVES STUDENTS EXPERIENCE IN DESIGN, PROBLEM SOLVING, PROJECT BASED LEARNING, AND COLLABORATION. THE FEDERAL GOVERNMENT HAS MADE SOME EFFORTS TO GET 3D PRINTING INTO SCHOOLS, BUT EVEN SCHOOLS THAT HAVE PURCHASED 3D PRINTERS ARE HAVING DIFFICULTIES INCORPORATING THEM INTO THEIR CLASSROOMS. THERE IS A SHARP LEARNING CURVE FOR USING THESE PRINTERS, AND TEACHERS DO NOT KNOW HOW TO USE 3D DESIGN SOFTWARE OR INCORPORATE 3D PRINTING INTO THEIR CURRICULUM. THIS PROGRAM WOULD DO THE FOLLOWING: ALLOW SCHOOLS TO UTILIZE 3D PRINTING EQUIPMENT OWNED AND MAINTAINED BY THE FOUNDATION, ALONG WITH MATERIALS FOR THE PRINTERS. CONSULT WITH STEAM TEACHERS REGARDING HOW TO INCORPORATE 3</Description1Txt>
+        <Expenses1Amt>373201</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>6502447</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>777330</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>925924</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>8205701</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>8205701</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>123086</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>8082615</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>404131</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>373201</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>373201</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <QualifyingDistributionsAmt>373201</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>373201</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>373201</TotalCorpusAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>198022</CurrentYearAmt>
+          <Year1Amt>412102</Year1Amt>
+          <Year2Amt>96584</Year2Amt>
+          <Year3Amt>59784</Year3Amt>
+          <TotalAmt>766492</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>168319</CurrentYearAmt>
+          <Year1Amt>350287</Year1Amt>
+          <Year2Amt>82096</Year2Amt>
+          <Year3Amt>50816</Year3Amt>
+          <TotalAmt>651518</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>373201</CurrentYearAmt>
+          <Year1Amt>357660</Year1Amt>
+          <Year2Amt>478718</Year2Amt>
+          <Year3Amt>395705</Year3Amt>
+          <TotalAmt>1605284</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>373201</CurrentYearAmt>
+          <Year1Amt>357660</Year1Amt>
+          <Year2Amt>478718</Year2Amt>
+          <Year3Amt>395705</Year3Amt>
+          <TotalAmt>1605284</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>269421</CurrentYearAmt>
+          <Year1Amt>289684</Year1Amt>
+          <Year2Amt>329628</Year2Amt>
+          <Year3Amt>385553</Year3Amt>
+          <TotalAmt>1274286</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>AARON M CLARK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11366 W SAN RAPHAEL DRIVEWAY</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8584001304</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>STEVEN.CHIDESTER@WITHERSWORLDWIDE.COM</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>ELECTRONIC APPLICATION WITH THE FOLLOWING FIELDS: 1 - APPLICANT'S NAME 2 - AGE 3 - SEX 4 - YEARS SPENT WITHIN FOSTER CARE PROGRAM 5 - STREET ADDRESS 6 - CITY 7 - STATE 8 - ZIP CODE 9 - EMAIL ADDRESS 10 - PHONE NUMBERS 11 - ARE YOU CURRENTLY ENROLLED IN ANY HIGHER EDUCATION PROGRAMS? (INCLUDING VOCATIONAL AND TRADE SCHOOLS?) 12 - OPEN ENDED "TELL US MORE ABOUT YOU" APPLICATIONS ALSO INCLUDE LETTERS OF RECOMMENDATION.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NO SUBMISSION DEADLINES APPLIED</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>REFER TO STATEMENT 10. ORGANIZATION'S MISSION STATEMENT IS TO PROVIDE ASSISTANCE TO INDIVIDUALS THAT HAVE EXPERIENCED HARDSHIPS, BEEN PART OF THE FOSTER CARE SYSTEM, AND ARE REFUGEES FLEEING CONFLICT.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALLANAH NUNEZ-CONLEY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>339 S 1300 EAST</AddressLine1Txt>
+            <CityNm>SALT LAKE CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84102</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ARIANNA NUNEZ-CONLEY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>339 S 1300 EAST</AddressLine1Txt>
+            <CityNm>SALT LAKE CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84102</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DALIA GOHARY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>153 W PLUMTREE LANE</AddressLine1Txt>
+            <CityNm>MIDVALE</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84084</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JESSIE GIBSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5014 S 1150 W</AddressLine1Txt>
+            <CityNm>RIVERDALE</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84405</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MAKAYLA R LEMON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3468 W RIDGELAND PARK DR</AddressLine1Txt>
+            <AddressLine2Txt>APT 2</AddressLine2Txt>
+            <CityNm>WEST VALLEY CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84120</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NOR ALSHAREF</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4273 TAYLOR AVE</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84403</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RAQUEL ANDREASEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2276 E WESTMINISTER AVE</AddressLine1Txt>
+            <CityNm>SALT LAKE CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84108</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALISSA BALLOU</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 PRESIDENTS CIR</AddressLine1Txt>
+            <CityNm>SALT LAKE CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84112</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CADEN SAGENDORF</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 PRESIDENTS CIR</AddressLine1Txt>
+            <CityNm>SALT LAKE CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84112</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FINN KENDALL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 PRESIDENTS CIR</AddressLine1Txt>
+            <CityNm>SALT LAKE CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84112</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MADDISUN WARREN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3848 HARRISON BLVD</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84403</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARIA ETZOLD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4600 S REDWOOD RD</AddressLine1Txt>
+            <CityNm>TAYLORSVILLE</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84123</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>OAKLEIGH WEYLAND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3848 HARRISON BLVD</AddressLine1Txt>
+            <CityNm>OGDEN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84403</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PIPER HELLEWLL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 PRESIDENTS CIR</AddressLine1Txt>
+            <CityNm>SALT LAKE CITY</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84112</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT FOR POST-SECONDARY EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>23950</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>300290</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-192408</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>107882</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>107882</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING AND BOOKKEEPING</CategoryTxt>
+        <Amt>24661</Amt>
+        <NetInvestmentIncomeAmt>8220</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>8220</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>16441</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsLandSchedule2 documentId="RetDoc2">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>RENTAL PROPERTY (CIP)</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>925924</CostOrOtherBasisAmt>
+        <BookValueAmt>925924</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>FURNITURE AND FIXTURES (CIP)</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>104744</CostOrOtherBasisAmt>
+        <BookValueAmt>104744</BookValueAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CHARLES SCHWAB INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>6874637</BookValueAmt>
+        <EOYFMVAmt>6874637</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc4">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL</CategoryTxt>
+        <LegalFeesAmt>3337</LegalFeesAmt>
+        <DisbursementsCharitablePrpsAmt>3337</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>3629</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3629</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROGRAM TRAVEL</Desc>
+        <RevenueAndExpensesPerBooksAmt>2965</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2965</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVERTISING</Desc>
+        <RevenueAndExpensesPerBooksAmt>1129</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1129</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>872</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>872</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER PROGRAM EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>103714</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>103714</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc6">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN</Desc>
+        <Amt>1318393</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc7">
+      <OtherLiabilitiesDetail>
+        <Desc>CREDIT CARDS</Desc>
+        <BOYBookValueAmt>5547</BOYBookValueAmt>
+        <EOYBookValueAmt>7677</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>PAYROLL TAX LIABILITY</Desc>
+        <BOYBookValueAmt>631</BOYBookValueAmt>
+        <EOYBookValueAmt>600</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>INV EXCISE TAX</Desc>
+        <BOYBookValueAmt>1255</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc8">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>97205</Amt>
+        <NetInvestmentIncomeAmt>94289</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>94289</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2916</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER SERVICES</CategoryTxt>
+        <Amt>2492</Amt>
+        <DisbursementsCharitablePrpsAmt>2492</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX ON INVESTMENT INC</CategoryTxt>
+        <Amt>4510</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-10-30T12:11:17-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>201484966</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SKINNER FOUCH &amp; OLSON LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>38 DISCOVERY SUITE 250</AddressLine1Txt>
+        <CityNm>IRVINE</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92618</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>010684612</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>DAVID NEAL PENNINGTON FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DAVI</BusinessNameControlTxt>
+      <PhoneNum>9493007399</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>325 W WASHINGTON ST SUITE 2245</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DAVID PENNINGTON</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>9497606670</PhoneNum>
+      <SignatureDt>2025-10-30</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <Form8822BAttachedInd>X</Form8822BAttachedInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JEFF L OLSON</PreparerPersonNm>
+      <PTIN>P00415730</PTIN>
+      <PhoneNum>9492601430</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1101313</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>50000</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>176</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>176</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>9573</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>9573</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>173362</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>494633</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>173362</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>233111</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>183111</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">1249</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1249</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">14519</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>14519</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">95</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>95</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>15863</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>15863</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>35600</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>35600</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>51463</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>15863</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>35600</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>181648</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>167248</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>26021</CashBOYAmt>
+        <CashEOYAmt>39176</CashEOYAmt>
+        <CashEOYFMVAmt>39176</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>771039</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">939532</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1062137</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>797060</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>978708</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1101313</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>797060</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>978708</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>797060</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>978708</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>797060</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>978708</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>797060</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>181648</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>978708</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>978708</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES - DA 1658</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>61079</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>51012</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10067</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10067</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES - DA 1658</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>94596</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>88628</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5968</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5968</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES - RJ W464</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>70213</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>66442</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3771</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3771</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES - RJ W464</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>267806</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>115189</CostOrOtherBasisAmt>
+          <GainOrLossAmt>152617</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>152617</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>939</GrossSalesPriceAmt>
+          <GainOrLossAmt>939</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>939</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>173362</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2325</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>2325</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2325</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1040</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>1040</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>53</EsPenaltyAmt>
+        <TaxDueAmt>1338</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>0</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>AZ</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DAVID PENNINGTON</IndividualWithBooksNm>
+        <PhoneNum>9493007399</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>325 W WASHINGTON ST SUITE 2245</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92103</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID N PENNINGTON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>325 W WASHINGTON ST SUITE 2245</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92103</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR, PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONNA B JORDAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 4398</AddressLine1Txt>
+            <CityNm>ROCHE HARBOR</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98250</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>966717</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>32690</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>999407</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>999407</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>14991</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>984416</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>49221</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>49221</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2325</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2325</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>46896</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>46896</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>46896</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>35600</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>35600</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>46896</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>35548</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>35600</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>35548</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>52</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>46844</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AIDS ASSISTANCE PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1276 N PALM CANYON DRIVE SUITE 108</AddressLine1Txt>
+            <CityNm>PALM SPRINGS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92262</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO PROVIDE ASSISTANCE TO AIDS VICTIMS</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN CANCER SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>73-161 FED WARING DRIVE SUITE 100</AddressLine1Txt>
+            <CityNm>PALM DESERT</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92260</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO FURTHER THE CANCER RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMFAR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 WALL STREET 13TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10005</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO FURTHER THE RESEARCH OF A CURE FOR AIDS</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FEEDING AMERICA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>161 NORTH CLARK STREET SUITE 700</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO END HUNGER IN THE UNITED STATES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FEEDING SAN DIEGO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9477 WAPLES SUITE 100</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO CONNECT EVERY PERSON FACING HUNGER WITH NUTRIIOUS MEALS BY MAXIMIZING FOOD RESCUE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOAG HOSPITAL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 SUPERIOR AVENUE</AddressLine1Txt>
+            <CityNm>NEWPORT BEACH</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92663</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO FURTHER THE CANCER RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MAKE A WISH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1702 E HIGHLAND AVE SUITE 400</AddressLine1Txt>
+            <CityNm>PHOENIX</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85016</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO GRANT THE WISH OF EVERY CHILD DIAGNOSED WITH A CRITICAL ILLNESS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PROJECT ANGEL FOOD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>922 VINE STREET</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90038</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO PROVIDE FOOD TO AIDS PATIENTS</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SPECIAL DELIVERY SAN DIEGO (MEAL DELIVERY)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4021 GOLDFINCH STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92103</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO PROVIDE FOOD TO AIDS PATIENTS</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JUDES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>262 DANNY THOMAS PL</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO ADVANCE CURES, AND MEANS OF PREVENTION, FOR PEDIATRIC CATASTOPHIC DISEASES THROUGH RESEARCH AND TREATMENT</GrantOrContributionPurposeTxt>
+          <Amt>3600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE TREVOR PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8704 SANTA MONICA BLVD SUITE 200</AddressLine1Txt>
+            <CityNm>WEST HOLLYWOOD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90069</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO PROVIDE CRISIS AND SUICIDE PREVENTION SERVICES</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TOYS FOR TOTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>18251 QUANTICO GATEWAY DRIVE</AddressLine1Txt>
+            <CityNm>TRIANGLE</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22172</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO DISTRIBUTE TOYS TO CHILDREN WHOSE PARENTS CANNOT AFFORD TO BUY THEM GIFTS FOR CHRISTMAS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PROMISES 2 KIDS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9400 RUFFIN CT SUITE A</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO CREATE A BETTER FUTURE FOR FOSTER CHILDREN IN SAN DIEGO.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN DIEGO LGBT COMMUNITY CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3909 CENTRE ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92103</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO ENHANCE AND SUSTAIN THE HEALTH &amp; WELL-BEING OF THE LGBT COMMUNITIES TO THE BETTERMENT OF OUR ENTIRE SAN DIEGO REGION</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>35600</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>176</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>9573</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>173362</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>183111</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>183111</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>THE DAVID NEAL PENNINGTON FOUNDATION IS A CHARITABLE FOUNDATION WHOSE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>PURPOSE IS THE FUNDING OF VARIOUS CHARITIES THAT FURTHER THE RESEARCH</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>OF AIDS PREVENTION AND TREATMENT AND CANCER TREATMENT AS WELL AS</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>PROVIDING SUPPORT TO THOSE SUFFERING THE CONSEQUENCES OF THESE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>AFFLICTIONS.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>DONATIONS FROM PRIVATE DONORS ARE THE PRIMARY MEANS BY WHICH THE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>FOUNDATION ACCOMPLISHES ITS CHARITABLE PURPOSES.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>UNDISTRIBUTED FUNDS ARE KEPT IN AN INTEREST-BEARING ACCOUNT. THE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>INTEREST FROM THIS ACCOUNT IS EXCLUDED FROM GROSS INCOME BY CODE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>SECTION 103.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>DAVID PENNINGTON</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>325 W WASHINGTON ST SUITE 2245</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92103</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>50000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>1249</Amt>
+        <NetInvestmentIncomeAmt>1249</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DA DAVIDSON</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>939532</BookValueAmt>
+        <EOYFMVAmt>1062137</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>DA #1658 INVESTMENT EXPENSES - MGMT FEE</CategoryTxt>
+        <Amt>6067</Amt>
+        <NetInvestmentIncomeAmt>6067</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>RJ #W464 INVESTMENT EXPENSES</CategoryTxt>
+        <Amt>64</Amt>
+        <NetInvestmentIncomeAmt>64</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>RJ #W464 INVESTMENT EXPENSES - MGMT FEE</CategoryTxt>
+        <Amt>8388</Amt>
+        <NetInvestmentIncomeAmt>8388</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributorDetail>
+        <PersonNm>DONNA PENNINGTON</PersonNm>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>DA #1658 FOREIGN TAXES WITHHELD</CategoryTxt>
+        <Amt>64</Amt>
+        <NetInvestmentIncomeAmt>64</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>RJ #W464 FOREIGN TAXES WITHHELD</CategoryTxt>
+        <Amt>31</Amt>
+        <NetInvestmentIncomeAmt>31</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-03-05T12:31:09-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>330887341</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SAHMEL &amp; ASSOCIATES</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3033 Fifth Ave Suite 425</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92103</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>826150428</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Krijan Family Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>KRIJ</BusinessNameControlTxt>
+      <PhoneNum>6197274600</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3772 Pringle Street</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Juliana Krijan</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2025-03-05</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Sahmel Associates</PreparerPersonNm>
+      <PTIN>P00726711</PTIN>
+      <PhoneNum>6192950800</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>26322</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>7479</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>7479</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>7479</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>2941</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>2941</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>2941</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>31427</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>240782</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>31427</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>9820</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>68169</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>41847</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>20240</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">2050</AccountingFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">362</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">9187</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>11599</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>11599</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>0</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>56570</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>41847</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>20240</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>16510</CashBOYAmt>
+        <CashEOYAmt>38166</CashEOYAmt>
+        <CorporateStockBOYAmt>250088</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>258729</CorporateStockEOYAmt>
+        <TotalAssetsBOYAmt>266598</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>296895</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>266598</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>296895</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>266598</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>296895</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>266598</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>296895</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>266598</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>56570</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>323168</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">26273</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>296895</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Charles Schwab 1282</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>152859</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>143039</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9820</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9820</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Charles Schwab 1282</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>86169</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>64948</CostOrOtherBasisAmt>
+          <GainOrLossAmt>21221</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>21221</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Charles Schwab 1282</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>1754</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1368</CostOrOtherBasisAmt>
+          <GainOrLossAmt>386</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>386</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>31427</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>9820</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>582</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>582</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>582</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>7</EsPenaltyAmt>
+        <TaxDueAmt>589</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Juliana S GarciaDelgado</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6197274600</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1205 Pacific Hwy</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92101</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Juliana S GarciaDelgado</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1205 Pacific Hwy Unit 3406</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>582</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>582</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>582</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>582</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>0</ExpensesAndContributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>15941</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>9876</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>5000</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>6500</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>38406</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>75723</TotalExcessDistributionCyovAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <TotalCorpusAmt>75723</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>15941</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>59782</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>9876</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>5000</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>6500</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>38406</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Juliana S GarciaDelgado</ContributingManagerNm>
+        <ShareholderManagerNm>Juliana S GarciaDelgado</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>7479</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>2941</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>31427</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>41847</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>41847</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.0">
+      <AccountingFeesDetail>
+        <Amt>2050</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Charles Schwab Miscellaneous Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>2940</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>6164</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Foundation Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>83</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.0">
+      <TaxesDetail>
+        <CategoryTxt>Foreign Taxes</CategoryTxt>
+        <Amt>25</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Taxes</CategoryTxt>
+        <Amt>337</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

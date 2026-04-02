@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2023v8.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-06-11T16:47:25-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-07-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>330783983</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>West Rhode &amp; Roberts</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2741 4th Ave</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92103</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2023-08-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>952944594</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CALIFORNIA WESTERN SCHOOL OF LAW</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CALI</BusinessNameControlTxt>
+      <PhoneNum>6195257073</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>225 CEDAR ST</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92101</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JEANNIE POSNER</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <SignatureDt>2025-06-11</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Cheryl Rhode</PreparerPersonNm>
+      <PTIN>P00234939</PTIN>
+      <PhoneNum>6196155380</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2023</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T documentId="IRS990T" softwareId="23017517" softwareVersionNum="2023v8.0">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>77247675</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="IRS990TScheduleA.0">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <PersonNm>JEANNIE POSNER CFO</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>225 CEDAR STREET</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92101</ZIPCd>
+        </USAddress>
+        <PhoneNum>6195257073</PhoneNum>
+      </BooksInCareOfDetail>
+      <TotalUBTIComputedAmt>2337</TotalUBTIComputedAmt>
+      <TotalUBTIBeforeNOLSpecificAmt>2337</TotalUBTIBeforeNOLSpecificAmt>
+      <TotalUBTIBeforeSection199AAmt>2337</TotalUBTIBeforeSection199AAmt>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>1337</TotalUBTIAmt>
+      <TaxableCorporationAmt>281</TaxableCorporationAmt>
+      <TotalTaxComputationAmt>281</TotalTaxComputationAmt>
+      <TaxLessCreditsAmt>281</TaxLessCreditsAmt>
+      <TotalTaxAmt>281</TotalTaxAmt>
+      <PriorYearOverpaymentCreditAmt>5700</PriorYearOverpaymentCreditAmt>
+      <TotalPaymentsAmt>5700</TotalPaymentsAmt>
+      <OverpaymentSection>
+        <OverpaymentAmt>5419</OverpaymentAmt>
+        <AppliedToESTaxAmt>5419</AppliedToESTaxAmt>
+      </OverpaymentSection>
+      <ForeignAccountsQuestionInd>true</ForeignAccountsQuestionInd>
+      <ForeignCountryCd>CJ</ForeignCountryCd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <TaxExemptInterestAmt>0</TaxExemptInterestAmt>
+    </IRS990T>
+    <IRS990TScheduleA documentId="IRS990TScheduleA.0" softwareId="23017517" softwareVersionNum="2023v8.0">
+      <PrincipalBusinessActivityCd>900099</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>PASSTHROUGH K-1 UNRELATED BUSINESS INCOME</TradeOrBusinessDesc>
+      <TotalPrtshpSCorpIncomeAmt referenceDocumentId="IncomeLossPartSCorpSch.0">11686</TotalPrtshpSCorpIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>11686</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>11686</TotNetUnrltTrdBusIncmAmt>
+      <UBIBeforeNOLDedAmt>11686</UBIBeforeNOLDedAmt>
+      <NetOperatingLossDeductionAmt referenceDocumentId="Post2017NOL.0">9349</NetOperatingLossDeductionAmt>
+      <UnrelatedBusinessTaxblIncmAmt>2337</UnrelatedBusinessTaxblIncmAmt>
+    </IRS990TScheduleA>
+  </ReturnData>
+</Return>

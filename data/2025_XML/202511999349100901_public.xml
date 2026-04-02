@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-07-18T10:35:07-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>870492866</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HINTONBURDICK PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>63 SOUTH 300 EAST SUITE 100</AddressLine1Txt>
+        <CityNm>ST GEORGE</CityNm>
+        <StateAbbreviationCd>UT</StateAbbreviationCd>
+        <ZIPCd>84770</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>881361179</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CAROLYN LAKE CLAREMONT FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CARO</BusinessNameControlTxt>
+      <PhoneNum>7024801684</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>11105 HIDDEN GLEN CIRCLE APT 335</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92131</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DIANE STRONG</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>7025257462</PhoneNum>
+      <SignatureDt>2025-07-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MORRIS PEACOCK CPA</PreparerPersonNm>
+      <PTIN>P00038696</PTIN>
+      <PhoneNum>8885661277</PhoneNum>
+      <PreparationDt>2025-07-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>11677634</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>5971404</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>7489</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>5390</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>285090</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>282373</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>730909</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2972992</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2067276</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>6994892</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>2355039</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>307319</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>153660</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>67611</CompOfcrDirTrstDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>13571</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>6786</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>0</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">10402</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>2080</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">3847</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>962</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">7541</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>3771</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">5229</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>5229</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>1342</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>268</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>0</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">53026</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>49429</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>402277</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>222185</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>67611</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>273616</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>273616</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>675893</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>222185</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>341227</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>6318999</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>2132854</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>23115</CashBOYAmt>
+        <CashEOYAmt>363270</CashEOYAmt>
+        <CashEOYFMVAmt>363270</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>5335520</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">11314364</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>11314364</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>5358635</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>11677634</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>11677634</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>5358635</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>11677634</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>5358635</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>11677634</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>5358635</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>11677634</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>5358635</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>6318999</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>11677634</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>11677634</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CVS HEALTH CORP</PropertyDesc>
+          <SoldDt>2024-08-27</SoldDt>
+          <GrossSalesPriceAmt>57842</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>62655</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4813</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4813</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHEVRON CORP</PropertyDesc>
+          <SoldDt>2024-08-27</SoldDt>
+          <GrossSalesPriceAmt>367668</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>221159</CostOrOtherBasisAmt>
+          <GainOrLossAmt>146509</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>146509</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>DOW INC.</PropertyDesc>
+          <SoldDt>2024-08-27</SoldDt>
+          <GrossSalesPriceAmt>53824</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>63910</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-10086</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-10086</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ENBRIDGE INC</PropertyDesc>
+          <SoldDt>2024-03-25</SoldDt>
+          <GrossSalesPriceAmt>122955</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>85449</CostOrOtherBasisAmt>
+          <GainOrLossAmt>37506</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>37506</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>EXXON MOBIL CORP</PropertyDesc>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>505957</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9237</CostOrOtherBasisAmt>
+          <GainOrLossAmt>496720</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>496720</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GENERAL MILLS INC.</PropertyDesc>
+          <SoldDt>2024-08-27</SoldDt>
+          <GrossSalesPriceAmt>770298</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20340</CostOrOtherBasisAmt>
+          <GainOrLossAmt>749958</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>749958</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PROCTER &amp; GAMBLE CO</PropertyDesc>
+          <SoldDt>2024-08-27</SoldDt>
+          <GrossSalesPriceAmt>464724</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20831</CostOrOtherBasisAmt>
+          <GainOrLossAmt>443893</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>443893</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SOLVENTUM CORP</PropertyDesc>
+          <SoldDt>2024-08-27</SoldDt>
+          <GrossSalesPriceAmt>52</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9</CostOrOtherBasisAmt>
+          <GainOrLossAmt>43</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>43</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VERIZON COMMNS INC</PropertyDesc>
+          <SoldDt>2024-08-27</SoldDt>
+          <GrossSalesPriceAmt>371064</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>169194</CostOrOtherBasisAmt>
+          <GainOrLossAmt>201870</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>201870</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WARNER BROS DISCV A</PropertyDesc>
+          <SoldDt>2024-02-27</SoldDt>
+          <GrossSalesPriceAmt>14425</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5742</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8683</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8683</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>BRIGHTHOUSE FIN D PERPTL</PropertyDesc>
+          <SoldDt>2024-08-27</SoldDt>
+          <GrossSalesPriceAmt>33616</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>37190</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3574</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3574</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UST NOTE</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <SoldDt>2024-07-01</SoldDt>
+          <GrossSalesPriceAmt>210000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>210000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UNREALIZED LOSS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>567</GrossSalesPriceAmt>
+          <GainOrLossAmt>567</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>567</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>2067276</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>29647</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>29647</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>29647</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>3520</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>40000</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>43520</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1192000001">X</Form2220AttachedInd>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>13873</OverpaymentAmt>
+        <AppliedToESTaxAmt>13873</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DIANE STRONG</IndividualWithBooksNm>
+        <PhoneNum>7024801684</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>11105 HIDDEN GLEN CIRCLE APT 335</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92131</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DIANE STRONG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11105 HIDDEN GLEN CIRCLE APT 335</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92131</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>18.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>198119</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RONALD HILL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1642 NORTH ARTESIA DRIVE</AddressLine1Txt>
+            <CityNm>ST GEORGE</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84770</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>12.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>54600</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARK TICHENOR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>345 NORTH ARROWHEAD LANE</AddressLine1Txt>
+            <CityNm>MESQUITE</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89027</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>12.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>54600</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>VARIOUS STOCK TRANSFERS WERE MADE TO SCRIPPS COLLEGE IN CLAREMONT, CALIFORNIA FOR A TOTAL DONATION FROM THE FOUNDATION OF $273,616. THIS CONTRIBUTION AND CONTRIBUTIONS THROUGH 2028 WILL BE USED FOR THE CENTENNIAL PLAZA BEAUTIFICATION PROJECT. THIS DONATION IS PART OF A GIFT AGREEMENT BETWEEN SCRIPPS COLLEGE AND THE FOUNDATION WHERE THE FOUNDATION WILL BE OFFERED A NAMING OPPORTUNITY ONCE THE CONSTRUCTION PROJECT HAS BEEN COMPLETED.</Description1Txt>
+        <Expenses1Amt>273616</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>9696247</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>63064</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>9759311</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>9759311</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>146390</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>9612921</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>480646</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>480646</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>29647</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>29647</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>450999</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>450999</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>450999</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>341227</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>341227</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>450999</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>240476</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>341227</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>240476</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>100751</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>350248</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SCRIPPS COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1030 N COLUMBIA AVE</AddressLine1Txt>
+            <CityNm>CLAREMONT</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91711</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO FUND THE ENHANCEMENT AND BEAUTIFICATION OF SCRIPPS COLLEGE OF CLAREMONT, CALIFORNIA.</GrantOrContributionPurposeTxt>
+          <Amt>273616</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>273616</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7489</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>285090</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>730909</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>1023488</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1023488</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>MARION C LAKE</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>11105 HIDDEN GLEN CIRCLE APT 335</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92131</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5139665</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>PUBLICLY TRADED STOCK</NoncashPropertyDesc>
+        <FairMarketValueAmt>5139665</FairMarketValueAmt>
+        <ReceivedDt>2024-12-31</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>3847</Amt>
+        <NetInvestmentIncomeAmt>962</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STOCKS, OPTIONS &amp; ETFS</StockNm>
+        <EOYBookValueAmt>11314364</EOYBookValueAmt>
+        <EOYFMVAmt>11314364</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL</CategoryTxt>
+        <LegalFeesAmt>10402</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>2080</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVISORY FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>49429</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>49429</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>3594</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>3</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER</CategoryTxt>
+        <Amt>7541</Amt>
+        <NetInvestmentIncomeAmt>3771</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>BUSINESS REGISTRATION</CategoryTxt>
+        <Amt>200</Amt>
+        <NetInvestmentIncomeAmt>200</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES</CategoryTxt>
+        <Amt>5029</Amt>
+        <NetInvestmentIncomeAmt>5029</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

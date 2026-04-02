@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-17T08:29:44-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>461750265</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Reason Tax Group</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>4747 Morena Blvd Ste 102</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92117</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>770640385</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Daniel J Schuetz Family Foundation Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DANI</BusinessNameControlTxt>
+      <PhoneNum>6198501502</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3268 Governor Drive 401</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92122</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DANIEL J SCHUETZ</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-11-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Michael R Boulger CPA</PreparerPersonNm>
+      <PTIN>P00235811</PTIN>
+      <PhoneNum>8584837500</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>133019</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>134845</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>699</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>699</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>699</InterestOnSavingsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>135544</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>699</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>699</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>750</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>750</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">25</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>25</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>1525</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>750</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>775</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>2525</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>750</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1775</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>133019</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>699</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashEOYAmt>9920</CashEOYAmt>
+        <CashEOYFMVAmt>9920</CashEOYFMVAmt>
+        <SavAndTempCashInvstEOYAmt>100699</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>100699</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">22400</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>22400</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsEOYAmt>133019</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>133019</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockEOYAmt>133019</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>133019</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>0</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>133019</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <ExcessRevenueOverExpensesAmt>133019</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>133019</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>133019</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>http://danieljschuetzfamilyfoundation.com/</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Daniel J Schuetz</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6198501502</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3268 Governor Drive 401</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92122</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Daniel J Schuetz</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3268 Governor Drive 401</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92122</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Lorri Wirick</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5060 La Jolla Blvd Apt P-C</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92109</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Accept, receive, hold, invest, reinvest and administer contributions, gifts, legacies, bequests, devises, funds, benefit of trusts and property of any sort or nature and to use, apply, expend, disburse, or donate the income or principal thereof for charitable purposes directly or through contributions to organizations which are described in Sections 170(c), 501(c)(3), 2055(a) and 2522(a) of the Internal Revenue Code and are exempt from taxation under Section 501(a) of the Internal Revenue Code</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>46191</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>46191</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>46191</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>693</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>45498</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>2275</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>2275</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>2275</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>2275</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>2275</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1775</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1775</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>2275</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>860</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>2452</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>716</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>995</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>834</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>5857</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1775</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>1775</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>500</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>500</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>5357</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>360</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>4997</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>2452</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>716</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>995</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>834</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Daniel J Schuetz</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hollister Fire Department</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>110 5th St</AddressLine1Txt>
+            <CityNm>Hollister</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95023</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Public Safety</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>699</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>699</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>699</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>SDMT Charitable Remainder Trust</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>3268 Governor Drive 401</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92122</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>134720</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>Diamonds</NoncashPropertyDesc>
+        <FairMarketValueAmt>22400</FairMarketValueAmt>
+        <ReceivedDt>2024-09-01</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting</CategoryTxt>
+        <Amt>1500</Amt>
+        <NetInvestmentIncomeAmt>750</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>750</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Investment - Diamonds</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>22400</BookValueAmt>
+        <EOYFMVAmt>22400</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>State Tax</CategoryTxt>
+        <Amt>25</Amt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

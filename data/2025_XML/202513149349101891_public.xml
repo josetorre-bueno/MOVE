@@ -1,0 +1,731 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-10T15:47:38-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>853389378</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LIANG &amp; QUINLEY TAX MANAGEMENT INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>5675 RUFFIN ROAD SUITE 260</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92123</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330929117</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>GOODALL FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>GOOD</BusinessNameControlTxt>
+      <PhoneNum>8582873388</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 27941</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92128</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JEFF GOODALL</PersonNm>
+      <PersonTitleTxt>VICE PRESIDENT</PersonTitleTxt>
+      <PhoneNum>8582873388</PhoneNum>
+      <SignatureDt>2025-11-05</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>1</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>NICOLA BRUNO</PreparerPersonNm>
+      <PTIN>P00140422</PTIN>
+      <PhoneNum>8582873388</PhoneNum>
+      <PreparationDt>2025-11-04</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4255042</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>495000</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>77885</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>77885</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>81308</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>816038</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>81308</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>654193</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>159193</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">2360</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2360</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">29557</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>29557</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">432</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>432</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>32349</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>32349</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>315000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>315000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>347349</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>32349</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>315000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>306844</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>126844</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>14121</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>36283</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>36283</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>49671</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">38746</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>38746</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>2541604</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">2619221</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>4180013</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>2605396</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2694250</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4255042</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>2605396</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>2694250</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2605396</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2694250</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2605396</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2694250</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2605396</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>306844</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>2912240</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">217990</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2694250</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UBS #02350 -ST COVERED</PropertyDesc>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>244632</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>225207</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19425</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19425</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UBS #02350 -ST NON COVERED</PropertyDesc>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>130325</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>129306</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1019</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1019</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UBS #02350 -LT COVERED</PropertyDesc>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>440874</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>380217</CostOrOtherBasisAmt>
+          <GainOrLossAmt>60657</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>60657</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>207</GrossSalesPriceAmt>
+          <GainOrLossAmt>207</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>207</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>81308</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1763</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>1763</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1763</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>4240</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>4240</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>2477</OverpaymentAmt>
+        <AppliedToESTaxAmt>2477</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JEFF GOODALL</IndividualWithBooksNm>
+        <PhoneNum>8582873388</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 27941</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92128</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JACKSON W GOODALL JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 8814</AddressLine1Txt>
+            <CityNm>RANCHO SANTA FE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92067</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEFF GOODALL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>13233 HIGHLAND RANCH RD</AddressLine1Txt>
+            <CityNm>POWAY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92067</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KATHLEEN M HART</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 27941</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92128</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MINNETTE M RUNDLETT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 27941</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92128</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3822972</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>30437</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>3853409</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>3853409</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>57801</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>3795608</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>189780</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>189780</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1763</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1763</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>188017</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>188017</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>188017</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>315000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>315000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>188017</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>280200</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>223400</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>207941</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>179500</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>232500</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1123541</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>315000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>188017</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>126983</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>1250524</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>280200</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>970324</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>223400</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>207941</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>179500</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>232500</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>126983</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JACKSON W GOODALL JR</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALS ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 37022</AddressLine1Txt>
+            <CityNm>BOONE</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>50037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ATHLETES IN ACTION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>651 XENIA DRIVE</AddressLine1Txt>
+            <CityNm>XENIA</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45385</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EDUCATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHRISTO RAY SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1228 S 38TH ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EDUCATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>12500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COLLEGE AVENUE PREGNANCY SERVICES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4575 COLLEGE AVENUE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EDUCATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HILLSDALE COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>35 E COLLEGE ST</AddressLine1Txt>
+            <CityNm>HILLSDALE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>49242</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EDUCATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HORIZON CHRISTIAN FELLOWSHIP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6365 EL APAJO RD</AddressLine1Txt>
+            <CityNm>RANCHO SANTA FE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92091</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MESA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 180729</AddressLine1Txt>
+            <CityNm>CORONADO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92178</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>POINT LOMA NAZARENE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3900 LOMALAND DR</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EDUCATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PROMISES2 KIDS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9400 RUFFIN CT STE A</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RISE UP INDUSTRIES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8530 ROLAND ACRES RD DR</AddressLine1Txt>
+            <CityNm>SANTEE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92071</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAMARITANS PURSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>801 BAMBOO RD</AddressLine1Txt>
+            <CityNm>BOONE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SWISH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5951 E VILLAGE CENTRE LOOP RD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE CAMPANILE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5500 CAMPANILE DRIVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92182</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>90000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>URBANLIFE MINISTRIES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4391 EL CAJON BOULEVARD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YOUNG LIFE INNER-CITY SAN DIEGO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4193 UNIVERSITY AVE 5906</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>FOUNDATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YWAMCIRCUIT RIDERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 PACIFIC COAST HWY 111</AddressLine1Txt>
+            <CityNm>HUNTINGTON BEACH</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92648</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EDUCATION</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>315000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>77885</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>207</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>81101</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>78092</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>81101</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>159193</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>INCOME GENERATED BY INTEREST AND DIVIDENDS WAS USED TO MAKE CHARITABLE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>CONTRIBUTIONS</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>INCOME GENERATED BY GAINS ON INVESTMENTS WAS USED TO MAKE CHARITABLE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>CONTRIBUTIONS</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>JACKSON W GOODALL JR</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 8814</AddressLine1Txt>
+          <CityNm>RANCHO SANTA FE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92067</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>495000</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>10,000 SHARES OF CARLYLE GROUP CORPORATION STOCK</NoncashPropertyDesc>
+        <FairMarketValueAmt>495000</FairMarketValueAmt>
+        <ReceivedDt>2024-10-15</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>BRUNO SKORHEIM LLP</CategoryTxt>
+        <Amt>2360</Amt>
+        <NetInvestmentIncomeAmt>2360</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBS #2350</StockNm>
+        <EOYBookValueAmt>2619221</EOYBookValueAmt>
+        <EOYFMVAmt>4180013</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>38746</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>38746</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>0</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>0</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>PRIOR PERIOD ADJUSTMENT</Desc>
+        <Amt>217990</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>UBS #2347</CategoryTxt>
+        <Amt>175</Amt>
+        <NetInvestmentIncomeAmt>175</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>UBS #2350</CategoryTxt>
+        <Amt>29382</Amt>
+        <NetInvestmentIncomeAmt>29382</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributorDetail>
+        <PersonNm>JACKSON W GOODALL JR</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 8814</AddressLine1Txt>
+          <CityNm>RANCHO SANTA FE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92067</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>TAXES &amp; LICENSES</CategoryTxt>
+        <Amt>432</Amt>
+        <NetInvestmentIncomeAmt>432</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

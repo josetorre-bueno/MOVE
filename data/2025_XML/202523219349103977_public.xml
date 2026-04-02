@@ -1,0 +1,850 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-17T10:47:49-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>823382227</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Meletis and Munsch LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>12626 High Bluff Dr Ste 400</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>873506925</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>LJ SCENIC FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LJSC</BusinessNameControlTxt>
+      <PhoneNum>8582995900</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>12626 HIGH BLUFF DR 400</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>HARLAN A JACOBS</PersonNm>
+      <PersonTitleTxt>PRESIDENT &amp; CFO</PersonTitleTxt>
+      <SignatureDt>2025-11-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Karyn L Meletis Partner</PreparerPersonNm>
+      <PTIN>P00359533</PTIN>
+      <PhoneNum>8582995900</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>530355</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>1044909</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>696</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>696</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>8640</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>8640</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>65171</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1951047</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1104898</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>1119416</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1114234</TotalNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">5799</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>2900</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>2899</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">5319</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2660</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2659</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">209</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>209</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">897</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>897</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>12224</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>6666</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>5558</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1004482</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1004482</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1016706</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>6666</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1010040</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>102710</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1107568</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>60607</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>111620</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>111620</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>384007</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">435704</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>418735</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>444614</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>547324</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>530355</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>444614</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>547324</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>444614</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>547324</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>444614</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>547324</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>444614</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>102710</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>547324</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>547324</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MERRILL LYNCH x3871</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>844862</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>844981</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-119</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-119</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MERRILL LYNCH x3871</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>1287</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1305</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-18</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-18</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAIN DISTRIBUTION</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>6612</GrossSalesPriceAmt>
+          <GainOrLossAmt>6612</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6612</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>6000.0000SH QUAL COMM INC</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <AcquiredDt>2013-04-19</AcquiredDt>
+          <SoldDt>2024-11-12</SoldDt>
+          <GrossSalesPriceAmt>1037443</GrossSalesPriceAmt>
+          <GainOrLossAmt>1037443</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1037443</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MERRILL LYNCH x3871</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>60740</GrossSalesPriceAmt>
+          <GainOrLossAmt>60740</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>60740</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MERRILL LYNCH x3871</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>103</GrossSalesPriceAmt>
+          <GainOrLossAmt>103</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>103</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Wash Sale</PropertyDesc>
+          <GainOrLossAmt>137</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>1104898</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>15395</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>15395</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>15395</TaxBasedOnInvestmentIncomeAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>20000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>20000</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>293</EsPenaltyAmt>
+        <OverpaymentAmt>4312</OverpaymentAmt>
+        <AppliedToESTaxAmt>4312</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>DEBBY JACOBS SECRETARY</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8582995900</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>12626 HIGH BLUFF DR STE 400</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>HARLAN A JACOBS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12626 HIGH BLUFF DRIVE STE 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT &amp; CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DEBBY JACOBS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12626 HIGH BLUFF DRIVE STE 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP &amp; SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CONNER JACOBS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12626 HIGH BLUFF DRIVE STE 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LINDSEY JACOBS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12626 HIGH BLUFF DRIVE STE 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>277189</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>99599</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>376788</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>376788</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>5652</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>371136</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>18557</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>18557</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>15395</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>15395</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>3162</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>3162</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>3162</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1010040</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1010040</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>3162</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>8178</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>694165</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1082742</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1785085</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1010040</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>3162</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>1006878</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>2791963</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>2791963</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>8178</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>694165</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1082742</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>1006878</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>HARLAN A JACOBS</ContributingManagerNm>
+        <ContributingManagerNm>DEBBY JACOBS</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>HARLAN A JACOBS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12626 HIGH BLUFF DR STE 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8582995900</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICANTS ARE REQUIRED TO SUBMIT THE FORM OF INDIVIDUAL GRANT APPLICATION WITH A COMPLETE EDUCATIONAL AND BIOGRAPHICAL RECORD AND SUPPORTING MATERIALS, INCLUDING A REPORT ON THEIR ACADEMIC AND PROFESSIONAL CAREERS, A DETAILED STATEMENT OF THEIR PLANS FOR THE USE OF THE GRANT (INCLUDING A BUDGET), A STATEMENT OF THEIR PLANS AND COMMITMENTS AFTER THE GRANT, LETTERS OF REFERENCE AND LISTS OF PUBLICATIONS. THE APPLICANT MUST ALSO CONVINCE THE FOUNDATION OF HIS/HER FINANCIAL NEED FOR THE GRANT FUNDS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>1) GRANTS TO INDIVIDUALS PURSUING ECONOMIC, SCIENTIFIC, MEDICAL, HISTORICAL, LEGAL OR LITERARY RESEARCH AND PRODUCING A REPORT THEREON.2) GRANTS TO INDIVIDUALS IMPROVING THEIR SKILLS IN THE VISUAL OR PERFORMING ARTS, LITERATURE, TEACHING, SCHOLARLY RESEARCH OR WRITING.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>HARLAN A JACOBS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12626 HIGH BLUFF DR STE 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8582995900</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>APPLICANTS ARE REQUIRED TO SUBMIT THE FORM OF SCHOLARSHIP APPLICATION WITH A COMPLETE BIOGRAPHICAL RECORD AND SUPPORTING MATERIALS, INCLUDING A REPORT ON THEIR ACADEMIC CAREERS, A DETAILED STATEMENT OF THEIR ACADEMIC AND/OR PROFESSIONAL GOALS (AS APPROPRIATE), AND A STATEMENT OF THEIR PLANS AND COMMITMENTS AFTER SCHOOL. THE APPLICANT MUST ALSO CONVINCE THE FOUNDATION OF HIS OR HER FINANCIAL NEED FOR THE SCHOLARSHIP FUNDS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>1) SCHOLARSHIPS TO ASSIST STUDENTS IN GRADES K THROUGH 12 TO ATTEND A SPECIALIZED SCHOOL.2) SCHOLARSHIPS FOR STUDENTS PURSUING A BACHELOR'S DEGREE AT AN ACCREDITED COLLEGE OR UNIVERSITY.3) SCHOLARSHIPS FOR STUDENTS PURSUING A MASTER'S DEGREE, DOCTORATE, OR OTHER ADVANCED DEGREEE AT AN ACCREDITED COLLEGE OR UNIVERSITY.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>HARLAN A JACOBS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12626 HIGH BLUFF DR STE 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8582995900</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NO SPECIFIC FORM. THE BOARD OF DIRECTORS WILL SELECT GRANTEES IN ORDER TO ADDRESS CHARITABLE, SCIENTIFIC, RELIGIOUS, CULTURAL, LITERARY AND EDUCATIONAL NEEDS WHICH EXIST FROM TIME-TO-TIME. GRANTS MAY BE MADE IN RESPONSE TO A SPECIFIC REQUEST FROM A GRANTEE OR TO A GRANTEE CHOSEN BY THE BOARD OF DIRECTORS BASED UPON ITS WORK AND REPUTATION IN THE COMMUNITY.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>HARLAN A JACOBS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12626 HIGH BLUFF DR STE 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8582995900</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NO SPECIFIC FORM. ALL SUCH GRANTS WILL BE SUBJECT TO THE GRANT SCREENING BY THE BOARD OF DIRECTORS BASED UPON ITS WORK AND REPUTATION IN THE COMMUNITY. DEPENDING UPON THE SIZE AND TIME FRAME OF THE PROJECT, THE PAST RELATIONSHIP OF THE FOUNDATION AND THE GRANTEE ORGANIZATION, AND THE SIZE OF THE GRANT, THE FOUNDATION MAY ENTER INTO A WRITTEN AGREEMENT WITH THE GRANTEE UNDER WHICH FUNDING WILL BE PROVIDED ONLY UPON ACHIEVEMENT OF CERTAIN MILESTONES.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>HARLAN A JACOBS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12626 HIGH BLUFF DR STE 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8582995900</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NO SPECIFIC FORM. THE FOUNDATION WILL EXERCISE 'EXPENDITURE RESPONSIBILITY' AS DESCRIBED IN TREASURY REG. SECTION 53.4945-5(B)AND WILL CONDUCT AN INQUIRY CONCERNING THE POTENTIAL GRANTEE BEFORE THE GRANT IS MADE.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hero World Challenge-TGR Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15440 Laguna Canyon Rd STE 23</AddressLine1Txt>
+            <CityNm>Irvine</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92618</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>80196</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>La Jolla Playhouse</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2910 La Jolla Village Dr</AddressLine1Txt>
+            <CityNm>La Jolla</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>60000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>US Ski Snowboard Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 100</AddressLine1Txt>
+            <CityNm>Park City</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84060</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>14000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Beth Israel - Ner Tamid Leaders</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9001 Towne Centre Drive</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92122</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNLV Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4505 South Maryland Park</AddressLine1Txt>
+            <CityNm>Las Vegas</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89154</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Symphony</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1245 Seventh Ave</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>500000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Planned Parenthood of the Pacific S</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1075 Camino del Rio S</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MURALS OF LA JOLLA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1008 Wall Street</AddressLine1Txt>
+            <CityNm>La Jolla</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>USET FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 School House Ln</AddressLine1Txt>
+            <CityNm>Gladstone</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07934</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>8750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE OLD GLOBE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1363 Old Globe Way</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Challenged Athletes Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9591 Waples St</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>77000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Museum of Contemporary Art San Dieg</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 Prospect St</AddressLine1Txt>
+            <CityNm>La Jolla</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>22500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SCTA Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4490 W Point Loma Blvd</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92107</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Legacy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3840 Via De La Valle</AddressLine1Txt>
+            <CityNm>Del Mar</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92014</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>56036</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Uplift Youth Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1660 Hotel Cir N 450</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1004482</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>696</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>8640</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>65171</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>74507</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>74507</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>HARLAN A JACOBS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>12626 HIGH BLUFF DR STE 400</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>520860</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>HARLAN A JACOBS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>12626 HIGH BLUFF DR STE 400</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>518730</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>HARLAN A JACOBS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>12626 HIGH BLUFF DR STE 400</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5319</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>3000 SHARES QUALCOMM INC</NoncashPropertyDesc>
+        <FairMarketValueAmt>520860</FairMarketValueAmt>
+        <ReceivedDt>2024-04-08</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>3000 SHARES QUALCOMM INC</NoncashPropertyDesc>
+        <FairMarketValueAmt>518730</FairMarketValueAmt>
+        <ReceivedDt>2024-11-07</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>accounting fee</CategoryTxt>
+        <Amt>5319</Amt>
+        <NetInvestmentIncomeAmt>2660</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2659</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALPS SMITH TOTAL 2192.5430 SH</StockNm>
+        <EOYBookValueAmt>21049</EOYBookValueAmt>
+        <EOYFMVAmt>20873</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMER FUNDS AMCAP 386.3200 SH</StockNm>
+        <EOYBookValueAmt>17982</EOYBookValueAmt>
+        <EOYFMVAmt>16743</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN EURO PACIFIC 197.8350</StockNm>
+        <EOYBookValueAmt>11281</EOYBookValueAmt>
+        <EOYFMVAmt>10596</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN WASHINGTON 273.2270 SH</StockNm>
+        <EOYBookValueAmt>17742</EOYBookValueAmt>
+        <EOYFMVAmt>16798</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ARTISAN HIGH INCOME 947.0530 SH</StockNm>
+        <EOYBookValueAmt>8655</EOYBookValueAmt>
+        <EOYFMVAmt>8618</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BARON REAL ESTATE 272.3820 SH</StockNm>
+        <EOYBookValueAmt>11363</EOYBookValueAmt>
+        <EOYFMVAmt>10909</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DWS RREEF REAL ASSET 1093.0940 SH</StockNm>
+        <EOYBookValueAmt>13275</EOYBookValueAmt>
+        <EOYFMVAmt>12625</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EATON VANCE RCHRD 1334.9190 SH</StockNm>
+        <EOYBookValueAmt>25678</EOYBookValueAmt>
+        <EOYFMVAmt>24175</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FULLERTHALER BEHVIORAL 342.6310 SH</StockNm>
+        <EOYBookValueAmt>17701</EOYBookValueAmt>
+        <EOYFMVAmt>15412</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HOTCHKIS &amp; WILEY VALUE 668.1940 SH</StockNm>
+        <EOYBookValueAmt>28055</EOYBookValueAmt>
+        <EOYFMVAmt>24970</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESCO FTSE RAFI 186.0000 SH</StockNm>
+        <EOYBookValueAmt>9040</EOYBookValueAmt>
+        <EOYFMVAmt>8908</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESCO FTSE RAFI 148.0000 SH</StockNm>
+        <EOYBookValueAmt>3073</EOYBookValueAmt>
+        <EOYFMVAmt>3031</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISH TR CORE DIVID GR 255.0000 SH</StockNm>
+        <EOYBookValueAmt>16222</EOYBookValueAmt>
+        <EOYFMVAmt>15642</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES TR CORE 579.0000 SH</StockNm>
+        <EOYBookValueAmt>39345</EOYBookValueAmt>
+        <EOYFMVAmt>38295</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PIMCO MORTGAGE 358.5580 SH</StockNm>
+        <EOYBookValueAmt>3313</EOYBookValueAmt>
+        <EOYFMVAmt>3306</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD TOTAL STK MK 199.0000 SH</StockNm>
+        <EOYBookValueAmt>58700</EOYBookValueAmt>
+        <EOYFMVAmt>57672</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD DIVIDEND 80.0000 SH</StockNm>
+        <EOYBookValueAmt>16103</EOYBookValueAmt>
+        <EOYFMVAmt>15666</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INTERNATIONAL 197.0000 SH</StockNm>
+        <EOYBookValueAmt>16225</EOYBookValueAmt>
+        <EOYFMVAmt>15758</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ANGEL OAK MULTI STRAT 961.9170 SH</StockNm>
+        <EOYBookValueAmt>8282</EOYBookValueAmt>
+        <EOYFMVAmt>8263</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CAPITAL GROUP GROWTH 380.0000 SH</StockNm>
+        <EOYBookValueAmt>14167</EOYBookValueAmt>
+        <EOYFMVAmt>14125</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CREDIT SUISSE STRATEGIC 1093.0940 SH</StockNm>
+        <EOYBookValueAmt>4140</EOYBookValueAmt>
+        <EOYFMVAmt>4135</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESCO CORE PLUS 2247.7940 SH</StockNm>
+        <EOYBookValueAmt>20698</EOYBookValueAmt>
+        <EOYFMVAmt>20522</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JP MORGAN CORE 2957.2050 SH</StockNm>
+        <EOYBookValueAmt>21250</EOYBookValueAmt>
+        <EOYFMVAmt>21026</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KOPERNIK GLOBAL ALL 1006.5580 SH</StockNm>
+        <EOYBookValueAmt>12012</EOYBookValueAmt>
+        <EOYFMVAmt>11042</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LOAD ABBETT INCOME 1695.6240 SH</StockNm>
+        <EOYBookValueAmt>4139</EOYBookValueAmt>
+        <EOYFMVAmt>4086</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WISDOMTREE US QUALOTY 192.000. SH</StockNm>
+        <EOYBookValueAmt>16214</EOYBookValueAmt>
+        <EOYFMVAmt>15539</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <LegalFeesGrp>
+        <CategoryTxt>Legal Fees</CategoryTxt>
+        <LegalFeesAmt>5799</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>2900</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2899</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADVISORY FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>897</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>897</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>209</Amt>
+        <NetInvestmentIncomeAmt>209</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

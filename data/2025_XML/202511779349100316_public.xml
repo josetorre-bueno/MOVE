@@ -1,0 +1,778 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-06-26T13:23:52-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>330739062</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Benito &amp; Company</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>10801 Thornmint Road Suite 150</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92127</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>261173132</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE STEIN FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>STEI</BusinessNameControlTxt>
+      <PhoneNum>8582933037</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>11027 NOBLE LANE 137</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92131</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JEROME STEIN</PersonNm>
+      <PersonTitleTxt>Director</PersonTitleTxt>
+      <SignatureDt>2025-06-26</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MARK BENITO CPA</PreparerPersonNm>
+      <PTIN>P00145865</PTIN>
+      <PhoneNum>8584870777</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation BinaryAttachment.1" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4755127</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>20568</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>20568</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>81149</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>81149</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>265081</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1619587</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>265081</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">255</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>255</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>367053</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>367053</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>3600</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>3600</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">4795</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>4795</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">33063</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>33063</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">7447</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2727</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>4720</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">1036</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>1036</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>49941</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>36826</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>13115</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>202700</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>202700</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>252641</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>36826</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>215815</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>114412</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>330227</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>92144</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>182046</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>182046</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>460721</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>531135</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>505146</USGovtObligationsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>2997730</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>2951205</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>4067935</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>3550595</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3664386</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4755127</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>3550595</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>3664386</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>3550595</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3664386</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>3550595</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3664386</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>3550595</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>114412</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>3665007</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">621</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3664386</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY PRIVATE WEALTH (028200)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>488709</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>480710</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7999</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7999</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY PRIVATE WEALTH (028200)</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>1130878</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>873796</CostOrOtherBasisAmt>
+          <GainOrLossAmt>257082</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>257082</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>265081</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>7999</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>4590</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>4590</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4590</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>3611</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>5000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>8611</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>4021</OverpaymentAmt>
+        <AppliedToESTaxAmt>4021</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JEROME STEIN</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8582933037</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>11027 NOBEL LANE 137</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92131</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEROME STEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11027 NOBLE LANE 137</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92131</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>600</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SHARON STEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>11027 NOBLE LANE 137</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92131</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>600</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GREGORY STEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4114 ROSEDALE AVENUE</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78756</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>600</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KAREN NUNEZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1346 HARDIN DRIVE</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92020</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>600</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DANA STEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1721 BLUE WATER LANE</AddressLine1Txt>
+            <CityNm>SAN MARCOS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92078</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>600</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LISA STEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>847 MOHAWK ST</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>43206</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>600</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>4624456</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>116843</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>4741299</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>4741299</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>71119</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>4670180</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>233509</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>233509</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4590</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>4590</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>228919</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>228919</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>228919</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>215815</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>215815</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>228919</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>203765</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>215815</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>203765</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>12050</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>216869</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>STEIN FAMILY FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11027 NOBLE LANE 137</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92131</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8582933037</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>THE FOUNDATION DOES NOT REQUIRE AN APPLICATION FORM NOR A FORMAL GRANT PROPOSAL. EACH PROSPECTIVE GRANTEE WILL BE REQUIRED TO SUBMIT A LETTER AND APPROPRIATE SUPPORTING DATA THAT WILL EXPLAIN THE PURPOSES FOR WHICH THE GRANT WILL BE EXPENDED IF RECEIVED AND USUALLY A GRANT APPLICANT WILL BE REQUIRED TO SUBMIT FINANCIAL DATA INCLUDING ITS RECENT FINANCIAL STATEMENTS AND A BUDGET FOR THE YEAR(S) IN WHICH THE GRANT WILL BE EXPENDED.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CASA DE AMPARO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>325 BUENA CREEK RD</AddressLine1Txt>
+            <CityNm>SAN MARCOS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92069</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>62000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CYSTIC FIBROSIS FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10455 SORRENTO VALLEY RD 103</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE ELIZABETH HOSPICE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 LA TERRAZA BLVD 130</AddressLine1Txt>
+            <CityNm>ESCONDIDO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JEWISH FAMILY SERVICE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8804 BALBOA AVENUE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NORTH COAST REPERTORY THEATRE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>987 LOMAS SANTA FE DR STE D</AddressLine1Txt>
+            <CityNm>SOLANA BEACH</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92075</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>11500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JEWISH FEDERATION OF SD COUNTY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4950 MURPHY CANYON RD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE VISION OF CHILDREN FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12555 HIGH BLUFF DR 330</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VISTA HILL FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8910 CLAIREMONT MESA BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMUNITY RESOURCE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>650 SECOND STREET</AddressLine1Txt>
+            <CityNm>ENCINITAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MIRA COSTA COLLEGE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE BARNARD DR</AddressLine1Txt>
+            <CityNm>OCEANSIDE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92056</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MAMA'S KITCHEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3960 HOME AVENUE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOLUTIONS FOR CHANGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>722 WEST CALIFORNIA AVE</AddressLine1Txt>
+            <CityNm>VISTA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92083</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ANY BABY CAN OF AUSTIN INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6207 SHERIDAN AVE</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78723</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>9000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>REEB AVENUE CENTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>330 WEST SPRING ST</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>43215</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>STAND WITH US SAN DIEGO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 341069</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90034</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HELPING HAND HOME FOR CHILDREN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3804 AVENUE B</AddressLine1Txt>
+            <CityNm>AUSTIN</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78751</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE CENTER FOR HEALTHY FAMILIES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 SOUTH FRONT ST STE 930</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>43215</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VILLAGE PROJECT AFRICA INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 382</AddressLine1Txt>
+            <CityNm>NOBLESVILLE</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46061</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>13000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ARMS WIDE OPEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>237 EAST MAIN STREET</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92020</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KORDA INSTITUTE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 6058</AddressLine1Txt>
+            <CityNm>CLEVELAND</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ARMED SERVICES YMCA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>14040 CENTRAL LOOP SUITE B</AddressLine1Txt>
+            <CityNm>WOODBRIDGE</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22193</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE LUCKY DUCK FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5675 RUFFIN ROAD SUITE 100</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PELOTONIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>450 W BROAD ST</AddressLine1Txt>
+            <CityNm>COLUMBUS</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>43215</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST JUDE CHILDREN'S RESEARCH HOSPITA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>262 DANNY THOMAS PLACE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BLANCHARD INST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>121 STATE PLACE</AddressLine1Txt>
+            <CityNm>ESCONDIDO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92029</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CORAL REEF RESTORATION FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8911 OVERSEAS HWY</AddressLine1Txt>
+            <CityNm>TAVERNIER</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33070</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EAST COUNTY TRANSITIONAL LIVING CT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1527 EAST MAIN ST</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING EXPENSES</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>202700</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>20568</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>81149</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>255</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>265081</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>367053</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>367053</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>BOOKKEEPING</CategoryTxt>
+        <Amt>435</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>435</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION AND CONSULTING</CategoryTxt>
+        <Amt>4360</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4360</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherDecreasesDetail>
+        <Desc>PASSTHROUGH ENTITY LOSS</Desc>
+        <Amt>621</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADR FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1036</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1036</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherIncomeDetail>
+        <Desc>Other Investment Income</Desc>
+        <RevenueAndExpensesPerBooksAmt>255</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>255</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>33063</Amt>
+        <NetInvestmentIncomeAmt>33063</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>ATTORNEY GENERAL</CategoryTxt>
+        <Amt>100</Amt>
+        <DisbursementsCharitablePrpsAmt>100</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>4620</Amt>
+        <DisbursementsCharitablePrpsAmt>4620</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES WITHHELD</CategoryTxt>
+        <Amt>2727</Amt>
+        <NetInvestmentIncomeAmt>2727</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

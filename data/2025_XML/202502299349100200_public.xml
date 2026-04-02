@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-08-17T15:03:43-04:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>450250958</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>EIDE BAILLY LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>323 N HIGHWAY 101</AddressLine1Txt>
+        <CityNm>SOLANA BEACH</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92075</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>336277186</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>DOROTHEA TUNEY FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O TANYA TAFOLLA</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DORO</BusinessNameControlTxt>
+      <PhoneNum>6192032029</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1965 MENDOCINO BLVD</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92107</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>TANYA TAFOLLA</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <SignatureDt>2025-08-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LEANNA ALMKLOV CPA</PreparerPersonNm>
+      <PTIN>P01692803</PTIN>
+      <PhoneNum>8584817702</PhoneNum>
+      <PreparationDt>2025-08-17</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc12" referenceDocumentId="RetDoc9">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>721407</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>18</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>18</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>13991</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>13991</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>64974</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>132213</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>64974</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>78983</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>78983</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>86017</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">3600</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1800</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc7">5442</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>5442</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">6850</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1238</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">1036</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>5</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>102945</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>8485</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>39473</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>39473</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>142418</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>8485</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>39473</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-63435</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>70498</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>26446</CashBOYAmt>
+        <CashEOYAmt>30251</CashEOYAmt>
+        <CashEOYFMVAmt>30251</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>365373</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">298133</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>691156</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>391819</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>328384</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>721407</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>391819</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>328384</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>391819</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>328384</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>391819</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>328384</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>391819</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-63435</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>328384</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>328384</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SCHWAB 1587 LT COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2012-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>132213</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>67239</CostOrOtherBasisAmt>
+          <GainOrLossAmt>64974</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>64974</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>64974</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>980</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>980</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>980</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>795</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>700</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>1495</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1">X</Form2220AttachedInd>
+        <EsPenaltyAmt>8</EsPenaltyAmt>
+        <OverpaymentAmt>507</OverpaymentAmt>
+        <AppliedToESTaxAmt>507</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>TANYA TAFOLLA</IndividualWithBooksNm>
+        <PhoneNum>6192032029</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1965 MENDOCINO BLVD</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92107</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TANYA TAFOLLA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1965 MENDOCINO BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92107</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>30.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>86017</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>719418</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>35762</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>755180</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>755180</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>11328</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>743852</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>37193</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>37193</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>980</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>980</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>36213</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>36213</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>36213</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>39473</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>39473</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>36213</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>55637</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>47634</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>52992</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>56926</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>36339</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>249528</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>39473</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>36213</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>3260</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>252788</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>55637</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>197151</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>47634</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>52992</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>56926</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>36339</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>3260</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEE ATTACHMENT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SEE ATTACHMENT</AddressLine1Txt>
+            <CityNm>SEE ATTACHMENT</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92075</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SEE ATTACHMENT</GrantOrContributionPurposeTxt>
+          <Amt>39473</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>39473</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>18</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>13991</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>64974</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>78983</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>78983</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX &amp; ACCOUNTING</CategoryTxt>
+        <Amt>3600</Amt>
+        <NetInvestmentIncomeAmt>1800</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INVESTMENTS - BONDS</BondNm>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTMENTS - STOCKS</StockNm>
+        <EOYBookValueAmt>298133</EOYBookValueAmt>
+        <EOYFMVAmt>691156</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ATTORNEY GENERAL'S REGISTRY</Desc>
+        <RevenueAndExpensesPerBooksAmt>50</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL SERVICE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>976</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK SERVICE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>11</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>5</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ROUNDING</Desc>
+        <RevenueAndExpensesPerBooksAmt>-1</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc6">
+      <OtherLiabilitiesDetail>
+        <Desc>PAYROLL TAXES PAYABLE</Desc>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc7">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>SCHWAB 1587 ADVISOR FEES</CategoryTxt>
+        <Amt>5442</Amt>
+        <NetInvestmentIncomeAmt>5442</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAXES</CategoryTxt>
+        <Amt>5612</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES WITHHELD</CategoryTxt>
+        <Amt>478</Amt>
+        <NetInvestmentIncomeAmt>478</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES</CategoryTxt>
+        <Amt>760</Amt>
+        <NetInvestmentIncomeAmt>760</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

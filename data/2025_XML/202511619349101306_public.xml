@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-06-10T16:21:57-04:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>GREGORY V VILLARD CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>7844 LA MESA BLVD</AddressLine1Txt>
+        <CityNm>LA MESA</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>91942</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>853911287</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>JL FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JLFA</BusinessNameControlTxt>
+      <PhoneNum>6196857212</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3830 VALLEY CENTRE DRIVE 705-373</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DEBRA LUBENSKY</PersonNm>
+      <PersonTitleTxt>DIRECTOR/CEO</PersonTitleTxt>
+      <PhoneNum>6196857212</PhoneNum>
+      <SignatureDt>2025-05-15</SignatureDt>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>GREGORY V VILLARD</PreparerPersonNm>
+      <PTIN>P00355455</PTIN>
+      <PhoneNum>6195895472</PhoneNum>
+      <PreparationDt>2025-06-10</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc7">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2931844</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>14000</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>2511</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>2511</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>77431</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>77431</DividendsNetInvstIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2952</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>93942</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>82894</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">3700</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc4">507</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc5">3391</TaxesRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>17189</TravConfMeetingRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>24787</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>127500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>127500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>152287</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>127500</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-58345</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>82894</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>11627</CashBOYAmt>
+        <CashEOYAmt>20475</CashEOYAmt>
+        <CashEOYFMVAmt>20475</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>2718151</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">2650958</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2911369</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>2729778</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2671433</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2931844</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>2729778</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>2671433</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2729778</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2671433</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2729778</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2671433</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2729778</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-58345</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2671433</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2671433</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>2952</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1152</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1152</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1152</TaxBasedOnInvestmentIncomeAmt>
+        <EsPenaltyAmt>21</EsPenaltyAmt>
+        <TaxDueAmt>1173</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>DEBRA LUBENSKY</IndividualWithBooksNm>
+        <PhoneNum>6196857212</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3830 VALLEY CENTER DRIVE 705-373</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DEBRA LUBENSKY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3830 VALLEY CENTER DRIVE 705-373</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR/CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TERRY COPE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3830 VALLEY CENTRE DRIVE 705-393</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR/SEC</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHAD COPE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3830VALLEY CENTRE DRIVE705-373</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KYLE COPE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3830 VALLEY CENTRE DRIVE 705-373</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GREG VILLARD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3830 VALLEY CENTER DRIVE 705-373</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>ACTIVITIES TO BENEFIT THE HEALTH AND WELFARE OF PEOPLE, PLANTS, AND ANIMALS</Description1Txt>
+        <Expenses1Amt>127500</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2884417</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>16051</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2900468</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2900468</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>43507</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2856961</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>142848</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>127500</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>127500</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <QualifyingDistributionsAmt>127500</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>127500</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>127500</TotalCorpusAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <TotalAmt>0</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>127500</CurrentYearAmt>
+          <Year1Amt>261500</Year1Amt>
+          <Year2Amt>138500</Year2Amt>
+          <Year3Amt>13500</Year3Amt>
+          <TotalAmt>541000</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>127500</CurrentYearAmt>
+          <Year1Amt>261500</Year1Amt>
+          <Year2Amt>138500</Year2Amt>
+          <Year3Amt>13500</Year3Amt>
+          <TotalAmt>541000</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>95232</CurrentYearAmt>
+          <Year1Amt>94777</Year1Amt>
+          <Year2Amt>89706</Year2Amt>
+          <Year3Amt>96844</Year3Amt>
+          <TotalAmt>376559</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MICHAEL FOX FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>498 FASHION AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NON PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PARKINSON DISEASE RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALS GOLDEN WEST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>BO BOX 7082</AddressLine1Txt>
+            <CityNm>WOODLAND HILLS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91365</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO HELP PARKINSON DISEASE VICTIMS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIONAL DISASTER SEARCH DOG</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6800 WHEELERCANYON ROAD</AddressLine1Txt>
+            <CityNm>SANTA PAULA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93060</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE DOG TRAINING FOR DISASTER</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GARY SINISE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 40726</AddressLine1Txt>
+            <CityNm>NASHVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATD</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SERVICE TO MILITARY VETERANS</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEWPORT BAY CONSERVANCY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 10804</AddressLine1Txt>
+            <CityNm>NEWPORT BEACH</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92658</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROTECTION OF NEWPORT BAY</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BLUE ANGEL S FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 1945</AddressLine1Txt>
+            <CityNm>PENSACOLA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32591</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT WOUNDED VETERANS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPPORTUNITY VILLAGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6050 S BUFFALO DR</AddressLine1Txt>
+            <CityNm>LAS VEGAS</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HELP INTELLECTUALLY DISABLED</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JUDES RANCH FOR CHILDREN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 41212</AddressLine1Txt>
+            <CityNm>BOULDER CITY</CityNm>
+            <StateAbbreviationCd>NV</StateAbbreviationCd>
+            <ZIPCd>89005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE SERVICES TO CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SO ARIZONA AGAINST SLAVERY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 41212</AddressLine1Txt>
+            <CityNm>TUCSON</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85717</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FIGHT HUMAN TRAFFICKING IN AZ</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KEEP TAHOE BLUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2877 LAKE TAHOE BLVD</AddressLine1Txt>
+            <CityNm>SOUTH LAKE TAHOE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>96150</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROTECT LAKE TAHOE WATER</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN DIEGO HUMANE SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5500 GAINES ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RESCUE ANIMALS AND WILDLIFE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALZHEIMER'S ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2290 FIRST ST STE 212</AddressLine1Txt>
+            <CityNm>SAN JOSE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95131</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NONPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RESEACH AND TREAT ALZHEIMERS</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ST JUDE CHILDREN'S RESEARCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 ST JUDE PLACE</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NOINPROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CURE FOR PEDIATRIC DISEASES</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>127500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>2511</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>77431</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>79942</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>79942</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>3700</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <EOYBookValueAmt>2650958</EOYBookValueAmt>
+        <EOYFMVAmt>2911369</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc4">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>STIFEL FEES</CategoryTxt>
+        <Amt>264</Amt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>GLOBAL TAX RELIEF FEE</CategoryTxt>
+        <Amt>243</Amt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <TaxesDetail>
+        <CategoryTxt>US TREASURY</CategoryTxt>
+        <Amt>1192</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID</CategoryTxt>
+        <Amt>2174</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>DEPARTMENT OF JUSTICE</CategoryTxt>
+        <Amt>25</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

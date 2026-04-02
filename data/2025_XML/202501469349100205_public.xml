@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-05-26T11:24:48-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>843477782</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Mineo &amp; Associates Inc</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>9530 Cuyamaca St Ste 103</AddressLine1Txt>
+        <CityNm>Santee</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92071</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>475405824</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>VIRGINIA J BARBER FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>VIRG</BusinessNameControlTxt>
+      <PhoneNum>6192809315</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>6267 RIVERDALE STREET</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92120</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN EPPSTEIN</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-05-26</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Anthony Mineo EA</PreparerPersonNm>
+      <PTIN>P01446180</PTIN>
+      <PhoneNum>6197496964</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1166180</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>3339</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>3339</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>28244</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>28244</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>55673</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>438175</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>55673</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>1424</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>87256</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>87256</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1424</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">695</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>695</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>695</AccountingFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">22466</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>22466</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>22466</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">594</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>594</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>594</TaxesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>23755</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>23755</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>23755</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>56000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>79755</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>23755</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>23755</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>0</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>7501</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>63501</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>29417</CashBOYAmt>
+        <CashEOYAmt>27270</CashEOYAmt>
+        <CashEOYFMVAmt>27270</CashEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1134213</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>1138910</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1138910</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1163630</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1166180</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1166180</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>1163630</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>1166180</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1163630</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1166180</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1163630</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1166180</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1163630</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>7501</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">51049</OtherIncreasesAmt>
+        <SubtotalAmt>1222180</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">56000</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1166180</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>OSAIC SHORT TERM DISPOSITIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-07-22</AcquiredDt>
+          <SoldDt>2024-09-27</SoldDt>
+          <GrossSalesPriceAmt>137775</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>136351</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1424</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1424</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>OSAIC LONG TERM DISPOSITIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-05-08</AcquiredDt>
+          <SoldDt>2024-08-09</SoldDt>
+          <GrossSalesPriceAmt>300400</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>246151</CostOrOtherBasisAmt>
+          <GainOrLossAmt>54249</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>54249</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>55673</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>1424</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>883</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>883</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>883</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>23</EsPenaltyAmt>
+        <TaxDueAmt>906</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JOHN EPPSTEIN</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6192809315</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6267 RIVERDALE ST</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92120</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN EPPSTEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6267 RIVERDALE ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92120</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARK NORD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>909 W BLAINE ST</AddressLine1Txt>
+            <CityNm>SEATTLE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98119</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TONY KONJA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>200 CAMINO DEL RIO NORTH STE 5</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1126536</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>33857</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1160393</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1160393</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>17406</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1142987</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>57149</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>57149</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>883</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>883</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>56266</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>56266</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>56266</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>0</ExpensesAndContributionsAmt>
+        <SetAsideCashDistriTestAmt>56000</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>56000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>56266</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>698</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>10269</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>10967</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>56000</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>56000</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>266</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>266</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>10701</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>10701</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>432</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>10269</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPERATION GREYHOUND - BOB PALMATIER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>273 CHICORY LANE</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92021</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FOR HUMANE TREATMENT OF GREYHOUNDS</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HABITAT FOR HUMANITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10222 SAN DIEGO MISSION ROAD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FOR ASSISTANCE FOR THE LESS FORTUNATE</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MONO LAKE COMMITTEE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 29</AddressLine1Txt>
+            <CityNm>LE VINING</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93541</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO PRESERVE THE ENVIRONMENT</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL CAT PROTECTION SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9031 BIRCH STREET</AddressLine1Txt>
+            <CityNm>SPRING VALLEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91977</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FOR HUMANE TREATMENT OF CATS</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LIONS TIGERS AND BEARS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>24402 MARTIN WAY</AddressLine1Txt>
+            <CityNm>ALPINE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FOR HUMANE TREATMENT OF LIONS, TIGERS, AND BEARS</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAN DIEGO FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2508 HISTORIC DECATURE RD 200</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO PROMOTE EDUCATION AND ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOYS GIRLS CLUB OF EAST COUNTY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8820 TAMBERLEY WAY</AddressLine1Txt>
+            <CityNm>SANTEE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92071</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO PROMOTE WELFARE OF CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>56000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>3339</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>28244</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>55673</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>87256</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>87256</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>695</Amt>
+        <NetInvestmentIncomeAmt>695</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>695</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <OtherDecreasesDetail>
+        <Desc>GRANTS</Desc>
+        <Amt>56000</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <OtherIncreasesDetail>
+        <Desc>NON DIVIDEND DISTRIBUTIONS</Desc>
+        <Amt>114</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ADVISORY FEES</CategoryTxt>
+        <Amt>22466</Amt>
+        <NetInvestmentIncomeAmt>22466</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>22466</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.1">
+      <TaxesDetail>
+        <CategoryTxt>TAXES - FOREIGN</CategoryTxt>
+        <Amt>594</Amt>
+        <NetInvestmentIncomeAmt>594</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>594</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

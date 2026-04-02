@@ -1,0 +1,762 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-07-24T10:30:00-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>330886231</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Massey Wehr &amp; Company LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>7814 Ivanhoe Avenue</AddressLine1Txt>
+        <CityNm>La Jolla</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92037</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>208064368</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Albatross Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ALBA</BusinessNameControlTxt>
+      <PhoneNum>8585233500</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2865 Albatross Street</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Brent V Woods</PersonNm>
+      <PersonTitleTxt>CEO</PersonTitleTxt>
+      <SignatureDt>2025-07-24</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Gregory A Wehr</PreparerPersonNm>
+      <PTIN>P00115156</PTIN>
+      <PhoneNum>8585510169</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation BinaryAttachment.1" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>28266190</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>968151</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>73206</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>73206</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>826868</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>826868</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>2491384</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2491384</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2491384</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>4359609</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>3391458</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">17830</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>17830</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">72449</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>25991</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">5351</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>5351</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>95630</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>49172</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1445000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1445000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1540630</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>49172</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1445000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>2818979</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>3342286</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>186035</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>58190</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>58190</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>667</PrepaidExpensesBOYAmt>
+        <USGovernmentObligationsBOYAmt>2023117</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvestmentsGovtObligationsSche">5984577</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>5984577</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>24585270</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">22223423</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>22223423</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>26795089</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>28266190</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>28266190</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">28791</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>28791</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>26795089</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>28237399</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>26795089</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>28237399</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>26795089</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>28266190</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>26795089</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>2818979</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>29614068</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">1376669</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>28237399</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Distributions</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-07-01</AcquiredDt>
+          <SoldDt>2024-07-01</SoldDt>
+          <GrossSalesPriceAmt>165382</GrossSalesPriceAmt>
+          <GainOrLossAmt>165382</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>165382</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Schwab #5566 - ST</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-07-01</SoldDt>
+          <GrossSalesPriceAmt>872</GrossSalesPriceAmt>
+          <GainOrLossAmt>872</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>872</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Schwab #5566 - LT See Attached Schedule</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2024-07-01</SoldDt>
+          <GrossSalesPriceAmt>2325130</GrossSalesPriceAmt>
+          <GainOrLossAmt>2325130</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2325130</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>2491384</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>46458</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>46458</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>46458</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>17667</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>78000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>95667</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <OverpaymentAmt>49209</OverpaymentAmt>
+        <AppliedToESTaxAmt>49209</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Greg Wehr</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8585510169</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>7814 Ivanhoe Avenue</AddressLine1Txt>
+          <CityNm>La Jolla</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92037</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Brent V Woods</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2865 Albatross Street</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>921036101</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Laurie C Mitchell</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2865 Albatross Street</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>921036101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary/Treas</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Marilyn J Woods</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2865 Albatross Street</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>921036101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>27408193</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>122113</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>27530306</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>27530306</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>412955</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>27117351</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1355868</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1355868</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>46458</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>46458</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1309410</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1309410</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1309410</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1445000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1445000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1309410</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>153906</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>129741</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>111982</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>63101</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>63455</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>522185</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1445000</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>1309410</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>135590</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>657775</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>153906</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>503869</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>129741</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>111982</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>63101</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>63455</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>135590</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Brent V Woods</ContributingManagerNm>
+        <ContributingManagerNm>Laurie C Mitchell</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The New Children's Museum</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 West Island Avenue</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>1200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Barrio Logan College Institute</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1807 Main Street</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Old Globe</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1363 Old Glob Way</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Voices For Children</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2851 Meadow Lark Drive</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Princeton University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>The Helm Bldg 330 Alexander St</AddressLine1Txt>
+            <CityNm>Prniceton</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>08540</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Youth Services</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3255 Wing Street</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Museum of Art</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 122107</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Athenaeum</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1008 Wall Street</AddressLine1Txt>
+            <CityNm>La Jolla</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Balboa Park Conservancy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1549 El Prado Suite 1</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Parks Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1180 Rosecrans Street 517</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Exempt</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1445000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>73206</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>826868</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>2491384</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>900074</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>2491384</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>3391458</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Brent Woods Laurie Mitchell</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2865 Albatross Street</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>921036101</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>207256</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>Brent Woods Laurie Mitchell</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2865 Albatross Street</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>921036101</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>510520</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>Brent Woods Laurie Mitchell</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2865 Albatross Street</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>921036101</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>250375</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>819 Shares of CDW Corp: FMV - $207,256</NoncashPropertyDesc>
+        <FairMarketValueAmt>207256</FairMarketValueAmt>
+        <ReceivedDt>2024-04-02</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>2,000 Shares CDW Corp: FMV - $510,520</NoncashPropertyDesc>
+        <FairMarketValueAmt>510520</FairMarketValueAmt>
+        <ReceivedDt>2024-04-08</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>3</ContributorNum>
+        <NoncashPropertyDesc>12,500 Shares Brandes Intl Equity: FMV - $250,375</NoncashPropertyDesc>
+        <FairMarketValueAmt>250375</FairMarketValueAmt>
+        <ReceivedDt>2024-01-02</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>17830</Amt>
+        <NetInvestmentIncomeAmt>17830</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Citigroup, Inc.</StockNm>
+        <EOYBookValueAmt>422340</EOYBookValueAmt>
+        <EOYFMVAmt>422340</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Swire Pac Ltc Cl B ADR F</StockNm>
+        <EOYBookValueAmt>198900</EOYBookValueAmt>
+        <EOYFMVAmt>198900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Wells Fargo &amp; Co.</StockNm>
+        <EOYBookValueAmt>597040</EOYBookValueAmt>
+        <EOYFMVAmt>597040</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Cisco Systems Inc.</StockNm>
+        <EOYBookValueAmt>592000</EOYBookValueAmt>
+        <EOYFMVAmt>592000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Microsoft Corp</StockNm>
+        <EOYBookValueAmt>632250</EOYBookValueAmt>
+        <EOYFMVAmt>632250</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Pfizer Inc.</StockNm>
+        <EOYBookValueAmt>265300</EOYBookValueAmt>
+        <EOYFMVAmt>265300</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Intel Corp</StockNm>
+        <EOYBookValueAmt>300750</EOYBookValueAmt>
+        <EOYFMVAmt>300750</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GSK Plc, ADR</StockNm>
+        <EOYBookValueAmt>270560</EOYBookValueAmt>
+        <EOYFMVAmt>270560</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Sanofi ADR</StockNm>
+        <EOYBookValueAmt>241150</EOYBookValueAmt>
+        <EOYFMVAmt>241150</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>A T &amp; T Inc.</StockNm>
+        <EOYBookValueAmt>569250</EOYBookValueAmt>
+        <EOYFMVAmt>569250</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IBM Corp</StockNm>
+        <EOYBookValueAmt>549575</EOYBookValueAmt>
+        <EOYFMVAmt>549575</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Shell PLC (FKA Royal Dutch Shell)</StockNm>
+        <EOYBookValueAmt>313250</EOYBookValueAmt>
+        <EOYFMVAmt>313250</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Brandes Core Plus Fixed Income Fd</StockNm>
+        <EOYBookValueAmt>5754905</EOYBookValueAmt>
+        <EOYFMVAmt>5754905</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Astrazeneca PLC</StockNm>
+        <EOYBookValueAmt>327600</EOYBookValueAmt>
+        <EOYFMVAmt>327600</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Petroleo Brasileiro</StockNm>
+        <EOYBookValueAmt>355200</EOYBookValueAmt>
+        <EOYFMVAmt>355200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Johnson &amp; Johnson</StockNm>
+        <EOYBookValueAmt>253085</EOYBookValueAmt>
+        <EOYFMVAmt>253085</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Johnson Controls</StockNm>
+        <EOYBookValueAmt>473580</EOYBookValueAmt>
+        <EOYFMVAmt>473580</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Proctor &amp; Gamble</StockNm>
+        <EOYBookValueAmt>167650</EOYBookValueAmt>
+        <EOYFMVAmt>167650</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Brandes Global Equity Cl I</StockNm>
+        <EOYBookValueAmt>2331354</EOYBookValueAmt>
+        <EOYFMVAmt>2331354</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Brandes Intl Equity Fd</StockNm>
+        <EOYBookValueAmt>420200</EOYBookValueAmt>
+        <EOYFMVAmt>420200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Cemex SAB DE C V</StockNm>
+        <EOYBookValueAmt>394800</EOYBookValueAmt>
+        <EOYFMVAmt>394800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Kraft Heinz Co.</StockNm>
+        <EOYBookValueAmt>307100</EOYBookValueAmt>
+        <EOYFMVAmt>307100</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Takeda Pharma Co.</StockNm>
+        <EOYBookValueAmt>662000</EOYBookValueAmt>
+        <EOYFMVAmt>662000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Ambev S A</StockNm>
+        <EOYBookValueAmt>185000</EOYBookValueAmt>
+        <EOYFMVAmt>185000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Bank of America Corp</StockNm>
+        <EOYBookValueAmt>439500</EOYBookValueAmt>
+        <EOYFMVAmt>439500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Diageo Plc</StockNm>
+        <EOYBookValueAmt>254260</EOYBookValueAmt>
+        <EOYFMVAmt>254260</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Dow Inc.</StockNm>
+        <EOYBookValueAmt>300975</EOYBookValueAmt>
+        <EOYFMVAmt>300975</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Intl Flavors</StockNm>
+        <EOYBookValueAmt>338200</EOYBookValueAmt>
+        <EOYFMVAmt>338200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Medtronic Plc</StockNm>
+        <EOYBookValueAmt>319520</EOYBookValueAmt>
+        <EOYFMVAmt>319520</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Texas Intruments</StockNm>
+        <EOYBookValueAmt>468775</EOYBookValueAmt>
+        <EOYFMVAmt>468775</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Viatris, Inc.</StockNm>
+        <EOYBookValueAmt>249000</EOYBookValueAmt>
+        <EOYFMVAmt>249000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Brandes Emerging Markets</StockNm>
+        <EOYBookValueAmt>731682</EOYBookValueAmt>
+        <EOYFMVAmt>731682</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Alibaba Group Hldg Ltd F</StockNm>
+        <EOYBookValueAmt>635925</EOYBookValueAmt>
+        <EOYFMVAmt>635925</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Clorox Co.</StockNm>
+        <EOYBookValueAmt>324820</EOYBookValueAmt>
+        <EOYFMVAmt>324820</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Grifols SA</StockNm>
+        <EOYBookValueAmt>186000</EOYBookValueAmt>
+        <EOYFMVAmt>186000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Kyndryl Hldgs, Inc.</StockNm>
+        <EOYBookValueAmt>173000</EOYBookValueAmt>
+        <EOYFMVAmt>173000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Total Energies SE</StockNm>
+        <EOYBookValueAmt>272500</EOYBookValueAmt>
+        <EOYFMVAmt>272500</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Netflix, Inc.</StockNm>
+        <EOYBookValueAmt>534792</EOYBookValueAmt>
+        <EOYFMVAmt>534792</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Kenvue, Inc.</StockNm>
+        <EOYBookValueAmt>108885</EOYBookValueAmt>
+        <EOYFMVAmt>108885</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VEON LTD</StockNm>
+        <EOYBookValueAmt>300750</EOYBookValueAmt>
+        <EOYFMVAmt>300750</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <USGovtObligationsBookVlEOYAmt>5984577</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>5984577</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherDecreasesDetail>
+        <Desc>Unrealized Gain/Loss</Desc>
+        <Amt>1376669</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADR Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>5351</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>5351</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>Federal Taxes - 2024</CategoryTxt>
+        <Amt>46458</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Foreign Taxes</CategoryTxt>
+        <Amt>25691</Amt>
+        <NetInvestmentIncomeAmt>25691</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>State Taxes</CategoryTxt>
+        <Amt>300</Amt>
+        <NetInvestmentIncomeAmt>300</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

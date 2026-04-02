@@ -1,0 +1,2016 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-13T17:51:06-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>330850406</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>REDWITZ INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3 PARK PLAZA SUITE 1700</AddressLine1Txt>
+        <CityNm>IRVINE</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92614</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>453751971</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>AMATEUR RADIO DIGITAL COMMUNICATIONS</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>AMAT</BusinessNameControlTxt>
+      <PhoneNum>8584779900</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92111</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ROSY SCHECHTER</PersonNm>
+      <PersonTitleTxt>EXECUTIVE DIRECTOR</PersonTitleTxt>
+      <PhoneNum>8584779900</PhoneNum>
+      <SignatureDt>2025-11-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>KATHLEEN D ESPIRITU CPA</PreparerPersonNm>
+      <PTIN>P01323905</PTIN>
+      <PhoneNum>9497531514</PhoneNum>
+      <PreparationDt>2025-11-12</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="14">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>128192418</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>3130572</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>3130572</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>3130572</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1931538</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>7401068</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1931538</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">321265</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>0</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>321265</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>5383375</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>5062110</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>3451837</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>169572</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>169572</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>550097</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsAdjNetIncmAmt>0</OthEmplSlrsWgsAdjNetIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>550097</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>87646</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>0</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftAdjNetIncmAmt>0</PensionEmplBnftAdjNetIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>89952</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">25940</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>25940</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">59800</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>49100</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">98156</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>0</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>0</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>98156</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">70363</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>0</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>70363</TaxesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>54840</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>0</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>54840</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">377945</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>0</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>0</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>383501</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>1494359</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1491521</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>3421327</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>4029781</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>4915686</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>5521302</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>467689</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>5062110</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3451837</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>159462</CashBOYAmt>
+        <CashEOYAmt>138256</CashEOYAmt>
+        <CashEOYFMVAmt>138256</CashEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>18450779</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2210400001">17799038</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>17799038</USGovtObligationsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>98624478</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">110255124</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>110255124</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">2000</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>117236719</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>128192418</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>128192418</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>29724</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>33430</AccountsPayableEOYAmt>
+        <GrantsPayableBOYAmt>1126616</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>518162</GrantsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">360181</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">458830</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>1516521</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>1010422</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>115720198</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>127181996</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>115720198</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>127181996</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>117236719</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>128192418</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>115720198</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>467689</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc2049700001">11092758</OtherIncreasesAmt>
+        <SubtotalAmt>127280645</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">98649</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>127181996</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ETF SECURITIES</PropertyDesc>
+          <SoldDt>2024-05-20</SoldDt>
+          <GrossSalesPriceAmt>4210928</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2419542</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1791386</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1791386</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TREASURIES</PropertyDesc>
+          <AcquiredDt>2023-05-30</AcquiredDt>
+          <SoldDt>2024-10-31</SoldDt>
+          <GrossSalesPriceAmt>2833000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2812417</CostOrOtherBasisAmt>
+          <GainOrLossAmt>20583</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>20583</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MUTUAL FUNDS</PropertyDesc>
+          <SoldDt>2024-05-23</SoldDt>
+          <GrossSalesPriceAmt>357140</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>237571</CostOrOtherBasisAmt>
+          <GainOrLossAmt>119569</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>119569</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>1931538</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>0</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>70363</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>70363</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>70363</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>54360</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>18000</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>72360</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>814</EsPenaltyAmt>
+        <OverpaymentAmt>1183</OverpaymentAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+        <RefundAmt>1183</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>ARDC.NET</WebsiteAddressTxt>
+        <IndividualWithBooksNm>RIA JAIRAM TREASURER</IndividualWithBooksNm>
+        <PhoneNum>8584779900</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92111</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>1</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>1</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd referenceDocumentId="RetDoc2118100001">1</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIZABETH SCHECHTER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>EXECUTIVE DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>169572</CompensationAmt>
+          <EmployeeBenefitProgramAmt>16957</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALFRED DICKINSON BARKSDALE GARBEE I</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN GILMORE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RIA JAIRAM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PHILIP KARN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KEITH PACKARD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT WITTE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ASHHAR FARHAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>CHELSEA PARRAGA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>GRANTS MANAGER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>32.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>93400</CompensationAmt>
+          <EmployeeBenefitsAmt>8473</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>MERIDETH STROH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>OPERATIONS MANAGER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>32.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>92651</CompensationAmt>
+          <EmployeeBenefitsAmt>4349</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>JONATHAN KEMPER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR OF TECHNOLO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>85274</CompensationAmt>
+          <EmployeeBenefitsAmt>593</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>REBECCA KEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>COMMUNICATIONS MANAG</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>32.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>78000</CompensationAmt>
+          <EmployeeBenefitsAmt>7800</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <CompensationHighestPaidEmplGrp>
+          <PersonNm>ADAM LEWIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5663 BALBOA AVE 432</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </USAddress>
+          <TitleTxt>IT &amp; DEVELOPMENT OP</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>68026</CompensationAmt>
+          <EmployeeBenefitsAmt>2567</EmployeeBenefitsAmt>
+          <ExpenseAccountAmt>0</ExpenseAccountAmt>
+        </CompensationHighestPaidEmplGrp>
+        <OtherEmployeePaidOver50kCnt>5</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>OPEN TECH STRATEGIES LLC</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>333 E 102ND STREET 339</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10029</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>SOFTWARE DEVELOPMENT</ServiceTypeTxt>
+          <CompensationAmt>76000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>1</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>SUPPORTING, PROMOTING, AND ENHANCING AMATEUR RADIO DIGITALCOMMUNICATIONS AND BROADER COMMUNICATION SCIENCE ANDTECHNOLOGY.44NET* 44NET MAILING LIST SUBSCRIBERS: 971* NUMBER OF GATEWAY ENTRIES: 802* USER ACCOUNTS IN THE 44NET PORTAL: 5,306</Description1Txt>
+        <Expenses1Amt>251441</Expenses1Amt>
+        <Description2Txt>SUPPORTING, PROMOTING, AND ENHANCING AMATEUR RADIO DIGITALCOMMUNICATIONS AND BROADER COMMUNICATION SCIENCE ANDTECHNOLOGY.GRANTS* 2024 GRANTS: 85* TOTAL GRANTS GIVEN (SINCE 2019): OVER 250</Description2Txt>
+        <Expenses2Amt>3421327</Expenses2Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>124990132</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>107028</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>125097160</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>125097160</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>1876457</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>123220703</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>6161035</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>6161035</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>70363</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>70363</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>6090672</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>321265</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>6411937</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>6411937</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>5521302</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>5521302</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>6411937</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr3Amt>486289</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>3093019</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1654477</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>5233785</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>5521302</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>5521302</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>890635</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>890635</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>4343150</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>4343150</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>2688673</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1654477</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALHAMBRA HIGH SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3839 W CAMELBACK RD</AddressLine1Txt>
+            <CityNm>PHOENIX</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85019</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1370 REVIVE AN OLD RADIO CLUB AT A HIGH SCHOOL BY UPDATING EQUIPMENT.</GrantOrContributionPurposeTxt>
+          <Amt>18133</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ALLINA HEALTH FOUNDATION ON BEHALF OF COURAGE KENNY REHABILITATION INSTITUT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2925 CHICAGO AVENUE</AddressLine1Txt>
+            <CityNm>MAIL ROUTE</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55407</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1446 SUPPORTS THE HANDIHAM PROJECT FOR THREE YEARS BY PURCHASING EQUIPMENT AND ADDING PROGRAM STAFF. THE HANDIHAM PROGRAM ENABLES PEOPLE WITH DISABILITIES TO PARTICIPATE IN AMATEUR RADIO.</GrantOrContributionPurposeTxt>
+          <Amt>224841</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT SAN DIEGO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9500 GILMAN DR MAIL CODE 0078</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92093</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>KK6UC CLUB MODERNIZATION AND PUBLIC SERVICE</GrantOrContributionPurposeTxt>
+          <Amt>7547</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN INDIAN SCIENCE AND ENGINEERING SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6321 RIVERSIDE PLAZA LN NW</AddressLine1Txt>
+            <CityNm>ALBUQUERQUE</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87120</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1593 PROVIDE SCHOLARSHIPS AND SUPPORT FOR TWELVE STUDENTS PURSUING STEM DEGREES RELATED TO AMATEUR RADIO IN THE 2025-2026 ACADEMIC YEAR.</GrantOrContributionPurposeTxt>
+          <Amt>72000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>APRS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2364 BERNARD RD NW</AddressLine1Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30318</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FORMED IN 2022. "SUPPORTS THE AUTOMATIC PACKET REPORTING SYSTEM (APRS)"</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARRL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 MAIN STREET</AddressLine1Txt>
+            <CityNm>NEWINGTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARRL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 MAIN STREET</AddressLine1Txt>
+            <CityNm>NEWINGTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1312 SECOND PAYMENT OF $507,500 FOR THREE TOTAL YEARS TO FUND THE ARDC SCHOLARSHIP. TOTAL REQUEST IS $1,522,500 OVER THREE YEARS.</GrantOrContributionPurposeTxt>
+          <Amt>507500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARTISANS ASYLUM INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>96 HOLTON ST</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02135</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1543 FOSTERING AMATEUR RADIO ENGAGEMENT BY INTEGRATING RADIO CURRICULUM INTO THEIR PROGRAMS.</GrantOrContributionPurposeTxt>
+          <Amt>19097</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ASOCIACION CIVIL ALTERMUNDI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>JOSE DE LA QUINTANA CP 5189</AddressLine1Txt>
+            <ProvinceOrStateNm>CORDOBA</ProvinceOrStateNm>
+            <CountryCd>AR</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1583 AIMS TO STRENGTHEN COMMUNITY MESH NETWORKS, AIMING TO IMPROVE COMMUNICATION ACCESS AND RELIABILITY FOR COMMUNITIES THROUGH INNOVATIVE SOLUTIONS.</GrantOrContributionPurposeTxt>
+          <Amt>313970</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BRICK STORE MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>117 MAIN STREET</AddressLine1Txt>
+            <CityNm>KENNEBUNK</CityNm>
+            <StateAbbreviationCd>ME</StateAbbreviationCd>
+            <ZIPCd>04043</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1539 CREATE AN EDUCATIONAL INTERACTIVE AMATEUR RADIO DISPLAY AND HAM SHACK WITHIN THE MUSEUM TO EXPAND OUTREACH.</GrantOrContributionPurposeTxt>
+          <Amt>7275</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BRIDGERLAND AMATEUR RADIO CLUB INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>135 WEST 280 NORTH</AddressLine1Txt>
+            <CityNm>PROVIDENCE</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84332</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DONATION TO THE BRIDGERLAND AMATEUR RADIO CLUB INC.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAL POLY POMONA BRONCO SPACE WITH A FISCAL SPONSORSHIP FROM CAL POLY POMO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3670 W TEMPLE AVE STE 278</AddressLine1Txt>
+            <CityNm>POMONA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91768</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1398 STUDENT-LED UNIVERSITY ORGANIZATION LOCATED AT CAL POLY POMONA AIMS TO DEMOCRATIZE SPACE ACCESS. THIS GRANT FUNDS A CUBESAT MISSION INCLUDING LAUNCH COSTS.</GrantOrContributionPurposeTxt>
+          <Amt>158924</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAL POLY POMONA FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3801 WEST TEMPLE AVE BLDG 55</AddressLine1Txt>
+            <CityNm>POMONA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91768</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DIRECTION FINDING FROM AERIAL PLATFORMS WITH AMATEUR</GrantOrContributionPurposeTxt>
+          <Amt>51945</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CASCADE AMATEUR RADIO SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10200 SW KATHERINE STREET</AddressLine1Txt>
+            <CityNm>TIGARD</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97223</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1577 INSTALLATION AND MAINTENANCE OF ARDEN IN UNDERSERVED RURAL COMMUNITIES OUTSIDE PORTLAND.</GrantOrContributionPurposeTxt>
+          <Amt>58067</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CONTEST UNIVERSITY INC (CTU)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>44 ELLIOT RD</AddressLine1Txt>
+            <CityNm>WEST MIDDLESEX</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16159</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1523 PURCHASES A/V EQUIPMENT TO IMPROVE THE QUALITY OF TRAINING CLASSES AND EVENTS.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CREATIVE COMMONS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>211 HOPE ST UNIT 1866</AddressLine1Txt>
+            <CityNm>MOUNTAIN VIEW</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94041</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>A NON-PROFIT ORGANIZATION AND INTERNATIONAL NETWORK DEVOTED TO EDUCATIONAL ACCESS AND EXPANDING THE RANGE OF CREATIVE WORKS AVAILABLE FOR OTHERS TO BUILD UPON LEGALLY AND TO SHARE. THE ORGANIZATION HAS RELEASED SEVERAL COPYRIGHT LICENSES, KNOWN AS CREATIVE COMMONS LICENSES, FREE OF CHARGE TO THE PUBLIC. THESE LICENSES ALLOW AUTHORS OF CREATIVE WORKS TO COMMUNICATE WHICH RIGHTS THEY RESERVE AND WHICH RIGHTS THEY WAIVE FOR THE BENEFIT OF RECIPIENTS OR OTHER CREATORS.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CROSS ROADS HAM RADIO CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 814</AddressLine1Txt>
+            <CityNm>GANADO</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77962</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1555 ACQUIRE PORTABLE HF, VHF, AND UHF EQUIPMENT FOR GO-BOXES</GrantOrContributionPurposeTxt>
+          <Amt>9505</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DEEP SPACE EXPLORATION SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4164 AUSTIN BLUFFS PARKWAY 562</AddressLine1Txt>
+            <CityNm>COLORADO SPRINGS</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80918</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1529 THIS GROUP FOCUSES ON DEEP SPACE COMMUNICATIONS AND WILL CONDUCT AN EXPERIMENT AS PROOF OF CONCEPT FOR EARTH-VENUS-EARTH COMMUNICATIONS.</GrantOrContributionPurposeTxt>
+          <Amt>50090</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DEUTSCHER AMATEUR-RADIO-CLUB E V ON BEHALF OF ESK RADIOKLUB ZSCZECH RAD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>LINDENALLE 4 D-34225</AddressLine1Txt>
+            <ProvinceOrStateNm>BAUNATAL</ProvinceOrStateNm>
+            <CountryCd>GM</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1452 SUPPORTS THE YOUTH ON THE AIR SUMMER CAMP IN CZECH.</GrantOrContributionPurposeTxt>
+          <Amt>20843</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DEUTSCHER AMATEUR-RADIO-CLUB E V ON BEHALF OF ONLINE AMATEUR RADIO COMMUNI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>LINDENALLE 4 D-34225</AddressLine1Txt>
+            <ProvinceOrStateNm>BAUNATAL</ProvinceOrStateNm>
+            <CountryCd>GM</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1414 EXPANDING NEW PACKET RADIO CAPABILITIES IN THE UK AND IRELAND.</GrantOrContributionPurposeTxt>
+          <Amt>55456</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EAST TENNESSEE REPEATER ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>124 DEPEW DR</AddressLine1Txt>
+            <CityNm>LOUDON</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37774</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1374 REPEATER SYSTEM UPGRADED AND EXPANSION TO SERVICE A LARGE COMMUNITY AND PROVIDE EMERGENCY COMMUNICATIONS SUPPORT.</GrantOrContributionPurposeTxt>
+          <Amt>59781</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ELECTRONIC APPLICATIONS RADIO SERVICE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10193 CARDIGAN DRIVE</AddressLine1Txt>
+            <CityNm>UNION</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>41091</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1139 SECOND OUT OF THREE YEARS OF FUNDING FOR YOTA AMERICAS CAMPS, SERVING 30 CAMPERS PER YEAR.</GrantOrContributionPurposeTxt>
+          <Amt>39338</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ELECTRONIC FRONTIER FOUNDATION (EFF)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>815 EDDY STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>LEADING NONPROFIT ORGANIZATION DEFENDING CIVIL LIBERTIES IN THE DIGITAL WORLD.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EMERGENCY PREPAREDNESS IN CALABASAS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4029 SCHUYLKILL DRIVE</AddressLine1Txt>
+            <CityNm>CALABASAS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1349 ENHANCE EMERGENCY PREPAREDNESS BY EXPANDING DIGITAL COMMUNICATIONS AND PROVIDING TRAINING.</GrantOrContributionPurposeTxt>
+          <Amt>19000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EVERYORG</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>58 WEST PORTAL AVE 781</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FREE DONATION PLATFORM THAT SUPPORTS THE NON-PROFIT COMMUNITY.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EXCELLENCE FOR ALL STEAM SCHOOL NETWORK INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>108 CHESTNUT ST</AddressLine1Txt>
+            <CityNm>UPTOWN</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01568</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1527 AIMS TO PROVIDE HANDS-ON STEM LEARNING EXPERIENCES FOR UNDERREPRESENTED STUDENTS, ENHANCE THEIR ENGINEERING SKILLS, AND ENGAGE THE BROADER COMMUNITY THROUGH WORKSHOPS.</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LAKES OF THE FOUR SEASONS VOLUNTEER FIRE FORCE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>745 W 275 S</AddressLine1Txt>
+            <CityNm>HEBRON</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46341</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1330 NORTHWEST INDIANA AMATEUR RADIO PARTNERSHIP</GrantOrContributionPurposeTxt>
+          <Amt>11694</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FREEDOM ACADEMY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2536 N 460 E</AddressLine1Txt>
+            <CityNm>PROVO</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1401 TWO AMATEUR RADIO CLUBS COMING TOGETHER WORKING WITH SCHOOLS IN THEIR AREA PROMOTE AMATEUR RADIO WITH A FOCUS ON INCLUDING INDIGENOUS STUDENTS.</GrantOrContributionPurposeTxt>
+          <Amt>43000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FREEDV (VIA SOFTWARE FREEDOM CONSERVANCY)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>137 MONTAGUE ST</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUITE OF DIGITAL VOICE MODES FOR HF RADIO.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF SCIENCE EAST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5 RANDALL ROAD</AddressLine1Txt>
+            <CityNm>SHOREHAM</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11786</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT IN NIKOLA TESLA'S ONLY REMAINING LAB.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF THE WEST BEND COMMUNITY MEMORIAL LIBRARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>630 POPLAR STREET</AddressLine1Txt>
+            <CityNm>WEST BEND</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53095</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1375 PROVIDE CHILDREN AGED 10-15 WITH AN INTERACTIVE, EDUCATIONAL EXPERIENCE THAT ENHANCES THEIR STEM SKILLS AND INTRODUCES THEM TO THE WORLD OF AMATEUR RADIO.</GrantOrContributionPurposeTxt>
+          <Amt>1400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF YAVAPAI COUNTY ARES RACES INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>WALT OTTO 4980 N MEIXNER RD</AddressLine1Txt>
+            <CityNm>PRESCOTT VALLEY</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86314</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1437 UPGRADE TO ARES EMERGENCY COMMUNICATION EQUIPMENT INCLUDING RADIOS AND ANTENNAS.</GrantOrContributionPurposeTxt>
+          <Amt>15028</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GREAT SOUTH BAY AMATEUR RADIO CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1356</AddressLine1Txt>
+            <CityNm>WEST BABYLON</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1542 UPGRADE THE CLUB COMMUNICATIONS TRAILER WITH NEW BATTERIES AND ADDITIONAL SOLAR PANELS TO ENHANCE ITS ROLE AS A MOBILE COMMAND POST.</GrantOrContributionPurposeTxt>
+          <Amt>15985</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HACK CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8605 SANTA MONICA BLVD 86294</AddressLine1Txt>
+            <CityNm>WEST HOLLYWOOD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90069</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HACK CLUB'S PRIMARY FOCUS IS ITS CLUBS PROGRAM, IN WHICH IT SUPPORTS HIGH SCHOOL CODING CLUBS THROUGH LEARNING RESOURCES AND MENTORSHIP. IT ALSO RUNS A SERIES OF OTHER PROGRAMS AND EVENTS.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HAM RADIO VILLAGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 271272</AddressLine1Txt>
+            <CityNm>SUPERIOR</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AMATEUR RADIO EVANGELIST</GrantOrContributionPurposeTxt>
+          <Amt>18000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HANCOCK COUNTY ESDA SUPPORT ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 278</AddressLine1Txt>
+            <CityNm>CARTHAGE</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62321</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1533 ENHANCE EMERGENCY COMMUNICATION CAPABILITIES BY ACQUIRING PORTABLE HF, VHF, AND UHF GO BOXES.</GrantOrContributionPurposeTxt>
+          <Amt>6650</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOT SPRINGS AMATEUR RADIO CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 501</AddressLine1Txt>
+            <CityNm>HOT SPRINGS</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>57747</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1565 ESTABLISH A YOUTH LICENSING SPONSORSHIP AND MENTORSHIP PROGRAM TO COVER COSTS AND BOLSTER ENGAGEMENT IN RURAL WESTERN SOUTH DAKOTA.</GrantOrContributionPurposeTxt>
+          <Amt>2700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INTERNET ARCHIVE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 FUNSTON AVE</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94118</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDES FREE ACCESS TO A WIDE RANGE MEDIA AND CREATORS OF THE WAYBACK MACHINE.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>INTERNET RESEARCH GROUP (ISRG)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>548 MARKET ST PMB 77519</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HELPING IN MAKING THE INTERNET SAFER AND HELPS WEBSITES GET THE CERTIFICATION NEEDED TO GET THE HTTPS CERTIFICATION.</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>IRVINE VALLEY COLLEGE FOUNDATION ON BEHALF OF THE IRVINE VALLEY COLLEGE AMA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5500 IRVINE CENTER DR</AddressLine1Txt>
+            <CityNm>IRVINE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92618</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1350 CREATES A BASE STATION AT THE SCHOOL, PROVIDES A PORTABLE HF SET UP FOR OFFSITE EVENTS, AND PUTS UP A REPEATER.</GrantOrContributionPurposeTxt>
+          <Amt>23038</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>K5UTD AMATEUR RADIO CLUB WITH A FISCAL SPONSORSHIP FROM THE RICHARDSON WIRE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 W CAMPBELL RD M/S EC33</AddressLine1Txt>
+            <CityNm>RICHARDSON</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75080</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1590 MODERNIZE THE CLUB'S SATELLITE STATION BY UPGRADING THE TRANSCEIVER AND ANTENNAS TO ADDRESS PERFORMANCE ISSUES AND ENHANCE SATELLITE TELEMETRY RESEARCH SUPPORT.</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KHAN ACADEMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>277 CASTRO STREET</AddressLine1Txt>
+            <CityNm>MOUNTAIN VIEW</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94042</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDES EDUCATIONAL RESOURCES FOR STUDENTS OF ALL AGES</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE BOARD OF EDUCATION OF SCHOOL DISTRICT NO 36 (SURREY)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>10441-132 STREET</AddressLine1Txt>
+            <ProvinceOrStateNm>BRITISH COLUMBIA</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1365 SUPPORTS A SUMMER SCHOOL PROGRAM TO TEACH HIGH-SCHOOL STUDENTS RF COMMUNICATIONS AND AMATEUR RADIO, INCLUDING HELPING THEM TO PASS THE LICENSING EXAM.</GrantOrContributionPurposeTxt>
+          <Amt>1928</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LIBRE SPACE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>IROUS 21 GR 10442</AddressLine1Txt>
+            <ProvinceOrStateNm>ATHENS</ProvinceOrStateNm>
+            <CountryCd>GR</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>LIBRE SPACE FOUNDATION (LSF) IS A NON-PROFIT FOUNDATION REGISTERED SINCE 2015 IN GREECE FROM THE CREATORS OF THE SATNOGS PROJECT. OUR MISSION IS TO PROMOTE, ADVANCE AND DEVELOP LIBRE (FREE AND OPEN SOURCE) TECHNOLOGIES AND KNOWLEDGE FOR SPACE.</GrantOrContributionPurposeTxt>
+          <Amt>1044</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LIBRE SPACE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>IROUS 21 GR 10442</AddressLine1Txt>
+            <ProvinceOrStateNm>ATHENS</ProvinceOrStateNm>
+            <CountryCd>GR</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ADVANCE AND DEVELOP FREE AND OPEN SOURCE TECHNOLOGIES AND KNOWLEDGE FOR SPACE.</GrantOrContributionPurposeTxt>
+          <Amt>1003</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIVE FORWARD SCHOLARS FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10010 INDIAN SCHOOL RD NE</AddressLine1Txt>
+            <CityNm>ALBUQUERQUE</CityNm>
+            <StateAbbreviationCd>NH</StateAbbreviationCd>
+            <ZIPCd>87112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1385 SCHOLARSHIPS FOCUSED ON EMPOWERING NATIVE AMERICAN STUDENTS PURSUING HIGHER EDUCATION IN STEAM FIELDS, PARTICULARLY IN RADIO COMMUNICATIONS AND RELATED DISCIPLINES.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW ENGLAND SCI-TECH INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>16 TECH CIRCLE 101</AddressLine1Txt>
+            <CityNm>NATICK</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01760</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1340 PLANS TO CONTINUE PREVIOUS WORK BRINGING MORE YOUTH INTO AMATEUR RADIO AND OTHER STEM LEARNING. OFFERING AFTER SCHOOL AND SUMMER CLASSES/WORKSHOPS FOR YOUTH TO LEARN ABOUT AMATEUR RADIO AND GET THEIR OPERATORS LICENSE.</GrantOrContributionPurposeTxt>
+          <Amt>39850</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW JERSEY INSTITUTE OF TECHNOLOGY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>323 DR MARTIN LUTHER KING JR BLVD</AddressLine1Txt>
+            <CityNm>NEWARK</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1585 SUPPORT FOR SUPPLIES, PARTICIPANT TRAVEL, AND CATERING FOR THE HAM RADIO SCIENCE CITIZEN INVESTIGATION (HAMSCI) WORKSHOP.</GrantOrContributionPurposeTxt>
+          <Amt>34625</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NORTH MIDDLE SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>102 N GRAY AVENUE</AddressLine1Txt>
+            <CityNm>JOPLIN</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1455 UPGRADE EQUIPMENT FOR MIDDLE SCHOOL RADIO CLUB INCLUDING A DMR REPEATER AND RELATED EQUIPMENT.</GrantOrContributionPurposeTxt>
+          <Amt>6200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPEN COLLECTIVE EUROPE (ON BEHALF OF MULTIMODE DIGITAL VOICE MODEM (MMDVM)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1050 BRUSSELS AVE</AddressLine1Txt>
+            <ProvinceOrStateNm>BRUSSELS</ProvinceOrStateNm>
+            <CountryCd>BE</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1578 CONTINUE FULL-TIME DEVELOPMENT OF ITS OPEN-SOURCE DIGITAL VOICE MODEM, WHICH SUPPORTS MULTIPLE AMATEUR RADIO MODES.</GrantOrContributionPurposeTxt>
+          <Amt>180000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPEN COLLECTIVE EUROPE (ON BEHALF OF) AMATEURFUNKGRUPPE BURGDORF HB9BE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1050 BRUSSELS AVE</AddressLine1Txt>
+            <ProvinceOrStateNm>BRUSSELS</ProvinceOrStateNm>
+            <CountryCd>BE</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1512 PROVIDES ACCESS TO AN AREDN NETWORK TO THE HAMS LIVING IN THE CITY OF BURGDORF.</GrantOrContributionPurposeTxt>
+          <Amt>13137</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPEN COLLECTIVE EUROPE ON BEHALF OF JARL KOYOTO CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1050 BRUSSELS AVE</AddressLine1Txt>
+            <ProvinceOrStateNm>BRUSSELS</ProvinceOrStateNm>
+            <CountryCd>BE</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1363 FOCUS ON GROWING THE INTEREST AND PARTICIPATION OF AMATEUR RADIO AMONG INDIVIDUALS UNDER THE AGE OF 20 IN JAPAN THROUGH EDUCATION AND LICENSING EXAM ASSISTANCE.</GrantOrContributionPurposeTxt>
+          <Amt>26748</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPEN COLLECTIVE EUROPE ON THE BEHALF OF OPEN STREET MAP FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1050 BRUSSELS AVE</AddressLine1Txt>
+            <ProvinceOrStateNm>BRUSSELS</ProvinceOrStateNm>
+            <CountryCd>BE</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPENSTREETMAP IS AN INITIATIVE TO CREATE AND PROVIDE FREE GEOGRAPHIC DATA, SUCH AS STREET MAPS, TO ANYONE. THE OPENSTREETMAP FOUNDATION IS AN INTERNATIONAL NOT-FOR-PROFIT ORGANIZATION SUPPORTING, BUT NOT CONTROLLING, THE OPENSTREETMAP PROJECT. IT IS DEDICATED TO ENCOURAGING THE GROWTH, DEVELOPMENT AND DISTRIBUTION OF FREE GEOSPATIAL DATA AND TO PROVIDING GEOSPATIAL DATA FOR ANYONE TO USE AND SHARE.</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPEN COLLECTIVE EUROPE ON THE BEHALF OF OPEN STREET MAP FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>1050 BRUSSELS AVE</AddressLine1Txt>
+            <ProvinceOrStateNm>BRUSSELS</ProvinceOrStateNm>
+            <CountryCd>BE</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPENSTREETMAP IS AN INITIATIVE TO CREATE AND PROVIDE FREE GEOGRAPHIC DATA, SUCH AS STREET MAPS, TO ANYONE. THE OPENSTREETMAP FOUNDATION IS AN INTERNATIONAL NOT-FOR-PROFIT ORGANIZATION SUPPORTING, BUT NOT CONTROLLING, THE OPENSTREETMAP PROJECT. IT IS DEDICATED TO ENCOURAGING THE GROWTH, DEVELOPMENT AND DISTRIBUTION OF FREE GEOSPATIAL DATA AND TO PROVIDING GEOSPATIAL DATA FOR ANYONE TO USE AND SHARE.</GrantOrContributionPurposeTxt>
+          <Amt>1047</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PARKS ON THE AIR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>604 THOMAS WAY</AddressLine1Txt>
+            <CityNm>SEVERNA PARK</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROMOTES INTERNATIONAL PORTABLE AMATEUR RADIO OPERATIONS THAT PROMOTE EMERGENCY AWARENESS AND COMMUNICATIONS FROM NATIONAL/FEDERAL AND STATE/PROVINCIAL LEVEL PARKS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PARKS ON THE AIR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>604 THOMAS WAY</AddressLine1Txt>
+            <CityNm>SEVERNA PARK</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21146</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ORGANIZED TO GIVE ACCESS TO PARKS AND EMERGENCY RADIO COMMUNICATION.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE BOARD OF EDUCATION OF SCHOOL DISTRICT NO 36 (SURREY)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>10441 132 ST SURREY</AddressLine1Txt>
+            <ProvinceOrStateNm>BRITISH COLUMBIA</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1536 CREATES POTA GO BOXES TO ESTABLISH NEW AMATEUR RADIO CLUBS AT SCHOOLS WITHIN THE DISTRICT.</GrantOrContributionPurposeTxt>
+          <Amt>6361</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RADIO AMATEURS OF CANADA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>720 BELFAST ROAD SUITE 217</AddressLine1Txt>
+            <ProvinceOrStateNm>OTTAWA</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SERVING CANADA AMATEUR RADIO PEOPLE AT A GOVERNMENT LEVEL.</GrantOrContributionPurposeTxt>
+          <Amt>1048</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SANDRA INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1531 1/2 THOMAS AVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1400 BUILDS A LIBRARY CATALOG TO HOLD AND PRESERVE OPEN SOURCE HAM SOFTWARE PROJECTS CREATED BY INDIVIDUALS.</GrantOrContributionPurposeTxt>
+          <Amt>11518</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SARASOTA MILITARY ACADEMY INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>801 NORTH ORANGE AVENUE</AddressLine1Txt>
+            <CityNm>SARASOTA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34236</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1573 ESTABLISH AN AMATEUR RADIO CLUB ON A JUNIOR HIGH AND HIGH SCHOOL CAMPUS WITH A CURRICULUM FOR STUDENTS RELATED TO AMATEUR RADIO.</GrantOrContributionPurposeTxt>
+          <Amt>29875</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SCIENTIFIC INSTRUMENTATION CENTER ADVENTIST UNIVERSITY OF CHILE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>CAMINO A TANILVORO KM 12 CHILLAN</AddressLine1Txt>
+            <ProvinceOrStateNm>NUBLE</ProvinceOrStateNm>
+            <CountryCd>CI</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1460 FUNDS A THREE YEAR PROJECT TO STUDY THE EFFECTS OF THE ATMOSPHERE/SPACE WEATHER ON RADIO/SATELLITE COMMUNICATIONS. THE PROJECT WILL INVOLVE STUDENTS ACROSS THE COUNTRY FOR OUTREACH AND EDUCATION.</GrantOrContributionPurposeTxt>
+          <Amt>79280</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SETI INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>339 BERNARDO AVENUE</AddressLine1Txt>
+            <CityNm>MOUNTAIN VIEW</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94043</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1592 ENHANCE CURRICULUM BY ADDING HANDS-ON LABS THAT INCORPORATE EDUCATIONAL PRINCIPLES AND RADIO COMMUNICATION TECHNIQUE.</GrantOrContributionPurposeTxt>
+          <Amt>194698</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SETI INSTITUTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>339 BERNARDO AVENUE</AddressLine1Txt>
+            <CityNm>MOUNTAIN VIEW</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94043</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1388 SETI AND GNU RADIO WILL HOST A THREE DAY IN-PERSON HACKATHON AT THE HAT CREEK RADIO OBSERVATORY. PARTICIPANTS WILL ATTEND LECTURES ON HOW TO USE THE ALLEN TELESCOPE ARRAY AND OTHER TECHNOLOGIES. THIS GRANT WILL COVER TRANSPORTATION, ACCOMMODATION AND FOOD.</GrantOrContributionPurposeTxt>
+          <Amt>26040</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SIGNAL TECHNOLOGY FOUNDATION (THE SIGNAL APP)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>650 CASTRO STREET SUITE 120-223</AddressLine1Txt>
+            <CityNm>MOUNTAIN VIEW</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94041</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>STATE-OF-THE-ART END-TO-END ENCRYPTION (POWERED BY THE OPEN SOURCE SIGNAL PROTOCOL) KEEPS YOUR CONVERSATIONS SECURE. DONATIONS HELP PAY FOR THE DEVELOPMENT AND MAINTENANCE OF SIGNAL, INCLUDING THE SERVERS AND BANDWIDTH REQUIRED TO MAKE SIGNAL AVAILABLE.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SOCIETY OF WOMEN ENGINEERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>130 EAST RANDOLPH STREET</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1534 SUPPORTS SCHOLARSHIPS AND EDUCATIONAL SUPPORTS, INCLUDING A NEW SCHOLARSHIPS FOR STUDENTS IN INDIA.</GrantOrContributionPurposeTxt>
+          <Amt>130000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SOFTWARE FREEDOM CONSERVANCY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>137 MONTAGUE ST STE 380</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>A FREE AND OPEN SOURCE DISTRIBUTED VERSION CONTROL SYSTEM</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SOFTWARE FREEDOM CONSERVANCY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>137 MONTAGUE ST STE 380</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>A DOUBLE-ENTRY BOOKKEEPING COMPUTER LANGUAGE THAT LETS YOU DEFINE FINANCIAL TRANSACTION RECORDS IN A TEXT FILE, READ THEM IN MEMORY, GENERATE A VARIETY OF REPORTS FROM THEM, AND PROVIDES A WEB INTERFACE.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SOFTWARE FREEDOM CONSERVANCY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>137 MONTAGUE ST STE 380</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>A LINUX OPERATING SYSTEM TARGETING EMBEDDED DEVICES. PROVIDES THE FRAMEWORK TO BUILD AN APPLICATION WITHOUT HAVING TO BUILD A COMPLETE FIRMWARE AROUND IT; FOR USERS THIS MEANS THE ABILITY FOR FULL CUSTOMIZATION, TO USE THE DEVICE IN WAYS NEVER ENVISIONED.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SOFTWARE FREEDOM CONSERVANCY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>137 MONTAGUE ST</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11201</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1391 THE SFC LEVERAGES COPYLEFT LICENSING FOR THE ADVANCEMENT OF SOFTWARE FREEDOM. THIS GRANT FUNDS COPYLEFT AND GPL ENFORCEMENT EFFORTS.</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SWEET DREAMS FOR RANDOLPH COUNTY KIDS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>536 W FRANKLIN ST</AddressLine1Txt>
+            <CityNm>WINCHESTER</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>47394</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1336 PROMOTE STEM AND AMATEUR RADIO AMONG UNDERSERVED STUDENTS IN INDIANA.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPEN COLLECTIVE EUROPE (ON BEHALF OF THAMMASAT UNIVERSITY)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>2 PRACHAN ROAD</AddressLine1Txt>
+            <ProvinceOrStateNm>BANGKOK</ProvinceOrStateNm>
+            <CountryCd>TH</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1507 BUILDS 50 PACKET-RADIO BOXES (AT 70CM) AND TRAINS 500 HAMS ACROSS THAILAND TO USE NEW PACKET RADIO TO PROVIDE INTERNET DURING EMERGENCIES.</GrantOrContributionPurposeTxt>
+          <Amt>33000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE DOCUMENT FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>KURFURSTENDAMM 188</AddressLine1Txt>
+            <ProvinceOrStateNm>BERLIN</ProvinceOrStateNm>
+            <CountryCd>GM</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPEN-SOURCE WORD PROCESSING SOFTWARE SUITE.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE MENTOR PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>38 CEDAR DRIVE</AddressLine1Txt>
+            <CityNm>GREAT NECK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDES MENTORS THAT ARE EXPERTS IN SCIENCE, TECHNOLOGY, ENGINEERING, THE ARTS, MATHEMATICS, BUSINESS ETC. TO YOUTH.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE MUSEUM OF INFORMATION EXPLOSION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4322 CHICKASAW DR SE</AddressLine1Txt>
+            <CityNm>HUNTSVILLE</CityNm>
+            <StateAbbreviationCd>AL</StateAbbreviationCd>
+            <ZIPCd>35801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1587 PURCHASE NEW EQUIPMENT TO UPGRADE THE MUSEUM HAMSHACK, ENHANCING ITS FUNCTIONALITY.</GrantOrContributionPurposeTxt>
+          <Amt>7008</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE TOR PROJECT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5</AddressLine1Txt>
+            <CityNm>WINCHESTER</CityNm>
+            <StateAbbreviationCd>NH</StateAbbreviationCd>
+            <ZIPCd>03470</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DEVELOPED THE TOR NETWORK (ONION ROUTING) WHICH HELPS TO SAFEGUARD AGAINST MASS SURVEILLANCE AND FIGHT CENSORSHIP.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>TOBB ECONOMY AND TECHNOLOGY UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>SOGUTOZU CDNO43</AddressLine1Txt>
+            <ProvinceOrStateNm>CANKAYA/ANKARA</ProvinceOrStateNm>
+            <CountryCd>TU</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1444 SUPPORTS THE CREATION OF AN AMATEUR RADIO CLUB ON UNIVERSITY CAMPUS THAT WILL FACILITATE SDR BASED LABORATORY PROJECTS.</GrantOrContributionPurposeTxt>
+          <Amt>48549</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF CAPE TOWN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>18 UNIVERSITY AVE N</AddressLine1Txt>
+            <ProvinceOrStateNm>CAPE TOWN</ProvinceOrStateNm>
+            <CountryCd>SF</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1509 A SMARTSDN IMPLEMENTATION FOR QOS MANAGEMENT A COMMUNITY NETWORK IN SOUTH AFRICA, DONE AS A RESEARCH PROJECT THROUGH A UNIVERSITY.</GrantOrContributionPurposeTxt>
+          <Amt>124394</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF LEEDS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>SIR WILLIAM HENRY BRAGG BUILDING</AddressLine1Txt>
+            <AddressLine2Txt>WOODHOURSE LN</AddressLine2Txt>
+            <ProvinceOrStateNm>LEEDS</ProvinceOrStateNm>
+            <CountryCd>UK</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1308 SUPPORT A STUDENT THROUGHOUT THEIR RESEARCH TOWARDS A PHD DEGREE IN COMPUTER SCIENCE AT THE UNIVERSITY OF LEEDS. THE PHD RESEARCH TOPIC EXPLORES THE SYNERGY BETWEEN ARTIFICIAL INTELLIGENCE (AI), MACHINE LEARNING (ML) AND REAL-TIME DISTRIBUTED (RTD) SYSTEMS, AND WILL USE WIRELESS COMMUNICATION AND AMATEUR RADIO AS MOTIVATING EXAMPLES AND EXPERIMENTAL SETUP.</GrantOrContributionPurposeTxt>
+          <Amt>201090</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF LOUISIANA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>131 REX STREET</AddressLine1Txt>
+            <CityNm>LAFAYETTE</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1395 UPDATE RADIO CLUB EQUIPMENT INCLUDING HF AND SATELLITE CAPABILITIES. CLUB EXPANSION PLANS INCLUDE OUTREACH TO COLLEGE AND HIGH-SCHOOL STUDENTS.</GrantOrContributionPurposeTxt>
+          <Amt>10719</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF SCRANTON</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 LINDEN STREET</AddressLine1Txt>
+            <CityNm>SCRANTON</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18510</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1474 FUNDS A POST-DOC POSITION AT THE UNIVERSITY OF SCRANTON FOR THE SCIENTIFIC ANALYSIS OF RBN/WSPRNET/PSKREPORTER (AMATEUR RADIO) DATA.</GrantOrContributionPurposeTxt>
+          <Amt>30954</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY OF VICTORIA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>PO BOX 1700</AddressLine1Txt>
+            <ProvinceOrStateNm>BRITISH COLUMBIA</ProvinceOrStateNm>
+            <CountryCd>CA</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>GOV</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1358 UNIVERSITY OF VICTORIA PROJECT TO CREATE A MODULAR CUBE SATELLITE RADIO TO IMPROVE CURRENT RADIO COMMUNICATIONS.</GrantOrContributionPurposeTxt>
+          <Amt>408239</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AIRCRAFT CARRIER HORNET FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>707 W HORNET AVE</AddressLine1Txt>
+            <CityNm>ALAMEDA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1317 RESTORATION AND MODERNIZATION PROJECT OF THE SHIP'S RADIO EQUIPMENT AND FACILITIES TO CONTINUE ITS WORK IN AMATEUR RADIO PROMOTION, EDUCATION, AND HISTORICAL PRESERVATION.</GrantOrContributionPurposeTxt>
+          <Amt>80438</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UTAH STATE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4415 OLD MAIN HILL</AddressLine1Txt>
+            <CityNm>LOGAN</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84322</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1467 FUNDING TO UPDATE A GROUND STATION SO IT CAN COMMUNICATE WITH A CUBESAT. THE GROUP WILL CONDUCT OUTREACH BY PROVIDING HANDS-ON DEMONSTRATIONS.</GrantOrContributionPurposeTxt>
+          <Amt>11529</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VALENCIA COUNTY AMATEUR RADIO ASSOCIATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 CAMELOT BLVD SW</AddressLine1Txt>
+            <CityNm>PERALTA</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87042</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1556 ENHANCE ACCESSIBILITY AND PARTICIPATION IN AMATEUR RADIO BY CONSTRUCTING A HANDICAP RAMP AT THEIR CLUBHOUSE.</GrantOrContributionPurposeTxt>
+          <Amt>32881</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VASAVI COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>9-5-81 IBRAHIMBAGH</AddressLine1Txt>
+            <ProvinceOrStateNm>GOLCONDA</ProvinceOrStateNm>
+            <CountryCd>IN</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1251 ESTABLISH SCHOOL/COLLEGE AMATEUR RADIO STATIONS NEAR VASAVI COLLEGE.</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VOICE OF IDAHO AMATEUR RADIO CLUB INCORPORATED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 812</AddressLine1Txt>
+            <CityNm>BOISE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1421 UPDATE REPEATERS AND LINK THEM TOGETHER FOR BETTER CLUB COMMUNICATIONS.</GrantOrContributionPurposeTxt>
+          <Amt>8950</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VRZA (VERENIGING VAN RADIO ZENDAMATEURS)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>7325 PW APELDOORN</AddressLine1Txt>
+            <ProvinceOrStateNm>HOOGEVEEN</ProvinceOrStateNm>
+            <CountryCd>NL</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1367 UPDATE SOFTWARE AND REPEATER NETWORK ACROSS THE NETHERLANDS.</GrantOrContributionPurposeTxt>
+          <Amt>8700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VRZA (VERENIGING VAN RADIO ZENDAMATEURS)</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>7325 PW APELDOORN</AddressLine1Txt>
+            <ProvinceOrStateNm>HOOGEVEEN</ProvinceOrStateNm>
+            <CountryCd>NL</CountryCd>
+          </RecipientForeignAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1366 SECURE FUTURE HAMNET WIRELESS NETWORK CAPACITY, INCREASE STABILITY, AND INCREASE BANDWIDTH REQUIREMENTS TO PREPARE FOR MORE DEMANDING NETWORK APPLICATIONS AND IMPROVED REPEATER SYSTEMS.</GrantOrContributionPurposeTxt>
+          <Amt>15100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WALTERS STATE COMMUNITY COLLEGE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 S DAVY CROCKETT PARKWAY</AddressLine1Txt>
+            <CityNm>MORRISTOWN</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>55407</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1445 SUPPORTS WALTERS STATE COLLEGE IN MORRISTOWN, TN IN PUTTING TOGETHER A RADIO SUMMER CAMP FOR INTERMEDIATE SCHOOL STUDENTS WITH THE INTENTION OF HAVING STUDENTS SIT FOR THE TECHNICIAN LICENSE EXAM.</GrantOrContributionPurposeTxt>
+          <Amt>26971</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WIKIMEDIA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 MONTGOMERY ST</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>THE NONPROFIT WIKIMEDIA FOUNDATION PROVIDES THE ESSENTIAL INFRASTRUCTURE FOR FREE KNOWLEDGE. WE HOST WIKIPEDIA, THE FREE ONLINE ENCYCLOPEDIA, CREATED, EDITED, AND VERIFIED BY VOLUNTEERS AROUND THE WORLD, AS WELL AS MANY OTHER VITAL COMMUNITY PROJECTS.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YLRL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2873 RAWHIDE DR</AddressLine1Txt>
+            <CityNm>KINGMAN</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>96401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEMBERSHIP ORGANIZATION SUPPORTING WOMEN IN AMATEUR RADIO. THE YLRL PROVIDES MANY SERVICES FOR ITS MEMBERS INCLUDING PUBLISHING A BIMONTHLY NEWSLETTER, YL HARMONICS. IT ALSO PROVIDES AN AUDIO TAPE VERSION OF YL HARMONICS FOR SIGHT-IMPAIRED MEMBERS. THERE ARE ALSO TWO SCHOLARSHIPS GRANTED TO WORTHY YLS TO CONTINUE THEIR HIGHER EDUCATION WITH PRIORITY GIVEN FOR STUDENTS WHOSE MAJORS ARE IN COMMUNICATIONS AND ELECTRONICS OR RELATED ARTS AND SCIENCES.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YLRL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2873 RAWHIDE DR</AddressLine1Txt>
+            <CityNm>KINGMAN</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEMBERSHIP ORGANIZATION SUPPORTING WOMEN IN AMATEUR RADIO. THE YLRL PROVIDES MANY SERVICES FOR ITS MEMBERS INCLUDING PUBLISHING A BIMONTHLY NEWSLETTER, YL HARMONICS. IT ALSO PROVIDES AN AUDIO TAPE VERSION OF YL HARMONICS FOR SIGHT-IMPAIRED MEMBERS. THERE ARE ALSO TWO SCHOLARSHIPS GRANTED TO WORTHY YLS TO CONTINUE THEIR HIGHER EDUCATION WITH PRIORITY GIVEN FOR STUDENTS WHOSE MAJORS ARE IN COMMUNICATIONS AND ELECTRONICS OR RELATED ARTS AND SCIENCES.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>4029781</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARRL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 MAIN ST</AddressLine1Txt>
+            <CityNm>NEWINGTON</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06070</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1312 THIRD PAYMENT OF $507,500 FOR THREE TOTAL YEARS TO FUND THE ARDC SCHOLARSHIP. TOTAL REQUEST IS $1,522,500 OVER THREE YEARS.</GrantOrContributionPurposeTxt>
+          <Amt>507500</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ELECTRONIC APPLICATIONS RADIO SERVICE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10193 CARDIGAN DRIVE</AddressLine1Txt>
+            <CityNm>UNION</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>41091</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>#1139 YEAR 3 OF 3 YEARS OF FUNDING FOR YOTA AMERICAS CAMPS</GrantOrContributionPurposeTxt>
+          <Amt>10662</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>518162</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>3130572</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>1931538</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>RECOVERIES OF GRANTS PAID IN PREVIOUS YEARS</Desc>
+          <RelatedOrExemptFunctionIncmAmt>321265</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>5062110</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>321265</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>5383375</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>11</LineNumberTxt>
+          <RelationshipStatementTxt>RECOVERIES OF RESTRICTED GRANTS FOR FUNDS NOT USED BY ORGANIZATION.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>PROGRAM EXPENSES: ACCOUNTING</CategoryTxt>
+        <Amt>59800</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>49100</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <ExpenditureResponsibilityStmt documentId="RetDoc2118100001">
+      <ExpenditureResponsibilityGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>SONDEHUB</BusinessNameLine1Txt>
+        </BusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>PO BOX 921</AddressLine1Txt>
+          <ProvinceOrStateNm>MODBURY</ProvinceOrStateNm>
+          <CountryCd>AS</CountryCd>
+        </ForeignAddress>
+        <GrantDt>2023-03-10</GrantDt>
+        <GrantAmt>19500</GrantAmt>
+        <PurposeOfGrantTxt>TO PROVIDE TWO YEARS OF OPERATING EXPENSES FOR THE ORGANIZATION'S SONDEHUBTRACKER, WHICH PROVIDES LIVE AND HISTORICAL VIEW OF THE DATA CONTAINEDWITHIN THE SONDEHUB RADIOSONDE TELEMETRY DATABASE, INCLUDING METEOROLOGICALDATA. THE DATA IS OPENLY AVAILABLE.</PurposeOfGrantTxt>
+        <ExpendedByGranteeAmt>1475</ExpendedByGranteeAmt>
+        <DatesOfReportsByGranteeTxt>MULTIPLE</DatesOfReportsByGranteeTxt>
+        <VerificationDt>2025-07-16</VerificationDt>
+        <ResultsOfVerificationTxt>ALL EXPENSES HAVE BEEN VERIFIED TO THE BEST OF OUR ABILITY. FUNDS WERESPENT APPROPRIATELY FOR THE GRANT'S ORIGINAL INTENDED CHARITABLE PURPOSE. IN THE PRIOR YEAR, $18,025 WAS EXPENSED AND VERIFIED ON 07/25/24.</ResultsOfVerificationTxt>
+      </ExpenditureResponsibilityGrp>
+    </ExpenditureResponsibilityStmt>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtObligationsBookVlEOYAmt>17799038</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>17799038</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>0</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>0</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MUTUAL FUNDS - INTERNATIONAL</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>9933361</BookValueAmt>
+        <EOYFMVAmt>9933361</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>EXCHANGE TRADED FUNDS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>100321763</BookValueAmt>
+        <EOYFMVAmt>100321763</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>PROGRAM EXPENSES: LEGAL</CategoryTxt>
+        <LegalFeesAmt>25940</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>25940</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>TRUST ACCOUNT</Desc>
+        <BOYBookValueAmt>2000</BOYBookValueAmt>
+        <EOYBookValueAmt>0</EOYBookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>DEFERRED TAX EXPENSE</Desc>
+        <Amt>98649</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>28107</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>28107</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SOFTWARE DEVELOPMENT EXPENSES - 44NET</Desc>
+        <RevenueAndExpensesPerBooksAmt>251441</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>251441</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>31384</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>37032</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL TAXES</Desc>
+        <RevenueAndExpensesPerBooksAmt>64579</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>64487</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PENALTY</Desc>
+        <RevenueAndExpensesPerBooksAmt>814</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>814</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WORKERS COMP</Desc>
+        <RevenueAndExpensesPerBooksAmt>1620</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1620</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>RECOVERIES OF GRANTS PAID IN PREVIOUS YEARS</Desc>
+        <RevenueAndExpensesPerBooksAmt>321265</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>321265</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAINS</Desc>
+        <Amt>11092758</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>DEFERRED EXCISE TAX</Desc>
+        <BOYBookValueAmt>360181</BOYBookValueAmt>
+        <EOYBookValueAmt>458830</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>SOFTWARE DEVELOPMENT PROFESSIONAL FEES AND CONSULTING</CategoryTxt>
+        <Amt>98156</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>98156</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>70363</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>70363</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

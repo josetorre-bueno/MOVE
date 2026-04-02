@@ -1,0 +1,816 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-16T14:39:46-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>911194016</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CLARK NUBER PS</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>555 110TH AVE NE SUITE 700</AddressLine1Txt>
+        <CityNm>BELLEVUE</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98004</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>462860098</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MY GREEN LAB</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MYGR</BusinessNameControlTxt>
+      <PhoneNum>4243541494</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4653 CARMEL MTN RD STE 308-1032</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JAMES CONNELLY</PersonNm>
+      <PersonTitleTxt>CEO</PersonTitleTxt>
+      <PhoneNum>2062098961</PhoneNum>
+      <SignatureDt>2025-11-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JENNIFER BECKER HARRIS</PreparerPersonNm>
+      <PTIN>P00183358</PTIN>
+      <PhoneNum>4254544919</PhoneNum>
+      <PreparationDt>2025-11-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <PrincipalOfficerNm>JAMES CONNELLY</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>4653 CARMEL MTN RD STE 308-1032</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92130</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>1171805</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>0</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>WWW.MYGREENLAB.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>2013</FormationYr>
+      <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>MY GREEN LAB'S MISSION IS TO BUILD A CULTURE OF SUSTAINABILITY IN SCIENCE TO TRANSFORM THE INDUSTRY INTO A GLOBAL LEADER ON ENVIRONMENTAL SUSTAINABILITY. THROUGH EDUCATION, COMMUNITY ENGAGEMENT, AND LEADING-EDGE CERTIFICATION PROGRAMS, WE ARE BUILDING A GLOBAL CULTURE OF SUSTAINABILITY IN SCIENCE TO TRANSFORM THE RESEARCH COMMUNITY INTO A GLOBAL LEADER ON ENVIRONMENTAL SUSTAINABILITY.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>6</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>6</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>15</TotalEmployeeCnt>
+      <TotalVolunteersCnt>7</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>58930</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>526658</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>1015172</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>2129078</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>96933</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>295</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>59205</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>3634</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>495</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>2659665</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>1171805</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>0</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>0</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>0</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>2058119</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>739201</CYSalariesCompEmpBnftPaidAmt>
+      <PYTotalProfFndrsngExpnsAmt>7500</PYTotalProfFndrsngExpnsAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>90429</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>1420132</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>590573</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>3485751</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>1329774</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>-826086</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>-157969</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>1842153</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>2402622</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>2357267</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>3076705</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>-515114</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>-674083</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>MY GREEN LAB'S MISSION IS TO BUILD A CULTURE OF SUSTAINABILITY IN SCIENCE TO TRANSFORM THE INDUSTRY INTO A GLOBAL LEADER ON ENVIRONMENTAL SUSTAINABILITY. THROUGH EDUCATION, COMMUNITY ENGAGEMENT, AND LEADING-EDGE CERTIFICATION PROGRAMS, WE ARE BUILDING A GLOBAL CULTURE OF SUSTAINABILITY IN SCIENCE TO TRANSFORM THE RESEARCH COMMUNITY INTO A GLOBAL LEADER ON ENVIRONMENTAL SUSTAINABILITY.</MissionDesc>
+      <SignificantNewProgramSrvcInd>0</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>1</SignificantChangeInd>
+      <ExpenseAmt>464608</ExpenseAmt>
+      <RevenueAmt>91168</RevenueAmt>
+      <Desc>MY GREEN LAB CERTIFICATION: MY GREEN LAB DEVELOPS, MAINTAINS AND PROMOTES THE WORLD'S MOST TRUSTED GREEN LAB CERTIFICATION PROGRAM FOR OPERATIONAL LABORATORY SUSTAINABILITY, MY GREEN LAB CERTIFICATION. AT THE END OF 2024, MY GREEN LAB WORKED WITH MORE THAN 3,700 LABORATORIES AND 41,650 SCIENTISTS WORLDWIDE. THIS INCLUDED 40 OF THE 50 LARGEST BIOTECH AND PHARMACEUTICAL COMPANIES BY REVENUE, MORE THAN 200 GOVERNMENT AND RESEARCH INSTITUTIONS, AND 624 ORGANIZATIONS IN TOTAL.IN 2024, MY GREEN LAB FINALIZED AN UPDATE TO ITS FLAGSHIP MY GREEN LAB CERTIFICATION, RELEASING THE 2.0 STANDARD. THIS UPDATE WAS ALIGNED WITH INTERNATIONAL BEST PRACTICES AND LED BY AN EXPERT TECHNICAL COMMITTEE DRAWN FROM A GLOBAL NETWORK OF GREEN LAB PRACTITIONERS IN BOTH ACADEMIC AND COMMERCIAL SETTINGS.MY GREEN LAB IS RESPONSIBLE FOR THE STANDARD REVISION AND UPDATE PROCESS AND MARKETING AND EDUCATIONAL SUPPORT. DELIVERY OF THE MY GREEN LAB CERTIFICATION PROGRAM IS CONDUCTED BY THE INDEPENDENT THIRD-PARTY CERTIFICATION SUBSIDIARY, IMPACT LABORATORIES.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>194671</ExpenseAmt>
+        <Desc>ACT LABEL FOR LABORATORY PRODUCTS: MY GREEN LAB LAUNCHED THE FIRST ECOLABEL FOR LABORATORY PRODUCTS, THE MY GREEN LAB ACT ECOLABEL, IN 2017. BY THE END OF 2024, MORE THAN 2,240 ACT ECOLABELS HAD BEEN PUBLISHED. MY GREEN LAB REVISED AND UPDATE THE STANDARD, RELEASING ACT 2.0 STANDARD DURING THE YEAR, FOLLOWING INTERNATIONAL BEST PRACTICES AND GUIDED BY A TECHNICAL COMMITTEE OF EXPERTS IN SUSTAINABLE PRODUCTS, LIFE CYCLE ASSESSMENT, AND ENVIRONMENTAL CERTIFICATION. MY GREEN LAB ALSO INITIATED A PILOT PROGRAM TO GATHER FEEDBACK FROM INDUSTRY PARTNERS.MY GREEN LAB IS RESPONSIBLE FOR MAINTAINING AND UPDATING THE ACT STANDARD AND FOR PROVIDING MARKETING AND EDUCATIONAL SUPPORT. IMPACT LABORATORIES LEADS BUSINESS DEVELOPMENT FOR THE ACT LABEL, AND VERICO SERVES AS THE THIRD-PARTY CERTIFICATION BODY CONDUCTING THIRD-PARTY PRODUCT CERTIFICATIONS UNDER THE ACT STANDARD.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <ProgSrvcAccomActy3Grp>
+        <ExpenseAmt>155678</ExpenseAmt>
+        <RevenueAmt>5765</RevenueAmt>
+        <Desc>GREEN LAB OUTREACH: MY GREEN LAB PROVIDES CLEAR AND ACCESSIBLE INFORMATION TO THE GLOBAL SCIENTIFIC COMMUNITY ABOUT BEST PRACTICES FOR SUSTAINABILITY IN LABORATORIES. IN 2024, MY GREEN LAB REACHED NEARLY 64,000 PEOPLE THROUGH NEWSLETTERS, RECRUITED 8,500 AMBASSADORS ACROSS 70 COUNTRIES, AND PRESENTED AT MORE THAN 100 GLOBAL CONFERENCES AND EVENTS, INCLUDING THE UN CONFERENCE OF PARTIES (COP29). THE MY GREEN LAB GLOBAL SUMMIT, AN ANNUAL VIRTUAL EVENT, HOSTED 1,600 PARTICIPANTS FROM AROUND THE WORLD.</Desc>
+      </ProgSrvcAccomActy3Grp>
+      <ProgSrvcAccomActyOtherGrp>
+        <ExpenseAmt>116803</ExpenseAmt>
+        <Desc>MY GREEN LAB ADVOCACY AND EDUCATION: IN ITS FIFTH YEAR, THE INTERNATIONAL FREEZER CHALLENGE ENGAGED 3,000 LABORATORIES REPRESENTING 239 RESEARCH INSTITUTIONS WORLDWIDE. PARTICIPANTS ACHIEVED A COMBINED ENERGY SAVINGS OF 31.8 MILLION KWH PER YEAR.PARTICIPATION IN THE MY GREEN LAB ACCREDITED PROFESSIONAL (AP) PROGRAM, THE WORLD'S FIRST IN-DEPTH EDUCATION PROGRAM ON GREEN LAB PRINCIPLES, GREW FROM 50 PARTICIPANTS IN 2023 TO 235 BY THE END OF 2024. MY GREEN LAB DEVELOPS THE AP CURRICULUM AND PROVIDES MARKETING AND EDUCATIONAL SUPPORT, WHILE IMPACT LABORATORIES ISSUES AP CERTIFICATES TO PARTICIPANTS UPON SUCCESSFUL COMPLETION.</Desc>
+      </ProgSrvcAccomActyOtherGrp>
+      <TotalOtherProgSrvcExpenseAmt>116803</TotalOtherProgSrvcExpenseAmt>
+      <TotalProgramServiceExpensesAmt>931760</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc1039100001">1</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="RetDoc1234500001">1</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>0</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>0</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>0</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc1040000001">0</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc1040000001">0</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc1040000001">0</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>0</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc1040000001">0</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc1040000001">0</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc1040000001">0</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc1040000001">1</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc1040000001">0</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <ForeignOfficeInd>1</ForeignOfficeInd>
+      <ForeignActivitiesInd referenceDocumentId="RetDoc1040500001">1</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd referenceDocumentId="RetDoc1040500001">0</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd referenceDocumentId="RetDoc1040500001">0</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>0</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>0</FundraisingActivitiesInd>
+      <GamingActivitiesInd>0</GamingActivitiesInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd referenceDocumentId="RetDoc1042400001">1</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>0</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>0</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>0</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>0</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>0</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>0</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>0</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>0</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd>0</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>0</DeductibleArtContributionInd>
+      <TerminateOperationsInd>0</TerminateOperationsInd>
+      <PartialLiquidationInd>0</PartialLiquidationInd>
+      <DisregardedEntityInd referenceDocumentId="RetDoc1043500001">0</DisregardedEntityInd>
+      <RelatedEntityInd referenceDocumentId="RetDoc1043500001">1</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>1</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd referenceDocumentId="RetDoc1043500001">1</TransactionWithControlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd referenceDocumentId="RetDoc1043500001">0</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd referenceDocumentId="RetDoc1043500001">0</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>1</ScheduleORequiredInd>
+      <IRPDocumentCnt>14</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>15</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>1</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>1</UnrelatedBusIncmOverLimitInd>
+      <Form990TFiledInd>1</Form990TFiledInd>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>0</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>0</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>0</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>0</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+      <IndoorTanningServicesInd>0</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>0</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>6</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>6</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>0</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>0</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>0</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>0</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>0</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>0</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>0</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>1</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>1</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>0</OfficerMailingAddressInd>
+      <LocalChaptersInd>0</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>1</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>1</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>1</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>1</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>1</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>1</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>1</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>1</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>0</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>JAMES CONNELLY</BusinessNameLine1Txt>
+        </BusinessName>
+        <PhoneNum>4243541494</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>4653 CARMEL MTN RD STE 308-1032</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>NEILL LANE</PersonNm>
+        <TitleTxt>BOARD CHAIR FROM 02/24</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ADAM ZIRKIN</PersonNm>
+        <TitleTxt>BOARD CHAIR THRU 02/24</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MALCOLM BELL</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DR FIONA ADSHEAD</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>PENNY JAMES</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CAITLIN QUIGLEY</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JEFFREY WHITFORD</PersonNm>
+        <TitleTxt>BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JAMES CONNELLY</PersonNm>
+        <TitleTxt>CEO</TitleTxt>
+        <AverageHoursPerWeekRt>19.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>41.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>61750</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>132955</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>20424</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SAM WRIGHT</PersonNm>
+        <TitleTxt>COO &amp; SECRETARY</TitleTxt>
+        <AverageHoursPerWeekRt>19.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>41.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>48000</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>103320</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>18364</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SCOTT GRANT</PersonNm>
+        <TitleTxt>VICE PRESIDENT, CERTIFICATIONS</TitleTxt>
+        <AverageHoursPerWeekRt>16.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>34.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>35066</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>76998</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>32554</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>RYAN ARNOLD</PersonNm>
+        <TitleTxt>SR. DIR. INVESTMENTS &amp; PARTNERSHIPS</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>107605</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>6888</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>252421</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>313273</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>78230</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>1</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>0</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>1</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>0</CompensationFromOtherSrcsInd>
+      <CntrctRcvdGreaterThan100KCnt>0</CntrctRcvdGreaterThan100KCnt>
+      <AllOtherContributionsAmt>1015172</AllOtherContributionsAmt>
+      <TotalContributionsAmt>1015172</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>PROGRAM SUPPORT SVCS</Desc>
+        <BusinessCd>561000</BusinessCd>
+        <TotalRevenueColumnAmt>91168</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>91168</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>CONFERENCE FEES</Desc>
+        <BusinessCd>541900</BusinessCd>
+        <TotalRevenueColumnAmt>5765</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>5765</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>96933</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>59205</TotalRevenueColumnAmt>
+        <UnrelatedBusinessRevenueAmt>58930</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>275</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>REIMBURSEMENTS</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>495</TotalRevenueColumnAmt>
+        <ExclusionAmt>495</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>495</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>1171805</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>96933</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>58930</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>770</ExclusionAmt>
+      </TotalRevenueGrp>
+      <InfoInScheduleOPartIXInd>X</InfoInScheduleOPartIXInd>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>120113</TotalAmt>
+        <ProgramServicesAmt>78748</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>25372</ManagementAndGeneralAmt>
+        <FundraisingAmt>15993</FundraisingAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>490904</TotalAmt>
+        <ProgramServicesAmt>473194</ProgramServicesAmt>
+        <FundraisingAmt>17710</FundraisingAmt>
+      </OtherSalariesAndWagesGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>76732</TotalAmt>
+        <ProgramServicesAmt>69647</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>5386</ManagementAndGeneralAmt>
+        <FundraisingAmt>1699</FundraisingAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>51452</TotalAmt>
+        <ProgramServicesAmt>47919</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1831</ManagementAndGeneralAmt>
+        <FundraisingAmt>1702</FundraisingAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>68424</TotalAmt>
+        <ManagementAndGeneralAmt>68424</ManagementAndGeneralAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>111429</TotalAmt>
+        <ManagementAndGeneralAmt>111429</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>140876</TotalAmt>
+        <ProgramServicesAmt>113916</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>13853</ManagementAndGeneralAmt>
+        <FundraisingAmt>13107</FundraisingAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>25374</TotalAmt>
+        <ProgramServicesAmt>25374</ProgramServicesAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>43845</TotalAmt>
+        <ProgramServicesAmt>136</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>38848</ManagementAndGeneralAmt>
+        <FundraisingAmt>4861</FundraisingAmt>
+      </OfficeExpensesGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>44256</TotalAmt>
+        <ProgramServicesAmt>5380</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>10152</ManagementAndGeneralAmt>
+        <FundraisingAmt>28724</FundraisingAmt>
+      </InformationTechnologyGrp>
+      <TravelGrp>
+        <TotalAmt>33602</TotalAmt>
+        <ProgramServicesAmt>30242</ProgramServicesAmt>
+        <FundraisingAmt>3360</FundraisingAmt>
+      </TravelGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>41161</TotalAmt>
+        <ProgramServicesAmt>41161</ProgramServicesAmt>
+      </ConferencesMeetingsGrp>
+      <InterestGrp>
+        <TotalAmt>65698</TotalAmt>
+        <ProgramServicesAmt>46043</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>16382</ManagementAndGeneralAmt>
+        <FundraisingAmt>3273</FundraisingAmt>
+      </InterestGrp>
+      <InsuranceGrp>
+        <TotalAmt>15908</TotalAmt>
+        <ManagementAndGeneralAmt>15908</ManagementAndGeneralAmt>
+      </InsuranceGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>1329774</TotalAmt>
+        <ProgramServicesAmt>931760</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>307585</ManagementAndGeneralAmt>
+        <FundraisingAmt>90429</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>504966</BOYAmt>
+        <EOYAmt>788806</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>211049</BOYAmt>
+        <EOYAmt>156740</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <PledgesAndGrantsReceivableGrp>
+        <BOYAmt>411000</BOYAmt>
+        <EOYAmt>558025</EOYAmt>
+      </PledgesAndGrantsReceivableGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>426335</BOYAmt>
+        <EOYAmt>3905</EOYAmt>
+      </AccountsReceivableGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>287803</BOYAmt>
+        <EOYAmt>78831</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <InvestmentsProgramRelatedGrp>
+        <BOYAmt>1000</BOYAmt>
+        <EOYAmt>-1175525</EOYAmt>
+      </InvestmentsProgramRelatedGrp>
+      <IntangibleAssetsGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>18377</EOYAmt>
+      </IntangibleAssetsGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>1973463</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>1842153</BOYAmt>
+        <EOYAmt>2402622</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>426774</BOYAmt>
+        <EOYAmt>296921</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>1429493</BOYAmt>
+        <EOYAmt>6000</EOYAmt>
+      </DeferredRevenueGrp>
+      <UnsecuredNotesLoansPayableGrp>
+        <BOYAmt>500000</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </UnsecuredNotesLoansPayableGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>1000</BOYAmt>
+        <EOYAmt>2773784</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>2357267</BOYAmt>
+        <EOYAmt>3076705</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>-515114</BOYAmt>
+        <EOYAmt>-674083</EOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>-515114</BOYAmt>
+        <EOYAmt>-674083</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>1842153</BOYAmt>
+        <EOYAmt>2402622</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>-157969</ReconcilationRevenueExpnssAmt>
+      <PriorPeriodAdjustmentsAmt>-1000</PriorPeriodAdjustmentsAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>0</AccountantCompileOrReviewInd>
+      <FSAuditedInd>1</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <ConsolidatedBasisFinclStmtInd>X</ConsolidatedBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>1</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>0</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>377830</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>1079246</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>1440100</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>526658</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>1015172</CurrentTaxYearAmt>
+        <TotalAmt>4439006</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>377830</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>1079246</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>1440100</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>526658</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>1015172</CurrentTaxYearAmt>
+        <TotalAmt>4439006</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <SubstantialContributorsTotAmt>1023417</SubstantialContributorsTotAmt>
+      <PublicSupportTotal170Amt>3415589</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <CurrentTaxYearMinus1YearAmt>295</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>275</CurrentTaxYearAmt>
+        <TotalAmt>570</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <UnrelatedBusinessNetIncm170Grp>
+        <CurrentTaxYearAmt>58930</CurrentTaxYearAmt>
+        <TotalAmt>58930</TotalAmt>
+      </UnrelatedBusinessNetIncm170Grp>
+      <OtherIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>3152</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>9384</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>3289</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>495</CurrentTaxYearAmt>
+        <TotalAmt>16320</TotalAmt>
+      </OtherIncome170Grp>
+      <TotalSupportAmt>4514826</TotalSupportAmt>
+      <GrossReceiptsRltdActivitiesAmt>4599847</GrossReceiptsRltdActivitiesAmt>
+      <PublicSupportCY170Pct>0.75650</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.76560</PublicSupportPY170Pct>
+      <ThirtyThrPctSuprtTestsCY170Ind>X</ThirtyThrPctSuprtTestsCY170Ind>
+      <Form990ScheduleAPartVIGrp>
+        <FormAndLineReferenceDesc>SCHEDULE A, PART II, LINE 10, EXPLANATION OF OTHER INCOME:</FormAndLineReferenceDesc>
+        <ExplanationTxt>MISCELLANEOUS INCOME - 2020 AMOUNT: $ 3,152. 2022 AMOUNT: $ 9,384. HONORARIUMS - 2023 AMOUNT: $ 3,289. REIMBURSEMENTS - 2024 AMOUNT: $ 495.</ExplanationTxt>
+      </Form990ScheduleAPartVIGrp>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <TotalBookValueLandBuildingsAmt>0</TotalBookValueLandBuildingsAmt>
+      <OtherAssetsOrgGrp>
+        <Desc>DUE FROM AFFILIATE</Desc>
+        <BookValueAmt>1973463</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <TotalBookValueOtherAssetsAmt>1973463</TotalBookValueOtherAssetsAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>DUE TO AFFILIATE</Desc>
+        <Amt>2773784</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>2773784</TotalLiabilityAmt>
+    </IRS990ScheduleD>
+    <IRS990ScheduleF documentId="RetDoc1040500001">
+      <AccountActivitiesOutsideUSGrp>
+        <RegionTxt>EUROPE (INCLUDING ICELAND &amp; GREENLAND) - ALBANIA, ANDORRA, AUSTRIA, BELGIUM</RegionTxt>
+        <OfficesCnt>0</OfficesCnt>
+        <EmployeeCnt>1</EmployeeCnt>
+        <TypeOfActivitiesConductedTxt>PROGRAM SERVICES</TypeOfActivitiesConductedTxt>
+        <SpecificServicesProvidedTxt>GREEN LAB CERTIFICATION; ACT LABELS; GREEN LAB OUTREACH; MY GREEN LAB ADVOCACY AND EDUCATION</SpecificServicesProvidedTxt>
+        <RegionTotalExpendituresAmt>89658</RegionTotalExpendituresAmt>
+      </AccountActivitiesOutsideUSGrp>
+      <AccountActivitiesOutsideUSGrp>
+        <RegionTxt>NORTH AMERICA - CANADA AND MEXICO, BUT NOT THE UNITED STATES</RegionTxt>
+        <OfficesCnt>0</OfficesCnt>
+        <EmployeeCnt>1</EmployeeCnt>
+        <TypeOfActivitiesConductedTxt>PROGRAM SERVICES</TypeOfActivitiesConductedTxt>
+        <SpecificServicesProvidedTxt>GREEN LAB CERTIFICATION; ACT LABELS; GREEN LAB OUTREACH; MY GREEN LAB ADVOCACY AND EDUCATION</SpecificServicesProvidedTxt>
+        <RegionTotalExpendituresAmt>10240</RegionTotalExpendituresAmt>
+      </AccountActivitiesOutsideUSGrp>
+      <AccountActivitiesOutsideUSGrp>
+        <RegionTxt>EUROPE (INCLUDING ICELAND &amp; GREENLAND) - ALBANIA, ANDORRA, AUSTRIA, BELGIUM</RegionTxt>
+        <OfficesCnt>0</OfficesCnt>
+        <EmployeeCnt>0</EmployeeCnt>
+        <TypeOfActivitiesConductedTxt>FUNDRAISING REVENUE RECEIVED, NO RELATED EXPENSES INCURRED</TypeOfActivitiesConductedTxt>
+      </AccountActivitiesOutsideUSGrp>
+      <SubtotalOfficesCnt>0</SubtotalOfficesCnt>
+      <SubtotalEmployeesCnt>2</SubtotalEmployeesCnt>
+      <ContinuationTotalOfficeCnt>0</ContinuationTotalOfficeCnt>
+      <ContinuationTotalEmployeeCnt>0</ContinuationTotalEmployeeCnt>
+      <TotalOfficeCnt>0</TotalOfficeCnt>
+      <TotalEmployeeCnt>2</TotalEmployeeCnt>
+      <SubtotalSpentAmt>99898</SubtotalSpentAmt>
+      <ContinuationSpentAmt>0</ContinuationSpentAmt>
+      <TotalSpentAmt>99898</TotalSpentAmt>
+      <TransferToForeignCorpInd>1</TransferToForeignCorpInd>
+      <InterestInForeignTrustInd>0</InterestInForeignTrustInd>
+      <ForeignCorpOwnershipInd>0</ForeignCorpOwnershipInd>
+      <PassiveForeignInvestmestCoInd>0</PassiveForeignInvestmestCoInd>
+      <ForeignPartnershipInd>0</ForeignPartnershipInd>
+      <BoycottCountriesInd>0</BoycottCountriesInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 3:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE EXPENDITURES REPORTED ON SCHEDULE F, PART I, LINE 3 ARE ON THE ACCRUAL BASIS OF ACCOUNTING.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE F, PART IV, LINE 1:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THERE WERE TRANSFERS TO FOREIGN CORPORATIONS, BUT THEY WERE NOT OF THE TYPE DESCRIBED IN SECTION 6038B(A)(1)(A), 367(D), OR 367(E) SO NO FORM 926 WAS REQUIRED TO BE FILED.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleF>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <CompensationCommitteeInd>X</CompensationCommitteeInd>
+      <IndependentConsultantInd>X</IndependentConsultantInd>
+      <WrittenEmploymentContractInd>X</WrittenEmploymentContractInd>
+      <CompensationSurveyInd>X</CompensationSurveyInd>
+      <BoardOrCommitteeApprovalInd>X</BoardOrCommitteeApprovalInd>
+      <SeverancePaymentInd>0</SeverancePaymentInd>
+      <SupplementalNonqualRtrPlanInd>0</SupplementalNonqualRtrPlanInd>
+      <EquityBasedCompArrngmInd>1</EquityBasedCompArrngmInd>
+      <CompBasedOnRevenueOfFlngOrgInd>0</CompBasedOnRevenueOfFlngOrgInd>
+      <CompBsdOnRevRelatedOrgsInd>0</CompBsdOnRevRelatedOrgsInd>
+      <CompBsdNetEarnsFlngOrgInd>0</CompBsdNetEarnsFlngOrgInd>
+      <CompBsdNetEarnsRltdOrgsInd>0</CompBsdNetEarnsRltdOrgsInd>
+      <AnyNonFixedPaymentsInd>0</AnyNonFixedPaymentsInd>
+      <InitialContractExceptionInd>0</InitialContractExceptionInd>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>JAMES CONNELLY</PersonNm>
+        <TitleTxt>CEO</TitleTxt>
+        <BaseCompensationFilingOrgAmt>61750</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>132955</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>0</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>0</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>1860</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>8984</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>3193</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>6387</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>66803</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>148326</TotalCompensationRltdOrgsAmt>
+        <CompReportPrior990FilingOrgAmt>0</CompReportPrior990FilingOrgAmt>
+        <CompReportPrior990RltdOrgsAmt>0</CompReportPrior990RltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>SAM WRIGHT</PersonNm>
+        <TitleTxt>COO &amp; SECRETARY</TitleTxt>
+        <BaseCompensationFilingOrgAmt>48000</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>103320</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>0</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>0</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>2160</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>6955</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>3149</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>6100</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>53309</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>116375</TotalCompensationRltdOrgsAmt>
+        <CompReportPrior990FilingOrgAmt>0</CompReportPrior990FilingOrgAmt>
+        <CompReportPrior990RltdOrgsAmt>0</CompReportPrior990RltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 3</FormAndLineReferenceDesc>
+        <ExplanationTxt>INDEPENDENT BOARD MEMBERS REVIEWED EXECUTIVE COMPENSATION BASED UPON INDUSTRY DATA. THE COMPENSATION AMOUNT UNDERWENT PROFESSIONAL LEGAL REVIEW.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 4C</FormAndLineReferenceDesc>
+        <ExplanationTxt>MY GREEN LAB'S BOARD APPROVED A STOCK OPTION PLAN THAT INCLUDED ALLOCATIONS FOR ADVISORS, EMPLOYEES, BOARD MEMBERS, AND EXECUTIVES. THESE ALLOCATIONS WERE DETERMINED BASED ON RESEARCH CONDUCTED BY AN INDEPENDENT COMPENSATION CONSULTANT TO ENSURE THEY REFLECTED MARKET NORMS FOR ORGANIZATIONS OF SIMILAR SIZE AND INDUSTRY. AS PART OF THE FORMATION OF IMPACT LABORATORIES, EQUITY WAS ISSUED TO IMPACT LABORATORIES BOARD MEMBERS AND EXECUTIVES AT THE TIME INCLUDING NEILL LANE 48,000 OPTIONS NSO, ADAM ZIRKIN 48,000 OPTIONS NSO, SAM WRIGHT 360,000 OPTIONS ISO, AND JAMES CONNELLY 720,000 OPTIONS ISO IN ACCORDANCE WITH THAT PLAN AND AT FAIR MARKET VALUE.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART I, LINE 6:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE VOLUNTEER COUNT INCLUDES ALL BOARD MEMBERS, WHO ARE UNCOMPENSATED. THEY EACH SERVED 4 - 6 HOURS MONTHLY FOR AN APPROXIMATE TOTAL OF 72 HOURS. SOME HAD ANCILLARY MEETINGS, BUT HOURLY COMMITMENTS DID NOT EXCEED 100 HOURS PER YEAR. THEY PROVIDED BOARD-LEVEL OVERSIGHT.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART III, LINE 3</FormAndLineReferenceDesc>
+        <ExplanationTxt>IN ORDER TO ALIGN WITH INTERNATIONAL BEST PRACTICES FOR CERTIFICATION BODIES AND TO ENABLE FURTHER INVESTMENT TO SCALE THE ORGANIZATION'S MISSION AND IMPACT, MY GREEN LAB ESTABLISHED A SUBSIDIARY, IMPACT LABORATORIES, TO SERVE AS ITS INDEPENDENT CERTIFICATION BODY. IMPACT LABORATORIES OPERATES UNDER A LICENSE AGREEMENT WITH MY GREEN LAB TO DELIVER CERTIFICATION SERVICES AND COLLECT THE ASSOCIATED REVENUES. MY GREEN LAB RETAINS OWNERSHIP OF THE INTELLECTUAL PROPERTY COMPRISING THE MY GREEN LAB CERTIFICATION AND ACT ECOLABEL PROGRAM STANDARDS. MY GREEN LAB CONTINUES TO OVERSEE THE REVISION AND MAINTENANCE OF THESE STANDARDS THROUGH A VOLUNTARY CONSENSUS PROCESS TO ENSURE THEY REPRESENT THE MOST CURRENT AND INDEPENDENT CONSENSUS OF THE SCIENTIFIC INDUSTRY AND RESEARCH COMMUNITY, WHILE IMPACT LABORATORIES CONDUCTS INDEPENDENT THIRD-PARTY AUDITS UNDER THOSE STANDARDS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>A COPY IS DISTRIBUTED TO ALL BOARD MEMBERS AND THE BOARD REVIEWS THE COMPLETED 990 PRIOR TO FINALIZATION.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION REQUIRES ALL BOARD MEMBERS AND ALL EMPLOYEES TO SIGN CURRENT CONFLICT OF INTEREST POLICY STATEMENTS. ANY POTENTIAL CONFLICTS MUST BE DISCLOSED TO THE EXECUTIVE TEAM AND BROUGHT TO THE BOARD FOR ADJUDICATION. ANY EXECUTIVE TEAM MEMBER OR BOARD MEMBER WITH A CONFLICT WOULD NOT PARTICIPATE IN DECISION MAKING RELATIVE TO A DECISION THEY MAY HAVE A CONFLICT ON.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 15</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE MY GREEN LAB BOARD CONVENES A COMPENSATION COMMITTEE TO SET COMPENSATION FOR MEMBERS OF THE MY GREEN LAB EXECUTIVE TEAM ON AN ANNUAL BASIS. THIS COMMITTEE IS INFORMED BY BENCHMARKING DATA AND A COMMISSIONED STUDY COMPLETED IN 2023 FROM AN INDEPENDENT COMPENSATION CONSULTANT. THE BOARD REVIEWED THIS INFORMATION AND DETERMINED COMPENSATION FOR THE EXECUTIVE TEAM, AND THE UPDATED COMPENSATION PLAN WAS REVIEWED BY LEGAL COUNSEL. THE LAST COMPENSATION REVIEW OCCURRED IN 2024.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION C, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>MY GREEN LAB MAKES ITS GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY AND FINANCIAL STATEMENTS AVAILABLE UPON WRITTEN OR VERBAL REQUEST.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART IX, LINE 11G</FormAndLineReferenceDesc>
+        <ExplanationTxt>PRODUCT DEVELOPMENT CONSULTING FEES: PROGRAM SERVICE EXPENSES 60,961. MANAGEMENT AND GENERAL EXPENSES 600. FUNDRAISING EXPENSES 0. TOTAL EXPENSES 61,561. SALES AND MARKETING CONSULTING FEES: PROGRAM SERVICE EXPENSES 48,180. MANAGEMENT AND GENERAL EXPENSES 1,948. FUNDRAISING EXPENSES 12,766. TOTAL EXPENSES 62,894. RECRUITING AND HUMAN RESOURCES: PROGRAM SERVICE EXPENSES 4,775. MANAGEMENT AND GENERAL EXPENSES 11,305. FUNDRAISING EXPENSES 341. TOTAL EXPENSES 16,421.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043500001">
+      <IdRelatedOrgTxblCorpTrGrp>
+        <RelatedOrganizationName>
+          <BusinessNameLine1Txt>IMPACT LABORATORY SERVICES INC</BusinessNameLine1Txt>
+        </RelatedOrganizationName>
+        <USAddress>
+          <AddressLine1Txt>4653 CARMEL MOUNTAIN RD STE 308-103</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </USAddress>
+        <EIN>923835538</EIN>
+        <PrimaryActivitiesTxt>ENVIRONMENTAL CERTIFICATION &amp; EDUCATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>DE</LegalDomicileStateCd>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>MY GREEN LAB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <EntityTypeTxt>C</EntityTypeTxt>
+        <ShareOfTotalIncomeAmt>2296210</ShareOfTotalIncomeAmt>
+        <ShareOfEOYAssetsAmt>3650885</ShareOfEOYAssetsAmt>
+        <OwnershipPct>0.69240</OwnershipPct>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedOrgTxblCorpTrGrp>
+      <ReceiptOfIntAnntsRntsRyltsInd>1</ReceiptOfIntAnntsRntsRyltsInd>
+      <GiftGrntOrCapContriToOthOrgInd>0</GiftGrntOrCapContriToOthOrgInd>
+      <GiftGrntCapContriFromOthOrgInd>0</GiftGrntCapContriFromOthOrgInd>
+      <LoansOrGuaranteesToOtherOrgInd>0</LoansOrGuaranteesToOtherOrgInd>
+      <LoansOrGuaranteesFromOthOrgInd>0</LoansOrGuaranteesFromOthOrgInd>
+      <DivRelatedOrganizationInd>0</DivRelatedOrganizationInd>
+      <AssetSaleToOtherOrgInd>0</AssetSaleToOtherOrgInd>
+      <AssetPurchaseFromOtherOrgInd>0</AssetPurchaseFromOtherOrgInd>
+      <AssetExchangeInd>0</AssetExchangeInd>
+      <RentalOfFacilitiesToOthOrgInd>0</RentalOfFacilitiesToOthOrgInd>
+      <RentalOfFcltsFromOthOrgInd>0</RentalOfFcltsFromOthOrgInd>
+      <PerformOfServicesForOthOrgInd>1</PerformOfServicesForOthOrgInd>
+      <PerformOfServicesByOtherOrgInd>0</PerformOfServicesByOtherOrgInd>
+      <SharingOfFacilitiesInd>1</SharingOfFacilitiesInd>
+      <PaidEmployeesSharingInd>1</PaidEmployeesSharingInd>
+      <ReimbursementPaidToOtherOrgInd>1</ReimbursementPaidToOtherOrgInd>
+      <ReimbursementPaidByOtherOrgInd>1</ReimbursementPaidByOtherOrgInd>
+      <TransferToOtherOrgInd>1</TransferToOtherOrgInd>
+      <TransferFromOtherOrgInd>0</TransferFromOtherOrgInd>
+      <TransactionsRelatedOrgGrp>
+        <OtherOrganizationName>
+          <BusinessNameLine1Txt>IMPACT LABORATORY SERVICES INC</BusinessNameLine1Txt>
+        </OtherOrganizationName>
+        <TransactionTypeTxt>A</TransactionTypeTxt>
+        <InvolvedAmt>58930</InvolvedAmt>
+        <MethodOfAmountDeterminationTxt>FAIR MARKET VALUE</MethodOfAmountDeterminationTxt>
+      </TransactionsRelatedOrgGrp>
+      <TransactionsRelatedOrgGrp>
+        <OtherOrganizationName>
+          <BusinessNameLine1Txt>IMPACT LABORATORY SERVICES INC</BusinessNameLine1Txt>
+        </OtherOrganizationName>
+        <TransactionTypeTxt>R</TransactionTypeTxt>
+        <InvolvedAmt>-1175525</InvolvedAmt>
+        <MethodOfAmountDeterminationTxt>FAIR MARKET VALUE</MethodOfAmountDeterminationTxt>
+      </TransactionsRelatedOrgGrp>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

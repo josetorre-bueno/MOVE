@@ -1,0 +1,992 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2023v6.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-02-27T19:45:17-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>943108253</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>NOVOGRADAC &amp; COMPANY LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3780 KILROY AIRPORT WAY SUITE 330</AddressLine1Txt>
+        <CityNm>LONG BEACH</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>90806</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2023-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>951874073</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SAN DIEGO RESCUE MISSION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SAND</BusinessNameControlTxt>
+      <PhoneNum>6198191891</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 80427</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92138</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DONNIE DEE</PersonNm>
+      <PersonTitleTxt>PRESIDENT &amp; CEO</PersonTitleTxt>
+      <PhoneNum>6198191891</PhoneNum>
+      <SignatureDt>2025-02-27</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BRYAN HUNG</PreparerPersonNm>
+      <PTIN>P01553971</PTIN>
+      <PhoneNum>5624329482</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2023</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <PrincipalOfficerNm>DONNIE DEE</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 80427</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92138</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>25338910</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>0</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>WWW.SDRESCUE.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1955</FormationYr>
+      <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>TO LOVINGLY ADDRESS THE NEEDS OF MEN, WOMEN AND CHILDREN EXPERIENCING HOMELESSNESS BY SHARING THE GOOD NEWS OF SALVATION AND PROVIDING A HOLISTIC APPROACH TO REHABILITATION AND RECOVERY.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>12</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>12</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>226</TotalEmployeeCnt>
+      <TotalVolunteersCnt>3188</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>23425989</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>24026962</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>47797</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>50227</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>132250</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>156208</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>1733300</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>1052605</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>25339336</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>25286002</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>0</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>13000202</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>0</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>7148249</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>9027617</CYSalariesCompEmpBnftPaidAmt>
+      <PYTotalProfFndrsngExpnsAmt>2709885</PYTotalProfFndrsngExpnsAmt>
+      <CYTotalProfFndrsngExpnsAmt>2285329</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>4299776</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>13475528</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>6436065</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>23333662</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>30749213</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>2005674</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>-5463211</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>44951952</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>47400081</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>23676190</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>31229815</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>21275762</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>16170266</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>THE SAN DIEGO RESCUE MISSION, INC.'S (THE ORGANIZATION") MISSION IS TO LOVINGLY ADDRESS THE NEEDS OF MEN, WOMEN, AND CHILDREN EXPERIENCING HOMELESSNESS, BY SHARING THE GOOD NEWS OF SALVATION AND PROVIDING A HOLISTIC APPROACH TO REHABILITATION AND RECOVERY. THE ORGANIZATION OPERATES A DONATION PROCESSING CENTER S DEDICATED TO THE REHABILITATION OF MEN AND WOMEN IN THE WORK PLACE. THEY ARE TRAINED AT PRICING, SORTING, RECEIVING AND DISTRIBUTING DONATED MATERIALS.</MissionDesc>
+      <SignificantNewProgramSrvcInd>0</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>0</SignificantChangeInd>
+      <ExpenseAmt>12648058</ExpenseAmt>
+      <Desc>MEN, WOMEN AND CHILDREN'S SEVICES:FOUR PROGRAMS WITHIN THE MEN, WOMEN AND CHILDREN SERVICES:MISSION ACADEMY: THE RESIDENTIAL PROGRAM IS A HOLISTIC YEAR LONG PROGRAM. IT SERVES SINGLE MEN, WOMEN AND SINGLE PARENTS. THOSE IN THE PROGRAM ARE REFERRED TO AS STUDENTS. IT IS STRUCTURED AROUND THREE SEMESTERS AND FIVE GOALS. SEMESTER ONE IS FOCUSED ON WELLNESS. SEMESTER TWO IS FOCUSED ON JOB TRAINING AND PLACEMENT AND SEMESTER THREE IS DESIGNED FOR THE STUDENT TO FIND HOUSING AND PREPARE TO TRANSITION TO A LIFE OF STABILITY. THE FIVE GOALS ARE TO ENCOUNTER GOD, EXPERIENCE RECOVERY, ENGAGE IN JOB TRAINING, ESTABLISH HOUSING AND ENLIST A SUPPORT NETWORK. UPON GRADUATION THEY ARE INVITED TO PARTICIPATE IN AN ALUMNI PROGRAM WHERE THEY ARE INVITED TO VOLUNTEER AND SERVE IN THE COMMUNITY.NUEVA VIDA HAVEN: NUEVA VIDA HAVEN PROVIDES EMERGENCY SHELTER SERVICES FOR HOMELESS FAMILIES. EACH NIGHT, UP TO 60 WOMEN AND CHILDREN USE NUEVA VIDA HAVEN FACILITY FOR A WARM, SAFE PLACE TO SLEEP, A PLACE TO SHOWER AND OBTAIN CLEAN CLOTHES AND A NUTRITIOUS BREAKFAST. RESIDENTS ALSO HAVE ACCESS TO THERAPISTS AND SOCIAL WORKERS TO HELP THEM TO DETERMINE THE BEST COURSE OF ACTION FOR LIFE IMPROVEMENT. THIS OFTEN INCLUDES ENTRY INTO THE ORGANIZATION'S MISSION ACADEMY.THERAPY SERVICES: THERAPEUTIC SERVICES ARE OFFERED TO PEOPLE SERVED IN ALL THE MISSION'S PROGRAMS. TREATMENT IS PROVIDED BY LICENSED THERAPISTS, OR BY INTERNS AND TRAINEES UNDER THEIR SUPERVISION.CHILDREN'S RESOURCE CENTER: THE CHILDREN'S RESOURCE CENTER (CRC) PROVIDES ASSISTANCE IN CONNECTING FAMILIES TO EDUCATIONAL AND CHILDCARE SERVICES THAT THEY ARE ELIGIBLE FOR. THIS INCLUDES SCHOOL ENROLLMENT AND BENEFIT MANAGEMENT. IN ADDITION, THE CRC HELPS FAMILIES ACCESS BEHAVIORAL HEALTH SERVICES FOR CHILDREN AND PROVIDES TRAINING AND MENTORSHIP ON TOPICS OF PARENTING AND PLANNING.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>7401803</ExpenseAmt>
+        <Desc>THE SOUTH COUNTY LIGHTHOUSE (SCL) PROVIDES EMERGENCY SHELTER SERVICES FOR PEOPLE EXPERIENCING HOMELESSNESS. THE SAN DIEGO RESCUE MISSION FUNDS THE DAY-TO-DAY OPERATIONS THROUGH DONATIONS AND GRANTS. SCL IS DESIGNED TO SERVE SINGLE MEN, SINGLE WOMEN AND FAMILIES. THOSE BEING SERVED ARE REFERRED TO AS GUESTS. EACH NIGHT, UP TO 125 MEN, WOMEN AND CHILDREN USE THE FACILITY FOR A WARM, SAFE PLACE TO SLEEP, A PLACE TO SHOWER AND OBTAIN CLEAN CLOTHES AND A PLACE TO RECEIVE NUTRITIOUS MEALS. RESIDENTS ALSO HAVE ACCESS TO CASE MANAGERS TO HELP THEM DETERMINE THE BEST COURSE OF ACTION FOR LIFE IMPROVEMENT. THE SCL PARTNERS WITH OTHER AGENCIES AND GOVERNMENT ENTITIES SUCH AS THE COUNTY OF SAN DIEGO TO PROVIDE ACCESS TO ADDITIONAL RESOURCES FOR THE GUESTS. THIS INCLUDES ENTRY INTO THE ORGANIZATION'S MISSION ACADEMY.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <ProgSrvcAccomActy3Grp>
+        <ExpenseAmt>2474466</ExpenseAmt>
+        <Desc>PARTNERS FOR HUNGER RELIEF: PARTNERS FOR HUNGER RELIEF IS A PROGRAM OF SDRM WHICH WAS FORMED TO BOLSTER FOOD RECOVERY EFFORTS IN SAN DIEGO AND SERVE A BROAD BASE OF AGENCIES AND PEOPLE. SDRM HAS DEVELOPED A SUCCESSFUL SYSTEM OF LOCATING, RECOVERING, AND DISTRIBUTING DONATED FOOD. THIS FOOD IS NOT ONLY USED BY SDRM PROGRAM MEMBERS, BUT A LARGE PERCENTAGE OF THIS FOOD IS SHARED AT NO COST WITH A NETWORK OF NONPROFIT FEEDING PROGRAMS AND FOOD PANTRIES THROUGHOUT SAN DIEGO COUNTY.</Desc>
+      </ProgSrvcAccomActy3Grp>
+      <ProgSrvcAccomActyOtherGrp>
+        <ExpenseAmt>2426650</ExpenseAmt>
+        <Desc>OCEANSIDE NAVIGATION CENTERTHE OCEANSIDE NAVIGATION CENTER (ONC) PROVIDES EMERGENCY SHELTER SERVICES FOR PEOPLE EXPERIENCING HOMELESSNESS. THIS IS A PARTNERSHIP WITH THE CITY OF OCEANSIDE. THE SAN DIEGO RESCUE MISSION FUNDS THE DAY-TO-DAY OPERATIONS THROUGH DONATIONS AND GRANTS WHILE THE CITY OWNS THE BUILDING. ONC IS DESIGNED TO SERVE SINGLE MEN, SINGLE WOMEN AND FAMILIES. THOSE BEING SERVED ARE REFERRED TO AS GUESTS. EACH NIGHT, UP TO 50 MEN, WOMEN AND CHILDREN USE THE FACILITY FOR A WARM, SAFE PLACE TO SLEEP, A PLACE TO SHOWER AND OBTAIN CLEAN CLOTHES AND A PLACE TO RECEIVE NUTRITIOUS MEALS. RESIDENTS ALSO HAVE ACCESS TO CASE MANAGERS TO HELP THEM DETERMINE THE BEST COURSE OF ACTION FOR LIFE IMPROVEMENT. THE ONC PARTNERS WITH OTHER AGENCIES AND GOVERNMENT ENTITIES SUCH AS THE COUNTY OF SAN DIEGO TO PROVIDE ACCESS TO ADDITIONAL RESOURCES FOR THE GUESTS. THIS INCLUDES ENTRY INTO THE ORGANIZATION'S MISSION ACADEMY. BREAD OF LIFE WAS RELOCATED AND RESTRUCTURED TO BE PART OF THE ONC.BREAD OF LIFE: FOR 20 YEARS, BREAD OF LIFE HAS SERVED OCEANSIDE, CALIFORNIA BY MEETING TANGIBLE, SHORT-TERM NEEDS AND PROVIDING A WELCOMING, LOVING COMMUNITY FOR THOSE IN NEED OF HOPE AND COMPASSION. BREAD OF LIFE STARTED WITH A FEW VOLUNTEERS DISTRIBUTING BAGGED MEALS AND CLOTHING IN PARKS AND ON THE STREETS, AND HAS BECOME A MULTIFACETED RESOURCE FOR THOSE FACING HARDSHIP. NOW, THE PROGRAM OPERATES WITH OVER 60 VOLUNTEERS WEEKLY TO GET PEOPLE OFF THE STREETS PERMANENTLY. EACH UNIQUE SERVICE PROVIDED IS AN OPPORTUNITY FOR GUESTS TO ENCOUNTER THE LOVE OF GOD AND GET THE HELP THEY NEED. BREAD OF LIFE SERVES THE HURTING, HUNGRY, AND POOR WITH THE LOVE AND GRACE OF JESUS CHRIST, AND TO GET PEOPLE OFF THE STREETS PERMANENTLY.CHURCH PARTNERSHIP:THE CHURCH PARTNERSHIPS DEPARTMENT ENGAGES WITH HUNDREDS OF CHURCHES TO CARRY OUT A VISION TO UNITE THE LOCAL CHURCH AROUND HEALING OUR REGION FROM HOMELESSNESS. CHURCHES GIVE FINANCIALLY, HOLD DONATION DRIVES, LEAD CHAPEL SERVICES, AND VOLUNTEER BOTH ON AND OFF-SITE. THE CHURCH PARTNERSHIPS DEPARTMENT HAS GROWN SINCE ITS INCEPTION IN 2019 TO INCLUDE OVERSIGHT OF OUR VOLUNTEER PROGRAM, CHAPEL SERVICES, CHAPLAINCY PROGRAM, HOLIDAY OUTREACH MEALS, WALK WITH ME OUTREACH INITIATIVE AND OUR NEW MOBILE SHOWER MINISTRY.OUTREACH SERVICESTHE OUTREACH DEPARTMENT OPERATES TWO SHOWER TRAILERS. ONE OPERATES IN NORTH COUNTY PRIMARILY IN OCEANSIDE. THE SECOND ONE OPERATES IN THE SOUTH BAY SERVING THE CITIES OF CHULA VISTA, NATIONAL CITY, SAN DIEGO AND IMPERIAL BEACH. THESE TRAILERS OFFER SHOWERS WITH THE OPPORTUNITY TO CONNECT WITH SERVICES. FOOD AND CLOTHING ARE ALSO PROVIDED. THE OUTREACH DEPARTMENTS ALSO PROVIDES STREET CASE MANAGEMENT SERVICES TO PEOPLE EXPERIENCING HOMELESSNESS IN THE NORTH COSTAL REGION AND THE LITTLE ITALY ASSOCIATION IN SAN DIEGO.</Desc>
+      </ProgSrvcAccomActyOtherGrp>
+      <TotalOtherProgSrvcExpenseAmt>2426650</TotalOtherProgSrvcExpenseAmt>
+      <TotalProgramServiceExpensesAmt>24950977</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="RetDoc1039100001">1</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="RetDoc1234500001">1</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>0</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd>0</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd>0</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc1040000001">0</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc1040000001">0</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc1040000001">0</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>0</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc1040000001">1</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc1040000001">1</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc1040000001">0</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc1040000001">1</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc1040000001">1</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <ForeignOfficeInd>0</ForeignOfficeInd>
+      <ForeignActivitiesInd>0</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>0</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>0</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd referenceDocumentId="RetDoc1041200001">1</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd referenceDocumentId="RetDoc1041200001">1</FundraisingActivitiesInd>
+      <GamingActivitiesInd referenceDocumentId="RetDoc1041200001">0</GamingActivitiesInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <GrantsToOrganizationsInd referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd referenceDocumentId="RetDoc1041900001">1</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd referenceDocumentId="RetDoc1042400001">1</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>0</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>0</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>0</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>0</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>0</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>0</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>0</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>0</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd referenceDocumentId="RetDoc1042900001">0</DeductibleArtContributionInd>
+      <TerminateOperationsInd>0</TerminateOperationsInd>
+      <PartialLiquidationInd>0</PartialLiquidationInd>
+      <DisregardedEntityInd referenceDocumentId="RetDoc1043400001">1</DisregardedEntityInd>
+      <RelatedEntityInd referenceDocumentId="RetDoc1043400001">1</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>0</RelatedOrganizationCtrlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd referenceDocumentId="RetDoc1043400001">0</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>1</ScheduleORequiredInd>
+      <IRPDocumentCnt>37</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <BackupWthldComplianceInd>1</BackupWthldComplianceInd>
+      <EmployeeCnt>226</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>1</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>0</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>0</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>0</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>0</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+      <Form8899Filedind>0</Form8899Filedind>
+      <Form1098CFiledInd>1</Form1098CFiledInd>
+      <IndoorTanningServicesInd>0</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>0</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>12</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>12</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>0</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>0</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>0</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>0</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>0</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>0</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>0</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>1</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>1</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>0</OfficerMailingAddressInd>
+      <LocalChaptersInd>0</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>1</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>1</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>1</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>1</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>1</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>1</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>1</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>1</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>0</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <OwnWebsiteInd>X</OwnWebsiteInd>
+      <OtherWebsiteInd>X</OtherWebsiteInd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>EDWIN LIKU</BusinessNameLine1Txt>
+        </BusinessName>
+        <PhoneNum>6198191891</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 80427</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92138</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KEVIN BROWN</PersonNm>
+        <TitleTxt>CHAIRMAN</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ROBERT BIXEL</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>LINDA RANKIN</PersonNm>
+        <TitleTxt>BOARD PASTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CHARLES WALKER</PersonNm>
+        <TitleTxt>SECRETARY</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CATHY HERRICK</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BRAD DOTSON</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CRAIG DUHS</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JOHN PASHA</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DONNA NEW</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KEITH HOPKINS</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>RASZELL CARPENTER</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>STEFAN MEIERHOFER</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DONALD DEE</PersonNm>
+        <TitleTxt>PRESIDENT &amp; CEO</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>243404</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>EDVIN LIKU</PersonNm>
+        <TitleTxt>VP OF OPERATIONS</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>133052</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICHELLE SMITH</PersonNm>
+        <TitleTxt>VP OF DEVELOPMENT</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>102897</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>479353</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>0</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>3</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>0</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>1</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>0</CompensationFromOtherSrcsInd>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <BusinessName>
+            <BusinessNameLine1Txt>SIGNATURE ANALYTICS</BusinessNameLine1Txt>
+          </BusinessName>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>10120 PACIFIC HEIGHTS BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>PROFESSIONAL SERVICES</ServicesDesc>
+        <CompensationAmt>158616</CompensationAmt>
+      </ContractorCompensationGrp>
+      <CntrctRcvdGreaterThan100KCnt>1</CntrctRcvdGreaterThan100KCnt>
+      <FundraisingAmt>123855</FundraisingAmt>
+      <AllOtherContributionsAmt>23903107</AllOtherContributionsAmt>
+      <NoncashContributionsAmt>6635693</NoncashContributionsAmt>
+      <TotalContributionsAmt>24026962</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>VEHICLE SALES</Desc>
+        <BusinessCd>441100</BusinessCd>
+        <TotalRevenueColumnAmt>47825</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>47825</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>RECYCLING</Desc>
+        <BusinessCd>562000</BusinessCd>
+        <TotalRevenueColumnAmt>2402</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>2402</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>50227</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>156208</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>156208</RelatedOrExemptFuncIncomeAmt>
+      </InvestmentIncomeGrp>
+      <GrossRentsGrp>
+        <RealAmt>289300</RealAmt>
+      </GrossRentsGrp>
+      <LessRentalExpensesGrp>
+        <RealAmt>0</RealAmt>
+      </LessRentalExpensesGrp>
+      <RentalIncomeOrLossGrp>
+        <RealAmt>289300</RealAmt>
+      </RentalIncomeOrLossGrp>
+      <NetRentalIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>289300</TotalRevenueColumnAmt>
+        <ExclusionAmt>289300</ExclusionAmt>
+      </NetRentalIncomeOrLossGrp>
+      <FundraisingGrossIncomeAmt>0</FundraisingGrossIncomeAmt>
+      <ContriRptFundraisingEventAmt>123855</ContriRptFundraisingEventAmt>
+      <FundraisingDirectExpensesAmt>52908</FundraisingDirectExpensesAmt>
+      <NetIncmFromFundraisingEvtGrp>
+        <TotalRevenueColumnAmt>-52908</TotalRevenueColumnAmt>
+        <ExclusionAmt>-52908</ExclusionAmt>
+      </NetIncmFromFundraisingEvtGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>MISCELLANEOUS REVENUE</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>816213</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>816213</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>816213</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>25286002</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1022648</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>0</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>236392</ExclusionAmt>
+      </TotalRevenueGrp>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>6369200</TotalAmt>
+        <ProgramServicesAmt>6369200</ProgramServicesAmt>
+      </GrantsToDomesticOrgsGrp>
+      <GrantsToDomesticIndividualsGrp>
+        <TotalAmt>6631002</TotalAmt>
+        <ProgramServicesAmt>6631002</ProgramServicesAmt>
+      </GrantsToDomesticIndividualsGrp>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>206568</TotalAmt>
+        <ManagementAndGeneralAmt>123941</ManagementAndGeneralAmt>
+        <FundraisingAmt>82627</FundraisingAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <CompDisqualPersonsGrp>
+        <TotalAmt>7510635</TotalAmt>
+        <ProgramServicesAmt>5721482</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>540627</ManagementAndGeneralAmt>
+        <FundraisingAmt>1248526</FundraisingAmt>
+      </CompDisqualPersonsGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>694653</TotalAmt>
+        <ProgramServicesAmt>546565</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>45025</ManagementAndGeneralAmt>
+        <FundraisingAmt>103063</FundraisingAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>615761</TotalAmt>
+        <ProgramServicesAmt>481532</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>33376</ManagementAndGeneralAmt>
+        <FundraisingAmt>100853</FundraisingAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>66263</TotalAmt>
+        <ProgramServicesAmt>2374</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>42057</ManagementAndGeneralAmt>
+        <FundraisingAmt>21832</FundraisingAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>58012</TotalAmt>
+        <ManagementAndGeneralAmt>58012</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesProfFundraising>
+        <TotalAmt>2285329</TotalAmt>
+        <FundraisingAmt>2285329</FundraisingAmt>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>959472</TotalAmt>
+        <ProgramServicesAmt>591405</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>363208</ManagementAndGeneralAmt>
+        <FundraisingAmt>4859</FundraisingAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>112440</TotalAmt>
+        <ProgramServicesAmt>21650</ProgramServicesAmt>
+        <FundraisingAmt>90790</FundraisingAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>380386</TotalAmt>
+        <ProgramServicesAmt>200168</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>35388</ManagementAndGeneralAmt>
+        <FundraisingAmt>144830</FundraisingAmt>
+      </OfficeExpensesGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>230007</TotalAmt>
+        <ProgramServicesAmt>70788</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>75802</ManagementAndGeneralAmt>
+        <FundraisingAmt>83417</FundraisingAmt>
+      </InformationTechnologyGrp>
+      <OccupancyGrp>
+        <TotalAmt>415479</TotalAmt>
+        <ProgramServicesAmt>415479</ProgramServicesAmt>
+      </OccupancyGrp>
+      <TravelGrp>
+        <TotalAmt>106360</TotalAmt>
+        <ProgramServicesAmt>52531</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>20523</ManagementAndGeneralAmt>
+        <FundraisingAmt>33306</FundraisingAmt>
+      </TravelGrp>
+      <InterestGrp>
+        <TotalAmt>457903</TotalAmt>
+        <ProgramServicesAmt>444663</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>6620</ManagementAndGeneralAmt>
+        <FundraisingAmt>6620</FundraisingAmt>
+      </InterestGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>1124152</TotalAmt>
+        <ProgramServicesAmt>1000520</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>91629</ManagementAndGeneralAmt>
+        <FundraisingAmt>32003</FundraisingAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>2653</TotalAmt>
+        <ManagementAndGeneralAmt>1592</ManagementAndGeneralAmt>
+        <FundraisingAmt>1061</FundraisingAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>FACILITES ALLOCATED</Desc>
+        <TotalAmt>1669945</TotalAmt>
+        <ProgramServicesAmt>1548625</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>60660</ManagementAndGeneralAmt>
+        <FundraisingAmt>60660</FundraisingAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>FOOD SERVICES ALLOCATED</Desc>
+        <TotalAmt>852993</TotalAmt>
+        <ProgramServicesAmt>852993</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>30749213</TotalAmt>
+        <ProgramServicesAmt>24950977</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1498460</ManagementAndGeneralAmt>
+        <FundraisingAmt>4299776</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>1573879</BOYAmt>
+        <EOYAmt>3845769</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>867698</BOYAmt>
+        <EOYAmt>331126</EOYAmt>
+      </AccountsReceivableGrp>
+      <OthNotesLoansReceivableNetGrp>
+        <BOYAmt>2300000</BOYAmt>
+        <EOYAmt>2300000</EOYAmt>
+      </OthNotesLoansReceivableNetGrp>
+      <InventoriesForSaleOrUseGrp>
+        <BOYAmt>277244</BOYAmt>
+        <EOYAmt>247209</EOYAmt>
+      </InventoriesForSaleOrUseGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>435519</BOYAmt>
+        <EOYAmt>455766</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <LandBldgEquipCostOrOtherBssAmt>38015423</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>12237657</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>26490383</BOYAmt>
+        <EOYAmt>25777766</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsOtherSecuritiesGrp>
+        <BOYAmt>6344635</BOYAmt>
+        <EOYAmt>5241711</EOYAmt>
+      </InvestmentsOtherSecuritiesGrp>
+      <InvestmentsProgramRelatedGrp>
+        <BOYAmt>16245</BOYAmt>
+        <EOYAmt>20946</EOYAmt>
+      </InvestmentsProgramRelatedGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>6646349</BOYAmt>
+        <EOYAmt>9179788</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>44951952</BOYAmt>
+        <EOYAmt>47400081</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>1677753</BOYAmt>
+        <EOYAmt>1423723</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>134863</BOYAmt>
+        <EOYAmt>78030</EOYAmt>
+      </DeferredRevenueGrp>
+      <MortgNotesPyblScrdInvstPropGrp>
+        <BOYAmt>20350967</BOYAmt>
+        <EOYAmt>28183143</EOYAmt>
+      </MortgNotesPyblScrdInvstPropGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>1512607</BOYAmt>
+        <EOYAmt>1544919</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>23676190</BOYAmt>
+        <EOYAmt>31229815</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>17049245</BOYAmt>
+        <EOYAmt>13354049</EOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <DonorRestrictionNetAssetsGrp>
+        <BOYAmt>4226517</BOYAmt>
+        <EOYAmt>2816217</EOYAmt>
+      </DonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>21275762</BOYAmt>
+        <EOYAmt>16170266</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>44951952</BOYAmt>
+        <EOYAmt>47400081</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <InfoInScheduleOPartXIInd>X</InfoInScheduleOPartXIInd>
+      <ReconcilationRevenueExpnssAmt>-5463211</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>370375</NetUnrlzdGainsLossesInvstAmt>
+      <OtherChangesInNetAssetsAmt>-12660</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>1</AccountantCompileOrReviewInd>
+      <AcctCompileOrReviewBasisGrp>
+        <ConsolidatedBasisFinclStmtInd>X</ConsolidatedBasisFinclStmtInd>
+      </AcctCompileOrReviewBasisGrp>
+      <FSAuditedInd>1</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <ConsolidatedBasisFinclStmtInd>X</ConsolidatedBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>1</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>0</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PublicOrganization170Ind>X</PublicOrganization170Ind>
+      <GiftsGrantsContriRcvd170Grp>
+        <CurrentTaxYearMinus4YearsAmt>16591433</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>22121413</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>26277060</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>23986320</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>26196828</CurrentTaxYearAmt>
+        <TotalAmt>115173054</TotalAmt>
+      </GiftsGrantsContriRcvd170Grp>
+      <TotalCalendarYear170Grp>
+        <CurrentTaxYearMinus4YearsAmt>16591433</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>22121413</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>26277060</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>23986320</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>26196828</CurrentTaxYearAmt>
+        <TotalAmt>115173054</TotalAmt>
+      </TotalCalendarYear170Grp>
+      <SubstantialContributorsTotAmt>195226</SubstantialContributorsTotAmt>
+      <PublicSupportTotal170Amt>114977828</PublicSupportTotal170Amt>
+      <GrossInvestmentIncome170Grp>
+        <CurrentTaxYearMinus2YearsAmt>397192</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>456514</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>445508</CurrentTaxYearAmt>
+        <TotalAmt>1299214</TotalAmt>
+      </GrossInvestmentIncome170Grp>
+      <OtherIncome170Grp>
+        <CurrentTaxYearMinus4YearsAmt>253992</CurrentTaxYearMinus4YearsAmt>
+        <CurrentTaxYearMinus3YearsAmt>276945</CurrentTaxYearMinus3YearsAmt>
+        <CurrentTaxYearMinus2YearsAmt>92784</CurrentTaxYearMinus2YearsAmt>
+        <CurrentTaxYearMinus1YearAmt>492159</CurrentTaxYearMinus1YearAmt>
+        <CurrentTaxYearAmt>150556</CurrentTaxYearAmt>
+        <TotalAmt>1266436</TotalAmt>
+      </OtherIncome170Grp>
+      <TotalSupportAmt>117738704</TotalSupportAmt>
+      <PublicSupportCY170Pct>0.97660</PublicSupportCY170Pct>
+      <PublicSupportPY170Pct>0.97710</PublicSupportPY170Pct>
+      <ThirtyThrPctSuprtTestsCY170Ind>X</ThirtyThrPctSuprtTestsCY170Ind>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <LandGrp>
+        <OtherCostOrOtherBasisAmt>5920396</OtherCostOrOtherBasisAmt>
+        <BookValueAmt>5920396</BookValueAmt>
+      </LandGrp>
+      <BuildingsGrp>
+        <OtherCostOrOtherBasisAmt>27852711</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>10355133</DepreciationAmt>
+        <BookValueAmt>17497578</BookValueAmt>
+      </BuildingsGrp>
+      <EquipmentGrp>
+        <OtherCostOrOtherBasisAmt>1662175</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>1065649</DepreciationAmt>
+        <BookValueAmt>596526</BookValueAmt>
+      </EquipmentGrp>
+      <OtherLandBuildingsGrp>
+        <OtherCostOrOtherBasisAmt>2580141</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>816875</DepreciationAmt>
+        <BookValueAmt>1763266</BookValueAmt>
+      </OtherLandBuildingsGrp>
+      <TotalBookValueLandBuildingsAmt>25777766</TotalBookValueLandBuildingsAmt>
+      <OtherSecuritiesGrp>
+        <Desc>INVESTMENTS IN MARKETABLE SECURITIES</Desc>
+        <BookValueAmt>5241711</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <TotalBookValueSecuritiesAmt>5241711</TotalBookValueSecuritiesAmt>
+      <OtherAssetsOrgGrp>
+        <Desc>PLEDGES RECEIVABLE</Desc>
+        <BookValueAmt>2816217</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>CONSTRUCTION IN PROGRESS</Desc>
+        <BookValueAmt>6314656</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>RIGHT OF USE ASSET</Desc>
+        <BookValueAmt>48915</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <TotalBookValueOtherAssetsAmt>9179788</TotalBookValueOtherAssetsAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>ACCRUED BOND INTEREST</Desc>
+        <Amt>1221230</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>ACCRUED VACATION PAYABLE</Desc>
+        <Amt>263820</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>SECURITY DEPOSIT/PREPAID RENT</Desc>
+        <Amt>5000</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>ACCRUED TH DEPOSIT</Desc>
+        <Amt>525</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>LEASE LIABILITY</Desc>
+        <Amt>54344</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>1544919</TotalLiabilityAmt>
+      <FootnoteTextInd>X</FootnoteTextInd>
+      <TotalRevEtcAuditedFinclStmtAmt>24760526</TotalRevEtcAuditedFinclStmtAmt>
+      <RevenueNotReportedAmt>0</RevenueNotReportedAmt>
+      <RevenueSubtotalAmt>24760526</RevenueSubtotalAmt>
+      <OtherRevenuesNotIncludedAmt>525476</OtherRevenuesNotIncludedAmt>
+      <RevenueNotReportedFinclStmtAmt>525476</RevenueNotReportedFinclStmtAmt>
+      <TotalRevenuePerForm990Amt>25286002</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>30762094</TotExpnsEtcAuditedFinclStmtAmt>
+      <ExpensesNotReportedAmt>0</ExpensesNotReportedAmt>
+      <ExpensesSubtotalAmt>30762094</ExpensesSubtotalAmt>
+      <OtherExpensesNotIncludedAmt>-12881</OtherExpensesNotIncludedAmt>
+      <ExpensesNotRptFinclStmtAmt>-12881</ExpensesNotRptFinclStmtAmt>
+      <TotalExpensesPerForm990Amt>30749213</TotalExpensesPerForm990Amt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART X, LINE 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION USES A LOSS CONTINGENCIES APPROACH FOR EVALUATING UNCERTAIN TAX POSITIONS AND CONTINUALLY EVALUATES CHANGES IN TAX LAW AND NEW AUTHORITATIVE RULINGS. NO LOSS CONTINGENCIES WERE RECOGNIZED FOR THE YEARS ENDED SEPTEMBER 30, 2024 OR 2023. THE ORGANIZATION DID NOT HAVE UNRECOGNIZED TAX BENEFITS AS OF SEPTEMBER 30, 2024 OR 2023 AND DOES NOT EXPECT THIS TO CHANGE SIGNIFICANTLY OVER THE NEXT 12 MONTHS. IN CONNECTION WITH THE ADOPTION OF THE GUIDANCE PERTAINING TO UNCERTAIN TAX POSITIONS, THE ORGANIZATION RECOGNIZES INTEREST AND PENALTIES ACCRUED ON ANY UNRECOGNIZED TAX BENEFITS AS A COMPONENT OF INCOME TAX EXPENSE. AS OF SEPTEMBER 30, 2024, THE ORGANIZATION HAS NOT ACCRUED INTEREST OR PENALTIES RELATED TO UNCERTAIN TAX POSITIONS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART XI, LINE 4B - OTHER ADJUSTMENTS:</FormAndLineReferenceDesc>
+        <ExplanationTxt>INVESTMENT ACTIVITY</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART XII, LINE 4B - OTHER ADJUSTMENTS:</FormAndLineReferenceDesc>
+        <ExplanationTxt>DEPRECIATION</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleG documentId="RetDoc1041200001">
+      <MailSolicitationsInd>X</MailSolicitationsInd>
+      <AgrmtProfFundraisingActyInd>0</AgrmtProfFundraisingActyInd>
+      <FundraiserActivityInfoGrp>
+        <OrganizationBusinessName>
+          <BusinessNameLine1Txt>BREWER DIRECT INC</BusinessNameLine1Txt>
+        </OrganizationBusinessName>
+        <USAddress>
+          <AddressLine1Txt>507 S MYRTLE AVE</AddressLine1Txt>
+          <CityNm>MONROVIA</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91016</ZIPCd>
+        </USAddress>
+        <ActivityTxt>DIRECT MAIL SOLICITATIONS</ActivityTxt>
+        <FundraiserControlOfFundsInd>0</FundraiserControlOfFundsInd>
+        <GrossReceiptsAmt>4203178</GrossReceiptsAmt>
+        <RetainedByContractorAmt>1571104</RetainedByContractorAmt>
+        <NetToOrganizationAmt>2632074</NetToOrganizationAmt>
+      </FundraiserActivityInfoGrp>
+      <TotalGrossReceiptsAmt>4203178</TotalGrossReceiptsAmt>
+      <TotalRetainedByContractorsAmt>1571104</TotalRetainedByContractorsAmt>
+      <TotalNetToOrganizationAmt>2632074</TotalNetToOrganizationAmt>
+      <LicensedStatesCd>CA</LicensedStatesCd>
+      <FundraisingEventInformationGrp>
+        <Event1Nm>ANNUAL GOLF TOURNAMENT</Event1Nm>
+        <GrossReceiptsEvent1Amt>123855</GrossReceiptsEvent1Amt>
+        <CharitableContriEvent1Amt>123855</CharitableContriEvent1Amt>
+        <OtherDirectExpensesEvent1Amt>52908</OtherDirectExpensesEvent1Amt>
+        <GrossReceiptsTotalAmt>123855</GrossReceiptsTotalAmt>
+        <CharitableContributionsTotAmt>123855</CharitableContributionsTotAmt>
+        <OthDirectExpnssTotalEventsAmt>52908</OthDirectExpnssTotalEventsAmt>
+        <DirectExpenseSummaryEventsAmt>52908</DirectExpenseSummaryEventsAmt>
+        <NetIncomeSummaryAmt>-52908</NetIncomeSummaryAmt>
+      </FundraisingEventInformationGrp>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <GrantRecordsMaintainedInd>1</GrantRecordsMaintainedInd>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>SAN DIEGO RESCUE MISSION FOUNDATION</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 80427</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92138</ZIPCd>
+        </USAddress>
+        <RecipientEIN>880939564</RecipientEIN>
+        <CashGrantAmt>6369200</CashGrantAmt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <PurposeOfGrantTxt>TO PROVIDE FUNDS RELATED TO NMTC LOAN</PurposeOfGrantTxt>
+      </RecipientTable>
+      <GrantsOtherAsstToIndivInUSGrp>
+        <GrantTypeTxt>DONATED FOOD AND MATERIALS</GrantTypeTxt>
+        <NonCashAssistanceAmt>6631002</NonCashAssistanceAmt>
+        <NonCashAssistanceDesc>FOOD AND OTHER GOOD DISTRIBUTIONS</NonCashAssistanceDesc>
+      </GrantsOtherAsstToIndivInUSGrp>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <HousingAllowanceOrResidenceInd>X</HousingAllowanceOrResidenceInd>
+      <WrittenPolicyRefTAndEExpnssInd>1</WrittenPolicyRefTAndEExpnssInd>
+      <SubstantiationRequiredInd>1</SubstantiationRequiredInd>
+      <BoardOrCommitteeApprovalInd>X</BoardOrCommitteeApprovalInd>
+      <SeverancePaymentInd>0</SeverancePaymentInd>
+      <SupplementalNonqualRtrPlanInd>0</SupplementalNonqualRtrPlanInd>
+      <EquityBasedCompArrngmInd>0</EquityBasedCompArrngmInd>
+      <CompBasedOnRevenueOfFlngOrgInd>0</CompBasedOnRevenueOfFlngOrgInd>
+      <CompBsdOnRevRelatedOrgsInd>0</CompBsdOnRevRelatedOrgsInd>
+      <CompBsdNetEarnsFlngOrgInd>0</CompBsdNetEarnsFlngOrgInd>
+      <CompBsdNetEarnsRltdOrgsInd>0</CompBsdNetEarnsRltdOrgsInd>
+      <AnyNonFixedPaymentsInd>0</AnyNonFixedPaymentsInd>
+      <InitialContractExceptionInd>0</InitialContractExceptionInd>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>DONALD DEE</PersonNm>
+        <TitleTxt>PRESIDENT &amp; CEO</TitleTxt>
+        <BaseCompensationFilingOrgAmt>161019</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>0</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>82385</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>0</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>0</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>243404</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+        <CompReportPrior990FilingOrgAmt>0</CompReportPrior990FilingOrgAmt>
+        <CompReportPrior990RltdOrgsAmt>0</CompReportPrior990RltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <ClothingAndHouseholdGoodsGrp>
+        <NonCashCheckboxInd>X</NonCashCheckboxInd>
+        <NoncashContributionsRptF990Amt>1134814</NoncashContributionsRptF990Amt>
+        <MethodOfDeterminingRevenuesTxt>COMPARABLE COST ESTIMATE</MethodOfDeterminingRevenuesTxt>
+      </ClothingAndHouseholdGoodsGrp>
+      <FoodInventoryGrp>
+        <NonCashCheckboxInd>X</NonCashCheckboxInd>
+        <NoncashContributionsRptF990Amt>5500879</NoncashContributionsRptF990Amt>
+        <MethodOfDeterminingRevenuesTxt>COMPARABLE COST ESTIMATE</MethodOfDeterminingRevenuesTxt>
+      </FoodInventoryGrp>
+      <AnyPropertyThatMustBeHeldInd>0</AnyPropertyThatMustBeHeldInd>
+      <ReviewProcessUnusualNCGiftsInd>0</ReviewProcessUnusualNCGiftsInd>
+      <ThirdPartiesUsedInd>0</ThirdPartiesUsedInd>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE DRAFT FORM 990 IS REVIEWED BY THE CONTROLLER, VP FINANCE, CEO, AND THE BOARD.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION'S CONFLICT OF INTEREST POLICY REQUIRES PROMPT AND FULL DISCLOSURE BY ANY OFFICER OR DIRECTOR IN WRITING TO THE CHAIRMAN OF THE BOARD OF ANY SITUATION THAT MAY INVOLVE A CONFLICT OF INTEREST. ANY SITUATION ARISING WOULD BE REVIEWED BY THE CHAIRMAN OF THE BOARD.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 15</FormAndLineReferenceDesc>
+        <ExplanationTxt>DURING THE PAST YEAR, THE CEO AND THE LEADERSHIP TEAM MADE A FEW PAY ADJUSTMENTS TO ALL DEPARTMENT COORDINATORS. IN ADDITION, THE ORGANIZATION FOLLOWED THE MANDATE OF MINIMUM WAGE INCREASE FOR HOURLY AND EXEMPT EMPLOYEES BASED ON THE STATE AND LOCAL REQUIREMENTS. THE PAY ADJUSTMENT FOR THE CEO IS MANAGED BY THE BOARD OF DIRECTORS EXECUTIVE TEAM AFTER THE ANNUAL REVIEW PROCESS. ALSO, THE BOARD OF DIRECTORS WERE INFORMED REGARDING ALL THOSE CHANGES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION C, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION WILL PROVIDE THE GOVERNING DOCUMENTS, POLICIES AND FINANCIAL STATEMENTS T0 ANY PERSON WHO REQUESTS THIS INFORMATION IN WRITING. THIS INFORMATION CAN BE OBTAINED IN THE FORM OF PDF DOCUMENTS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART XI, LINE 9:</FormAndLineReferenceDesc>
+        <ExplanationTxt>BOOK TAX DIFFERENCE FOR DEPRECIATION -12,660.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <IdDisregardedEntitiesGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>PARTNERS FOR HUNGER RELIEF LLC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>120 ELM STREET</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92101</ZIPCd>
+        </USAddress>
+        <EIN>951874073</EIN>
+        <PrimaryActivitiesTxt>NONPROFIT PROGRAM TO BOLSTER FOOD RECOVERY EFFORTS IN SAN DIEGO</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SAN DIEGO RESCUE MISSION</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+      </IdDisregardedEntitiesGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SAN DIEGO RESCUE MISSION FOUNDATION</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 80427</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92138</ZIPCd>
+        </USAddress>
+        <EIN>880939564</EIN>
+        <PrimaryActivitiesTxt>TO SUPPORT THE MISSION OF THE SAN DIEGO RESCUE MISSION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>509(A)(3)</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SAN DIEGO RESCUE MISSION</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <ReceiptOfIntAnntsRntsRyltsInd>0</ReceiptOfIntAnntsRntsRyltsInd>
+      <GiftGrntOrCapContriToOthOrgInd>1</GiftGrntOrCapContriToOthOrgInd>
+      <GiftGrntCapContriFromOthOrgInd>0</GiftGrntCapContriFromOthOrgInd>
+      <LoansOrGuaranteesToOtherOrgInd>0</LoansOrGuaranteesToOtherOrgInd>
+      <LoansOrGuaranteesFromOthOrgInd>0</LoansOrGuaranteesFromOthOrgInd>
+      <DivRelatedOrganizationInd>0</DivRelatedOrganizationInd>
+      <AssetSaleToOtherOrgInd>0</AssetSaleToOtherOrgInd>
+      <AssetPurchaseFromOtherOrgInd>0</AssetPurchaseFromOtherOrgInd>
+      <AssetExchangeInd>0</AssetExchangeInd>
+      <RentalOfFacilitiesToOthOrgInd>0</RentalOfFacilitiesToOthOrgInd>
+      <RentalOfFcltsFromOthOrgInd>0</RentalOfFcltsFromOthOrgInd>
+      <PerformOfServicesForOthOrgInd>0</PerformOfServicesForOthOrgInd>
+      <PerformOfServicesByOtherOrgInd>0</PerformOfServicesByOtherOrgInd>
+      <SharingOfFacilitiesInd>1</SharingOfFacilitiesInd>
+      <PaidEmployeesSharingInd>0</PaidEmployeesSharingInd>
+      <ReimbursementPaidToOtherOrgInd>0</ReimbursementPaidToOtherOrgInd>
+      <ReimbursementPaidByOtherOrgInd>0</ReimbursementPaidByOtherOrgInd>
+      <TransferToOtherOrgInd>0</TransferToOtherOrgInd>
+      <TransferFromOtherOrgInd>0</TransferFromOtherOrgInd>
+      <TransactionsRelatedOrgGrp>
+        <OtherOrganizationName>
+          <BusinessNameLine1Txt>SAN DIEGO RESCUE MISSION FOUNDATION</BusinessNameLine1Txt>
+        </OtherOrganizationName>
+        <TransactionTypeTxt>B</TransactionTypeTxt>
+        <InvolvedAmt>6369200</InvolvedAmt>
+        <MethodOfAmountDeterminationTxt>CASH</MethodOfAmountDeterminationTxt>
+      </TransactionsRelatedOrgGrp>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

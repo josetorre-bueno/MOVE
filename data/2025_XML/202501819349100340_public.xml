@@ -1,0 +1,858 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-06-30T14:03:25-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>455144771</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Morgan &amp; Halpenny LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>519 S First Avenue</AddressLine1Txt>
+        <CityNm>Arcadia</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>91006</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>571217948</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>WILLIAM MALE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WILL</BusinessNameControlTxt>
+      <PhoneNum>6197866124</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>6170 CORNERSTONE COURT EAST 100</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92121</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MYLINH ARNETT</PersonNm>
+      <PersonTitleTxt>Executive Director</PersonTitleTxt>
+      <SignatureDt>2025-06-30</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SEAN T HALPENNY CPA</PreparerPersonNm>
+      <PTIN>P01273359</PTIN>
+      <PhoneNum>6264457315</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1394672</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2500</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>14007</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>14007</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>14007</DividendsAdjNetIncmAmt>
+        <GrossRentsRevAndExpnssAmt>29040</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>29040</GrossRentsNetInvstIncmAmt>
+        <GrossRentsAdjNetIncmAmt>29040</GrossRentsAdjNetIncmAmt>
+        <NetRentalIncomeOrLossAmt>5950</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>58924</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>416762</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>58924</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>104471</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>101971</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>43047</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>70500</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>35000</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>35500</CompOfcrDirTrstDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>2800</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>1400</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>1400</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">150</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>150</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">8500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4250</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>4250</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">13000</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>13000</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">5355</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>2677</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>2678</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">12513</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>12513</DeprecAndDpltnNetInvstIncmAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>12513</DeprecAndDpltnAdjNetIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>10617</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>10617</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">21605</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>17199</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>10577</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>4406</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>145040</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>73039</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>23090</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>72001</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>89183</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>89183</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>234223</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>73039</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>23090</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>161184</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-129752</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>28932</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>19957</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>95950</CashBOYAmt>
+        <CashEOYAmt>44132</CashEOYAmt>
+        <CashEOYFMVAmt>44132</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>435934</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>386554</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>410540</CorporateStockEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>515630</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>124446</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>403697</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">391184</LandEOYAmt>
+        <LandEOYFMVAmt>940000</LandEOYFMVAmt>
+        <TotalAssetsBOYAmt>935581</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>821870</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1394672</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">31907</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">33019</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>31907</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>33019</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>903674</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>788851</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>903674</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>788851</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>935581</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>821870</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>903674</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-129752</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">14929</OtherIncreasesAmt>
+        <SubtotalAmt>788851</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>788851</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>90 TESLA INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-01-01</AcquiredDt>
+          <SoldDt>2024-08-16</SoldDt>
+          <GrossSalesPriceAmt>19292</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1361</CostOrOtherBasisAmt>
+          <GainOrLossAmt>17931</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>17931</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - SEE ATTACHED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>13469</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14349</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-880</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-880</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB - SEE ATTACHED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>384001</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>342128</CostOrOtherBasisAmt>
+          <GainOrLossAmt>41873</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>41873</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>58924</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-880</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>402</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>402</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>402</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>800</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>800</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>398</OverpaymentAmt>
+        <AppliedToESTaxAmt>398</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>www.williammalefoundation.org</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE FOUNDATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6197866124</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6170 CORNERSTONE COURT EAST 100</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92121</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MYLINH ARNETT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6710 CORNERSTONE CT EAST 100</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>Executive Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>70000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>2800</EmployeeBenefitProgramAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRIDGET GRAMME</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6710 CORNERSTONE CT EAST 100</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO/SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <ExpenseAccountOtherAllwncAmt>500</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>NONE</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>440544</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>83184</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>940000</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1463728</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1463728</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>21956</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1441772</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>72089</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>161184</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>161184</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <PrivateOperatingFndtnRulingDt>2005-04-21</PrivateOperatingFndtnRulingDt>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>19957</CurrentYearAmt>
+          <Year1Amt>19888</Year1Amt>
+          <Year2Amt>30148</Year2Amt>
+          <Year3Amt>27456</Year3Amt>
+          <TotalAmt>97449</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>16963</CurrentYearAmt>
+          <Year1Amt>16905</Year1Amt>
+          <Year2Amt>25626</Year2Amt>
+          <Year3Amt>23338</Year3Amt>
+          <TotalAmt>82832</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>161184</CurrentYearAmt>
+          <Year1Amt>183430</Year1Amt>
+          <Year2Amt>148196</Year2Amt>
+          <Year3Amt>117320</Year3Amt>
+          <TotalAmt>610130</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>161184</CurrentYearAmt>
+          <Year1Amt>183430</Year1Amt>
+          <Year2Amt>148196</Year2Amt>
+          <Year3Amt>117320</Year3Amt>
+          <TotalAmt>610130</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>48059</CurrentYearAmt>
+          <Year1Amt>35523</Year1Amt>
+          <Year2Amt>42113</Year2Amt>
+          <Year3Amt>47926</Year3Amt>
+          <TotalAmt>173621</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>WILLIAM MALE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6170 CORNERSTONE COURT EAST 100</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6197866124</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>info@WilliamMaleFoundation.org</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>ONLINE AT https://williammalefoundation.org/apply/online-application OR WRITTEN APPLICATION FORM.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>FLEXIBLE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>APPLICANTS MUST BE AT LEAST 18 YEARS OF AGE, RESIDENTS OF SAN DIEGO COUNTY AND DEMONSTRATE POTENTIAL FOR THE ARTS.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TRIXI AGIAO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3649 MOUNT ACADIA BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS PRODUCTION OF A SHOW</GrantOrContributionPurposeTxt>
+          <Amt>5160</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAN DIEGO FILIPINO CINEMA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2825 DEWEY RD STE 209</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION TO SUPPORT THEIR FILM FESTIVAL</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THELMA DE CASTRO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4511 ROLANDO BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO PRODUCE THEATRE PIECE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PABLO DODERO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3667 MISSISSIPI ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO PURCHASE A LAPTOP FOR HIS MUSICAL PRODUCTION</GrantOrContributionPurposeTxt>
+          <Amt>1988</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NICK BERNAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4214 KANSAS ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS EXPANDING HIS ART-BY-MAIL NEWSLETTER</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EDRIAN PANGILINAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>445 ELLA LANE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS PURCHASE OF A LAPTOP AND HIS FILM</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>STACEY UY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3066 HAWTHORN ST APT 7</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE PRODUCTION OF HER ZINE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FRANK KENSAKU SARAGOSA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3606 HARDING ST UNIT 304</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE PRODUCTION OF HIS THEATER PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FRACTURED ATLAS INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>228 PARK AVE S 56651</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION TO SUPPORT THE SOULTRY SISTERS ART &amp; WELLNESS FESTIVAL</GrantOrContributionPurposeTxt>
+          <Amt>4700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COLLECTIVE FREEDOM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 N COAST HWY SUITE 105</AddressLine1Txt>
+            <CityNm>OCEANSIDE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92054</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION TO SUPPORT THEIR BOOK PRINTING</GrantOrContributionPurposeTxt>
+          <Amt>4750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MIKI VALE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4950 LANTANA DRIVE 4</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE PRODUCTION OF HER RADIO PLAYS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CORA LEE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3666 45TH ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO COMPILE HER COLUMN INTO A BOOK</GrantOrContributionPurposeTxt>
+          <Amt>3341</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALISSA TU</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2625 1/2 E STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO WORK ON HER CHAPBOOK PROJECT</GrantOrContributionPurposeTxt>
+          <Amt>3335</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHRISTIAN GONZALEZ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8811 GILMAN DRIVE UNIT G</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS HIS INTERNET RADIO STATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EDDIE GUTIERREZ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2468 ADAMS AVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92116</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS HIS DANCE FESTIVAL</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CLAUDIA RODRIGUEZ-BIEZUNSKI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2113 LOGAN AVE SUITE B</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92113</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS HER TEXTILE ART SHOW</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATALIA VENTURA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4530 BANCROFT ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92116</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO ASSIST HER IN STARTING HER ART PRACTICE</GrantOrContributionPurposeTxt>
+          <Amt>4109</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AIDEN KELTNER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3561 BELFORD ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE PRODUCTION OF HIS FILMS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RYAN SEVERUD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2984 JUNIPER ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE PRODUCTION OF HIS SHORT FILM</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KAORI FIKUYAMA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4567 ROLANDO BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE INSTALLATION HER PUBLIC ART EXHIBIT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JAMES DELISIO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8950 COSTA VERDE BLVD APT 4543</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92122</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE PRODUCTION OF HIS FILM</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SARAH LECLAIR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11988 EASTGLEN ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92131</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO ASSIST HER WITH LIVING EXPENSES WHILE WRITING MUSIC</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ASTRID GONZALES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3090 JEFFERSON ST APT O3</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE PRODUCTION OF HER FILM</GrantOrContributionPurposeTxt>
+          <Amt>3400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALEXIS ALCAREZ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>631 HAMPSHIRE LN</AddressLine1Txt>
+            <CityNm>CHULA VISTA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91911</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE PRODUCTION OF HER DANCE PERFORMANCE</GrantOrContributionPurposeTxt>
+          <Amt>4760</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOPHIA ALIZ ZEPEDA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3178 ADAMS AVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92116</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PAYMENT TO GO TOWARDS THE COSTS OF HER DRAWING COURSE</GrantOrContributionPurposeTxt>
+          <Amt>2640</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>89183</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>14007</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>5950</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>58924</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>19957</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>58924</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>78881</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>INCOME (LOSS) FROM SALE OF DONATED SECURIRTIES. INCOME FROM SALES PROCEEDS IS USED FOR EXEMPT PURPOSES</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>8500</Amt>
+        <NetInvestmentIncomeAmt>4250</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4250</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BALI LANE - BLDG</PropertyDesc>
+        <AcquiredDt>2015-10-17</AcquiredDt>
+        <CostOrOtherBasisAmt>325000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>96999</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>11817</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>11817</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>11817</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BALI LANE - ROOF</PropertyDesc>
+        <AcquiredDt>2017-05-11</AcquiredDt>
+        <CostOrOtherBasisAmt>15630</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>14934</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.0446</Rt>
+        <CurrentYearExpenseAmt>696</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>696</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>696</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>325000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>108816</AccumulatedDepreciationAmt>
+        <BookValueAmt>216184</BookValueAmt>
+        <EOYFMVAmt>765000</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>15630</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>15630</AccumulatedDepreciationAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>175000</CostOrOtherBasisAmt>
+        <BookValueAmt>175000</BookValueAmt>
+        <EOYFMVAmt>175000</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>150</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>150</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES &amp; SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>190</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>190</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1776</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>888</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>888</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MANAGEMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>4922</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4922</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1234</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1234</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL PROCESSING COSTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>660</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>330</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>330</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>57</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>57</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>RENT EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1225</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1225</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>10577</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10577</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>10577</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>RETIREMENT PLAN ADMIN</Desc>
+        <RevenueAndExpensesPerBooksAmt>964</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>482</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>482</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherIncreasesDetail>
+        <Desc>COST BASIS ADJUSTMENT-TO TIE TO CS STATEMENT</Desc>
+        <Amt>14929</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherLiabilitiesDetail>
+        <Desc>CREDIT CARDS PAYABLE</Desc>
+        <BOYBookValueAmt>6907</BOYBookValueAmt>
+        <EOYBookValueAmt>8019</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>BALI LANE PURCHASE OPTION</Desc>
+        <BOYBookValueAmt>25000</BOYBookValueAmt>
+        <EOYBookValueAmt>25000</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OTHER FEES</CategoryTxt>
+        <Amt>13000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>13000</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAX</CategoryTxt>
+        <Amt>5355</Amt>
+        <NetInvestmentIncomeAmt>2677</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2678</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

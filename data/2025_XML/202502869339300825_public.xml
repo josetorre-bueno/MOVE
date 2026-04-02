@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-10-13T12:14:46-07:00</ReturnTs>
+    <TaxPeriodEndDt>2025-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>273367485</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>PAULA D BREWER EA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1646 Annette Way</AddressLine1Txt>
+        <CityNm>El Cajon</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92020</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>952151829</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>TWELFTH STEP HOUSE OF SAN DIEGO INC</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>HEARTLAND HOUSE</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>TWEL</BusinessNameControlTxt>
+      <PhoneNum>6192875460</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>5855 STREAMVIEW DRIVE</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92105</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN PRENDERGAST</PersonNm>
+      <PersonTitleTxt>MANAGING DIRECTOR</PersonTitleTxt>
+      <SignatureDt>2025-10-07</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>PAULA D BREWER</PreparerPersonNm>
+      <PTIN>P01205692</PTIN>
+      <PhoneNum>6192522834</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T documentId="IRS990T" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>4404557</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="IRS990TScheduleA.0">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <PersonNm>ROBERT COOK-ADMINISTRATOR</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>5855 STREAMVIEW DRIVE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92105</ZIPCd>
+        </USAddress>
+        <PhoneNum>6192875460</PhoneNum>
+      </BooksInCareOfDetail>
+      <TotalUBTIComputedAmt>9520</TotalUBTIComputedAmt>
+      <TotalUBTIBeforeNOLSpecificAmt>9520</TotalUBTIBeforeNOLSpecificAmt>
+      <TotalUBTIBeforeSection199AAmt>9520</TotalUBTIBeforeSection199AAmt>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>8520</TotalUBTIAmt>
+      <TaxableCorporationAmt>1789</TaxableCorporationAmt>
+      <TotalTaxComputationAmt>1789</TotalTaxComputationAmt>
+      <TaxLessCreditsAmt>1789</TaxLessCreditsAmt>
+      <TotalTaxAmt>1789</TotalTaxAmt>
+      <PriorYearOverpaymentCreditAmt>816</PriorYearOverpaymentCreditAmt>
+      <EstimatedTaxPaymentsAmt>834</EstimatedTaxPaymentsAmt>
+      <TotalPaymentsAmt>1650</TotalPaymentsAmt>
+      <Form2220AttachedInd>X</Form2220AttachedInd>
+      <ESPenaltyAmt>4</ESPenaltyAmt>
+      <BalanceDueAmt>143</BalanceDueAmt>
+      <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <TaxExemptInterestAmt>0</TaxExemptInterestAmt>
+    </IRS990T>
+    <IRS990TScheduleA documentId="IRS990TScheduleA.0" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <PrincipalBusinessActivityCd>623990</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>Sober Living</TradeOrBusinessDesc>
+      <OtherIncomeAmt referenceDocumentId="OtherIncomeSchedule3.0">9520</OtherIncomeAmt>
+      <TotUnrltTrdBusIncmAmt>9520</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>9520</TotNetUnrltTrdBusIncmAmt>
+      <UBIBeforeNOLDedAmt>9520</UBIBeforeNOLDedAmt>
+      <UnrelatedBusinessTaxblIncmAmt>9520</UnrelatedBusinessTaxblIncmAmt>
+    </IRS990TScheduleA>
+  </ReturnData>
+</Return>

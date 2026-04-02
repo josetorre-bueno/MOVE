@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2023v6.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-06-16T09:20:44-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-07-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>043710103</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Jacquellyn I Martin CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3077-B Clairemont Drive / PMB 172</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92117</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2023-08-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>336081439</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Johnson James Hervey Char Ed Trust</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JOHN</BusinessNameControlTxt>
+      <PhoneNum>6192754313</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO Box 16160</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92176</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Mark Munnelly</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2025-06-16</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Jacquellyn I Martin</PreparerPersonNm>
+      <PTIN>P00506217</PTIN>
+      <PhoneNum>6192754313</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2023</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>10694127</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>245283</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>245283</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>813261</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>3259968</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>813261</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>1058544</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1058544</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>115811</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>57906</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>57905</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">75000</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>37500</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>37500</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">24000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>18000</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>6000</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">70147</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>70147</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">4476</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>776</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">31733</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>1326</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>30407</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>321167</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>185655</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>131812</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>216500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>216500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>537667</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>185655</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>348312</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>520877</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>872889</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>224820</CashBOYAmt>
+        <CashEOYAmt>243691</CashEOYAmt>
+        <CashEOYFMVAmt>243691</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>618946</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>808111</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>808111</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>4616627</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>4222086</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>6698007</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>855417</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt>1255335</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1278671</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>624914</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>1129443</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1665647</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>6940724</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>7658666</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>10694127</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>10373743</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>10373743</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>-3433019</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>-2715077</AdditionalPaidInCapitalEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6940724</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7658666</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6940724</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>7658666</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6940724</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>520877</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">197065</OtherIncreasesAmt>
+        <SubtotalAmt>7658666</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>7658666</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Detail Avail</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-07-31</AcquiredDt>
+          <SoldDt>2024-07-31</SoldDt>
+          <GrossSalesPriceAmt>3259968</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2446707</CostOrOtherBasisAmt>
+          <GainOrLossAmt>813261</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>813261</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>813261</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>12133</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>12133</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>12133</TaxBasedOnInvestmentIncomeAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>12100</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>12100</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>33</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>http://jamesherveyjohnson.com/</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Mark Munnelly</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6192754313</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO Box 16160</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92176</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Mark Munnelly</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 16160</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92176</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>113412</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Kevin V Munnelly</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 16160</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92176</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2400</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompensationOfHghstPdCntrctGrp>
+          <PersonNm>ROBERT A PULLMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4679 VISTA STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92116</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>Legal Services</ServiceTypeTxt>
+          <CompensationAmt>75000</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>8363694</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>641822</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>9005516</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>9005516</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>135083</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>8870433</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>443522</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>443522</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>12133</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>12133</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>431389</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>431389</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>431389</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>348312</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>348312</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>431389</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>132521</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>348312</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>132521</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>215791</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>215598</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>Mark Munnelly Trustee</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 16160</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92176</ZIPCd>
+          </RecipientUSAddress>
+          <FormAndInfoAndMaterialsTxt>See grant application online at https://jamesherveyjohnson.com/trust.html</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>July 31</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>N/A</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Center for Inquiry International</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 741</AddressLine1Txt>
+            <CityNm>Amherst</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>14226</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purposes</GrantOrContributionPurposeTxt>
+          <Amt>85000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Mama's Kitchen</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3960 Home Avenue</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purposes</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego State University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5500 Campanile Drive</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92182</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purposes</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Natural History Museum</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 121390</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purposes</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Secular Student Alliance</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2371</AddressLine1Txt>
+            <CityNm>Columbus</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>43216</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purposes</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Health Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 477</AddressLine1Txt>
+            <CityNm>Youngstown</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>44501</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purposes</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Prader-Willi Syndrome Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8588 Potter Park Drive Suite 500</AddressLine1Txt>
+            <CityNm>Sarasota</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34238</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purposes</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Thomas Paine National Historical As</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>983 North Avenue</AddressLine1Txt>
+            <CityNm>New Rochelle</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10804</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purposes</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Humanist Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1821 Jefferson Place NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Thomas Paine Society of Pasadena</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>99 So Raymond Ave Suite B001</AddressLine1Txt>
+            <CityNm>Pasadena</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Atheists</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 Cristiani St</AddressLine1Txt>
+            <CityNm>Cranford</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07016</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Atheists United</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2535 W Temple St</AddressLine1Txt>
+            <CityNm>Los Angeles</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90026</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Parks Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1180 Rosecrans St 517</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Plant Powered Metro NY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 20771</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Purpose</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>216500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>245283</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>813261</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>1058544</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>1058544</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <AccountingFeesDetail>
+        <Amt>24000</Amt>
+        <NetInvestmentIncomeAmt>18000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6000</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <LegalFeesGrp>
+        <LegalFeesAmt>75000</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>37500</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>37500</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Service Charge</Desc>
+        <RevenueAndExpensesPerBooksAmt>13</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>7</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Computer Hardware/Software</Desc>
+        <RevenueAndExpensesPerBooksAmt>3252</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3252</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Dues &amp; Subs</Desc>
+        <RevenueAndExpensesPerBooksAmt>830</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>830</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>2250</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1125</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1125</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Internet Hosting Website</Desc>
+        <RevenueAndExpensesPerBooksAmt>25000</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>25000</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PO Box Rental</Desc>
+        <RevenueAndExpensesPerBooksAmt>388</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>194</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>194</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <OtherIncreasesDetail>
+        <Desc>PPA-NO TAX EFFECT</Desc>
+        <Amt>197065</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Management Fees</CategoryTxt>
+        <Amt>70147</Amt>
+        <NetInvestmentIncomeAmt>70147</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="23017517" softwareVersionNum="2023v6.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal</CategoryTxt>
+        <Amt>3700</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Foreign</CategoryTxt>
+        <Amt>776</Amt>
+        <NetInvestmentIncomeAmt>776</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

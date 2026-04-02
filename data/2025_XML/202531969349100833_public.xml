@@ -1,0 +1,953 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2023v6.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-07-15T16:56:33-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>010826173</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CBIZ ADVISORS LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>10474 SANTA MONICA BLVD SUITE 200</AddressLine1Txt>
+        <CityNm>LOS ANGELES</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>90025</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2023-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>205553069</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>DEL CORAZON</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>DELC</BusinessNameControlTxt>
+      <PhoneNum>8582440900</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2811 DICKENS STREET 201</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92106</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>WILLIAM AYYAD</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>8582440900</PhoneNum>
+      <SignatureDt>2025-07-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>PIYUSHKUMAR H MODI</PreparerPersonNm>
+      <PTIN>P01248237</PTIN>
+      <PhoneNum>3102682000</PhoneNum>
+      <PreparationDt>2025-07-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2023</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2473389</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>50644</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>11</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>11</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>85532</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>85532</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>22896</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>681491</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1310000</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>681491</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>817678</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>767034</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">4532</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">1587</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc2203000001">24828</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>24828</DeprecAndDpltnNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">56007</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>37808</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>86954</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>62636</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>900000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>900000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>986954</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>62636</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>900000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-169276</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>704398</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>157153</CashBOYAmt>
+        <CashEOYAmt>481518</CashEOYAmt>
+        <CashEOYFMVAmt>481518</CashEOYFMVAmt>
+        <AcctRcvblAmt>8470</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>8470</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>8470</AcctRcvblEOYAmt>
+        <RcvblFromOfficersBOYAmt>399639</RcvblFromOfficersBOYAmt>
+        <RcvblFromOfficersEOYAmt>399639</RcvblFromOfficersEOYAmt>
+        <PrepaidExpensesBOYAmt>8320</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>9046</PrepaidExpensesEOYAmt>
+        <InvstLandCostOrOtherBasisAmt>365609</InvstLandCostOrOtherBasisAmt>
+        <InvstLandAccumDepreciationAmt>86551</InvstLandAccumDepreciationAmt>
+        <LandBldgInvestmentsBOYAmt>782398</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentId="RetDoc2059100001">279058</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>1991871</LandBldgInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1355980</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1177731</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2473389</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>13235</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>4262</AccountsPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">400928</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">400928</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>414163</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>405190</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>941817</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>772541</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>941817</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>772541</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1355980</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1177731</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>941817</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-169276</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>772541</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>772541</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SALE OF 851 SOUTH MOLLISON AVENUE UNIT 19</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>395000</GrossSalesPriceAmt>
+          <DepreciationAmt>52850</DepreciationAmt>
+          <CostOrOtherBasisAmt>221616</CostOrOtherBasisAmt>
+          <GainOrLossAmt>226234</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>226234</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SALE OF 851 SOUTH MOLLISON AVENUE UNIT 33</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>455000</GrossSalesPriceAmt>
+          <DepreciationAmt>53907</DepreciationAmt>
+          <CostOrOtherBasisAmt>282943</CostOrOtherBasisAmt>
+          <GainOrLossAmt>225964</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>225964</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SALE OF 851 SOUTH MOLLISON AVENUE UNIT 4</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>460000</GrossSalesPriceAmt>
+          <DepreciationAmt>52850</DepreciationAmt>
+          <CostOrOtherBasisAmt>283557</CostOrOtherBasisAmt>
+          <GainOrLossAmt>229293</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>229293</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>681491</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>9791</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>9791</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>9791</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>720</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>720</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1192000001">X</Form2220AttachedInd>
+        <EsPenaltyAmt>527</EsPenaltyAmt>
+        <TaxDueAmt>9598</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>0</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>THE FOUNDATION</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8582440900</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>2811 DICKENS STREET 201</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92106</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WILLIAM G AYYAD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2811 DICKENS STREET SUITE 201</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DANIEL AYYAD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2811 DICKENS STREET SUITE 201</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER/SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>199169</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>2290384</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2489553</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2489553</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>37343</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2452210</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>122611</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>122611</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>9791</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>9791</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>112820</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>112820</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>112820</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>900000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>900000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>112820</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>577510</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>722648</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>605968</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>732542</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>955488</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>3594156</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>900000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>112820</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>787180</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>4381336</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>577510</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>3803826</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>722648</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>605968</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>732542</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>955488</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>787180</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>WILLIAM G AYYAD</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ANGELS OF GRACE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6179 N PALM AVE</AddressLine1Txt>
+            <CityNm>FRESNO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93704</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHALLENGED ATHLETES FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9591 WAPLES STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CUREBOUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9191 TOWNE CENTER DR 310</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92122</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DC DONATION TO GOPEDAL CUREBOUND</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DYSAUTONOMIA INTERNATIONAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>EASSR MORICHES</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11940</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FUTURO BRILLANTE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9255 TOWNECENTRE DRIVE STE 500</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>240000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GLOBAL CARE ALLIANCE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5638 LAKE MURRAY BLVD NO 153</AddressLine1Txt>
+            <CityNm>LA MESA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91942</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>162250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NATIVITY PREP ACADEMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3233 MARKET ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATIONAL PROGRAMS FOR UNDER-SERVED CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>90000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SHARP HEALTHCARE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8695 SPECTRUM CENTER BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SUSAN G KOMEN FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13770 NOEL ROAD SUITE 801889</AddressLine1Txt>
+            <CityNm>DALLAS</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75380</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE UCLA FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10889 WILSHIRE BLVD 1100</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>USD BURNHAM-MOORES CENTER FOR REAL ESTATE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9500 GILMAN DR</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92093</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WESLEY UNITED METHODIST CHURCH</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5380 EL CAJON BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92115</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PEDAL THE CAUSE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9191 TOWNE CENTRE DR 310</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92122</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PACIFIC RIDGE SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6269 EL FUERTE ST</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92009</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE NEW CHILDREN'S MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 W ISLAND AVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THOUSAND SMILES FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5071 CENTRAL AVE</AddressLine1Txt>
+            <CityNm>BONITA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91902</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>OTHER PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT THE ORGANIZATION.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>900000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>11</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReNotDebtFincdProp>
+          <BusinessCd>531390</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>22896</UnrelatedBusinessTaxblIncmAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>681491</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>22896</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>681502</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>704398</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1</LineNumberTxt>
+          <RelationshipStatementTxt>INTEREST EARNED FROM SAVINGS ACCOUNT USED TO SUPPORT EDUCATIONAL, YOUTH COMMUNITY OUTREACH AND EDUCATIONAL PROGRAMS.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>SALE OF PROPERTY USED TO SUPPORT EDUCATIONAL, YOUTH COMMUNITY OUTREACH AND EDUCATIONAL PROGRAMS.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>WILLIAM G AYYAD TRUST</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2811 DICKENS STREET SUITE 201</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92106</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>50644</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>4532</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>43600</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND - FRESNO</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>13000</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>174400</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>48358</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>27.500000000000</LifeRt>
+        <CurrentYearExpenseAmt>4492</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>4492</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>43600</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>174400</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>48358</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>27.500000000000</LifeRt>
+        <CurrentYearExpenseAmt>4492</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>4492</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>43600</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>174400</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>48358</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>27.500000000000</LifeRt>
+        <CurrentYearExpenseAmt>5549</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>5549</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>43600</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>174400</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>48358</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>27.500000000000</LifeRt>
+        <CurrentYearExpenseAmt>6342</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>6342</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>52000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>14419</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>27.500000000000</LifeRt>
+        <CurrentYearExpenseAmt>1891</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1891</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND - FRESNO</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>12000</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>L</ComputationMethodTxt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING</PropertyDesc>
+        <AcquiredDt>2016-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>48000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13306</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>27.500000000000</LifeRt>
+        <CurrentYearExpenseAmt>1745</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1745</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HVAC - REPLACEMENT OF 2 MOL28</PropertyDesc>
+        <AcquiredDt>2022-12-15</AcquiredDt>
+        <CostOrOtherBasisAmt>6728</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>173</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>27.500000000000</LifeRt>
+        <CurrentYearExpenseAmt>245</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>245</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>REMODEL</PropertyDesc>
+        <AcquiredDt>2024-07-19</AcquiredDt>
+        <CostOrOtherBasisAmt>15882</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>27.500000000000</LifeRt>
+        <CurrentYearExpenseAmt>72</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>72</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsLandSchedule2 documentId="RetDoc2059100001">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>LAND - FRESNO</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>13000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+        <BookValueAmt>13000</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>LAND</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>43600</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+        <BookValueAmt>43600</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>BUILDING</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>174400</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>54700</AccumulatedDepreciationAmt>
+        <BookValueAmt>119700</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>BUILDING</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>52000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>16310</AccumulatedDepreciationAmt>
+        <BookValueAmt>35690</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>LAND - FRESNO</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>12000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>0</AccumulatedDepreciationAmt>
+        <BookValueAmt>12000</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>BUILDING</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>48000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>15051</AccumulatedDepreciationAmt>
+        <BookValueAmt>32949</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>HVAC - REPLACEMENT OF 2 MOL28</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>6728</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>418</AccumulatedDepreciationAmt>
+        <BookValueAmt>6310</BookValueAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>REMODEL</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>15882</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>72</AccumulatedDepreciationAmt>
+        <BookValueAmt>15810</BookValueAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK SERVICE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>293</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FEES &amp; ASSESSMENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>5</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE TELEPHONE, INTERNET, CABLE</Desc>
+        <RevenueAndExpensesPerBooksAmt>11</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TRAVEL</Desc>
+        <RevenueAndExpensesPerBooksAmt>13</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISCELLANEOUS PARTS/SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1446</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ASSOCIATION FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>16263</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BUSINESS VENDOR GIFTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>168</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROPERTY TAXES</Desc>
+        <RevenueAndExpensesPerBooksAmt>10390</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10390</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS AND MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>359</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>359</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MANAGEMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2222</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2222</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HOA FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>11938</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>11938</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROFESSIONAL SERVICES</Desc>
+        <RevenueAndExpensesPerBooksAmt>359</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>359</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>UTILITIES - VACANT</Desc>
+        <RevenueAndExpensesPerBooksAmt>96</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>96</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HOME WARRANTY</Desc>
+        <RevenueAndExpensesPerBooksAmt>1100</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1100</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PROPERTY TAXES</Desc>
+        <RevenueAndExpensesPerBooksAmt>1597</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1597</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REPAIRS AND MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2343</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2343</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>HOA FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>6600</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>6600</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MANAGEMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>804</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>804</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>DUE TO RELATED PARTIES</Desc>
+        <BOYBookValueAmt>400928</BOYBookValueAmt>
+        <EOYBookValueAmt>400928</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>LICENSES AND PERMITS</CategoryTxt>
+        <Amt>1587</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

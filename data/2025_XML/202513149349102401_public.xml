@@ -1,0 +1,827 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-10T11:07:02-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>320076871</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Magnus Blue LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>100 E San Marcos Blvd Ste 100</AddressLine1Txt>
+        <CityNm>San Marcos</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92069</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330718473</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SAN DIEGO SCOTTISH RITE</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>COMMUNITY FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SAND</BusinessNameControlTxt>
+      <PhoneNum>6192934888</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1561 Camino Del Rio South</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92108</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>FULGENCIO I QUIMPO</PersonNm>
+      <PersonTitleTxt>SECRETARY</PersonTitleTxt>
+      <SignatureDt>2025-11-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JACK M SHIRLEY</PreparerPersonNm>
+      <PTIN>P00492680</PTIN>
+      <PhoneNum>7605999900</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>3896932</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>1921</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>307082</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>307082</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>307082</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>3295</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>697721</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>3295</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">1</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>312299</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>310377</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>307082</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1200</AccountingFeesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">27715</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>28915</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>170000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>170000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>198915</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>170000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>113384</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>310377</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>307082</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>24794</CashBOYAmt>
+        <CashEOYAmt>9588</CashEOYAmt>
+        <CashEOYFMVAmt>9588</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>22265</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>50503</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>50503</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>3516295</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>3731821</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3835877</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>1883</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt>1852</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>964</CorporateBondsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">221058</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">101598</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>3786295</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3895362</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>3896932</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">4317</OtherLiabilitiesBOYAmt>
+        <TotalLiabilitiesBOYAmt>4317</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>3781978</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>3895362</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>3781978</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3895362</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>3786295</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3895362</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>3781978</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>113384</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>3895362</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3895362</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WELLS FARGO 0016 S/T COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2024-01-01</SoldDt>
+          <GrossSalesPriceAmt>36643</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>39656</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3013</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3013</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WELLS FARGO 0016 S/T NONCOVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-12-31</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>40000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>40000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WELLS FARGO 0016 L/T COVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>316086</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>310262</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5824</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5824</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WELLS FARGO 0016 L/T NONCOVERED</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2020-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>304992</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>304508</CostOrOtherBasisAmt>
+          <GainOrLossAmt>484</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>484</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>3295</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-3013</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>4314</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>4314</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4314</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>242</EsPenaltyAmt>
+        <TaxDueAmt>4556</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>FULGENCIO I QUIMPO</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6192934888</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1561 Camino Del Rio South</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92108</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN A SCHNEIDMILLER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10358 EL HONCHO PLACE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92124</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FULGENCIO I QUIMPO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO S</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PHILIP A JOHNSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO S</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RALPH BRYAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO S</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID F BEAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO S</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EDWARD R COLLINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO S</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>4314</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>4314</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>4314</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>4314</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>170000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>170000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr4Amt>26623</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>166000</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>191500</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>170000</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>554123</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>170000</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>170000</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>724123</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>724123</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>26623</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>166000</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>191500</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>170000</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>170000</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>FULGENCIO I QUIMPO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6192934888</RecipientPhoneNum>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARISELA SYMON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JUSTIN MA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HEARD SAMANTHA 20</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RYAN BADGETT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CALIFORNIA SCOTTISH RITE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1547 LAKESIDE DRIVE</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>80000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GRAND LODGE OF CALIFORNIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1111 CALIFORNIA STREET</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LA JOLLA PLAYHOUSE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2910 LA JOLLA VILLAGE RD</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JARRETT MEEKER FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4123 SHERWIN PLACE</AddressLine1Txt>
+            <CityNm>LA MESA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91941</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SERRA MESA FOOD PANTRY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2650 MELBOURNE STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOOD PANTRY</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SANTEE SANTAS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 710033</AddressLine1Txt>
+            <CityNm>SANTEE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92072</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAN DIEGO POLICE HISTORICAL SOCIETY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8823 FRIANT STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BENJAMIN DAVIS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COOPER CRAVEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TEGAN SAMUELSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92018</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CASSANDRA BRISTOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DAMIAN BONDS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GILLIAN MERCER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KIERSEN LANDES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATEAL JACKSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NAMIKA PAGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AINSLEY CRAVEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ANALIESE GAGLIANO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CRAVEN JONAH 20</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALEXA VAN EIK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GABRIELLA SENER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JASON MA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JENNIFER PARK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LIAM LANDES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MICHAEL HENINGER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PARKER JACKSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PETER BONADEO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1895 CAMINO DEL RIO SOUTH</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>170000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <RelatedOrExemptFunctionIncmAmt>307082</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>3295</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>FEDERAL REFUND</Desc>
+          <UnrelatedBusinessTaxblIncmAmt>1</UnrelatedBusinessTaxblIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>1</UnrelatedBusinessTaxblIncmAmt>
+          <RelatedOrExemptFunctionIncmAmt>310377</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>310378</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREP</CategoryTxt>
+        <Amt>1200</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherAssetsScheduleGrp>
+        <Desc>Due From Cathedral</Desc>
+        <BOYBookValueAmt>221057</BOYBookValueAmt>
+        <EOYBookValueAmt>101596</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Rounding</Desc>
+        <BOYBookValueAmt>1</BOYBookValueAmt>
+        <EOYBookValueAmt>2</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>BROKER FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>22951</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BUS REG FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>210</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FEDERAL TAX</Desc>
+        <RevenueAndExpensesPerBooksAmt>4554</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherIncomeDetail>
+        <Desc>FEDERAL REFUND</Desc>
+        <RevenueAndExpensesPerBooksAmt>1</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

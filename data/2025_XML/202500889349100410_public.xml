@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.1" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-03-29T14:51:34-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>200146403</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Rhema Consulting Corp</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>6344 FERRIS SQ</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92121</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330833551</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SHUNG-HO &amp; RONG JUH CHANG FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SHUN</BusinessNameControlTxt>
+      <PhoneNum>6198651008</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>9359 BERNARDO LAKES DR</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92127</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RONG JUH CHANG</PersonNm>
+      <PersonTitleTxt>SECRETARY</PersonTitleTxt>
+      <PhoneNum>6198651008</PhoneNum>
+      <SignatureDt>2025-03-27</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>YUHUA PHILIP CHANG</PreparerPersonNm>
+      <PTIN>P00290897</PTIN>
+      <PhoneNum>8586933333</PhoneNum>
+      <PreparationDt>2025-03-29</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF-01" referenceDocumentId="GeneralExplanationAttachmen-01">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>440221</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>4742</InterestOnSavRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>14369</DividendsRevAndExpnssAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>1037</NetSTCapitalGainAdjNetIncmAmt>
+        <GrossProfitRevAndExpnssAmt>0</GrossProfitRevAndExpnssAmt>
+        <OtherIncomeRevAndExpnssAmt>0</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>19111</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1037</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt>0</LegalFeesRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule-01" referenceDocumentName="AccountingFeesSchedule">690</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedu-01" referenceDocumentName="OtherProfessionalFeesSchedule">2381</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule-01" referenceDocumentName="TaxesSchedule">75</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule-01" referenceDocumentName="DepreciationSchedule">0</DeprecAndDpltnRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt>0</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>3146</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>18500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>21646</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>0</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-2535</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1037</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>442756</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>440221</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>440221</SavAndTempCashInvstEOYFMVAmt>
+        <RcvblFromOfficersEOYAmt>0</RcvblFromOfficersEOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt>0</OtherNtsAndLoansRcvblEOYAmt>
+        <LandBldgInvestmentsEOYAmt>0</LandBldgInvestmentsEOYAmt>
+        <OtherInvestmentsEOYAmt>0</OtherInvestmentsEOYAmt>
+        <LandBldgEquipCostOrOtherBssAmt>3873</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>3873</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>0</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2-01" referenceDocumentName="LandEtcSchedule2">0</LandEOYAmt>
+        <LandEOYFMVAmt>0</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt>0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt>0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>442756</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>440221</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>440221</TotalAssetsEOYFMVAmt>
+        <LoansFromOfficersEOYAmt>0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableEOYAmt>0</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt>0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt>0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>442756</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>440221</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>442756</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>440221</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>442756</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>440221</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>442756</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-2535</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule-01" referenceDocumentName="OtherIncreasesSchedule">0</OtherIncreasesAmt>
+        <SubtotalAmt>440221</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>440221</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY SECURITIES SHORT TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2024-01-16</AcquiredDt>
+          <SoldDt>2024-12-27</SoldDt>
+          <GrossSalesPriceAmt>181303</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>180266</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1037</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>1037</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY SECURITIES LONG TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2022-02-22</AcquiredDt>
+          <SoldDt>2024-06-12</SoldDt>
+          <GrossSalesPriceAmt>34865</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>70770</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-35905</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>-35905</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-34868</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>1037</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>0</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.CHANGFOUNDATION.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SHUNG-HO CHANG</IndividualWithBooksNm>
+        <PhoneNum>8587567421</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 3593</AddressLine1Txt>
+          <CityNm>RANCHO SANTA FE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92067</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SHUNG-HO CHANG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9359 BERNARDO LAKES DR</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RONG JUH CHANG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9359 BERNARDO LAKES DR</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BENJAMIN CHANG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9359 BERNARDO LAKES DR</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES CHANG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9359 BERNARDO LAKES DR</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>0</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>0</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>0</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>0</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>0</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>0</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>0</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>0</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>0</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>0</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>0</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>0</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>0</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>0</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>0</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEDECINS SANS FRONTIERES - DRs WITHOUT BORDERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40 Rector Street 16th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDS ENABLEFOUNDATION TO PROVIDECHARITABLE FUNCTIONS</GrantOrContributionPurposeTxt>
+          <Amt>12500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE JACOB &amp; CUSHHMAN SAN DIEGO FOOD BANK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9850 Distribution Avenue</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDS ENABLEFOUNDATION TO PROVIDECHARITABLE FUNCTIONS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNICEF USA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>125 MAIDEN LN</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10038</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(C)(3)EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FUNDS ENABLEFOUNDATION TO PROVIDECHARITABLE FUNCTIONS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>18500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>13</ExclusionCd>
+          <ExclusionAmt>4742</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>13</ExclusionCd>
+          <ExclusionAmt>14369</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>13</ExclusionCd>
+          <ExclusionAmt>1091</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>20202</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>20202</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>N/A</LineNumberTxt>
+          <RelationshipStatementTxt>NONE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule-01">
+      <AccountingFeesDetail>
+        <CategoryTxt>PHILIP CHANG CPA TAX &amp; ACCOUNTING</CategoryTxt>
+        <Amt>690</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule-01">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER</PropertyDesc>
+        <AcquiredDt>1998-12-29</AcquiredDt>
+        <CostOrOtherBasisAmt>1666</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1333</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>5.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CAMERA/SCANNER/PRINTER</PropertyDesc>
+        <AcquiredDt>1999-07-05</AcquiredDt>
+        <CostOrOtherBasisAmt>1159</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1159</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>5.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COMPUTER 2011</PropertyDesc>
+        <AcquiredDt>2011-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>1048</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>0</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>5.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>0</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GeneralExplanationAttachment documentId="GeneralExplanationAttachmen-01">
+      <GeneralExplanationGrp>
+        <FormAndLineReferenceDesc>PUBLIC INSPECTION</FormAndLineReferenceDesc>
+        <MediumExplanationTxt>THIS ORGANIZATION IS NOT REQUIRED TO COMPLY WITH PUBLIC INSPECTIONTHIS ORGANIZATION IS NOT REQUIRED TO COMPLY WITH PUBLIC INSPECTION</MediumExplanationTxt>
+      </GeneralExplanationGrp>
+    </GeneralExplanationAttachment>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2-01">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>MACHINERY &amp; EQUIPMENT</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>2825</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>2825</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>COMPUTER 2011</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1048</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1048</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule-01">
+      <OtherIncreasesDetail>
+        <Desc>GAINS FROM INVESTMENT</Desc>
+        <Amt>0</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedu-01">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>FINANCIAL ADVIOSRY FEE ASSET MANAGEMENT</CategoryTxt>
+        <Amt>2381</Amt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule-01">
+      <TaxesDetail>
+        <CategoryTxt>CA SOS FEE</CategoryTxt>
+        <Amt>75</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

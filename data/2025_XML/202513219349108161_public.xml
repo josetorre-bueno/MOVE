@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-17T15:38:03-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>832655048</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Vic G Benitez CPA Inc</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1750 Pember Ave</AddressLine1Txt>
+        <CityNm>Chula Vista</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>91913</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330937914</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Aroma Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>AROM</BusinessNameControlTxt>
+      <PhoneNum>8585878866</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>6469 Flanders Drive</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92121</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Chung Yuan Chang</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-11-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Vic Gerard Benitez CPA</PreparerPersonNm>
+      <PTIN>P02536901</PTIN>
+      <PhoneNum>6199623050</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>8586927</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2200000</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>135110</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>135110</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>135110</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>192923</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>192923</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>192923</DividendsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>2528033</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>328033</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>328033</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">425</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>425</LegalFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">1002</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1002</TaxesNetInvstIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>10192</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>10192</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">98742</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>98742</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>110361</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1002</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>109359</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>378000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>378000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>488361</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1002</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>487359</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>2039672</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>327031</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>328033</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashEOYAmt>155672</CashEOYAmt>
+        <CashEOYFMVAmt>155672</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>1299565</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>174471</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>174471</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>5234688</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>6344544</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>6394630</USGovtObligationsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>91138</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>91138</LandBldgEquipAccumDeprecAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">1862154</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">1862154</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>6534253</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>8536841</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>8586927</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>6534253</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>8536841</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6534253</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>8536841</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6534253</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>8536841</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6534253</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>2039672</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>8573925</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">37084</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>8536841</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>4546</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>4546</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4546</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>35</EsPenaltyAmt>
+        <TaxDueAmt>4581</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Shiu Run Chang</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8585878866</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6469 Flanders Drive</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92121</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Chung Yuan Chang</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6469 Flanders Drive</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Shirley Shiu Run Chang</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6469 Flanders Drive</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Huiling Zhangada</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6469 Flanders Drive</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>5644168</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>1040410</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>6684578</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>6684578</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>100269</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>6584309</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>329215</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>329215</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4546</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>4546</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>324669</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>324669</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>324669</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>487359</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>487359</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>324669</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>403966</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>403966</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>487359</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>324669</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>162690</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>566656</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>566656</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>403966</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>162690</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Chung Yuan Chang</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>SHIRLEY CHANG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6469 FLANDERS DRIVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <FormAndInfoAndMaterialsTxt>GRANT WRITTEN APPLICATION WITH FINANCIAL STATEMENTS AND NEEDS OF ORGANIZATION</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>DEC 1</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Tucklets</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9921 CARMEL MOUNTAIN RD PMB 777</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92129</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational support for orphans</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHINESE OVERSEAS CHRISTIAN MISSION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>438 CEDAR RIDGE DR</AddressLine1Txt>
+            <CityNm>GLASTONBURY</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06033</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>EVANGELICAL MISSIONARIES DEDICATED TO REACHING CHINESE FOR CHRIST</GrantOrContributionPurposeTxt>
+          <Amt>23000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Aroma ROC Association</RecipientPersonNm>
+          <RecipientForeignAddress>
+            <AddressLine1Txt>7F NO 67 TAI YUAN RD</AddressLine1Txt>
+            <CityNm>TAIPEI</CityNm>
+            <ProvinceOrStateNm>TAIPEI</ProvinceOrStateNm>
+            <CountryCd>TW</CountryCd>
+            <ForeignPostalCd>103250</ForeignPostalCd>
+          </RecipientForeignAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Promote public welfare and social services, to share beauty and knowledge</GrantOrContributionPurposeTxt>
+          <Amt>105000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>378000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>135110</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>192923</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>328033</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>328033</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Chung Yuan Chang</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>6469 Flanders Drive</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92121</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>2150000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>Maria Shen</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>6469 Flanders Drive</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92121</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>50000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Miscellaneous</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>91138</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>91138</AccumulatedDepreciationAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <LegalFeesGrp>
+        <LegalFeesAmt>425</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>425</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <OtherAssetsScheduleGrp>
+        <Desc>INVESTMENT IN PRECIOUS METALS</Desc>
+        <EOYBookValueAmt>1862154</EOYBookValueAmt>
+        <EOYFMVAmt>1862154</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>461</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>461</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Minister Support</Desc>
+        <RevenueAndExpensesPerBooksAmt>78127</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>78127</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>19135</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>19135</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>540</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>540</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Telephone</Desc>
+        <RevenueAndExpensesPerBooksAmt>479</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>479</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020486" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <Amt>1002</Amt>
+        <NetInvestmentIncomeAmt>1002</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

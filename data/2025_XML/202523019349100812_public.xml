@@ -1,0 +1,983 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-10-28T07:52:08-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>952076568</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Leaf &amp; Cole LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2810 Camino Del Rio South Suite 200</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92108</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>952128344</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>REST HAVEN PREVENTORIUM FOR CHILDREN</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>AKA CHILDRENS HEALTH FUND</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>REST</BusinessNameControlTxt>
+      <PhoneNum>8585760590</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92127</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARK EMCH</PersonNm>
+      <PersonTitleTxt>Treasurer</PersonTitleTxt>
+      <SignatureDt>2025-10-28</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JILL BRANCH</PreparerPersonNm>
+      <PTIN>P00727664</PTIN>
+      <PhoneNum>6192947200</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation BinaryAttachment.1 BinaryAttachment.2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>15665962</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>10000</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>272726</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>272726</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>315367</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>315367</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>187834</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>258067</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>4106217</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>258067</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">80</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>856240</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>846160</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>85280</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>34112</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>51168</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">62384</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>57175</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>5209</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">4103</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">83580</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>83580</DeprecAndDpltnNetInvstIncmAmt>
+        <OccupancyRevAndExpnssAmt>2443</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>977</OccupancyNetInvstIncmAmt>
+        <OccupancyDsbrsChrtblAmt>1466</OccupancyDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">71389</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>55302</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>16087</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>309179</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>231146</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>73930</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>248391</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>248391</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>557570</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>231146</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>322321</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>298670</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>615014</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>97116</CashBOYAmt>
+        <CashEOYAmt>65634</CashEOYAmt>
+        <CashEOYFMVAmt>65634</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>1127613</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>328513</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>328513</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>8418</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>4716</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>4716</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>87301</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvestmentsGovtObligationsSche">280430</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>280430</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>3710296</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">4377073</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>4377073</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>49796</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">1678577</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1678577</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>4379241</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">4175514</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>4175514</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>4901873</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>146368</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>4839085</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">4755505</LandEOYAmt>
+        <LandEOYFMVAmt>4755505</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">943</OtherAssetsBOYAmt>
+        <TotalAssetsBOYAmt>14299809</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>15665962</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>15665962</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>18796</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>3330</AccountsPayableEOYAmt>
+        <DeferredRevenueBOYAmt>7706</DeferredRevenueBOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">18990</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">15210</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>45492</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>18540</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>13846928</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>15190031</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsBOYAmt>407389</DonorRstrNetAssetsBOYAmt>
+        <DonorRstrNetAssetsEOYAmt>457391</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>14254317</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>15647422</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>14299809</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>15665962</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>14254317</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>298670</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">1094435</OtherIncreasesAmt>
+        <SubtotalAmt>15647422</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>15647422</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NORTHERN 82789</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>3492463</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3286023</CostOrOtherBasisAmt>
+          <GainOrLossAmt>206440</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>206440</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NORTHERN 84860</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>613754</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>562127</CostOrOtherBasisAmt>
+          <GainOrLossAmt>51627</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>51627</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>258067</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>8549</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>8549</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>8549</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>4000</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>4760</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>8760</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>211</OverpaymentAmt>
+        <AppliedToESTaxAmt>211</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>www.resthavenchf.org</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>CASS KAMINETZ</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8585760590</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92127</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STUART COHEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID ALLSBROOK III</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEPHEN O'KANE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARK EMCH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALISON GILDRED</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY M O'CONNOR DDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RANDALL GORMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHRIS BRYANT NELISSEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Chairman</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SCOTT NOYA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RAYMOND PETERSON MD thru 531</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KARRIN RYAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CASS KAMINETZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Executive Dir.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>85280</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>W HAROLD TUCK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVEN JOHNSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAUL WOZNIAK MD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GEORGE J STRATIGOPOULOS DDS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DEREK DANZIGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Provide one time or short term funding for health related needs for individual children who meet our eligibility requirements. Funds are also provided to assist health care development and to purchase needed services.</Description1Txt>
+        <Expenses1Amt>248391</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>8960141</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>894563</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>9854704</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>9854704</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>147821</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>9706883</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>485344</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>485344</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>8549</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>8549</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>476795</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>476795</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>476795</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>322321</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>322321</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>476795</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>636370</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>636370</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>322321</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>322321</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>154474</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>154474</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>481896</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>481896</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear2Amt>481896</ExcessFromYear2Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>CASS KAMINETZ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8585760590</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>EXECUTIVE@RESTHAVENCHF.ORG</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>NO SPECIAL FORM. REFERRALS TO REST HAVEN MAY BE MADE BY ANY PROFESSIONAL WORKING WITH CHILDREN AND FAMILIES. A LETTER OUTLINING THE REQUEST MAY BE SENT BY MAIL OR E-MAIL.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>SPECIAL GIFT RFP DEADLINE IS MAY.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>GRANTS ARE RESTRICTED TO THE SUPPORT OF THE HEALTH CARE NEEDS OF CHILDREN BETWEEN THE AGES OF 0-17 WHO ARE A RESIDENT OF AND RESIDE IN SAN DIEGO OR IMPERIAL COUNTIES; CHILD HAS HEALTH RELATED NEED NOT COVERED BY ANY OTHER FUNDING SOURCE; FAMILY HAS AN IDENTIFIED FINANCIAL NEED; PUBLIC &amp; PRIVATE RESOURCES HAVE BEEN EXHAUSTED AND NO ONE ELSE CAN HELP.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EMILIO NARES FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fuel and Van Maintenance for Ride with Emilio Program</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HOME OF GUIDING HANDS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>13777</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>IMPERIAL VALLEY FOOD BANK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Food for Backpack Program</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ELIZABETH HOSPICE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>8250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SBCS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NEIGHBORHOOD HOUSE ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>33675</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOYS GIRLS CLUBS OF VISTA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>9724</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ASELTINE SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Outdoor Furniture, Pergola &amp; Grass for Zen Area for Students</GrantOrContributionPurposeTxt>
+          <Amt>2185</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>QUALIFIED RECIPIENTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DIRECT ASSISTANCE TO INDIVIDUALS FOR MEDICAL EXPENSES, THERAPIES, EMERGENCY SERVICES, AND FUNERAL ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>35220</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN ACADEMY OF PEDIATRICS CA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHARP HEALTH CARE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>15219</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOYS GIRLS CLUB OF SAN MARCOS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>5400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOYS GIRLS CLUB OF OCEANSIDE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HOME START</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>1941</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VISTA COMMUNITY CLINIC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Program Support</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GIRLS RISING</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROGRAM SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JACOBS CUSHMAN SD FOOD BANK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PUBLIC SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOYS GIRLS CLUB OF NORTH COUNTY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PUBLIC SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CENTRO DE SALUD DE LA COMUNIDAD DE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PUBLIC SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RADY CHILDREN'S HOSPITAL - SAN DIEG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PUBLIC SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UC REGENTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10531 4S COMMONS DR STE 166-806</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92127</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PUBLIC SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>248391</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>272726</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>187834</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>258067</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INCOME</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>80</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>718707</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>718707</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>RAYMOND PETERSON MD</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>10531 4S COMMONS DR STE 166</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92127</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING - ORANGE AVE</PropertyDesc>
+        <AcquiredDt>2023-03-24</AcquiredDt>
+        <CostOrOtherBasisAmt>2488655</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>62216</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>30.0000</LifeRt>
+        <CurrentYearExpenseAmt>82956</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>82956</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAPTOP</PropertyDesc>
+        <AcquiredDt>2023-02-06</AcquiredDt>
+        <CostOrOtherBasisAmt>1873</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>572</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>3.0000</LifeRt>
+        <CurrentYearExpenseAmt>624</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>INVESTMENT IN CORP OBLIGATIONS</BondNm>
+        <EOYBookValueAmt>1678577</EOYBookValueAmt>
+        <EOYFMVAmt>1678577</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTMENT IN STOCKS</StockNm>
+        <EOYBookValueAmt>4377073</EOYBookValueAmt>
+        <EOYFMVAmt>4377073</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <USGovtObligationsBookVlEOYAmt>280430</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>280430</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>INVESTMENT IN MUTUAL FUNDS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>3718123</BookValueAmt>
+        <EOYFMVAmt>3718123</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BENEFICIAL INTEREST IN CASTLE TRUST</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>457391</BookValueAmt>
+        <EOYFMVAmt>457391</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Machinery and Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1873</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1196</AccumulatedDepreciationAmt>
+        <BookValueAmt>677</BookValueAmt>
+        <EOYFMVAmt>677</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>2488655</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>145172</AccumulatedDepreciationAmt>
+        <BookValueAmt>2343483</BookValueAmt>
+        <EOYFMVAmt>2343483</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>2411345</CostOrOtherBasisAmt>
+        <BookValueAmt>2411345</BookValueAmt>
+        <EOYFMVAmt>2411345</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>4493</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1797</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2696</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER</Desc>
+        <RevenueAndExpensesPerBooksAmt>7139</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2856</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4283</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OUTSIDE SERVICES</Desc>
+        <RevenueAndExpensesPerBooksAmt>2253</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>901</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1352</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL TAXES</Desc>
+        <RevenueAndExpensesPerBooksAmt>11972</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4789</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7183</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>44577</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>44577</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>955</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>382</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>573</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherIncomeDetail>
+        <Desc>OTHER INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>80</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherLiabilitiesDetail>
+        <Desc>OPERATING LEASE LIABILITY</Desc>
+        <BOYBookValueAmt>943</BOYBookValueAmt>
+        <EOYBookValueAmt>15210</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>TENANT DEPOSITS</Desc>
+        <BOYBookValueAmt>15210</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>ACCRUED EXCISE TAX</Desc>
+        <BOYBookValueAmt>2837</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>53702</Amt>
+        <NetInvestmentIncomeAmt>53702</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>8682</Amt>
+        <NetInvestmentIncomeAmt>3473</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>5209</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE</CategoryTxt>
+        <Amt>4103</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

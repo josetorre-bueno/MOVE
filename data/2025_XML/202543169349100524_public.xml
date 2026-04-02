@@ -1,0 +1,720 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-12T10:37:47-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>930623286</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ALDRICH CPAS AND ADVISORS LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1903 WRIGHT PLACE 180</AddressLine1Txt>
+        <CityNm>CARLSBAD</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92008</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>954187111</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>JACOBS FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JACO</BusinessNameControlTxt>
+      <PhoneNum>6195276161</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>342 EUCLID AVE SUITE 406 141</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92114</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ANDREW HAPKE</PersonNm>
+      <PersonTitleTxt>CHAIR</PersonTitleTxt>
+      <PhoneNum>6195276161</PhoneNum>
+      <SignatureDt>2025-11-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>1</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DEBRA D SMITH CPA</PreparerPersonNm>
+      <PTIN>P00646873</PTIN>
+      <PhoneNum>7604318440</PhoneNum>
+      <PreparationDt>2025-11-12</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>25859751</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>2187</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>2187</InterestOnSavNetInvstIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">2878</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>-1128158</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>5065</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>-1125971</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">3785</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>0</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">2089</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>649</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>5874</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>649</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>2550000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>2550000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>2555874</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>649</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>2550000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-2550809</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>47303</CashBOYAmt>
+        <CashEOYAmt>45818</CashEOYAmt>
+        <CashEOYFMVAmt>45818</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>2619615</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>63505</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>63505</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateBondsBOYAmt>52625</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">70998</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>70998</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>84171750</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">84174361</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>25679430</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>8017</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>8017</LandBldgEquipAccumDeprecAmt>
+        <TotalAssetsBOYAmt>86891293</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>84354682</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>25859751</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>220</AccountsPayableBOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc2065700001">3785</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>220</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>3785</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>86141597</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>83601421</NoDonorRstrNetAssestsEOYAmt>
+        <DonorRstrNetAssetsBOYAmt>749476</DonorRstrNetAssetsBOYAmt>
+        <DonorRstrNetAssetsEOYAmt>749476</DonorRstrNetAssetsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>86891073</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>84350897</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>86891293</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>84354682</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>86891073</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-2550809</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc2049700001">10633</OtherIncreasesAmt>
+        <SubtotalAmt>84350897</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>84350897</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>JACOBS CAPITAL PARTNERS, LP J.J. JACOBS ENTERPRISES LLC PASSTHROUGH GAIN/LOS</PropertyDesc>
+          <CostOrOtherBasisAmt>1245</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1245</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1245</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>JACOBS CAPITAL PARTNERS, LP J.J. JACOBS ENTERPRISES LLC PASSTHROUGH GAIN/LOS</PropertyDesc>
+          <CostOrOtherBasisAmt>5560225</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-5560225</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-5560225</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>J.J. JACOBS ENTERPRISES LLC PASSTHROUGH GAIN/LOSS</PropertyDesc>
+          <CostOrOtherBasisAmt>3462638</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3462638</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3462638</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-9024108</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>0</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>0</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>11531</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>11531</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>11531</OverpaymentAmt>
+        <AppliedToESTaxAmt>11531</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>1</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>1</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd referenceDocumentId="RetDoc2204900001 RetDoc2205000001">1</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.JACOBSFAMILYFOUNDATION.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SELENA ELLIS-VIZCARRA</IndividualWithBooksNm>
+        <PhoneNum>6195276161</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>342 EUCLID AVE SUITE 406 141</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANDREW HAPKE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>342 EUCLID AVE SUITE 406 141</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92114</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD CHAIR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VALERIE JACOBS HAPKE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>342 EUCLID AVE SUITE 406 141</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92114</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NORMAN HAPKE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>342 EUCLID AVE SUITE 406 141</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92114</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CLAIRE HAPKE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>342 EUCLID AVE SUITE 406 141</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92114</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>55580</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>711867</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>25679430</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>26446877</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>26446877</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>396703</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>26050174</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1302509</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1302509</MinimumInvestmentReturnAmt>
+        <TotalTaxAmt>0</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1302509</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>1302509</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>1302509</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>2550000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>2550000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1302509</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>1742163</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>2550000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>1742163</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>807837</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>494672</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>SELENA ELLIS-VIZCARRA SENIOR VP OF</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6195276161</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>WRITTEN REQUESTS ONLY, INCLUDING: APPLICATION FORM, PROPOSAL, PROJECT BUDGET, LIST OF OFFICERS AND BOARD OF DIRECTORS, LIST OF STAFF AND KEY PERSONNEL, MOST RECENT AUDITED/YEAR END FINANCIAL STATEMENTS, CONFIRMATION OF EXEMPT STATUS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NO DEADLINE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>RESTRICTIONS OR LIMITATIONS ARE DETERMINED BASED ON THE FACTS AND CIRCUMSTANCES OF EACH GRANT.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JACOBS CENTER FOR NEIGHBORHOOD INNOVATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>342 EUCLID AVENUE SUITE 400 141</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>RELATED ENTITY UNDER COMMON CONTROL</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>DURING THE YEAR, THE FOUNDATION MADE A CHARITABLE GRANT TO THE JACOBS CENTER FOR NEIGHBORHOOD INNOVATION ("JCNI"), A CALIFORNIA NONPROFIT PUBLIC BENEFIT CORPORATION RECOGNIZED AS A PUBLIC CHARITY UNDER 501(C)(3). THE FOUNDATION INDIRECTLY CONTROLS JCNI THROUGH ITS WHOLLY OWNED DISREGARDED ENTITY, THE JOE &amp; VI JACOBS FAMILY LEGACY LLC, WHICH IS THE SOLE MEMBER OF JCNI. THE GRANT WAS MADE TO SUPPORT JCNI'S CHARITABLE PROGRAMS IN COMMUNITY DEVELOPMENT AND EDUCATION. THE FUNDS WERE USED EXCLUSIVELY FOR CHARITABLE PURPOSES CONSISTENT WITH 501(C)(3) AND 4941(D)-2(A)(5).THE TRANSACTION IS REPORTED UNDER 512(B)(13) AS A PAYMENT TO A CONTROLLED ENTITY. THE GRANT DID NOT RESULT IN ANY UNRELATED BUSINESS TAXABLE INCOME AND DOES NOT CONSTITUTE SELF-DEALING UNDER 4941.</GrantOrContributionPurposeTxt>
+          <Amt>2550000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>2550000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2187</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <OtherInvestmentIncomeGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5602</ExclusionAmt>
+        </OtherInvestmentIncomeGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>CALIFORNIA TECHNOLOGY VENTURES, LLC</Desc>
+          <BusinessCd>523000</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>-2724</UnrelatedBusinessTaxblIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>-2724</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>7789</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>5065</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>AMERRA AGRI OFFSHORE</BondNm>
+        <EOYBookValueAmt>15157</EOYBookValueAmt>
+        <EOYFMVAmt>15157</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VANGUARD SHORT-TERM</BondNm>
+        <EOYBookValueAmt>55841</EOYBookValueAmt>
+        <EOYFMVAmt>55841</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CALIFORNIA TECHNOLOGY VENTURES LLC</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>194361</BookValueAmt>
+        <EOYFMVAmt>200738</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>JACOBS CAPITAL PARTNERS LP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>75950000</BookValueAmt>
+        <EOYFMVAmt>21885442</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>JJJ ENTERPRISES</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>8030000</BookValueAmt>
+        <EOYFMVAmt>3593250</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>315</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>DUES &amp; SUBSCRIPTIONS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1125</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>477</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>477</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CALIFORNIA TECHNOLOGY VENTURES, LLC</Desc>
+        <RevenueAndExpensesPerBooksAmt>172</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>172</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>AMERRA INVESTMENT INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>95</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>95</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>95</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>CALIFORNIA TECHNOLOGY VENTURES, LLC</Desc>
+        <RevenueAndExpensesPerBooksAmt>5507</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>5507</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5507</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>J.J. JACOBS ENTERPRISES LLC</Desc>
+        <NetInvestmentIncomeAmt>23211</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>JACOBS CAPITAL PARTNERS, LP OTHER PORTFOLIO INCOME FROM PASSTHROUGH ENTITIES</Desc>
+        <NetInvestmentIncomeAmt>-1156971</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>CALIFORNIA TECHNOLOGY VENTURES, LLC</Desc>
+        <RevenueAndExpensesPerBooksAmt>-2724</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>-2724</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN/(LOSS)</Desc>
+        <Amt>10633</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilitiesDetail>
+        <Desc>DUE TO JCNI</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>3785</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PROFESSIONAL FEES</CategoryTxt>
+        <Amt>3785</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TransfersFrmControlledEntities documentId="RetDoc2204900001">
+      <TransfersFromControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>JOE AND VI JACOBS FAMILY LEGACY LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>824953003</EIN>
+        <Desc>SERVES AS THE SOLE MEMBER OF JCNI, A PUBLIC CHARITY NO UBIT TRIGGERING TRANSACTIONS OCCURRED.</Desc>
+        <Amt>0</Amt>
+      </TransfersFromControlledEntGrp>
+      <TransfersFromControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>JACOBS CENTER FOR NEIGHBORHOOD INNOVATION</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>330683658</EIN>
+        <Desc>PUBLIC CHARITY 501(C)(3); SOLE MEMBER IS JOE &amp; VI JACOBS LEGACY LLC; FOUNDATION INDIRECT CONTROL.</Desc>
+        <Amt>2550000</Amt>
+      </TransfersFromControlledEntGrp>
+      <TotalAmt>0</TotalAmt>
+    </TransfersFrmControlledEntities>
+    <TransfersToControlledEntities documentId="RetDoc2205000001">
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>JOE AND VI JACOBS FAMILY LEGACY LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>824953003</EIN>
+        <Desc>NONE</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>JACOBS CENTER FOR NEIGHBORHOOD INNOVATION</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>330683658</EIN>
+        <Desc>A GRANT WAS MADE TO SUPPORT JCNI'S CHARITABLE PROGRAMS IN COMMUNITY DEVELOPMENT AND EDUCATION.</Desc>
+        <Amt>2550000</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>MARKET CREEK PARTNERS LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>330882834</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>MARKET CREEK PLAZA LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>954187111</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>MARKET CREEK HOUSING PARTNERSHIP</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>264722772</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>DIAMOND MANAGEMENT INC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>330909849</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>JCNI TROLLEY PARTNERS LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>474163728</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>WEST SIDE CREEK LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>201797122</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>JACOBS FACILITIES LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>203826924</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>MARKET ROW LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>201033355</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>NORTHWEST VILLAGE LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>201299919</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>NORTHWEST VILLAGE PARCEL 1 LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>954187111</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TransfersToControlledEntGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>JCNI SOUTHWEST VILLAGE HOUSING PARTNERS LLC</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>404 EUCLID AVENUE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92114</ZIPCd>
+        </USAddress>
+        <EIN>330683658</EIN>
+        <Desc>NO TRANSACTIONS; DISCLOSED SOLELY TO REFLECT INDIRECT OWNERSHIP UNDER 512(B)(13)</Desc>
+        <Amt>0</Amt>
+      </TransfersToControlledEntGrp>
+      <TotalAmt>2550000</TotalAmt>
+    </TransfersToControlledEntities>
+  </ReturnData>
+</Return>

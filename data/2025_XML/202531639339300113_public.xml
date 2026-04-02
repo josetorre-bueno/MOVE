@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2023v8.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-06-12T15:24:08-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-07-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>410746749</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CLIFTONLARSONALLEN LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2875 MICHELLE DRIVE 300</AddressLine1Txt>
+        <CityNm>IRVINE</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92606</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2023-08-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330371280</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CASA DE LAS CAMPANAS INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CASA</BusinessNameControlTxt>
+      <PhoneNum>8585921885</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>18655 WEST BERNARDO DRIVE</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92127</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DAVID JOHNSON</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <PhoneNum>8585921885</PhoneNum>
+      <SignatureDt>2025-06-11</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>1</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LISA N RYSSEL CPA</PreparerPersonNm>
+      <PTIN>P00643670</PTIN>
+      <PhoneNum>7149781300</PhoneNum>
+      <PreparationDt>2025-06-11</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2023</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T documentId="RetDoc1237100001" referenceDocumentId="RetDoc2304700001">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>259422672</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <ElectivePaymentInd referenceDocumentId="RetDoc1090600001">X</ElectivePaymentInd>
+      <BooksInCareOfDetail>
+        <PersonNm>DAVID JOHNSON</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>18655 WEST BERNARDO DR</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92127</ZIPCd>
+        </USAddress>
+        <PhoneNum>8585921885</PhoneNum>
+      </BooksInCareOfDetail>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <ProxyTaxAmt>0</ProxyTaxAmt>
+      <TotalTaxComputationAmt>0</TotalTaxComputationAmt>
+      <PriorYearOverpaymentCreditAmt>2723</PriorYearOverpaymentCreditAmt>
+      <ElectivePaymentAmt referenceDocumentId="RetDoc1090600001">422511</ElectivePaymentAmt>
+      <TotalPaymentsAmt>425234</TotalPaymentsAmt>
+      <OverpaymentSection>
+        <OverpaymentAmt>425234</OverpaymentAmt>
+        <AppliedToESTaxAmt>425234</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </OverpaymentSection>
+    </IRS990T>
+    <IRS3800 documentId="RetDoc1090600001">
+      <CAMTAndBEATInd>0</CAMTAndBEATInd>
+      <RegularTaxBeforeCreditsAmt>0</RegularTaxBeforeCreditsAmt>
+      <AlternativeMinimumTaxAmt>0</AlternativeMinimumTaxAmt>
+      <NetIncomeTaxAmt>0</NetIncomeTaxAmt>
+      <AdjustedNetIncomeTaxAmt>0</AdjustedNetIncomeTaxAmt>
+      <EmpwrZoneAndComEmploymentCrAmt>0</EmpwrZoneAndComEmploymentCrAmt>
+      <NetIncomeTaxLessPctExcessAmt>0</NetIncomeTaxLessPctExcessAmt>
+      <NetSmllrAndEmpwrZnEmplmnCrAmt>0</NetSmllrAndEmpwrZnEmplmnCrAmt>
+      <AllwGenBusCrFromNonPssvActyAmt>422511</AllwGenBusCrFromNonPssvActyAmt>
+      <TotAllwGenAndEligSmllBusCrAmt>422511</TotAllwGenAndEligSmllBusCrAmt>
+      <CurrentYearCreditAllowedAmt>0</CurrentYearCreditAllowedAmt>
+      <Form3468PartVICYCreditsGrp>
+        <ElectivePaymentRegistrationNum>PJ00123104PJ</ElectivePaymentRegistrationNum>
+        <GeneralBusCrFromNnPssvActyAmt>422511</GeneralBusCrFromNnPssvActyAmt>
+        <GrossElectivePymtElectionAmt>422511</GrossElectivePymtElectionAmt>
+        <NetElectivePymtElectionAmt>422511</NetElectivePymtElectionAmt>
+      </Form3468PartVICYCreditsGrp>
+      <GenBusCYCreditsSubTot2Grp>
+        <GeneralBusCrFromNnPssvActyAmt>422511</GeneralBusCrFromNnPssvActyAmt>
+        <GrossElectivePymtElectionAmt>422511</GrossElectivePymtElectionAmt>
+        <NetElectivePymtElectionAmt>422511</NetElectivePymtElectionAmt>
+      </GenBusCYCreditsSubTot2Grp>
+      <TotGenBusCYCreditAmtGrp>
+        <GeneralBusCrFromNnPssvActyAmt>422511</GeneralBusCrFromNnPssvActyAmt>
+        <GrossElectivePymtElectionAmt>422511</GrossElectivePymtElectionAmt>
+        <NetElectivePymtElectionAmt>422511</NetElectivePymtElectionAmt>
+      </TotGenBusCYCreditAmtGrp>
+    </IRS3800>
+  </ReturnData>
+</Return>

@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2023v6.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-03-20T15:29:07-04:00</ReturnTs>
+    <TaxPeriodEndDt>2023-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>461621021</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LANG &amp; BROWN CPAS ACCOUNTANCY CORP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3990 OLD TOWN AVE STE A-206</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>921102982</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2023-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>826861805</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>KATHRYN HATTOX CHARITABLE TRUST</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>KATH</BusinessNameControlTxt>
+      <PhoneNum>6198237356</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4227 CORONADO AVE</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92107</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SYLVIA MAAS</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>6198237356</PhoneNum>
+      <SignatureDt>2025-01-16</SignatureDt>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MARC W BROWN CPA</PreparerPersonNm>
+      <PTIN>P01296526</PTIN>
+      <PhoneNum>6192241050</PhoneNum>
+      <PreparationDt>2025-03-20</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2023</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc9" referenceDocumentId="RetDoc7">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>14185743</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>166</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>166</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>166</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>520114</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>520114</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>520114</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc3">-288974</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2405388</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>78691</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>231306</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>598971</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>520280</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>100000</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">11350</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>11350</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>11350</AccountingFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">87152</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>87152</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>87152</OtherProfFeesAdjNetIncmAmt>
+        <InterestRevAndExpnssAmt>1409</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>1409</InterestNetInvstIncmAmt>
+        <InterestAdjNetIncmAmt>1409</InterestAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">9510</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>4334</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>4334</TaxesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>209421</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>104245</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>104245</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>682652</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>682652</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>892073</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>104245</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>104245</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>682652</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-660767</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>494726</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>416035</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>285790</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>199725</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>199725</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>13077719</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc4">12480898</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>13986018</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>13363509</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>12680623</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>14185743</TotalAssetsEOYFMVAmt>
+        <GrantsPayableBOYAmt>710454</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>682652</GrantsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>710454</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>682652</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>12653055</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>13503091</CapitalStockEOYAmt>
+        <RetainedEarningEOYAmt>-1505120</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>12653055</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>11997971</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>13363509</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>12680623</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>12653055</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-660767</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc5">5683</OtherIncreasesAmt>
+        <SubtotalAmt>11997971</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>11997971</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>78691</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>6877</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>6877</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6877</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>5700</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>5700</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1">X</Form2220AttachedInd>
+        <EsPenaltyAmt>46</EsPenaltyAmt>
+        <TaxDueAmt>1223</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SYLVIA MAAS</IndividualWithBooksNm>
+        <PhoneNum>6198237356</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4227 CORONADO AVE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92107</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SYLVIA MAAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4227 CORONADO AVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92107</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>100000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PROVIDE CASH DONATIONS TO VARIOUS CHARITABLE ORGANIZATION ES OF GENERAL SUPPORT.</Description1Txt>
+        <Expenses1Amt>682652</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>13515726</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>137314</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>13653040</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>13653040</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>204796</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>13448244</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>672412</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>682652</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>682652</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <QualifyingDistributionsAmt>682652</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>682652</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>682652</TotalCorpusAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>416035</CurrentYearAmt>
+          <Year1Amt>348146</Year1Amt>
+          <Year2Amt>220932</Year2Amt>
+          <Year3Amt>109389</Year3Amt>
+          <TotalAmt>1094502</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>353630</CurrentYearAmt>
+          <Year1Amt>295924</Year1Amt>
+          <Year2Amt>187792</Year2Amt>
+          <Year3Amt>92981</Year3Amt>
+          <TotalAmt>930327</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>682652</CurrentYearAmt>
+          <Year1Amt>710454</Year1Amt>
+          <Year2Amt>792427</Year2Amt>
+          <Year3Amt>761052</Year3Amt>
+          <TotalAmt>2946585</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>682652</CurrentYearAmt>
+          <Year1Amt>710454</Year1Amt>
+          <Year2Amt>792427</Year2Amt>
+          <Year3Amt>761052</Year3Amt>
+          <TotalAmt>2946585</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>448275</CurrentYearAmt>
+          <Year1Amt>466531</Year1Amt>
+          <Year2Amt>520361</Year2Amt>
+          <Year3Amt>470418</Year3Amt>
+          <TotalAmt>1905585</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE OLD GLOBE THEATER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1363 OLD GLOBE WAY</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>273061</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN DIEGO OPERA ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>233 A STREET SUITE 500</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>136530</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN DIEGO MUSEUM OF ART</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 122107</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92112</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>68265</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN DIEGO ZOOLOGICAL SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1455 FRAZEE ROAD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>204796</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>682652</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>166</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>520114</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>-288974</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>231306</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>231306</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING AND TAX</CategoryTxt>
+        <Amt>11350</Amt>
+        <NetInvestmentIncomeAmt>11350</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>11350</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PIMCO INCOME INSTL</AssetDesc>
+        <AcquiredDt>2023-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>332228</GrossSalesPriceAmt>
+        <BasisAmt>334142</BasisAmt>
+        <TotalNetAmt>-1914</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMERICAN FUNDS NEW PERSPECTIVE</AssetDesc>
+        <AcquiredDt>2023-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>139985</GrossSalesPriceAmt>
+        <BasisAmt>182039</BasisAmt>
+        <TotalNetAmt>-42054</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>PIMCO ACTIVE BOND ETF</AssetDesc>
+        <AcquiredDt>2023-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-02</SoldDt>
+        <GrossSalesPriceAmt>1586621</GrossSalesPriceAmt>
+        <BasisAmt>1907653</BasisAmt>
+        <TotalNetAmt>-321032</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SCHWAB US DIVIDEND</AssetDesc>
+        <AcquiredDt>2021-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2023-06</SoldDt>
+        <GrossSalesPriceAmt>267863</GrossSalesPriceAmt>
+        <BasisAmt>270528</BasisAmt>
+        <TotalNetAmt>-2665</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc4">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PIMCO INTL BOND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>4542569</BookValueAmt>
+        <EOYFMVAmt>4267657</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PIMCO ACTIVE BOND ET</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANECK VECTORS FALL</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>701392</BookValueAmt>
+        <EOYFMVAmt>683957</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD MID CAP ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>314225</BookValueAmt>
+        <EOYFMVAmt>489475</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AMERICAN FD NEW</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1788626</BookValueAmt>
+        <EOYFMVAmt>1654518</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DFA GLBL REAL ESTATE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>559705</BookValueAmt>
+        <EOYFMVAmt>518726</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>SCHWAB US DIVIDEND EQUITY</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>2501129</BookValueAmt>
+        <EOYFMVAmt>3461403</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD SMALL CAP VALUE ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>966802</BookValueAmt>
+        <EOYFMVAmt>1521106</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AMERICAN FUNDS NEW PERSPECTIVE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1106450</BookValueAmt>
+        <EOYFMVAmt>1389176</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc5">
+      <OtherIncreasesDetail>
+        <Desc>BOOK-TO-TAX DIFFERENCE</Desc>
+        <Amt>5683</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES</CategoryTxt>
+        <Amt>87152</Amt>
+        <NetInvestmentIncomeAmt>87152</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>87152</AdjustedNetIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <ReasonableCauseExplanation documentId="RetDoc7">
+      <ExplanationTxt>TAXPAYER'S ACCOUNTANTS MISSED THE DEADLINE DUE TO THE EFFECTS OF THE STORMS AND FLOODS IN SAN DIEGO, CA. ONCE THE OVERSIGHT WAS DISCOVERED THE RETURN HAD TO BE FILED ON PAPER AS THE IRS E-FILING SYSTEM WAS DOWN FOR ANNUAL MAINTENANCE UNTIL JANUARY 27, 2025. THE PAPER RETURN WAS RECEIVED BY THE IRS JANUARY 24, 2025. PLEASE CONSIDER THIS AS REASONABLE CAUSE IN DETERMINING IF PENALTIES SHOULD APPLY.</ExplanationTxt>
+    </ReasonableCauseExplanation>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>DEPARTMENT OF TREASURY</CategoryTxt>
+        <Amt>5176</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>CA SECRETARY OF STATE</CategoryTxt>
+        <Amt>100</Amt>
+        <NetInvestmentIncomeAmt>100</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>100</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>4234</Amt>
+        <NetInvestmentIncomeAmt>4234</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>4234</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

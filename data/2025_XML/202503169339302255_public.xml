@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-12T18:32:56-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>800206754</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Gary Brownell</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2452 Deerpark Dr</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92110</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>465696964</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Mid-City Community Music</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MID-</BusinessNameControlTxt>
+      <PhoneNum>8587751014</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4011 Ohio Street</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92104</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Mark Hill</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-11-12</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Gary Brownell</PreparerPersonNm>
+      <PTIN>P01424438</PTIN>
+      <PhoneNum>6192750420</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T documentId="IRS990T" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>188130</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="IRS990TScheduleA.0">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <PersonNm>Mark Hill</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>3525 Del Mar Heights Road 199</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92130</ZIPCd>
+        </USAddress>
+        <PhoneNum>8587751014</PhoneNum>
+      </BooksInCareOfDetail>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>0</TotalUBTIAmt>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <TaxExemptInterestAmt>0</TaxExemptInterestAmt>
+    </IRS990T>
+    <IRS990TScheduleA documentId="IRS990TScheduleA.0" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <PrincipalBusinessActivityCd>900099</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>Noner</TradeOrBusinessDesc>
+      <TotUnrltTrdBusIncmAmt>0</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>0</TotNetUnrltTrdBusIncmAmt>
+    </IRS990TScheduleA>
+  </ReturnData>
+</Return>

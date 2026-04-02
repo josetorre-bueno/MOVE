@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-17T11:43:25-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BATTEN ACCOUNTANCY INC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>4696 GREENE ST</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>921071420</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>953077552</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>APAL COMMUNICATIONS CONNECTIONS</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>APAL</BusinessNameControlTxt>
+      <PhoneNum>7604155835</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4996 DICK ST</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92115</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>EMILY SPILLMAN</PersonNm>
+      <PersonTitleTxt>PRESIDENT/SECRETARY</PersonTitleTxt>
+      <PhoneNum>7604155835</PhoneNum>
+      <SignatureDt>2025-11-17</SignatureDt>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JERE R BATTEN CPA</PreparerPersonNm>
+      <PTIN>P00605586</PTIN>
+      <PhoneNum>6195016359</PhoneNum>
+      <PreparationDt>2025-11-17</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="14">
+    <IRS990PF documentId="RetDoc15">
+      <InitialReturnFormerPubChrtyInd>X</InitialReturnFormerPubChrtyInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>42073</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>32420</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>60817</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>60817</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>60817</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc4">738084</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2921158</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>831321</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>60817</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>60817</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc8">300</LegalFeesRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">4328</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc13">4095</OtherProfFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc14">225</TaxesRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>152</TravConfMeetingRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc10">112</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>9212</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>3184979</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>3184979</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>3194191</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>3184979</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-2362870</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>60817</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>60817</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>133447</CashBOYAmt>
+        <CashEOYAmt>21695</CashEOYAmt>
+        <CashEOYFMVAmt>21695</CashEOYFMVAmt>
+        <PledgesRcvblBOYAmt>32420</PledgesRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblAmt>20378</OtherNtsAndLoansRcvblAmt>
+        <OtherNtsAndLoansRcvblEOYAmt referenceDocumentId="RetDoc12">20378</OtherNtsAndLoansRcvblEOYAmt>
+        <OtherNtsAndLoansRcvblEOYFMVAmt>20378</OtherNtsAndLoansRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>291859</CorporateStockBOYAmt>
+        <CorporateBondsBOYAmt>522467</CorporateBondsBOYAmt>
+        <OtherInvestmentsBOYAmt>1692203</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc7">407</OtherInvestmentsEOYAmt>
+        <TotalAssetsBOYAmt>2672396</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>42480</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>42073</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>4359</AccountsPayableBOYAmt>
+        <TotalLiabilitiesBOYAmt>4359</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>2668037</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>42480</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2668037</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>42480</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2672396</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>42480</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2668037</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-2362870</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc11">4359</OtherIncreasesAmt>
+        <SubtotalAmt>309526</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc9">267046</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>42480</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>845</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>845</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>845</TaxBasedOnInvestmentIncomeAmt>
+        <BackupWithholdingWithheldAmt>20378</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>20378</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc2">X</Form2220AttachedInd>
+        <EsPenaltyAmt>46</EsPenaltyAmt>
+        <OverpaymentAmt>19487</OverpaymentAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+        <RefundAmt>19487</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>EMILY SPILLMAN</IndividualWithBooksNm>
+        <PhoneNum>7604155835</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4966 DICK ST</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92115</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EMILY SPILLMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4996 DICK ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92115</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/SE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAROL STULTZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4453 VIA PRECIPICIO</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92122</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP/CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>845</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>845</TotalTaxAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>3184979</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>3184979</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <QualifyingDistributionsAmt>3184979</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>3184979</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>3184979</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>3184979</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>3184979</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SAN DIEGO FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2508 HISTORIC DECATUR RD</AddressLine1Txt>
+            <AddressLine2Txt>STE 200</AddressLine2Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>GRANTEE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>GRANT</GrantOrContributionPurposeTxt>
+          <Amt>3184979</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>3184979</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>60817</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>738084</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>798901</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>798901</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>ERNEST LOTECKA DECEASED</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>4453 VIA PRECIPICIO</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92122</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>32420</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>4328</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CONSTELLATION ENERGY CORP</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>290599</GrossSalesPriceAmt>
+        <BasisAmt>98563</BasisAmt>
+        <TotalNetAmt>192036</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CONSTELLATION ENERGY CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>2110</GrossSalesPriceAmt>
+        <BasisAmt>1792</BasisAmt>
+        <TotalNetAmt>318</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EXELON CORP</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>147042</GrossSalesPriceAmt>
+        <BasisAmt>165834</BasisAmt>
+        <TotalNetAmt>-18792</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>EXELON CORP</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>6118</GrossSalesPriceAmt>
+        <BasisAmt>6144</BasisAmt>
+        <TotalNetAmt>-26</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FIDELITY NASDAQ COMPOSITE</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>358302</GrossSalesPriceAmt>
+        <BasisAmt>221018</BasisAmt>
+        <TotalNetAmt>137284</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FIDELITY NASDAQ COMPOSITE</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>1849</GrossSalesPriceAmt>
+        <BasisAmt>1608</BasisAmt>
+        <TotalNetAmt>241</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FIDELITY NORDIC</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>787</GrossSalesPriceAmt>
+        <BasisAmt>801</BasisAmt>
+        <TotalNetAmt>-14</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>FIDELITY NORDIC</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>48</GrossSalesPriceAmt>
+        <BasisAmt>49</BasisAmt>
+        <TotalNetAmt>-1</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GLOBAL X FDS MSCI GREECE</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>62843</GrossSalesPriceAmt>
+        <BasisAmt>47128</BasisAmt>
+        <TotalNetAmt>15715</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GLOBAL X FDS MSCI GREECE</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>1450</GrossSalesPriceAmt>
+        <BasisAmt>1345</BasisAmt>
+        <TotalNetAmt>105</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>INVESCO EXCH TRANDED FD TR II CHINA</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>52545</GrossSalesPriceAmt>
+        <BasisAmt>59993</BasisAmt>
+        <TotalNetAmt>-7448</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>INVESCO EXCH TRADED FD TR II CHINA</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>293</GrossSalesPriceAmt>
+        <BasisAmt>251</BasisAmt>
+        <TotalNetAmt>42</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>KRANESHARES TRUST CSI CHI INTERNET</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>184200</GrossSalesPriceAmt>
+        <BasisAmt>191514</BasisAmt>
+        <TotalNetAmt>-7314</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>KRANESHARES TRUST CSI CHI INTERNET</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>6634</GrossSalesPriceAmt>
+        <BasisAmt>6302</BasisAmt>
+        <TotalNetAmt>332</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VANGUARD HIGH YIELD TAX EXEMPT</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>516270</GrossSalesPriceAmt>
+        <BasisAmt>509986</BasisAmt>
+        <TotalNetAmt>6284</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VANGUARD HIGH YIELD TAX EXEMPT</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>19766</GrossSalesPriceAmt>
+        <BasisAmt>19704</BasisAmt>
+        <TotalNetAmt>62</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VANGUARD WORLD FD CONSUM DIS ETF</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>480485</GrossSalesPriceAmt>
+        <BasisAmt>312663</BasisAmt>
+        <TotalNetAmt>167822</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VANGUARD WORLD FD CONSUM DIS ETF</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>4194</GrossSalesPriceAmt>
+        <BasisAmt>3494</BasisAmt>
+        <TotalNetAmt>700</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VANGUARD WORLD FD HEALTH CAR ETF</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>168805</GrossSalesPriceAmt>
+        <BasisAmt>158317</BasisAmt>
+        <TotalNetAmt>10488</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VANGUARD WORLD FD HEALTH CAR ETF</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>2606</GrossSalesPriceAmt>
+        <BasisAmt>2583</BasisAmt>
+        <TotalNetAmt>23</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VANGUARD WORLD FD INF TECH ETF</AssetDesc>
+        <AcquiredDt>2023-04</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>609965</GrossSalesPriceAmt>
+        <BasisAmt>370385</BasisAmt>
+        <TotalNetAmt>239580</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VANGUARD WORLD FD INF TECH ETF</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>4228</GrossSalesPriceAmt>
+        <BasisAmt>3600</BasisAmt>
+        <TotalNetAmt>628</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VANGUARD WORLD FD INF TECH</AssetDesc>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>19</GrossSalesPriceAmt>
+        <TotalNetAmt>19</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc5">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>BONDS</BondNm>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc6">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STOCKS</StockNm>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc7">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>IRA/KEOUGH INVESTMENTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>407</BookValueAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>EXCHANGE TRADED PRODUCTS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc8">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>300</LegalFeesAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc9">
+      <OtherDecreasesDetail>
+        <Desc>ACCOUNTS RECEIVABLE - ACCRUAL TO CASH</Desc>
+        <Amt>32420</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>CHANGE IN UNREALIZED GAIN</Desc>
+        <Amt>234626</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc10">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>62</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PRINTING AND REPRODUCTION</Desc>
+        <RevenueAndExpensesPerBooksAmt>50</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc11">
+      <OtherIncreasesDetail>
+        <Desc>ACCOUNTS PAYABLE - ACCRUAL TO CASH</Desc>
+        <Amt>4359</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherNotesLoansRcvblShortSch2 documentId="RetDoc12">
+      <OtherNotesLoansRcvblShortGrp>
+        <Organization501c3Name>
+          <BusinessNameLine1Txt>FEDERAL WITHHOLDING 1099-R</BusinessNameLine1Txt>
+        </Organization501c3Name>
+        <BalanceDueAmt>19290</BalanceDueAmt>
+      </OtherNotesLoansRcvblShortGrp>
+      <OtherNotesLoansRcvblShortGrp>
+        <Organization501c3Name>
+          <BusinessNameLine1Txt>FEDERAL WITHHOLDING 1099-R</BusinessNameLine1Txt>
+        </Organization501c3Name>
+        <BalanceDueAmt>1088</BalanceDueAmt>
+      </OtherNotesLoansRcvblShortGrp>
+    </OtherNotesLoansRcvblShortSch2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc13">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONTRACT SERVICES</CategoryTxt>
+        <Amt>4095</Amt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc14">
+      <TaxesDetail>
+        <CategoryTxt>BUSINESS REGISTRATION FEES</CategoryTxt>
+        <Amt>225</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

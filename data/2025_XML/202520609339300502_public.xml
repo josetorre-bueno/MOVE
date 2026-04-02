@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-03-01T08:53:17-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>332511408</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Ebbetts Pass Accounting</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>178 Big Trees Rd Suite A6</AddressLine1Txt>
+        <CityNm>Murphys</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95247</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>844142560</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Thrive Wellness Collective</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>THRI</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>2020 Columbia St 235</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92101</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Warren Smith</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <SignatureDt>2025-03-01</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Kelley Ziehlke EA</PreparerPersonNm>
+      <PTIN>P02424307</PTIN>
+      <PhoneNum>2097951921</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="2">
+    <IRS990T documentId="IRS990T" softwareId="24020490" softwareVersionNum="2024v5.0">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>73991</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="IRS990TScheduleA.0">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <PersonNm>Christina Stephenson</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>2020 Columbia St 235</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92101</ZIPCd>
+        </USAddress>
+        <PhoneNum>6195004946</PhoneNum>
+      </BooksInCareOfDetail>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>0</TotalUBTIAmt>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <TaxExemptInterestAmt>0</TaxExemptInterestAmt>
+    </IRS990T>
+    <IRS990TScheduleA documentId="IRS990TScheduleA.0" softwareId="24020490" softwareVersionNum="2024v5.0">
+      <PrincipalBusinessActivityCd>621990</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>Compassionate midwifery and holistic healthcare services</TradeOrBusinessDesc>
+      <TotUnrltTrdBusIncmAmt>0</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>0</TotNetUnrltTrdBusIncmAmt>
+    </IRS990TScheduleA>
+  </ReturnData>
+</Return>

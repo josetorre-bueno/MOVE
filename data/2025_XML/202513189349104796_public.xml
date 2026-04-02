@@ -1,0 +1,2207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-14T17:07:50-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>871353108</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>EISNER ADVISORY GROUP LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>4225 EXECUTIVE SQUARE SUITE 1150</AddressLine1Txt>
+        <CityNm>LA JOLLA</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92037</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>831261784</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>PEGGY AND ROBERT MATTHEWS FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>PEGG</BusinessNameControlTxt>
+      <PhoneNum>6198658311</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3535 1ST AVENUE UNIT 6B</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DIANE STOCKER</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>6198658311</PhoneNum>
+      <SignatureDt>2025-11-11</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MARY MCGROARTY</PreparerPersonNm>
+      <PTIN>P00735101</PTIN>
+      <PhoneNum>8585589200</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <AddressChangeInd>X</AddressChangeInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>5325469</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>137137</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>136835</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>324824</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>3583800</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>324824</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>461961</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>461659</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>102000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>51000</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>51000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">4410</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2205</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2205</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">45492</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>45492</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">8585</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>4535</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>4050</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">6860</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>2667</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>4193</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>167347</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>105899</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>61448</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>315000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>315000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>482347</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>105899</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>376448</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-20386</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>355760</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>56105</CashBOYAmt>
+        <CashEOYAmt>94887</CashEOYAmt>
+        <CashEOYFMVAmt>94887</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>216836</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>166121</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>166121</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>2566424</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">2691018</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3939105</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1227388</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">1094341</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1125356</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>4066753</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>4046367</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>5325469</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>4066753</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>4046367</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4066753</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4046367</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>4066753</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>4046367</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4066753</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-20386</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>4046367</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4046367</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2023-12-31</SoldDt>
+          <GrossSalesPriceAmt>2414897</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2461083</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-46186</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-46186</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2023-01-01</AcquiredDt>
+          <SoldDt>2023-12-31</SoldDt>
+          <GrossSalesPriceAmt>1168723</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>797893</CostOrOtherBasisAmt>
+          <GainOrLossAmt>370830</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>370830</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>180</GrossSalesPriceAmt>
+          <GainOrLossAmt>180</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>180</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>324824</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>4945</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>4945</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4945</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>3165</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>6973</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>10138</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>5193</OverpaymentAmt>
+        <AppliedToESTaxAmt>5193</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>WWW.MATTHEWSFOUNDATIONSD.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>EISNER ADVISORY GROUP LLC</IndividualWithBooksNm>
+        <PhoneNum>8585589200</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4225 EXECUTIVE SQUARE SUITE 1150</AddressLine1Txt>
+          <CityNm>LA JOLLA</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92037</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="RetDoc2212000001">DIANE STOCKER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>8095 EL EXTENSO CT</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92119</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT, DIRECTOR, SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>25.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>102000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SANDRA MAAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>13143 SEAGROVE ST</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.10</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANTHONY MAUS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>27091 CALLE DEL CID</AddressLine1Txt>
+            <CityNm>MISSION VIEJO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92691</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER, DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.10</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELAINE HALL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>533 ALDWYCH RD</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92020</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.10</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVE PITCHKOLAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1620 THOMAS AVE UNIT A</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92109</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.10</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>5102376</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>244563</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5346939</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5346939</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>80204</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>5266735</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>263337</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>263337</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4945</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>4945</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>258392</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>258392</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>258392</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>376448</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>376448</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>258392</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr4Amt>21155</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>26844</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>36723</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>56336</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>141058</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>376448</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>258392</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>118056</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>259114</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>259114</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>21155</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>26844</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>36723</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>56336</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>118056</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ACCESS YOUTH ACADEMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>704 EUCLID AVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARTSBUSXPRESS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4010 SORRENTO VALLEY BLVD 400</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BOYS TO MEN MENTORING NETWORK INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3322 SWEETWATER SPRINGS BLVD</AddressLine1Txt>
+            <CityNm>SPRING VALLEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91977</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ELDERHELP OF SAN DIEGO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5095 MURPHY CANYON RD SUITE 100</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LA JOLLA SYMPHONY &amp; CHORUS ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9500 GILMAN DRIVE UCSD BOX 0361</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92093</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MOONLIGHT CULTURAL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2497</AddressLine1Txt>
+            <CityNm>VISTA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92085</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OLD GLOBE THEATRE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 122171</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>921122171</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN DIEGO PARKS FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1180 ROSECRANS STREET 517</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SAN DIEGO SYMPHONY ORCHESTRA ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1245 SEVENTH AVENUE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SERVING SENIORS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>525 14TH STREET SUITE 200</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE SAN DIEGO RIVER PARK FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4891 PACIFIC HIGHWAY APT 114</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITED WAY OF SAN DIEGO COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4699 MURPHY CANYON ROAD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>URBAN STREET ANGELS INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1404 5TH AVE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VETERANS ASSOCIATION OF NORTH COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1617 MISSION AVENUE</AddressLine1Txt>
+            <CityNm>OCEANSIDE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92058</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VISTA HILL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8910 CLAIRMONT MESA BLVD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YWCA OF SAN DIEGO COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1012 C STREET</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>315000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>137137</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>324824</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>461961</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>461961</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>4410</Amt>
+        <NetInvestmentIncomeAmt>2205</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2205</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc2212000001">
+      <CompensationExplanationGrp>
+        <PersonNm>DIANE STOCKER</PersonNm>
+        <ShortExplanationTxt>THE FOUNDATION ENTERED INTO AN AGREEMENT WITH THE EXECUTIVE DIRECTOR TO PROVIDE ADMINISTRATIVE SERVICES AS AN EMPLOYEE OF THE FOUNDATION. IN 2024, THE TOTAL COMPENSATION PAID WAS $102,000. COMPENSATION FOR THESE SERVICES HAS BEEN EVALUATED AND DETERMINED TO BE REASONABLE BY THE BOARD. THIS IS AN EXCEPTED ACT OF SELF-DEALING UNDER IRC SECTION 4941(D)(2)(E).</ShortExplanationTxt>
+      </CompensationExplanationGrp>
+    </CompensationExplanation>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AFFILLATED MANGERS GROUP</StockNm>
+        <EOYBookValueAmt>2622</EOYBookValueAmt>
+        <EOYFMVAmt>3618</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALLSTATE CORP</StockNm>
+        <EOYBookValueAmt>6687</EOYBookValueAmt>
+        <EOYFMVAmt>6740</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN FINCL GRP INC</StockNm>
+        <EOYBookValueAmt>2779</EOYBookValueAmt>
+        <EOYFMVAmt>3516</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ARCH CAPITAL GROUP LTD</StockNm>
+        <EOYBookValueAmt>5179</EOYBookValueAmt>
+        <EOYFMVAmt>5108</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASSURANT INC</StockNm>
+        <EOYBookValueAmt>1035</EOYBookValueAmt>
+        <EOYFMVAmt>2449</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AT&amp;T INC</StockNm>
+        <EOYBookValueAmt>17507</EOYBookValueAmt>
+        <EOYFMVAmt>17910</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CAPITAL ONE FINCL CORP</StockNm>
+        <EOYBookValueAmt>6862</EOYBookValueAmt>
+        <EOYFMVAmt>6942</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CAPITAL ONE FINCL CO</StockNm>
+        <EOYBookValueAmt>7101</EOYBookValueAmt>
+        <EOYFMVAmt>7342</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHARLES SCHWAB CORP</StockNm>
+        <EOYBookValueAmt>6335</EOYBookValueAmt>
+        <EOYFMVAmt>6185</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CITIZENS FINCL GROUP</StockNm>
+        <EOYBookValueAmt>5087</EOYBookValueAmt>
+        <EOYFMVAmt>5252</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CITIZENS FINCL GRP INC</StockNm>
+        <EOYBookValueAmt>9516</EOYBookValueAmt>
+        <EOYFMVAmt>9786</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CMS ENERGY CORP</StockNm>
+        <EOYBookValueAmt>4718</EOYBookValueAmt>
+        <EOYFMVAmt>9780</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COREBRIDGE FINCL INC</StockNm>
+        <EOYBookValueAmt>9142</EOYBookValueAmt>
+        <EOYFMVAmt>9304</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DIGITAL REALTY TRUST</StockNm>
+        <EOYBookValueAmt>2861</EOYBookValueAmt>
+        <EOYFMVAmt>2948</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DTE ENERGY COMPANY</StockNm>
+        <EOYBookValueAmt>1200</EOYBookValueAmt>
+        <EOYFMVAmt>1229</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DUKE ENERGY CORP</StockNm>
+        <EOYBookValueAmt>7985</EOYBookValueAmt>
+        <EOYFMVAmt>7944</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ENTERGY ARKANSAS LLC</StockNm>
+        <EOYBookValueAmt>4293</EOYBookValueAmt>
+        <EOYFMVAmt>4358</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ENTERGY LOUISIANA, LLC</StockNm>
+        <EOYBookValueAmt>4043</EOYBookValueAmt>
+        <EOYFMVAmt>4111</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITABLE HOLDINGS INC</StockNm>
+        <EOYBookValueAmt>8179</EOYBookValueAmt>
+        <EOYFMVAmt>8635</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIFTH THIRD BANCORP</StockNm>
+        <EOYBookValueAmt>7174</EOYBookValueAmt>
+        <EOYFMVAmt>7171</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GEORGIA POWER CO</StockNm>
+        <EOYBookValueAmt>2095</EOYBookValueAmt>
+        <EOYFMVAmt>2030</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GOLDMAN SACHS GROUP INC</StockNm>
+        <EOYBookValueAmt>2914</EOYBookValueAmt>
+        <EOYFMVAmt>3075</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HUNTINGTON BANCSHARES</StockNm>
+        <EOYBookValueAmt>15907</EOYBookValueAmt>
+        <EOYFMVAmt>16399</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JPMORGAN CHASE &amp; CO</StockNm>
+        <EOYBookValueAmt>22001</EOYBookValueAmt>
+        <EOYFMVAmt>22458</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KEYCORP</StockNm>
+        <EOYBookValueAmt>7023</EOYBookValueAmt>
+        <EOYFMVAmt>8093</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KEYCORP FXD-FLTG RATE</StockNm>
+        <EOYBookValueAmt>8287</EOYBookValueAmt>
+        <EOYFMVAmt>9010</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>M&amp;T BANK CORP</StockNm>
+        <EOYBookValueAmt>5180</EOYBookValueAmt>
+        <EOYFMVAmt>5484</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>M&amp;T BANK CORPORATION</StockNm>
+        <EOYBookValueAmt>5839</EOYBookValueAmt>
+        <EOYFMVAmt>5990</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>METLIFE INC</StockNm>
+        <EOYBookValueAmt>13486</EOYBookValueAmt>
+        <EOYFMVAmt>13512</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY</StockNm>
+        <EOYBookValueAmt>47347</EOYBookValueAmt>
+        <EOYFMVAmt>47629</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NEXTERA ENERGY CAP</StockNm>
+        <EOYBookValueAmt>275</EOYBookValueAmt>
+        <EOYFMVAmt>255</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NORTHERN TRUST CORP</StockNm>
+        <EOYBookValueAmt>6538</EOYBookValueAmt>
+        <EOYFMVAmt>6398</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PRUDENTIAL FINANCIAL INC</StockNm>
+        <EOYBookValueAmt>2776</EOYBookValueAmt>
+        <EOYFMVAmt>4457</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PRUDENTIAL FINCL INC</StockNm>
+        <EOYBookValueAmt>1170</EOYBookValueAmt>
+        <EOYFMVAmt>2764</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PUBLIC STORAGE</StockNm>
+        <EOYBookValueAmt>1572</EOYBookValueAmt>
+        <EOYFMVAmt>1610</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REGIONS FINANCIAL CORP</StockNm>
+        <EOYBookValueAmt>16454</EOYBookValueAmt>
+        <EOYFMVAmt>17553</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REINSURANCE GRP OF AMER</StockNm>
+        <EOYBookValueAmt>3804</EOYBookValueAmt>
+        <EOYFMVAmt>3741</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RENAISSANCERE HLDGS LTD</StockNm>
+        <EOYBookValueAmt>6203</EOYBookValueAmt>
+        <EOYFMVAmt>6201</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPIRE INC</StockNm>
+        <EOYBookValueAmt>2092</EOYBookValueAmt>
+        <EOYFMVAmt>2129</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STIFEL FINANCIAL CORP</StockNm>
+        <EOYBookValueAmt>8285</EOYBookValueAmt>
+        <EOYFMVAmt>8479</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>THE ALLSTATE CORP</StockNm>
+        <EOYBookValueAmt>10662</EOYBookValueAmt>
+        <EOYFMVAmt>11115</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>THE SOUTHERN CO</StockNm>
+        <EOYBookValueAmt>233</EOYBookValueAmt>
+        <EOYFMVAmt>207</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRUIST FINANCIAL CORP</StockNm>
+        <EOYBookValueAmt>17331</EOYBookValueAmt>
+        <EOYFMVAmt>17329</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>U.S. BANCORP</StockNm>
+        <EOYBookValueAmt>33172</EOYBookValueAmt>
+        <EOYFMVAmt>34616</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VOYA FINANCIAL INC</StockNm>
+        <EOYBookValueAmt>1691</EOYBookValueAmt>
+        <EOYFMVAmt>1649</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>W.R. BERKLEY CORP</StockNm>
+        <EOYBookValueAmt>7296</EOYBookValueAmt>
+        <EOYFMVAmt>7729</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WEBSTER FINANCIAL CORP</StockNm>
+        <EOYBookValueAmt>2123</EOYBookValueAmt>
+        <EOYFMVAmt>2113</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO &amp; CO</StockNm>
+        <EOYBookValueAmt>12178</EOYBookValueAmt>
+        <EOYFMVAmt>12541</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO &amp; COMPANY</StockNm>
+        <EOYBookValueAmt>6911</EOYBookValueAmt>
+        <EOYFMVAmt>7179</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>A N S Y S INC COM</StockNm>
+        <EOYBookValueAmt>17676</EOYBookValueAmt>
+        <EOYFMVAmt>24288</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ABBOTT LABS</StockNm>
+        <EOYBookValueAmt>28981</EOYBookValueAmt>
+        <EOYFMVAmt>30426</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ABBVIE INC</StockNm>
+        <EOYBookValueAmt>48398</EOYBookValueAmt>
+        <EOYFMVAmt>60062</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ACCENTURE PLC</StockNm>
+        <EOYBookValueAmt>26481</EOYBookValueAmt>
+        <EOYFMVAmt>34124</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ADOBE INC</StockNm>
+        <EOYBookValueAmt>10149</EOYBookValueAmt>
+        <EOYFMVAmt>14230</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AGILENT TECHNOLOGIES INC</StockNm>
+        <EOYBookValueAmt>4018</EOYBookValueAmt>
+        <EOYFMVAmt>4164</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AIR PRODUCTS&amp;CHEM</StockNm>
+        <EOYBookValueAmt>19407</EOYBookValueAmt>
+        <EOYFMVAmt>21753</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AIRBNB INC</StockNm>
+        <EOYBookValueAmt>2362</EOYBookValueAmt>
+        <EOYFMVAmt>2365</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AKAMAI TECHNOLOGIES INC</StockNm>
+        <EOYBookValueAmt>8620</EOYBookValueAmt>
+        <EOYFMVAmt>9182</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALBANY INTL CRP</StockNm>
+        <EOYBookValueAmt>4186</EOYBookValueAmt>
+        <EOYFMVAmt>4718</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALBEMARLE CORP</StockNm>
+        <EOYBookValueAmt>3643</EOYBookValueAmt>
+        <EOYFMVAmt>5165</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALCON SA ACT NOM</StockNm>
+        <EOYBookValueAmt>11485</EOYBookValueAmt>
+        <EOYFMVAmt>13752</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALIBABA GROUP HOLDING LT</StockNm>
+        <EOYBookValueAmt>1436</EOYBookValueAmt>
+        <EOYFMVAmt>1696</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALPHABET INC SHS CL C</StockNm>
+        <EOYBookValueAmt>2266</EOYBookValueAmt>
+        <EOYFMVAmt>7237</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ALPHABET INC SHS CL A</StockNm>
+        <EOYBookValueAmt>13256</EOYBookValueAmt>
+        <EOYFMVAmt>25555</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMAZON COM INC COM</StockNm>
+        <EOYBookValueAmt>33055</EOYBookValueAmt>
+        <EOYFMVAmt>60551</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMER EXPRESS COMPANY</StockNm>
+        <EOYBookValueAmt>16217</EOYBookValueAmt>
+        <EOYFMVAmt>27898</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERICAN WTR WKS CO INC</StockNm>
+        <EOYBookValueAmt>8842</EOYBookValueAmt>
+        <EOYFMVAmt>8963</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMERIPRISE FINL INC</StockNm>
+        <EOYBookValueAmt>8247</EOYBookValueAmt>
+        <EOYFMVAmt>18102</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AMGEN INC</StockNm>
+        <EOYBookValueAmt>8773</EOYBookValueAmt>
+        <EOYFMVAmt>9644</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ANALOG DEVICES INC</StockNm>
+        <EOYBookValueAmt>33409</EOYBookValueAmt>
+        <EOYFMVAmt>44404</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AON PLC REG</StockNm>
+        <EOYBookValueAmt>11796</EOYBookValueAmt>
+        <EOYFMVAmt>20113</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APPLE INC</StockNm>
+        <EOYBookValueAmt>23976</EOYBookValueAmt>
+        <EOYFMVAmt>43323</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ARCHROCK INC</StockNm>
+        <EOYBookValueAmt>3394</EOYBookValueAmt>
+        <EOYFMVAmt>17075</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ARES MANAGEMENT</StockNm>
+        <EOYBookValueAmt>12265</EOYBookValueAmt>
+        <EOYFMVAmt>15048</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ARROW ELECTRONICS</StockNm>
+        <EOYBookValueAmt>6150</EOYBookValueAmt>
+        <EOYFMVAmt>8936</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ASML HLDG NV NY REG</StockNm>
+        <EOYBookValueAmt>2828</EOYBookValueAmt>
+        <EOYFMVAmt>4158</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ATMOS ENERGY CORP</StockNm>
+        <EOYBookValueAmt>10609</EOYBookValueAmt>
+        <EOYFMVAmt>13231</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AUTODESK INC</StockNm>
+        <EOYBookValueAmt>4589</EOYBookValueAmt>
+        <EOYFMVAmt>7389</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AUTOMATIC DATA PROC</StockNm>
+        <EOYBookValueAmt>7750</EOYBookValueAmt>
+        <EOYFMVAmt>12587</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AVALONBAY CMMUN INC</StockNm>
+        <EOYBookValueAmt>2383</EOYBookValueAmt>
+        <EOYFMVAmt>2860</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BANK NEW YORK MELLON</StockNm>
+        <EOYBookValueAmt>4005</EOYBookValueAmt>
+        <EOYFMVAmt>3842</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BECTON DICKINSON CO</StockNm>
+        <EOYBookValueAmt>239</EOYBookValueAmt>
+        <EOYFMVAmt>227</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BIO RAD LABS CL A</StockNm>
+        <EOYBookValueAmt>10346</EOYBookValueAmt>
+        <EOYFMVAmt>10841</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BLACKROCK INC</StockNm>
+        <EOYBookValueAmt>5397</EOYBookValueAmt>
+        <EOYFMVAmt>8201</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BLACKSTONE INC</StockNm>
+        <EOYBookValueAmt>12308</EOYBookValueAmt>
+        <EOYFMVAmt>20518</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BLOCK INC</StockNm>
+        <EOYBookValueAmt>1978</EOYBookValueAmt>
+        <EOYFMVAmt>2635</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BOEING COMPANY</StockNm>
+        <EOYBookValueAmt>4948</EOYBookValueAmt>
+        <EOYFMVAmt>5841</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BORG WARNER INC</StockNm>
+        <EOYBookValueAmt>3737</EOYBookValueAmt>
+        <EOYFMVAmt>4101</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BOX INC</StockNm>
+        <EOYBookValueAmt>9103</EOYBookValueAmt>
+        <EOYFMVAmt>11660</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BRISTOL-MYERS SQUIBB CO</StockNm>
+        <EOYBookValueAmt>9287</EOYBookValueAmt>
+        <EOYFMVAmt>10746</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BROADCOM INC</StockNm>
+        <EOYBookValueAmt>13601</EOYBookValueAmt>
+        <EOYFMVAmt>75348</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>BXP INC</StockNm>
+        <EOYBookValueAmt>9255</EOYBookValueAmt>
+        <EOYFMVAmt>10039</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CABOT CORP</StockNm>
+        <EOYBookValueAmt>4059</EOYBookValueAmt>
+        <EOYFMVAmt>9405</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CADENCE DESIGN SYS INC</StockNm>
+        <EOYBookValueAmt>4372</EOYBookValueAmt>
+        <EOYFMVAmt>8413</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CAPITAL ONE FINL</StockNm>
+        <EOYBookValueAmt>13011</EOYBookValueAmt>
+        <EOYFMVAmt>19794</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CBRE GROUP INC</StockNm>
+        <EOYBookValueAmt>7293</EOYBookValueAmt>
+        <EOYFMVAmt>18774</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CENCORA INC</StockNm>
+        <EOYBookValueAmt>1540</EOYBookValueAmt>
+        <EOYFMVAmt>3595</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CENTENE CORP</StockNm>
+        <EOYBookValueAmt>7311</EOYBookValueAmt>
+        <EOYFMVAmt>8966</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CF INDS HLDGS INC</StockNm>
+        <EOYBookValueAmt>4804</EOYBookValueAmt>
+        <EOYFMVAmt>14334</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHARLES RIVER LABS INTL</StockNm>
+        <EOYBookValueAmt>196</EOYBookValueAmt>
+        <EOYFMVAmt>185</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHEVRON CORP</StockNm>
+        <EOYBookValueAmt>21343</EOYBookValueAmt>
+        <EOYFMVAmt>21002</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHIPOTLE MEXICAN GRILL</StockNm>
+        <EOYBookValueAmt>3217</EOYBookValueAmt>
+        <EOYFMVAmt>6030</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHUBB LTD</StockNm>
+        <EOYBookValueAmt>10676</EOYBookValueAmt>
+        <EOYFMVAmt>20999</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CIE GENERALE DES</StockNm>
+        <EOYBookValueAmt>7015</EOYBookValueAmt>
+        <EOYFMVAmt>9064</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CIGNA GROUP/THE</StockNm>
+        <EOYBookValueAmt>24264</EOYBookValueAmt>
+        <EOYFMVAmt>31756</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CIRRUS LOGIC INC DEL</StockNm>
+        <EOYBookValueAmt>5964</EOYBookValueAmt>
+        <EOYFMVAmt>9759</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CISCO SYSTEMS INC</StockNm>
+        <EOYBookValueAmt>2349</EOYBookValueAmt>
+        <EOYFMVAmt>3197</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CITIGROUP INC COM NEW</StockNm>
+        <EOYBookValueAmt>8247</EOYBookValueAmt>
+        <EOYFMVAmt>10840</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CME GROUP INC</StockNm>
+        <EOYBookValueAmt>10462</EOYBookValueAmt>
+        <EOYFMVAmt>11844</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CMS ENERGY CORP</StockNm>
+        <EOYBookValueAmt>3663</EOYBookValueAmt>
+        <EOYFMVAmt>4132</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COCA COLA COM</StockNm>
+        <EOYBookValueAmt>15027</EOYBookValueAmt>
+        <EOYFMVAmt>16748</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMCAST CORP NEW CL A</StockNm>
+        <EOYBookValueAmt>14951</EOYBookValueAmt>
+        <EOYFMVAmt>17939</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMMERCE BANCSHARES</StockNm>
+        <EOYBookValueAmt>4967</EOYBookValueAmt>
+        <EOYFMVAmt>6106</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CONMED CORP</StockNm>
+        <EOYBookValueAmt>1251</EOYBookValueAmt>
+        <EOYFMVAmt>1163</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CONOCOPHILLIPS</StockNm>
+        <EOYBookValueAmt>17149</EOYBookValueAmt>
+        <EOYFMVAmt>28363</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CONSTELLATION BRANDS INC</StockNm>
+        <EOYBookValueAmt>4119</EOYBookValueAmt>
+        <EOYFMVAmt>3978</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COPT DEFENSE PROPERTIES</StockNm>
+        <EOYBookValueAmt>5684</EOYBookValueAmt>
+        <EOYFMVAmt>7273</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORNING INC</StockNm>
+        <EOYBookValueAmt>9004</EOYBookValueAmt>
+        <EOYFMVAmt>13733</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORTEVA INC REG SHS</StockNm>
+        <EOYBookValueAmt>10399</EOYBookValueAmt>
+        <EOYFMVAmt>13898</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COTERRA ENERGY INC</StockNm>
+        <EOYBookValueAmt>3444</EOYBookValueAmt>
+        <EOYFMVAmt>4648</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CULLEN FRST BKRS</StockNm>
+        <EOYBookValueAmt>5522</EOYBookValueAmt>
+        <EOYFMVAmt>7787</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>D R HORTON INC</StockNm>
+        <EOYBookValueAmt>3787</EOYBookValueAmt>
+        <EOYFMVAmt>8669</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DANAHER CORP DEL</StockNm>
+        <EOYBookValueAmt>18284</EOYBookValueAmt>
+        <EOYFMVAmt>19512</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DARDEN RESTAURANTS INC</StockNm>
+        <EOYBookValueAmt>7028</EOYBookValueAmt>
+        <EOYFMVAmt>10641</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DATADOG INC REG SHS CL A</StockNm>
+        <EOYBookValueAmt>4052</EOYBookValueAmt>
+        <EOYFMVAmt>4572</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DEERE CO</StockNm>
+        <EOYBookValueAmt>12392</EOYBookValueAmt>
+        <EOYFMVAmt>18219</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DELL TECHNOLOGIES INC</StockNm>
+        <EOYBookValueAmt>5911</EOYBookValueAmt>
+        <EOYFMVAmt>8413</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DIAGEO PLC SPSD ADR NEW</StockNm>
+        <EOYBookValueAmt>2974</EOYBookValueAmt>
+        <EOYFMVAmt>3051</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DIODES INC</StockNm>
+        <EOYBookValueAmt>3921</EOYBookValueAmt>
+        <EOYFMVAmt>4872</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DISNEY (WALT) CO</StockNm>
+        <EOYBookValueAmt>5767</EOYBookValueAmt>
+        <EOYFMVAmt>7015</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DOMINION ENERGY INC</StockNm>
+        <EOYBookValueAmt>15810</EOYBookValueAmt>
+        <EOYFMVAmt>17451</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DOVER CORP</StockNm>
+        <EOYBookValueAmt>5042</EOYBookValueAmt>
+        <EOYFMVAmt>9943</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DUKE ENERGY CORP</StockNm>
+        <EOYBookValueAmt>14606</EOYBookValueAmt>
+        <EOYFMVAmt>16915</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DYNATRACE INC REG SHS</StockNm>
+        <EOYBookValueAmt>4927</EOYBookValueAmt>
+        <EOYFMVAmt>7011</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EASTMAN CHEMICAL CO COM</StockNm>
+        <EOYBookValueAmt>8074</EOYBookValueAmt>
+        <EOYFMVAmt>9315</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EATON CORP PLC</StockNm>
+        <EOYBookValueAmt>15465</EOYBookValueAmt>
+        <EOYFMVAmt>38829</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ECOLAB INC</StockNm>
+        <EOYBookValueAmt>14336</EOYBookValueAmt>
+        <EOYFMVAmt>17574</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ELI LILLY &amp; CO</StockNm>
+        <EOYBookValueAmt>13412</EOYBookValueAmt>
+        <EOYFMVAmt>45548</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EMERSON ELEC CO</StockNm>
+        <EOYBookValueAmt>10352</EOYBookValueAmt>
+        <EOYFMVAmt>13261</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EOG RESOURCES INC</StockNm>
+        <EOYBookValueAmt>12103</EOYBookValueAmt>
+        <EOYFMVAmt>16548</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQTY LIFESTYLS PPTYS INC</StockNm>
+        <EOYBookValueAmt>6431</EOYBookValueAmt>
+        <EOYFMVAmt>6793</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUINIX INC</StockNm>
+        <EOYBookValueAmt>3564</EOYBookValueAmt>
+        <EOYFMVAmt>5657</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EXPEDITORS INTL WASH INC</StockNm>
+        <EOYBookValueAmt>1722</EOYBookValueAmt>
+        <EOYFMVAmt>2658</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EXXON MOBIL CORP COM</StockNm>
+        <EOYBookValueAmt>14281</EOYBookValueAmt>
+        <EOYFMVAmt>17534</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FACTSET RESH SYS INC</StockNm>
+        <EOYBookValueAmt>1656</EOYBookValueAmt>
+        <EOYFMVAmt>2882</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FASTENAL COMPANY</StockNm>
+        <EOYBookValueAmt>2557</EOYBookValueAmt>
+        <EOYFMVAmt>3308</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIRSTCASH HLDGS INC</StockNm>
+        <EOYBookValueAmt>4394</EOYBookValueAmt>
+        <EOYFMVAmt>7356</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FORMFACTOR INC</StockNm>
+        <EOYBookValueAmt>8107</EOYBookValueAmt>
+        <EOYFMVAmt>9152</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FORTIVE CORP</StockNm>
+        <EOYBookValueAmt>3405</EOYBookValueAmt>
+        <EOYFMVAmt>3525</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GALLAGHER ARTHUR J &amp; CO</StockNm>
+        <EOYBookValueAmt>20188</EOYBookValueAmt>
+        <EOYFMVAmt>28669</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GATX CORPORATION</StockNm>
+        <EOYBookValueAmt>7865</EOYBookValueAmt>
+        <EOYFMVAmt>16426</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>GENL DYNAMICS CORP COM</StockNm>
+        <EOYBookValueAmt>27519</EOYBookValueAmt>
+        <EOYFMVAmt>34781</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HARTFORD FINL SVCS GROUP</StockNm>
+        <EOYBookValueAmt>705</EOYBookValueAmt>
+        <EOYFMVAmt>1313</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HEXCEL CORP NEW COM</StockNm>
+        <EOYBookValueAmt>3380</EOYBookValueAmt>
+        <EOYFMVAmt>6082</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HOLOGIC INC</StockNm>
+        <EOYBookValueAmt>7780</EOYBookValueAmt>
+        <EOYFMVAmt>10741</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HOME DEPOT INC</StockNm>
+        <EOYBookValueAmt>23339</EOYBookValueAmt>
+        <EOYFMVAmt>33453</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HONEYWELL INTL INC</StockNm>
+        <EOYBookValueAmt>23056</EOYBookValueAmt>
+        <EOYFMVAmt>26881</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HOULIHAN LOKEY INC</StockNm>
+        <EOYBookValueAmt>4266</EOYBookValueAmt>
+        <EOYFMVAmt>16845</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>HUNTINGTON INGALLS INDS</StockNm>
+        <EOYBookValueAmt>201</EOYBookValueAmt>
+        <EOYFMVAmt>189</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ILLINOIS TOOL WORKS INC</StockNm>
+        <EOYBookValueAmt>10831</EOYBookValueAmt>
+        <EOYFMVAmt>18510</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ILLUMINA INC COM</StockNm>
+        <EOYBookValueAmt>2265</EOYBookValueAmt>
+        <EOYFMVAmt>2405</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INTERCONTINENTAL</StockNm>
+        <EOYBookValueAmt>10674</EOYBookValueAmt>
+        <EOYFMVAmt>15497</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INTL BUSINESS MACHINES</StockNm>
+        <EOYBookValueAmt>2030</EOYBookValueAmt>
+        <EOYFMVAmt>3737</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INTUIT INC</StockNm>
+        <EOYBookValueAmt>11043</EOYBookValueAmt>
+        <EOYFMVAmt>16970</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INTUITIVE SURGICAL INC</StockNm>
+        <EOYBookValueAmt>8989</EOYBookValueAmt>
+        <EOYFMVAmt>14093</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JACOBS SOLUTIONS INC REG</StockNm>
+        <EOYBookValueAmt>10102</EOYBookValueAmt>
+        <EOYFMVAmt>11358</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JOHNSON AND JOHNSON</StockNm>
+        <EOYBookValueAmt>8774</EOYBookValueAmt>
+        <EOYFMVAmt>9256</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>JPMORGAN CHASE &amp; CO</StockNm>
+        <EOYBookValueAmt>24471</EOYBookValueAmt>
+        <EOYFMVAmt>39792</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KENVUE INC</StockNm>
+        <EOYBookValueAmt>10888</EOYBookValueAmt>
+        <EOYFMVAmt>10889</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KEURIG DR PEPPER INC</StockNm>
+        <EOYBookValueAmt>6926</EOYBookValueAmt>
+        <EOYFMVAmt>6970</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KINDER MORGAN INC. DEL</StockNm>
+        <EOYBookValueAmt>2490</EOYBookValueAmt>
+        <EOYFMVAmt>4055</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KKR &amp; CO INC</StockNm>
+        <EOYBookValueAmt>15595</EOYBookValueAmt>
+        <EOYFMVAmt>28547</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KLA CORP</StockNm>
+        <EOYBookValueAmt>15731</EOYBookValueAmt>
+        <EOYFMVAmt>26465</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LENNAR CORP</StockNm>
+        <EOYBookValueAmt>7993</EOYBookValueAmt>
+        <EOYFMVAmt>13637</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LOCKHEED MARTIN CORP</StockNm>
+        <EOYBookValueAmt>7932</EOYBookValueAmt>
+        <EOYFMVAmt>9233</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LOWE'S COMPANIES INC</StockNm>
+        <EOYBookValueAmt>42819</EOYBookValueAmt>
+        <EOYFMVAmt>52322</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MARRIOTT INTL INC NEW A</StockNm>
+        <EOYBookValueAmt>8424</EOYBookValueAmt>
+        <EOYFMVAmt>13947</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MARSH &amp; MCLENNAN COS INC</StockNm>
+        <EOYBookValueAmt>19472</EOYBookValueAmt>
+        <EOYFMVAmt>35472</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MARTIN MARIETTA MATLS</StockNm>
+        <EOYBookValueAmt>9082</EOYBookValueAmt>
+        <EOYFMVAmt>12396</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MARVELL TECH INC</StockNm>
+        <EOYBookValueAmt>5533</EOYBookValueAmt>
+        <EOYFMVAmt>13585</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MASTERCARD INC</StockNm>
+        <EOYBookValueAmt>11225</EOYBookValueAmt>
+        <EOYFMVAmt>16850</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MCDONALDS CORP</StockNm>
+        <EOYBookValueAmt>18414</EOYBookValueAmt>
+        <EOYFMVAmt>25220</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MCKESSON CORPORATION COM</StockNm>
+        <EOYBookValueAmt>8030</EOYBookValueAmt>
+        <EOYFMVAmt>23936</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MERCK AND CO INC SHS</StockNm>
+        <EOYBookValueAmt>34701</EOYBookValueAmt>
+        <EOYFMVAmt>41881</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>META PLATFORMS INC</StockNm>
+        <EOYBookValueAmt>8237</EOYBookValueAmt>
+        <EOYFMVAmt>34545</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>METLIFE INC</StockNm>
+        <EOYBookValueAmt>1907</EOYBookValueAmt>
+        <EOYFMVAmt>3193</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICROCHIP TECHNOLOGY INC</StockNm>
+        <EOYBookValueAmt>266</EOYBookValueAmt>
+        <EOYFMVAmt>229</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>57559</EOYBookValueAmt>
+        <EOYFMVAmt>115491</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MIDDLEBY CORP COM</StockNm>
+        <EOYBookValueAmt>7851</EOYBookValueAmt>
+        <EOYFMVAmt>7721</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MITSUBISHI UFJ FINL GRP</StockNm>
+        <EOYBookValueAmt>3812</EOYBookValueAmt>
+        <EOYFMVAmt>8978</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MONDELEZ INTERNATIONAL</StockNm>
+        <EOYBookValueAmt>11804</EOYBookValueAmt>
+        <EOYFMVAmt>12484</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MONOLITHIC PWR SYSTEMS</StockNm>
+        <EOYBookValueAmt>8129</EOYBookValueAmt>
+        <EOYFMVAmt>14793</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MONSTER BEVERAGE SHS</StockNm>
+        <EOYBookValueAmt>6105</EOYBookValueAmt>
+        <EOYFMVAmt>9461</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MOODY'S CORP</StockNm>
+        <EOYBookValueAmt>4647</EOYBookValueAmt>
+        <EOYFMVAmt>8994</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MOOG INC</StockNm>
+        <EOYBookValueAmt>5616</EOYBookValueAmt>
+        <EOYFMVAmt>15944</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY</StockNm>
+        <EOYBookValueAmt>17641</EOYBookValueAmt>
+        <EOYFMVAmt>30550</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MSCI INC</StockNm>
+        <EOYBookValueAmt>4237</EOYBookValueAmt>
+        <EOYFMVAmt>6000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MYRIAD GENETICS INC</StockNm>
+        <EOYBookValueAmt>1601</EOYBookValueAmt>
+        <EOYFMVAmt>1590</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NASDAQ OMX GRP INC</StockNm>
+        <EOYBookValueAmt>5466</EOYBookValueAmt>
+        <EOYFMVAmt>11210</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NETFLIX COM INC</StockNm>
+        <EOYBookValueAmt>7722</EOYBookValueAmt>
+        <EOYFMVAmt>24066</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NEXTERA ENERGY INC</StockNm>
+        <EOYBookValueAmt>18948</EOYBookValueAmt>
+        <EOYFMVAmt>23228</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NIKE INC</StockNm>
+        <EOYBookValueAmt>2262</EOYBookValueAmt>
+        <EOYFMVAmt>2270</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NORFOLK SOUTHERN CORP</StockNm>
+        <EOYBookValueAmt>9541</EOYBookValueAmt>
+        <EOYFMVAmt>11031</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NORTHROP GRUMMAN CORP</StockNm>
+        <EOYBookValueAmt>3565</EOYBookValueAmt>
+        <EOYFMVAmt>3754</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NOVARTIS ADR</StockNm>
+        <EOYBookValueAmt>2212</EOYBookValueAmt>
+        <EOYFMVAmt>2530</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NOVO NORDISK A S ADR</StockNm>
+        <EOYBookValueAmt>3051</EOYBookValueAmt>
+        <EOYFMVAmt>4989</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NVIDIA</StockNm>
+        <EOYBookValueAmt>9246</EOYBookValueAmt>
+        <EOYFMVAmt>74800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>NXP SEMICONDUCTORS N.V.</StockNm>
+        <EOYBookValueAmt>9934</EOYBookValueAmt>
+        <EOYFMVAmt>11847</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ON SEMICONDUCTOR CRP COM</StockNm>
+        <EOYBookValueAmt>2421</EOYBookValueAmt>
+        <EOYFMVAmt>8575</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ONEOK INC (OKLAHOMA)</StockNm>
+        <EOYBookValueAmt>5029</EOYBookValueAmt>
+        <EOYFMVAmt>6124</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ORACLE CORP</StockNm>
+        <EOYBookValueAmt>4455</EOYBookValueAmt>
+        <EOYFMVAmt>13331</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OSHKOSH CORPORATION</StockNm>
+        <EOYBookValueAmt>3471</EOYBookValueAmt>
+        <EOYFMVAmt>3993</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PACCAR INC</StockNm>
+        <EOYBookValueAmt>15966</EOYBookValueAmt>
+        <EOYFMVAmt>17683</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PALO ALTO NETWORKS INC</StockNm>
+        <EOYBookValueAmt>1054</EOYBookValueAmt>
+        <EOYFMVAmt>5095</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PARKER HANNIFIN CORP</StockNm>
+        <EOYBookValueAmt>12572</EOYBookValueAmt>
+        <EOYFMVAmt>27985</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PAYCHEX INC</StockNm>
+        <EOYBookValueAmt>5199</EOYBookValueAmt>
+        <EOYFMVAmt>8413</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PAYPAL HOLDINGS INC</StockNm>
+        <EOYBookValueAmt>5089</EOYBookValueAmt>
+        <EOYFMVAmt>6999</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PENN ENTERTAINMENT INC</StockNm>
+        <EOYBookValueAmt>2546</EOYBookValueAmt>
+        <EOYFMVAmt>2715</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PEPSICO INC</StockNm>
+        <EOYBookValueAmt>16775</EOYBookValueAmt>
+        <EOYFMVAmt>18703</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PFIZER INC</StockNm>
+        <EOYBookValueAmt>2656</EOYBookValueAmt>
+        <EOYFMVAmt>2706</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PHILLIPS 66 SHS</StockNm>
+        <EOYBookValueAmt>5837</EOYBookValueAmt>
+        <EOYFMVAmt>7178</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PNC FINCL SERVICES GROUP</StockNm>
+        <EOYBookValueAmt>25972</EOYBookValueAmt>
+        <EOYFMVAmt>35870</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PPG INDUSTRIES INC</StockNm>
+        <EOYBookValueAmt>770</EOYBookValueAmt>
+        <EOYFMVAmt>717</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PPL CORPORATION</StockNm>
+        <EOYBookValueAmt>6751</EOYBookValueAmt>
+        <EOYFMVAmt>7531</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROCTER &amp; GAMBLE CO</StockNm>
+        <EOYBookValueAmt>31856</EOYBookValueAmt>
+        <EOYFMVAmt>37554</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROGRESSIVE CRP OHIO</StockNm>
+        <EOYBookValueAmt>22556</EOYBookValueAmt>
+        <EOYFMVAmt>40734</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PROLOGIS INC</StockNm>
+        <EOYBookValueAmt>290</EOYBookValueAmt>
+        <EOYFMVAmt>317</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PUB SVC ENTERPRISE GRP</StockNm>
+        <EOYBookValueAmt>3726</EOYBookValueAmt>
+        <EOYFMVAmt>5238</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>QIAGEN NV REG SHS</StockNm>
+        <EOYBookValueAmt>1139</EOYBookValueAmt>
+        <EOYFMVAmt>1158</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>QUALCOMM INC</StockNm>
+        <EOYBookValueAmt>18234</EOYBookValueAmt>
+        <EOYFMVAmt>23043</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RAYMOND JAMES FINL INC</StockNm>
+        <EOYBookValueAmt>5210</EOYBookValueAmt>
+        <EOYFMVAmt>15688</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REALTY INCM CRP MD PV$1.</StockNm>
+        <EOYBookValueAmt>282</EOYBookValueAmt>
+        <EOYFMVAmt>267</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REGENERON PHARMACTCLS</StockNm>
+        <EOYBookValueAmt>2518</EOYBookValueAmt>
+        <EOYFMVAmt>4274</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REINSURNCE GROUP AMERICA</StockNm>
+        <EOYBookValueAmt>9409</EOYBookValueAmt>
+        <EOYFMVAmt>16022</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>REPUBLIC SERVICES INC</StockNm>
+        <EOYBookValueAmt>6614</EOYBookValueAmt>
+        <EOYFMVAmt>14083</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RPM INTERNATIONAL INC</StockNm>
+        <EOYBookValueAmt>9075</EOYBookValueAmt>
+        <EOYFMVAmt>12306</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RTX CORP</StockNm>
+        <EOYBookValueAmt>29437</EOYBookValueAmt>
+        <EOYFMVAmt>40271</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RYDER SYSTEM INC</StockNm>
+        <EOYBookValueAmt>3612</EOYBookValueAmt>
+        <EOYFMVAmt>15215</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>S&amp;P GLOBAL INC</StockNm>
+        <EOYBookValueAmt>6313</EOYBookValueAmt>
+        <EOYFMVAmt>8965</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SALESFORCE INC</StockNm>
+        <EOYBookValueAmt>8478</EOYBookValueAmt>
+        <EOYFMVAmt>13373</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SCHWAB CHARLES CORP NEW</StockNm>
+        <EOYBookValueAmt>10500</EOYBookValueAmt>
+        <EOYFMVAmt>13470</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEAGATE TECH HLDGS PUB</StockNm>
+        <EOYBookValueAmt>4140</EOYBookValueAmt>
+        <EOYFMVAmt>4574</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEI INVT CO PA PV</StockNm>
+        <EOYBookValueAmt>2106</EOYBookValueAmt>
+        <EOYFMVAmt>3052</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SEMPRA</StockNm>
+        <EOYBookValueAmt>9368</EOYBookValueAmt>
+        <EOYFMVAmt>11930</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SERVICENOW INC</StockNm>
+        <EOYBookValueAmt>5246</EOYBookValueAmt>
+        <EOYFMVAmt>13782</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SHERWIN WILLIAMS</StockNm>
+        <EOYBookValueAmt>3085</EOYBookValueAmt>
+        <EOYFMVAmt>4419</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SHOPIFY INC CL A</StockNm>
+        <EOYBookValueAmt>2169</EOYBookValueAmt>
+        <EOYFMVAmt>6380</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SMITH A O CORP DEL</StockNm>
+        <EOYBookValueAmt>9201</EOYBookValueAmt>
+        <EOYFMVAmt>11596</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SNAP ON INC COM</StockNm>
+        <EOYBookValueAmt>6097</EOYBookValueAmt>
+        <EOYFMVAmt>13919</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SONOCO PRODUCTS CO</StockNm>
+        <EOYBookValueAmt>267</EOYBookValueAmt>
+        <EOYFMVAmt>244</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SONY GROUP CORP</StockNm>
+        <EOYBookValueAmt>7025</EOYBookValueAmt>
+        <EOYFMVAmt>11448</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SOUTHERN COMPANY</StockNm>
+        <EOYBookValueAmt>11739</EOYBookValueAmt>
+        <EOYFMVAmt>16299</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STARBUCKS CORP</StockNm>
+        <EOYBookValueAmt>4660</EOYBookValueAmt>
+        <EOYFMVAmt>5110</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STRYKER CORP</StockNm>
+        <EOYBookValueAmt>12768</EOYBookValueAmt>
+        <EOYFMVAmt>20883</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TAIWAN S MANUFCTRING ADR</StockNm>
+        <EOYBookValueAmt>4254</EOYBookValueAmt>
+        <EOYFMVAmt>5135</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TARGET CORP</StockNm>
+        <EOYBookValueAmt>3637</EOYBookValueAmt>
+        <EOYFMVAmt>4055</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TE CONNECTIVITY LTD</StockNm>
+        <EOYBookValueAmt>14242</EOYBookValueAmt>
+        <EOYFMVAmt>16442</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TELEDYNE TECH INC</StockNm>
+        <EOYBookValueAmt>18606</EOYBookValueAmt>
+        <EOYFMVAmt>24599</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TESLA INC</StockNm>
+        <EOYBookValueAmt>11909</EOYBookValueAmt>
+        <EOYFMVAmt>28673</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TEXAS INSTRUMENTS</StockNm>
+        <EOYBookValueAmt>24032</EOYBookValueAmt>
+        <EOYFMVAmt>31502</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>THERMO FISHER SCIENTIFIC</StockNm>
+        <EOYBookValueAmt>13389</EOYBookValueAmt>
+        <EOYFMVAmt>14566</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TJX COS INC NEW</StockNm>
+        <EOYBookValueAmt>4350</EOYBookValueAmt>
+        <EOYFMVAmt>10027</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRADE (THE) DESK INC SHS</StockNm>
+        <EOYBookValueAmt>1937</EOYBookValueAmt>
+        <EOYFMVAmt>1763</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRAVELERS COS INC</StockNm>
+        <EOYBookValueAmt>15582</EOYBookValueAmt>
+        <EOYFMVAmt>19753</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRUIST FINL CORP</StockNm>
+        <EOYBookValueAmt>7424</EOYBookValueAmt>
+        <EOYFMVAmt>8372</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UBER TECHNOLOGIES INC</StockNm>
+        <EOYBookValueAmt>7882</EOYBookValueAmt>
+        <EOYFMVAmt>10616</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNION PACIFIC CORP</StockNm>
+        <EOYBookValueAmt>14137</EOYBookValueAmt>
+        <EOYFMVAmt>17103</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UNITEDHEALTH GROUP INC</StockNm>
+        <EOYBookValueAmt>26242</EOYBookValueAmt>
+        <EOYFMVAmt>31869</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>US BANCORP</StockNm>
+        <EOYBookValueAmt>10812</EOYBookValueAmt>
+        <EOYFMVAmt>11910</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VALMONT INDUSTRIES</StockNm>
+        <EOYBookValueAmt>8986</EOYBookValueAmt>
+        <EOYFMVAmt>10120</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VENTAS INC</StockNm>
+        <EOYBookValueAmt>3078</EOYBookValueAmt>
+        <EOYFMVAmt>3533</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VERALTO CORP</StockNm>
+        <EOYBookValueAmt>4812</EOYBookValueAmt>
+        <EOYFMVAmt>5907</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VERISK ANALYTICS INC</StockNm>
+        <EOYBookValueAmt>3735</EOYBookValueAmt>
+        <EOYFMVAmt>6059</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VERIZON COMMUNICATNS COM</StockNm>
+        <EOYBookValueAmt>3565</EOYBookValueAmt>
+        <EOYFMVAmt>3599</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VERTEX PHARMCTLS INC</StockNm>
+        <EOYBookValueAmt>3430</EOYBookValueAmt>
+        <EOYFMVAmt>6041</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VISA INC CL A SHRS</StockNm>
+        <EOYBookValueAmt>32620</EOYBookValueAmt>
+        <EOYFMVAmt>54043</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>W W GRAINGER INCORP</StockNm>
+        <EOYBookValueAmt>1502</EOYBookValueAmt>
+        <EOYFMVAmt>5270</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WALMART INC</StockNm>
+        <EOYBookValueAmt>3327</EOYBookValueAmt>
+        <EOYFMVAmt>7770</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WEBSTER FINL CP PV</StockNm>
+        <EOYBookValueAmt>7260</EOYBookValueAmt>
+        <EOYFMVAmt>9995</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WEC ENERGY GROUP INC SHS</StockNm>
+        <EOYBookValueAmt>13338</EOYBookValueAmt>
+        <EOYFMVAmt>14670</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO &amp; CO</StockNm>
+        <EOYBookValueAmt>13644</EOYBookValueAmt>
+        <EOYFMVAmt>19948</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WEST PHARMACTL SVCS INC</StockNm>
+        <EOYBookValueAmt>6968</EOYBookValueAmt>
+        <EOYFMVAmt>7861</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WILLIAMS COMPANIES DEL</StockNm>
+        <EOYBookValueAmt>13515</EOYBookValueAmt>
+        <EOYFMVAmt>20187</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WINTRUST FINL CP ILL COM</StockNm>
+        <EOYBookValueAmt>143</EOYBookValueAmt>
+        <EOYFMVAmt>125</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WOODWARD INC</StockNm>
+        <EOYBookValueAmt>7314</EOYBookValueAmt>
+        <EOYFMVAmt>13314</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WORKDAY INC CL A</StockNm>
+        <EOYBookValueAmt>13835</EOYBookValueAmt>
+        <EOYFMVAmt>13934</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>XCEL ENERGY INC</StockNm>
+        <EOYBookValueAmt>14959</EOYBookValueAmt>
+        <EOYFMVAmt>15867</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>XYLEM INC SHS</StockNm>
+        <EOYBookValueAmt>8617</EOYBookValueAmt>
+        <EOYFMVAmt>10558</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>YUM BRANDS INC</StockNm>
+        <EOYBookValueAmt>5657</EOYBookValueAmt>
+        <EOYFMVAmt>6037</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>YUM CHINA HOLDINGS INC</StockNm>
+        <EOYBookValueAmt>834</EOYBookValueAmt>
+        <EOYFMVAmt>1012</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ZOETIS INC</StockNm>
+        <EOYBookValueAmt>6005</EOYBookValueAmt>
+        <EOYFMVAmt>6517</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>INVESCO PREFERRED ETF</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>152492</BookValueAmt>
+        <EOYFMVAmt>150663</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARES RUSSELL 1000</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>324757</BookValueAmt>
+        <EOYFMVAmt>323883</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARES RUSSELL MIDCAP</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>50355</BookValueAmt>
+        <EOYFMVAmt>49769</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ISHARES TR RUSSELL 2000</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>49826</BookValueAmt>
+        <EOYFMVAmt>49053</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>PRINCIPAL CAPITAL</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>428570</BookValueAmt>
+        <EOYFMVAmt>464844</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>VANGUARD DIVIDEND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>88341</BookValueAmt>
+        <EOYFMVAmt>87144</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>WEBSITE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2413</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1206</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1207</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PAYROLL SERVICE</Desc>
+        <RevenueAndExpensesPerBooksAmt>818</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>409</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>409</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2028</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1014</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1014</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>WIRE TRANSFER FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>76</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>38</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>38</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>EVENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>1525</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1525</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ADVISORY FEES</CategoryTxt>
+        <Amt>45492</Amt>
+        <NetInvestmentIncomeAmt>45492</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>PAYROLL TAX</CategoryTxt>
+        <Amt>7950</Amt>
+        <NetInvestmentIncomeAmt>3975</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3975</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>560</Amt>
+        <NetInvestmentIncomeAmt>560</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>DEPARTMENT OF JUSTICE</CategoryTxt>
+        <Amt>75</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>75</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

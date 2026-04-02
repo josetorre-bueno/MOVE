@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-04-30T12:27:55-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>854116548</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ALUMBRA CPA PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>7777 ALVARADO RD SUITE 310</AddressLine1Txt>
+        <CityNm>LA MESA</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>919428246</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330757777</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SECOND WIND FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SECO</BusinessNameControlTxt>
+      <PhoneNum>6198848572</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>9876 GUISANTE TERRACE</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92124</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>VAN L PHILLIPS</PersonNm>
+      <PersonTitleTxt>CEO/SECRETARY</PersonTitleTxt>
+      <PhoneNum>6198848572</PhoneNum>
+      <SignatureDt>2025-04-24</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>PATRICIA HITCHCOCK</PreparerPersonNm>
+      <PTIN>P00402272</PTIN>
+      <PhoneNum>6193038291</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>124059</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>105004</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>10</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>10</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>10</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>2525</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>2525</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>2525</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>59489</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>299830</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>59489</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>1156</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>167028</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>62024</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>3691</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">11760</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>5880</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>5880</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>5880</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002300001">176287</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>1382</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>1382</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>174905</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">67</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>21</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>21</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>25</TaxesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>188114</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>7283</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>7283</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>180810</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>188114</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>7283</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>7283</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>180810</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-21086</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>54741</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>32843</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>46565</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>46565</SavAndTempCashInvstEOYFMVAmt>
+        <RcvblFromOfficersBOYAmt>2236</RcvblFromOfficersBOYAmt>
+        <RcvblFromOfficersEOYAmt>2236</RcvblFromOfficersEOYAmt>
+        <RcvblFromOfficersEOYFMVAmt>2236</RcvblFromOfficersEOYFMVAmt>
+        <CorporateStockBOYAmt>165896</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">75108</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>75258</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>200975</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>123909</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>124059</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>0</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>0</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>200975</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>123909</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>200975</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>123909</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>200975</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>123909</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>200975</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-21086</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>179889</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc2049800001">55980</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>123909</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY</PropertyDesc>
+          <AcquiredDt>2024-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>31213</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>30120</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1093</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1093</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SPDR GOLD TR GOLD SHS</PropertyDesc>
+          <AcquiredDt>2024-07-26</AcquiredDt>
+          <SoldDt>2024-12-27</SoldDt>
+          <GrossSalesPriceAmt>725</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>662</CostOrOtherBasisAmt>
+          <GainOrLossAmt>63</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>63</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY</PropertyDesc>
+          <AcquiredDt>2022-01-01</AcquiredDt>
+          <SoldDt>2024-12-31</SoldDt>
+          <GrossSalesPriceAmt>262120</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>205118</CostOrOtherBasisAmt>
+          <GainOrLossAmt>57002</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>57002</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SPDR GOLD TR GOLD SHS</PropertyDesc>
+          <AcquiredDt>2021-12-31</AcquiredDt>
+          <SoldDt>2024-11-26</SoldDt>
+          <GrossSalesPriceAmt>5772</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4441</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1331</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1331</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>59489</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>1156</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>761</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>761</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>761</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>86</EstimatedPlusOvpmtIncmTxAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>86</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>36</EsPenaltyAmt>
+        <TaxDueAmt>711</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>1</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JERRY WEST</IndividualWithBooksNm>
+        <PhoneNum>6198848572</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>9876 GUISANTE TERRACE</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92124</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>0</TransactionsFailToQlfyAsExcInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VAN L PHILLIPS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>33681 NAVARRO RIDGE RD</AddressLine1Txt>
+            <CityNm>ALBION</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95410</ZIPCd>
+          </USAddress>
+          <TitleTxt>CEO/SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompensationOfHghstPdCntrctGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>PRODUCT SOLUTIONS</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>2902 RANCHO PONCHO</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92009</ZIPCd>
+          </USAddress>
+          <ServiceTypeTxt>ENGINEERING</ServiceTypeTxt>
+          <CompensationAmt>156885</CompensationAmt>
+        </CompensationOfHghstPdCntrctGrp>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>CONSULTING AND ENGINEERING FEES, FABRICATION, AND EQUIPMENT FOR THE DEVELOPMENT OF THE "WORLD FOOT." THE FOUNDATION IS DEVELOPING A LOW COST "WORLD FOOT" FOR 3RD WORLD COUNTRIES. EXPENSES INCLUDE RELATED ADMINISTRATION COSTS.</Description1Txt>
+        <Expenses1Amt>180810</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>120431</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>31719</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>152150</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>152150</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>2282</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>149868</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>7493</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>180810</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>180810</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>14879</Year3Amt>
+          <TotalAmt>14879</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>12647</Year3Amt>
+          <TotalAmt>12647</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>180810</CurrentYearAmt>
+          <Year1Amt>160564</Year1Amt>
+          <Year2Amt>195044</Year2Amt>
+          <Year3Amt>208805</Year3Amt>
+          <TotalAmt>745223</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriNotUsedDrtGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <Year1Amt>0</Year1Amt>
+          <Year2Amt>0</Year2Amt>
+          <Year3Amt>0</Year3Amt>
+          <TotalAmt>0</TotalAmt>
+        </QualifyingDistriNotUsedDrtGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>180810</CurrentYearAmt>
+          <Year1Amt>160564</Year1Amt>
+          <Year2Amt>195044</Year2Amt>
+          <Year3Amt>208805</Year3Amt>
+          <TotalAmt>745223</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <CurrentYearAmt>4995</CurrentYearAmt>
+          <Year1Amt>8559</Year1Amt>
+          <Year2Amt>14833</Year2Amt>
+          <Year3Amt>12801</Year3Amt>
+          <TotalAmt>41188</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+        <TotalSupportGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <TotalAmt>0</TotalAmt>
+        </PublicSupportType>
+        <LargestSupportFromEOGrp>
+          <TotalAmt>0</TotalAmt>
+        </LargestSupportFromEOGrp>
+        <GrossInvestmentIncomeGrp>
+          <TotalAmt>0</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>VAN L PHILLIPS</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <TotalGrantOrContriPdDurYrAmt>0</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>10</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2525</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>59489</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>62024</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>62024</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>VAN L PHILLIPS</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>33681 NAVARRO RIDGE RD</AddressLine1Txt>
+          <CityNm>ALBION</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95410</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>105004</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>200 SHS ALPHABET INC CL A $34,526; 200 SHS AMAZON COM INC $36,166; 80 SHS MICROSOFT CORP $34,312</NoncashPropertyDesc>
+        <FairMarketValueAmt>105004</FairMarketValueAmt>
+        <ReceivedDt>2024-07-24</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ALUMBRA CPA PC - ACCOUNTING FEES</CategoryTxt>
+        <Amt>11760</Amt>
+        <NetInvestmentIncomeAmt>5880</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5880</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>5880</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES CORE DIVIDEND GROWTH</StockNm>
+        <EOYBookValueAmt>5386</EOYBookValueAmt>
+        <EOYFMVAmt>5521</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES CORE MSCI EMERGING</StockNm>
+        <EOYBookValueAmt>2419</EOYBookValueAmt>
+        <EOYFMVAmt>2298</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES MBS ETF</StockNm>
+        <EOYBookValueAmt>2336</EOYBookValueAmt>
+        <EOYFMVAmt>2200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES S&amp;P 500 GRWTH ETF</StockNm>
+        <EOYBookValueAmt>9228</EOYBookValueAmt>
+        <EOYFMVAmt>10458</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES S&amp;P 500 VAL ETF</StockNm>
+        <EOYBookValueAmt>10586</EOYBookValueAmt>
+        <EOYFMVAmt>10689</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES S&amp;P MID-CAP 400 G ETF</StockNm>
+        <EOYBookValueAmt>3181</EOYBookValueAmt>
+        <EOYFMVAmt>3183</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES S&amp;P MID-CAP 400 V ETF</StockNm>
+        <EOYBookValueAmt>3135</EOYBookValueAmt>
+        <EOYFMVAmt>3249</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES SMALL CAP 600 G ETF</StockNm>
+        <EOYBookValueAmt>1541</EOYBookValueAmt>
+        <EOYFMVAmt>1489</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR GOLD TR GOLD SHS</StockNm>
+        <EOYBookValueAmt>1986</EOYBookValueAmt>
+        <EOYFMVAmt>2179</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD REAL ESTATE ETF</StockNm>
+        <EOYBookValueAmt>2639</EOYBookValueAmt>
+        <EOYFMVAmt>2316</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD SHORT TERM BND</StockNm>
+        <EOYBookValueAmt>3867</EOYBookValueAmt>
+        <EOYFMVAmt>3864</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD TOTAL BOND MARKET</StockNm>
+        <EOYBookValueAmt>5722</EOYBookValueAmt>
+        <EOYFMVAmt>5393</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AVANTIS EMERGING MARKETS EQ</StockNm>
+        <EOYBookValueAmt>2287</EOYBookValueAmt>
+        <EOYFMVAmt>2234</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AVANTIS US SMALL CAP VALUE</StockNm>
+        <EOYBookValueAmt>1575</EOYBookValueAmt>
+        <EOYFMVAmt>1544</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FT NORTH AMERICAN ENERGY INFRA (EMLP)</StockNm>
+        <EOYBookValueAmt>1478</EOYBookValueAmt>
+        <EOYFMVAmt>1676</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESCO OPTIMUM YELD DIVERSIF</StockNm>
+        <EOYBookValueAmt>2302</EOYBookValueAmt>
+        <EOYFMVAmt>2208</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES CORE MSCI EUROPE</StockNm>
+        <EOYBookValueAmt>5984</EOYBookValueAmt>
+        <EOYFMVAmt>5560</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES MSCI EAFE GRWTH ETF</StockNm>
+        <EOYBookValueAmt>4771</EOYBookValueAmt>
+        <EOYFMVAmt>4454</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PRNCPAL SPCTRM PREF SEC ACTV (PREF)</StockNm>
+        <EOYBookValueAmt>3055</EOYBookValueAmt>
+        <EOYFMVAmt>3089</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WISDOMTREE TRUST JAPN HEDGE EQ (DXJ)</StockNm>
+        <EOYBookValueAmt>1630</EOYBookValueAmt>
+        <EOYFMVAmt>1654</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSS</Desc>
+        <Amt>55980</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>MORGAN STANLEY ADVISORY FEES</CategoryTxt>
+        <Amt>1382</Amt>
+        <NetInvestmentIncomeAmt>1382</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1382</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>NEW ENGLAND SMALL TUBE</CategoryTxt>
+        <Amt>548</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>548</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>SPECIALTY EXTRUSION</CategoryTxt>
+        <Amt>3800</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3800</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>NEW ENGLAND WIRE TECHNOLOGIES</CategoryTxt>
+        <Amt>2909</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2909</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>HILLTOP TECHNOLOGY LAB INC</CategoryTxt>
+        <Amt>6812</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6812</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TOGO PROTOTYPE</CategoryTxt>
+        <Amt>1991</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1991</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>VIRTUAL DESIGN AND PROTOTYPING</CategoryTxt>
+        <Amt>1960</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1960</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>PRODUCT SOLUTIONS</CategoryTxt>
+        <Amt>156885</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>156885</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributorDetail>
+        <PersonNm>VAN L PHILLIPS</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>33681 NAVARRO RIDGE RD</AddressLine1Txt>
+          <CityNm>ALBION</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95410</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>CA SECRETARY OF STATE</CategoryTxt>
+        <Amt>25</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>42</Amt>
+        <NetInvestmentIncomeAmt>21</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>21</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -32,3 +32,7 @@ To validate EIN-based matching before adding to the full pipeline, I created a s
 
 ### Output
 - San_Diego_Non_Profits_EIN.csv
+
+### CA_Nonprofit_Contact_Info
+- Nonprofits sourced from the CalNonprofits member directory
+- Fields: Name, Organization Type, Street Address, County, Website, Emails (General Contact), Staff/Misc Emails, Contact Form Link, Linkedin, Instagram, Facebook, X, Threads, BlueSky, Phone Number

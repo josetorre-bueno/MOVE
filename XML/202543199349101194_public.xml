@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-15T05:09:58-00:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>330253685</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Milton K Low</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>4550 Kearny Villa Rd Ste 212</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92123</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>330451216</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>PACIFIC CHARITABLE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>PACI</BusinessNameControlTxt>
+      <PhoneNum>8582688701</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>4550 KEARNY VILLA ROAD APT 212</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92123</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Milton K Low</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>8582688701</PhoneNum>
+      <SignatureDt>2025-11-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Milton K Low</PreparerPersonNm>
+      <PTIN>P00173915</PTIN>
+      <PhoneNum>8582688701</PhoneNum>
+      <PreparationDt>2025-11-15</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="990PF" softwareId="24019898" softwareVersionNum="24.0.1.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>225835</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>500</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>2</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>2</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>6187</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>6187</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>10238</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>10238</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>10238</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>16927</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>16427</TotalNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="990PF:114">119</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>119</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>119</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>119</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="990PF:115">337</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>337</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>337</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>337</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>456</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>456</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>456</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>456</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>8400</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>8400</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>8856</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>456</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>456</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>8856</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>8071</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>15971</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>5902</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>7178</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>7178</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>151027</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="990PF:122">157819</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>218657</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>156929</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>164997</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>225835</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>156929</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>164997</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>156929</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>164997</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>156929</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>164997</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>156929</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>8071</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>165000</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="990PF:134">3</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>164997</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>10238</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>222</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>222</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>222</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>222</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>none</WebsiteAddressTxt>
+        <IndividualWithBooksNm>Milton Low</IndividualWithBooksNm>
+        <PhoneNum>8582688701</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>4550 Kearny Villa Rd Ste 212</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92123</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Milton Low</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4550 Kearny Villa Rd Ste 212</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>001.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Lynn Low</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4550 Kearny Villa Rd Ste 212</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Sheryl Sherman</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4550 Kearny Villa Rd Ste 212</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jerry Lee</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4550 Kearny Villa Rd Ste 212</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Provide Biblical financial stewardsip guidance to individuals, churches and charitable organizations.</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <Description2Txt>Review and select qualifying charities and ministries for distribution of financial support.</Description2Txt>
+        <Expenses2Amt>0</Expenses2Amt>
+        <Description3Txt>Engage Youth and Young Adults in Summer Bible Reading Challenge.</Description3Txt>
+        <Expenses3Amt>180</Expenses3Amt>
+        <Description4Txt>Prepare and distribute a monthly Bible Reading Schedule</Description4Txt>
+        <Expenses4Amt>0</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>215330</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>5082</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>220412</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>220412</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3306</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>217106</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>10855</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>10855</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>222</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>222</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>10633</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>10633</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>10633</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt referenceDocumentId="990PF:151">8856</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>8856</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>10633</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>3979</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>8856</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>3979</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>4877</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>5756</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>New Hope Christian Fellowship</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>290 Sand Island Access Rd</AddressLine1Txt>
+            <CityNm>Honolulu</CityNm>
+            <StateAbbreviationCd>HI</StateAbbreviationCd>
+            <ZIPCd>96819</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Bible Study Fellowship Internationa</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 675241</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75267</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Heads Up Youth Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12400 Ventura Blvd 1221</AddressLine1Txt>
+            <CityNm>Studio City</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Association of Misic Angel</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 765061</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75376</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Montebello Plymouth Congregational</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1438 N 3rd Street</AddressLine1Txt>
+            <CityNm>Montebello</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90640</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Youth Ministry</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Save the Children</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 Kings HIghway East</AddressLine1Txt>
+            <CityNm>Fairfield</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06825</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Rescue Mission</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 80427</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92138</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Chinnese Congragational Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>21 Walter U Lum Place</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>East West Christian Outreach</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4550 Kearny Villa Road</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Focus on the Family</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8655 Explorer Drive</AddressLine1Txt>
+            <CityNm>Colorado Springs</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80920</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2508 Historic Decatur Road</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Humane Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5500 Gaines Street</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Francisco Bible Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 Taraval Street</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94116</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Staff of Hope</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4711 Hope Valley Road 114</AddressLine1Txt>
+            <CityNm>Durham</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>27707</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The USO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 96860</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20077</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Union of Pan Asian Communities</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1031 25th Street</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Habitate for Humanity</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>322 W Lamar Street</AddressLine1Txt>
+            <CityNm>Americus</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31709</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Rady Children's Hospital Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3020 Childrens Way MC 5005</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Guide Dogs for the Blind</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 151200</AddressLine1Txt>
+            <CityNm>San Rafael</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94915</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>8400</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <UnrelatedBusinessTaxblIncmAmt>2</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <UnrelatedBusinessTaxblIncmAmt>6187</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>14</ExclusionCd>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <UnrelatedBusinessTaxblIncmAmt>10238</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionCd>18</ExclusionCd>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>16427</UnrelatedBusinessTaxblIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>16427</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="990PF:122" softwareId="24019898" softwareVersionNum="24.0.1.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Mutual Funds</StockNm>
+        <EOYBookValueAmt>157819</EOYBookValueAmt>
+        <EOYFMVAmt>218657</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="990PF:134" softwareId="24019898" softwareVersionNum="24.0.1.0">
+      <OtherDecreasesDetail>
+        <Desc>Rounding Adjustment</Desc>
+        <Amt>3</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="990PF:115" softwareId="24019898" softwareVersionNum="24.0.1.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Books for Distribution</Desc>
+        <RevenueAndExpensesPerBooksAmt>180</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>180</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>180</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>180</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Books for Program Use</Desc>
+        <RevenueAndExpensesPerBooksAmt>157</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>157</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>157</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>157</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="990PF:114" softwareId="24019898" softwareVersionNum="24.0.1.0">
+      <TaxesDetail>
+        <CategoryTxt>Federal Tax on Investment Income</CategoryTxt>
+        <Amt>94</Amt>
+        <NetInvestmentIncomeAmt>94</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>94</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>94</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>CA Attorney General Filing Fee</CategoryTxt>
+        <Amt>25</Amt>
+        <NetInvestmentIncomeAmt>25</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>25</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

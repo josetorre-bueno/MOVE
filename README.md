@@ -20,7 +20,7 @@ Places.csv
 
 ### Subset Test Dataset (San Diego Nonprofits + IRS)
 
-To validate EIN-based matching before adding to the full pipeline, I created a smaller San Diego-only nonprofit subset.
+To validate EIN-based matching before adding to the full pipeline, I created a smaller San Diego-only nonprofit subset. 
 
 ### Source Files
 - propublica_SD_located_nonprofits.csv (ProPublica API results, San Diego located)
@@ -31,7 +31,7 @@ To validate EIN-based matching before adding to the full pipeline, I created a s
 - _merge indicator kept to track match status: left_only, both, right_only
 
 ### Output
-- San_Diego_Non_Profits_EIN.csv
+- Master_EIN_SD.csv
 
 ### CA_Nonprofit_Contact_Info
 - Nonprofits sourced from the CalNonprofits member directory

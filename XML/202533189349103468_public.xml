@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-14T14:11:38-05:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>821291080</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HOCHMAN TORRES LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>9845 ERMA RD SUITE 303</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92131</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>842518731</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE BALGROSKY-HINSHAW PRIVATE</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BALG</BusinessNameControlTxt>
+      <PhoneNum>8585351065</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>10251 VISTA SORRENTO PARKWAY 250</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92121</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JEAN BALGROSKY HINSHAW</PersonNm>
+      <PersonTitleTxt>CEO</PersonTitleTxt>
+      <PhoneNum>8585351065</PhoneNum>
+      <SignatureDt>2025-11-13</SignatureDt>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>false</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>GARY HOCHMAN</PreparerPersonNm>
+      <PTIN>P00021754</PTIN>
+      <PhoneNum>8585351065</PhoneNum>
+      <PreparationDt>2025-11-14</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc9" referenceDocumentId="RetDoc8">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>937327</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>3170</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>3170</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>3170</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>31252</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>31252</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>31252</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc2">13397</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>292736</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>12732</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc5">2676</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>2676</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>2676</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>50495</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>49830</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>37098</TotalAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">10183</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>4385</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>5798</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">686</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>661</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>25</TaxesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>10869</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>5046</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>5823</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>18348</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>18348</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>29217</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>5046</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>5823</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>18348</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>21278</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>44784</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>31275</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>57086</CashBOYAmt>
+        <CashEOYAmt>6855</CashEOYAmt>
+        <CashEOYFMVAmt>6855</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>439748</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">239219</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>244861</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>433928</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc3">705966</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>685611</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>930762</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>952040</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>937327</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+        <NoDonorRstrNetAssestsBOYAmt>930762</NoDonorRstrNetAssestsBOYAmt>
+        <NoDonorRstrNetAssestsEOYAmt>952040</NoDonorRstrNetAssestsEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>930762</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>952040</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>930762</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>952040</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>930762</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>21278</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>952040</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>952040</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>12732</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>622</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>622</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>622</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>12710</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>12710</TotalPaymentsAndCreditsAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1">X</Form2220AttachedInd>
+        <OverpaymentAmt>12088</OverpaymentAmt>
+        <AppliedToESTaxAmt>12088</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JEAN BALGROSKY HINSHAW</IndividualWithBooksNm>
+        <PhoneNum>8585351065</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>10251 VISTA SORRENTO PARKWAY 250</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92121</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEAN BALGROSKY HINSHAW</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10251 VISTA SORRENTO PARKWAY 250</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>CEO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>D PARKER HINSHAW</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10251 VISTA SORRENTO PARKWAY 250</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PLANNED GIVING TO OTHER 501(C)(3) CHARITIES FOR PURPOSES OF SUPPORTING THESE ORGANIZATIONS TO HELP THOSE STRUGGLING WITH THE EFFECTS OF POVERTY, INCLUDING OBTAINING HEALTH CARE AND RELATED SERVICES, SUCH AS FOOD, SHELTER, CLOTHING AND EDUCATION.</Description1Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>875505</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>31971</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>907476</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>907476</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>13612</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>893864</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>44693</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>44693</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>622</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>622</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>44071</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>44071</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>44071</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>18348</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>18348</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>44071</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>21709</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr1Amt>7420</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>29129</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>18348</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>18348</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>25723</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>25723</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>3406</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>3406</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>3406</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JEAN PARKER-HINSHAW</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>C/O STRAZZERI MANCINI LLP</AddressLine1Txt>
+            <AddressLine2Txt>10251 VISTA SORRENTO PARKWAY 250</AddressLine2Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8582001900</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>WWW.STRAZZERIMANCINI.COM</RecipientEmailAddressTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF DARTMOUTH MEN'S RUGBY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6066 DEVELOPMENT OFFICE</AddressLine1Txt>
+            <CityNm>HANOVER</CityNm>
+            <StateAbbreviationCd>NH</StateAbbreviationCd>
+            <ZIPCd>03755</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FITNESS ADVANCEMENT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PENINSULA HERITAGE SCHOOL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>26944 ROLLING HILLS RD</AddressLine1Txt>
+            <CityNm>ROLLING HILLS ESTATE</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90274</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ANNUAL GIVING FUND</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNIVERSITY IMPACT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3507 N UNIVERSITY AVE 125</AddressLine1Txt>
+            <CityNm>PROVO</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84604</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SPONSER SOCIALLY IMPACTFUL PROJECTS</GrantOrContributionPurposeTxt>
+          <Amt>12348</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>18348</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>3170</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>31252</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>13397</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INCOME</Desc>
+          <RelatedOrExemptFunctionIncmAmt>352</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>WASH SALE ADJUSTMENTS</Desc>
+          <RelatedOrExemptFunctionIncmAmt>2324</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>50495</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>50495</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DUNHAM 3031</AssetDesc>
+        <AcquiredDt>2023-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-04</SoldDt>
+        <GrossSalesPriceAmt>226</GrossSalesPriceAmt>
+        <BasisAmt>182</BasisAmt>
+        <TotalNetAmt>44</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>DUNHAM 3031</AssetDesc>
+        <AcquiredDt>2022-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2024-12</SoldDt>
+        <GrossSalesPriceAmt>279778</GrossSalesPriceAmt>
+        <BasisAmt>279157</BasisAmt>
+        <TotalNetAmt>621</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DUNHAM - FIXED INCOME</BondNm>
+        <EOYBookValueAmt>705966</EOYBookValueAmt>
+        <EOYFMVAmt>685611</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DUNHAM - EQUITY</StockNm>
+        <EOYBookValueAmt>239219</EOYBookValueAmt>
+        <EOYFMVAmt>244861</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncomeDetail>
+        <Desc>OTHER INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>352</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>352</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>352</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>WASH SALE ADJUSTMENTS</Desc>
+        <RevenueAndExpensesPerBooksAmt>2324</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2324</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2324</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TRUSTEE FEES</CategoryTxt>
+        <Amt>4385</Amt>
+        <NetInvestmentIncomeAmt>4385</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>ACCOUNTING/TAX PREP</CategoryTxt>
+        <Amt>5798</Amt>
+        <AdjustedNetIncomeAmt>5798</AdjustedNetIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>661</Amt>
+        <NetInvestmentIncomeAmt>661</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>CHARITY LICENSE RENEWAL-CA</CategoryTxt>
+        <Amt>25</Amt>
+        <AdjustedNetIncomeAmt>25</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

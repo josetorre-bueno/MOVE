@@ -16,11 +16,11 @@ import pandas as pd
 
 # this currently uses the San Diego Nonporfits EIN dataset to find matches in the index you can change this 
 # to whatever dataset you need just make sure that it has EINs
-df= pd.read_csv('San_Diego_Non_Profits_EIN.csv')
+df= pd.read_csv('EIN_approach/data/San_Diego_Non_Profits_EIN.csv')
 
 # You need to download this index at https://www.irs.gov/charities-non-profits/form-990-series-downloads 
 # Also currently this is scrapes for the 2025 forms you can change this to whatever year you like
-index=pd.read_csv('index_2025.csv')
+index=pd.read_csv('data/index_2025.csv')
 
 xml_merged= pd.merge(df,index,on='EIN',how='inner')
 

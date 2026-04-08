@@ -1,0 +1,745 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-09-03T17:17:26-05:00</ReturnTs>
+    <TaxPeriodEndDt>2025-04-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Baker Tilly Advisory Group LP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>3 Lagoon Drive Ste 400</AddressLine1Txt>
+        <CityNm>Redwood CIty</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94065</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-05-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>871300086</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Erasca Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% DAVID CHACKO</InCareOfNm>
+      <BusinessNameControlTxt>ERAS</BusinessNameControlTxt>
+      <PhoneNum>4154217555</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92121</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DAVID CHACKO</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>4154217555</PhoneNum>
+      <SignatureDt>2025-08-27</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAVID M SACARELOS</PreparerPersonNm>
+      <PTIN>P00082838</PTIN>
+      <PhoneNum>6503654646</PhoneNum>
+      <PreparationDt>2025-08-27</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1272602</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>83</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>83</InterestOnSavNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-1196286</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>219666</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>-1196203</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>83</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSch">8501</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>8501</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">20765</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>20765</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">15000</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>15000</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">28</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>25</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">1158</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>1158</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>45452</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>45449</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>95000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>95000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>140452</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>140449</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-1336655</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>83</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>10368</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>89659</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>89659</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>12888895</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">11472949</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1182943</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>12899263</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>11562608</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1272602</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabSch">0</OtherLiabilitiesBOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>12899263</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>11562608</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>12899263</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>11562608</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>12899263</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>11562608</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>12899263</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-1336655</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>11562608</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>11562608</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2024-05-17</SoldDt>
+          <GrossSalesPriceAmt>15582</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-102414</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-102414</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2024-06-18</SoldDt>
+          <GrossSalesPriceAmt>17027</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-100969</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-100969</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2024-07-16</SoldDt>
+          <GrossSalesPriceAmt>24801</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-93195</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-93195</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2024-08-16</SoldDt>
+          <GrossSalesPriceAmt>21620</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-96376</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-96376</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2024-09-17</SoldDt>
+          <GrossSalesPriceAmt>24091</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-93905</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-93905</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2024-10-16</SoldDt>
+          <GrossSalesPriceAmt>22307</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-95689</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-95689</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2024-11-18</SoldDt>
+          <GrossSalesPriceAmt>22649</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-95347</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-95347</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2024-12-17</SoldDt>
+          <GrossSalesPriceAmt>20787</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-97209</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-97209</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2025-01-16</SoldDt>
+          <GrossSalesPriceAmt>16183</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-101813</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-101813</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2025-02-19</SoldDt>
+          <GrossSalesPriceAmt>12752</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-105244</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-105244</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2025-03-18</SoldDt>
+          <GrossSalesPriceAmt>11703</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-106293</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-106293</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ERASCA INC 8,333 SHARES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2021-07-15</AcquiredDt>
+          <SoldDt>2025-04-16</SoldDt>
+          <GrossSalesPriceAmt>10164</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>117996</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-107832</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-107832</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-1196286</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1</TaxBasedOnInvestmentIncomeAmt>
+        <ExemptFrgnOrgTaxWthldAtSrceAmt>0</ExemptFrgnOrgTaxWthldAtSrceAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>1</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>DAVID CHACKO</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4154217555</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3115 MERRYFIELD ROW SUITE 300</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92121</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JONATHAN LIM</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT &amp; DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NICHOLAS CHETWYN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EBUN GARNER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID CHACKO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES BRISTOL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALEXANDER CASDIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JULIE HAMBLETON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VALERIE HARDING-START</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PRATIK MULTANI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL VARNEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3115 Merryfield Row Suite 300</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92121</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1780537</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>86611</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1867148</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1867148</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>28007</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1839141</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>91957</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>91957</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>91956</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>91956</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>91956</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>140449</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>140449</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>91956</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>95179</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2022</PriorYear1Yr>
+        <PriorYear2Yr>2021</PriorYear2Yr>
+        <PriorYear3Yr>2020</PriorYear3Yr>
+        <ExcessDistributionCyovYr1Amt>0</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>140449</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>95179</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>45270</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>46686</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp></PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Life Science Cares Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11236 El Camino Real</AddressLine1Txt>
+            <AddressLine2Txt>Suite 200</AddressLine2Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support". This organization activates the financial and human capital of the life sciences industry and partners with nonprofits to disrupt the cycle of poverty in our communities. The organization envisions all of their neighbors having access to basic needs, access to education, and access to opportunities.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Diego Coastkeeper</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8305 Vickers Street</AddressLine1Txt>
+            <AddressLine2Txt>Suite 209</AddressLine2Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support". The San Diego Coastkeeper protects and restores swimmable, drinkable, fishable waters in San Diego County. It is a major force in transforming the San Diego region into a leader in sustainable water management, supporting high biodiversity, resilient ecosystems, and thriving neighborhoods.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Every Cure Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>345 Park Ave South 2nd Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support." The organization applies AI to biomedical data to identify the most promising opportunities across all 22K diseases and 3K drugs - their AI platform can complete this work within days. They work with medical experts, physicians, drug companies, academics and patient advocacy groups to quantify the strength of evidence for every drug-disease match and prioritize those with highest potential to relieve suffering.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Family Health Centers of San Diego</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>823 Gateway Center Way</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support." The organization is dedicated to providing caring, affordable, high-quality health care and supportive services to everyone, with a special commitment to uninsured, low-income and medically underserved persons.</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Best Buddies International Inc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3517 Camino del Rio South</AddressLine1Txt>
+            <AddressLine2Txt>Suite 203</AddressLine2Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support." The organization is dedicated to establishing a global volunteer movement that creates opportunities for one-to-one friendships, integrated employment, leadership development, and inclusive living for individuals with intellectual and developmental disabilities (IDD).</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Mama's Kitchen</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3960 Home Avenue</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support." The organization provides nutritional support to San Diego residents at risk of malnutrition due to critical illnesses such as HIV, cancer, congestive heart failure, type 2 diabetes, and chronic kidney disease. Mama's Kitchen strives to help its clients stay healthy, preserve their dignity, and keep their families together by providing, medically tailored home-delivered meals and nutrition education - all at no cost.</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Omar's Dream Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5655 Silver Creek Valley Road 114</AddressLine1Txt>
+            <CityNm>San Jose</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95138</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support." The organization enables hospitalized and medically-supervised children to remotely attend school.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Foundation for the Children of the Californias</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4569 Mission Gorge Place</AddressLine1Txt>
+            <AddressLine2Txt>Suite I</AddressLine2Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92120</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support." The Foundation for the Children of the Californias is a tri-national collaboration with Canada, the United States, and Mexico, endeavoring to improve the health and nutrition of underserved children in the border region through support for the Hospital Infantil de las Californias, a model pediatric specialty medical and education complex, located in Baja. Hospital Infantil offers outpatient services in 25 specialties and services (including day surgeries, dental, ophthalmology, orthopedics, physical therapy, etc.) in a 56,000-square-foot facility. Many of the staff are volunteers and no child is turned away for inability to pay. Hospital Infantil treats over 4000 patients every month from both sides of the border.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Lazarex Cancer Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 Oak Court</AddressLine1Txt>
+            <AddressLine2Txt>Suite 200</AddressLine2Txt>
+            <CityNm>Danville</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94526</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support." The organization strives to improve cancer health outcomes, FDA cancer clinical trial diversity and enrollment, and patient access to care by providing assistance with clinical trial navigation, reimbursing trial related travel costs, and partnering with at-risk communities to mobilize resources. Their vision is that everyone affected by cancer will have hope, dignity, support and the most advanced treatments made available to them at all stages of their journey.</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>National Brain Tumor Society</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>55 Chapel Street</AddressLine1Txt>
+            <AddressLine2Txt>Suite 006</AddressLine2Txt>
+            <CityNm>Newton</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02458</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>"General operating support." The organization invests in, mobilizes, and unites the brain tumor community to discover a cure, deliver effective treatments, and advocate for patients and caregivers.</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>95000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionAmt>83</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl />
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncomeGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionAmt>-1196286</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>-1196203</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-1196203</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION FEES</CategoryTxt>
+        <Amt>20765</Amt>
+        <DisbursementsCharitablePrpsAmt>20765</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ERASCA INC - 810,235 SHARES</StockNm>
+        <EOYBookValueAmt>11472949</EOYBookValueAmt>
+        <EOYFMVAmt>1182943</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFeesGrp>
+        <CategoryTxt>GENERAL CORPORATE MATTERS</CategoryTxt>
+        <LegalFeesAmt>8501</LegalFeesAmt>
+        <DisbursementsCharitablePrpsAmt>8501</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>570</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>570</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FILING FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>183</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>183</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>SOFTWARE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>405</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>405</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>NOTE PAYABLE</Desc>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTING FEES</CategoryTxt>
+        <Amt>15000</Amt>
+        <DisbursementsCharitablePrpsAmt>15000</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>CALIFORNIA RRF-1 TAXES PAID</CategoryTxt>
+        <Amt>25</Amt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES PAID</CategoryTxt>
+        <Amt>3</Amt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

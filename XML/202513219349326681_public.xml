@@ -1,0 +1,923 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2024v5.2">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-17T20:11:35-06:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>931474593</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>MILLER CPA GROUP PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2131 PALOMAR AIRPORT ROAD SUITE 226</AddressLine1Txt>
+        <CityNm>CARLSBAD</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>920111433</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>951732225</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SAN DIEGO COUNTY BAR ASSOCIATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SAND</BusinessNameControlTxt>
+      <PhoneNum>6192310781</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>330 A STREET</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92101</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SCOTT CARR</PersonNm>
+      <PersonTitleTxt>EXECUTIVE DIRECTOR</PersonTitleTxt>
+      <PhoneNum>6192310781</PhoneNum>
+      <SignatureDt>2025-11-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>0</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ALANA TAMARA MILLER</PreparerPersonNm>
+      <PTIN>P01584147</PTIN>
+      <PhoneNum>7606838630</PhoneNum>
+      <PreparationDt>2025-11-17</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <PrincipalOfficerNm>SCOTT CARR</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>330 A STREET</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92101</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>3569495</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>0</GroupReturnForAffiliatesInd>
+      <Organization501cInd organization501cTypeTxt="6">X</Organization501cInd>
+      <WebsiteAddressTxt>WWW.SDCBA.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1899</FormationYr>
+      <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>THE MISSION OF THE SAN DIEGO COUNTY BAR ASSOCIATION IS TO BE THE REPRESENTATIVE OF THE SAN DIEGO COUNTY LEGAL PROFESSION, SERVING THE PRBLIC AND THE PROFESSION BY ENHANCING THE LEGAL SYSTEM AND PROMOTING JUSTICE, PROFESSIONAL EXCELLENCE, AND RESPECT FOR THE LAW.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>20</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>20</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>30</TotalEmployeeCnt>
+      <TotalVolunteersCnt>320</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>57591</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>0</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>64325</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>2815642</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>2690237</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>346632</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>371526</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>-3183</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>235248</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>3159091</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>3361336</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>0</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>500</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>0</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>2424159</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>2138464</CYSalariesCompEmpBnftPaidAmt>
+      <PYTotalProfFndrsngExpnsAmt>0</PYTotalProfFndrsngExpnsAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>173803</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>1925592</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>1541253</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>4349751</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>3680217</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>-1190660</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>-318881</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>21360762</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>21213593</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>1822027</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>1687296</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>19538735</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>19526297</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>THE MISSION OF THE SAN DIEGO COUNTY BAR ASSOCIATION IS TO BE THE REPRESENTATIVE OF THE SAN DIEGO COUNTY LEGAL PROFESSION, SERVING THE PRBLIC AND THE PROFESSION BY ENHANCING THE LEGAL SYSTEM AND PROMOTING JUSTICE, PROFESSIONAL EXCELLENCE, AND RESPECT FOR THE LAW.</MissionDesc>
+      <SignificantNewProgramSrvcInd>0</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>0</SignificantChangeInd>
+      <ExpenseAmt>583598</ExpenseAmt>
+      <Desc>LAWYER REFERRAL SERVICE AND PUBLIC SERVICES THE ASSOCIATION SUPPORTS THE PUBLIC AND THE COMMUNITIES OF SAN DIEGO AND IMPERIAL COUNTY BY PROVIDING ACCESS TO JUSTICE THROUGH ITS STATE BAR CERTIFIED LAWYER REFERRAL AND INFORMATION SERVICE (LRIS). CREATED IN 1952 AS A PUBLICSERVICE PROGRAM OF THE ASSOCIATION, LRIS MATCHES MEMBERS OF THE PUBLIC WITH QUALIFIED ATTORNEYS AND/OR PROVIDES THEM WITH INFORMATION ABOUT NONPROFIT, PUBLIC OR SOCIAL SERVICES THAT MAY BE AVAILABLE. THE LRIS PROGRAM ALSO SUPPORTS OTHER PUBLIC SERVICE PROGRAMS INCLUDING FEE DISPUTE RESOLUTION AND CLIENT SERVICES. IN ADDITION, AS THE HUB OF THE LEGAL COMMUNITY, THE SDCBA PROVIDES EDUCATION AND RESOURCES TO THE PUBLIC ON ISSUES PERTAINING TO THE LAW.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>727979</ExpenseAmt>
+        <Desc>MEMBER SERVICES THE ASSOCIATION PRODUCES A VARIETY OF PUBLICATIONS, RESOURCES, PROGRAMS AND EVENTS TO SUPPORT ITS ALMOST 8,100 MEMBERS AND THE LEGAL COMMUNITY AT LARGE DEVELOPS PROGRAMS TO PROMOTE PUBLIC SERVICE, INCREASE DIVERSITY AND PROFESSIONALISM IN THE LEGAL COMMUNITY AND PROVIDES ACCESS TO JUSTICE THROUGH ITS MANY PUBLIC AND COMMUNITY SERVICE PROGRAMS. MEMBERS HAVE ACCESS TO A VARIETY OF 1) NETWORKING, RELATIONSHIP BUILDING AND MENTORING EVENTS 2) EDUCATIONAL PROGRAMS COVERING A BROAD SPECTRUM OF SUBSTANTIVE LEGAL ISSUES, LAW PRACTICE MANAGEMENT AND MARKETING (BOTH LIVE AND VIRTUALLY VIA A LIVESTREAMING FEATURE) 3) LEGAL ETHICS RESOURCES INCLUDING A LEGAL ETHICS HOTLINE 4) PROGRAMS TO ENCOURAGE GREATER DIVERSITY IN THE BENCH AND BAR 5) PRACTICEBASED SECTIONS AND A FORUM THAT PROVIDES LIVE AND VIRTUAL COMMUNITIES FOR PROGRAMMING, CONNECTING AND QUESTIONS AND 6) COMMITTEES THAT DO PROJECT SPECIFIC WORK FOR THE BAR AND COMMUNITY AT LARGE. IN ADDITION, AS THE HUB OF THE LEGAL COMMUNITY, THE ASSOCIATION PROVIDES EDUCATION AND RESOURCES TO MEMBERS ON ISSUES THAT IMPACT THE LEGAL COMMUNITY.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <ProgSrvcAccomActy3Grp>
+        <ExpenseAmt>379372</ExpenseAmt>
+        <Desc>COMMUNICATIONS AND PUBLICATIONS THE ASSOCIATION PRODUCES SAN DIEGO LAWYER A BIMONTHLY, 48 PAGE GLOSSY MAGAZINE WITH INFORMATION ON SAN DIEGOS LEGAL COMMUNITY, INDIVIDUAL PRACTITIONERS, TRENDS AND TOPICS OF INTEREST TO LAWYERS ACROSS DIFFERENT AREAS OF PRACTICE. WEEKLY, THE ASSOCIATION DISTRIBUTES THIS WEEK AT THE BAR, AN NEWSLETTER DESIGNED TO KEEP MEMBERS ABREAST OF MEETINGS, NETWORKING EVENTS, AND BAR PROGRAMS AND INITIATIVES. MONTHLY, THE ASSOCIATION PUBLISHES AND DISTRIBUTES AN ENEWSLETTER FOR LAWYERS IN THEIR FIRST 7 YEARS OF PRACTICE CALLED FOR THE RECORD.</Desc>
+      </ProgSrvcAccomActy3Grp>
+      <TotalProgramServiceExpensesAmt>1690949</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind>0</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd>0</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd referenceDocumentId="RetDoc1039700001">0</PoliticalCampaignActyInd>
+      <SubjectToProxyTaxInd referenceDocumentId="RetDoc1039700001">1</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc1040000001">0</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc1040000001">0</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc1040000001">0</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>0</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc1040000001">1</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc1040000001">1</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc1040000001">0</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc1040000001">0</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc1040000001">1</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <ForeignOfficeInd>0</ForeignOfficeInd>
+      <ForeignActivitiesInd>0</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>0</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>0</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd referenceDocumentId="RetDoc1041300001">0</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd referenceDocumentId="RetDoc1041300001">1</FundraisingActivitiesInd>
+      <GamingActivitiesInd referenceDocumentId="RetDoc1041300001">0</GamingActivitiesInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd referenceDocumentId="RetDoc1042400001">1</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>0</TaxExemptBondsInd>
+      <LoanOutstandingInd>0</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>0</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>0</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>0</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>0</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd>0</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>0</DeductibleArtContributionInd>
+      <TerminateOperationsInd>0</TerminateOperationsInd>
+      <PartialLiquidationInd>0</PartialLiquidationInd>
+      <DisregardedEntityInd referenceDocumentId="RetDoc1043400001">1</DisregardedEntityInd>
+      <RelatedEntityInd referenceDocumentId="RetDoc1043400001">0</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>0</RelatedOrganizationCtrlEntInd>
+      <ActivitiesConductedPrtshpInd referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>1</ScheduleORequiredInd>
+      <IRPDocumentCnt>30</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <BackupWthldComplianceInd>1</BackupWthldComplianceInd>
+      <EmployeeCnt>30</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>1</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>1</UnrelatedBusIncmOverLimitInd>
+      <Form990TFiledInd>1</Form990TFiledInd>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>0</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>1</NondeductibleContributionsInd>
+      <NondeductibleContriDisclInd>1</NondeductibleContriDisclInd>
+      <IndoorTanningServicesInd>0</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>0</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>20</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>20</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>0</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>0</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>0</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>0</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>1</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>1</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>1</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>1</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>1</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>0</OfficerMailingAddressInd>
+      <LocalChaptersInd>0</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>1</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>1</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>1</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>1</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>1</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>1</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>1</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>1</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>0</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>SCOTT CARR</BusinessNameLine1Txt>
+        </BusinessName>
+        <PhoneNum>6192310781</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>330 A ST</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92101</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CRYSTAL TRULL</PersonNm>
+        <TitleTxt>EXECUTIVE DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>134680</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>16618</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>STACEY KARTCHNER</PersonNm>
+        <TitleTxt>PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICHELLE GASTIL</PersonNm>
+        <TitleTxt>PRESIDENT-ELECT</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MELISSA JOHNSON</PersonNm>
+        <TitleTxt>IMMEDIATE PAST PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SPENCER SCOTT</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>TATIANA KLINE</PersonNm>
+        <TitleTxt>SECRETARY</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>LESLIE ABRIGO</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>5.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICHAEL CROWLEY</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JASON EVANS</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>NICOLE HEEDER</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BRANDON KIMURA</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>NICOLE D'AMBROGI</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SARAH GARRICK</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>FLAVIO NOMINATI</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>STEPHANIE PENGILLEY</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>D ELISABETH SILVA</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CYNTHIA STRATTON</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>TANEASHIA MORRELL</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>TIMOTHY WILLIAMS</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>FANNY YU</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ELIJAH GAGLIO</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICHELLE CHAVEZ</PersonNm>
+        <TitleTxt>DIRECTOR OF PUBLIC SERVICE PROGRAMS</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>111396</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>15628</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>NIC HAGAN</PersonNm>
+        <TitleTxt>DIRECTOR OF OPERATIONS AND BUSINESS DEVELOPMENT</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>110317</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>10590</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SARAH HARRIS</PersonNm>
+        <TitleTxt>DIRECTOR OF PROGRAMS AND EVENTS</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>116473</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>140</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>RON MARCUS</PersonNm>
+        <TitleTxt>DIRECTOR OF MARKETING AND OUTREACH</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>103092</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>575958</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>42976</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>5</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>1</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>1</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>0</CompensationFromOtherSrcsInd>
+      <CntrctRcvdGreaterThan100KCnt>0</CntrctRcvdGreaterThan100KCnt>
+      <FundraisingAmt>64325</FundraisingAmt>
+      <TotalContributionsAmt>64325</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>LAWYER REFERRAL AND IN</Desc>
+        <BusinessCd>541100</BusinessCd>
+        <TotalRevenueColumnAmt>1476670</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1476670</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>MEMBERSHIP DUES &amp; ASSM</Desc>
+        <BusinessCd>541100</BusinessCd>
+        <TotalRevenueColumnAmt>1123669</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1123669</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>MEMBERSHIP SVC, COM &amp;</Desc>
+        <BusinessCd>541100</BusinessCd>
+        <TotalRevenueColumnAmt>89898</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>89898</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>2690237</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>371526</TotalRevenueColumnAmt>
+        <ExclusionAmt>371526</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <RoyaltiesRevenueGrp>
+        <TotalRevenueColumnAmt>108350</TotalRevenueColumnAmt>
+        <ExclusionAmt>108350</ExclusionAmt>
+      </RoyaltiesRevenueGrp>
+      <GrossRentsGrp>
+        <RealAmt>49811</RealAmt>
+      </GrossRentsGrp>
+      <LessRentalExpensesGrp>
+        <RealAmt>0</RealAmt>
+      </LessRentalExpensesGrp>
+      <RentalIncomeOrLossGrp>
+        <RealAmt>49811</RealAmt>
+      </RentalIncomeOrLossGrp>
+      <NetRentalIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>49811</TotalRevenueColumnAmt>
+        <ExclusionAmt>49811</ExclusionAmt>
+      </NetRentalIncomeOrLossGrp>
+      <FundraisingGrossIncomeAmt>37679</FundraisingGrossIncomeAmt>
+      <ContriRptFundraisingEventAmt>64325</ContriRptFundraisingEventAmt>
+      <FundraisingDirectExpensesAmt>208159</FundraisingDirectExpensesAmt>
+      <NetIncmFromFundraisingEvtGrp>
+        <TotalRevenueColumnAmt>-170480</TotalRevenueColumnAmt>
+        <ExclusionAmt>-170480</ExclusionAmt>
+      </NetIncmFromFundraisingEvtGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>ADVERTISING</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>203345</TotalRevenueColumnAmt>
+        <ExclusionAmt>203345</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>OTHER INCOME</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>44222</TotalRevenueColumnAmt>
+        <ExclusionAmt>44222</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>247567</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>3361336</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>2690237</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>0</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>606774</ExclusionAmt>
+      </TotalRevenueGrp>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>500</TotalAmt>
+        <ProgramServicesAmt>500</ProgramServicesAmt>
+      </GrantsToDomesticOrgsGrp>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>618933</TotalAmt>
+        <ProgramServicesAmt>152051</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>303362</ManagementAndGeneralAmt>
+        <FundraisingAmt>163520</FundraisingAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>1193640</TotalAmt>
+        <ProgramServicesAmt>692311</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>501329</ManagementAndGeneralAmt>
+      </OtherSalariesAndWagesGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>199369</TotalAmt>
+        <ProgramServicesAmt>153514</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>45855</ManagementAndGeneralAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>126522</TotalAmt>
+        <ProgramServicesAmt>62752</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>53487</ManagementAndGeneralAmt>
+        <FundraisingAmt>10283</FundraisingAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>139685</TotalAmt>
+        <ProgramServicesAmt>56448</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>83237</ManagementAndGeneralAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>41549</TotalAmt>
+        <ProgramServicesAmt>8724</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>32825</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>193969</TotalAmt>
+        <ProgramServicesAmt>69094</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>124875</ManagementAndGeneralAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>211028</TotalAmt>
+        <ProgramServicesAmt>210988</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>40</ManagementAndGeneralAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>83141</TotalAmt>
+        <ProgramServicesAmt>46852</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>36289</ManagementAndGeneralAmt>
+      </OfficeExpensesGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>83036</TotalAmt>
+        <ProgramServicesAmt>40750</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>42286</ManagementAndGeneralAmt>
+      </InformationTechnologyGrp>
+      <OccupancyGrp>
+        <TotalAmt>275961</TotalAmt>
+        <ProgramServicesAmt>57840</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>218121</ManagementAndGeneralAmt>
+      </OccupancyGrp>
+      <TravelGrp>
+        <TotalAmt>16968</TotalAmt>
+        <ProgramServicesAmt>15245</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1723</ManagementAndGeneralAmt>
+      </TravelGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>8058</TotalAmt>
+        <ProgramServicesAmt>7058</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1000</ManagementAndGeneralAmt>
+      </ConferencesMeetingsGrp>
+      <InterestGrp>
+        <TotalAmt>6766</TotalAmt>
+        <ManagementAndGeneralAmt>6766</ManagementAndGeneralAmt>
+      </InterestGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>92897</TotalAmt>
+        <ManagementAndGeneralAmt>92897</ManagementAndGeneralAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>39425</TotalAmt>
+        <ProgramServicesAmt>14333</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>25092</ManagementAndGeneralAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>LICENSES AND TAXES</Desc>
+        <TotalAmt>111713</TotalAmt>
+        <ProgramServicesAmt>10600</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>101113</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>MISCELLANEOUS</Desc>
+        <TotalAmt>93255</TotalAmt>
+        <ProgramServicesAmt>2020</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>91235</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>BANK CHARGES AND FEES</Desc>
+        <TotalAmt>67634</TotalAmt>
+        <ProgramServicesAmt>54549</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>13085</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>DIRECT PROGRAM EXPENSES</Desc>
+        <TotalAmt>23674</TotalAmt>
+        <ProgramServicesAmt>22700</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>974</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>52494</TotalAmt>
+        <ProgramServicesAmt>12620</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>39874</ManagementAndGeneralAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>3680217</TotalAmt>
+        <ProgramServicesAmt>1690949</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1815465</ManagementAndGeneralAmt>
+        <FundraisingAmt>173803</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>184598</BOYAmt>
+        <EOYAmt>901429</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>28961</BOYAmt>
+        <EOYAmt>5164</EOYAmt>
+      </AccountsReceivableGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>312182</BOYAmt>
+        <EOYAmt>31667</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <LandBldgEquipCostOrOtherBssAmt>10451586</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>162008</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>7957293</BOYAmt>
+        <EOYAmt>10289578</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsOtherSecuritiesGrp>
+        <BOYAmt>12484750</BOYAmt>
+        <EOYAmt>9592777</EOYAmt>
+      </InvestmentsOtherSecuritiesGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>392978</BOYAmt>
+        <EOYAmt>392978</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>21360762</BOYAmt>
+        <EOYAmt>21213593</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>793172</BOYAmt>
+        <EOYAmt>598736</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>413154</BOYAmt>
+        <EOYAmt>489073</EOYAmt>
+      </DeferredRevenueGrp>
+      <UnsecuredNotesLoansPayableGrp>
+        <BOYAmt>507964</BOYAmt>
+        <EOYAmt>507964</EOYAmt>
+      </UnsecuredNotesLoansPayableGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>107737</BOYAmt>
+        <EOYAmt>91523</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>1822027</BOYAmt>
+        <EOYAmt>1687296</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>19515332</BOYAmt>
+        <EOYAmt>19426865</EOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <DonorRestrictionNetAssetsGrp>
+        <BOYAmt>23403</BOYAmt>
+        <EOYAmt>99432</EOYAmt>
+      </DonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>19538735</BOYAmt>
+        <EOYAmt>19526297</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>21360762</BOYAmt>
+        <EOYAmt>21213593</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>-318881</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>255285</NetUnrlzdGainsLossesInvstAmt>
+      <InvestmentExpenseAmt>-23731</InvestmentExpenseAmt>
+      <PriorPeriodAdjustmentsAmt>74889</PriorPeriodAdjustmentsAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>0</AccountantCompileOrReviewInd>
+      <FSAuditedInd>1</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <ConsolidatedBasisFinclStmtInd>X</ConsolidatedBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>1</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>0</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleC documentId="RetDoc1039700001">
+      <SubstantiallyAllDuesNondedInd>1</SubstantiallyAllDuesNondedInd>
+      <OnlyInHouseLobbyingInd>1</OnlyInHouseLobbyingInd>
+      <AgreeCarryoverPriorYearInd>0</AgreeCarryoverPriorYearInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I-A, LINE 1 DIRECT AND INDIRECT POLITICAL CAMPAIGN ACTIVITIES</FormAndLineReferenceDesc>
+        <ExplanationTxt>DURING SAN DIEGO COUNTY ELECTIONS, THERE IS OFTEN LITTLE INFORMATION AVAILABLE ABOUT CANDIDATES WHO ARE RUNNING FOR JUDGE. AS A SERVICE TO VOTERS, THE SAN DIEGO COUNTY BAR ASSOCIATION (SDCBA) EVALUATES JUDICIAL CANDIDATES IN CONTESTED JUDICIAL ELECTIONS. THE SDCBA'S JUDICIAL ELECTION EVALUATION COMMITTEE (JEEC) EVALUATES EACH CANDIDATE. THE JEEC IS COMPRISED OF 21 MEMBERS WHO REPRESENT A CROSS-SECTION OF SAN DIEGOS LEGAL COMMUNITY BY DEMOGRAPHICS AND PROFESSIONAL DIVERSITY, INCLUDING LAWYERS FROM THE PUBLIC AND PRIVATE SECTORS, CIVIL AND CRIMINAL LAW PRACTITIONERS, CORPORATE COUNSEL, SOLE PRACTITIONERS AND MEMBERS OF SMALL, MEDIUM AND LARGE FIRMS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <LandGrp>
+        <OtherCostOrOtherBasisAmt>4371200</OtherCostOrOtherBasisAmt>
+        <BookValueAmt>4371200</BookValueAmt>
+      </LandGrp>
+      <BuildingsGrp>
+        <OtherCostOrOtherBasisAmt>2458800</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>131346</DepreciationAmt>
+        <BookValueAmt>2327454</BookValueAmt>
+      </BuildingsGrp>
+      <OtherLandBuildingsGrp>
+        <OtherCostOrOtherBasisAmt>3621586</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>30662</DepreciationAmt>
+        <BookValueAmt>3590924</BookValueAmt>
+      </OtherLandBuildingsGrp>
+      <TotalBookValueLandBuildingsAmt>10289578</TotalBookValueLandBuildingsAmt>
+      <OtherSecuritiesGrp>
+        <Desc>INVESTMENTS</Desc>
+        <BookValueAmt>9592777</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <TotalBookValueSecuritiesAmt>9592777</TotalBookValueSecuritiesAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>UNALLOCATED FUNDS (AMS)</Desc>
+        <Amt>35544</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>SUBTENANT SECURITY DEPOSIT</Desc>
+        <Amt>18571</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>INDIGENT CRIMINAL DEFENSE FUND</Desc>
+        <Amt>37408</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>91523</TotalLiabilityAmt>
+      <FootnoteTextInd>X</FootnoteTextInd>
+      <TotalRevEtcAuditedFinclStmtAmt>3592890</TotalRevEtcAuditedFinclStmtAmt>
+      <NetUnrealizedGainsInvstAmt>255285</NetUnrealizedGainsInvstAmt>
+      <RevenueNotReportedAmt>255285</RevenueNotReportedAmt>
+      <RevenueSubtotalAmt>3337605</RevenueSubtotalAmt>
+      <InvestmentExpensesNotIncldAmt>23731</InvestmentExpensesNotIncldAmt>
+      <RevenueNotReportedFinclStmtAmt>23731</RevenueNotReportedFinclStmtAmt>
+      <TotalRevenuePerForm990Amt>3361336</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>3680217</TotExpnsEtcAuditedFinclStmtAmt>
+      <ExpensesNotReportedAmt>0</ExpensesNotReportedAmt>
+      <ExpensesSubtotalAmt>3680217</ExpensesSubtotalAmt>
+      <ExpensesNotRptFinclStmtAmt>0</ExpensesNotRptFinclStmtAmt>
+      <TotalExpensesPerForm990Amt>3680217</TotalExpensesPerForm990Amt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART X, LINE 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>FASB ASC 740 FOOTNOTE THE ORGANIZATION FOLLOWS THE PROVISIONS OF UNCERTAIN TAX POSITIONS AS ADDRESSED IN FASB ACCOUNTING STANDARDS CODIFICATION. THE ORGANIZATION RECOGNIZES ACCRUED INTEREST AND PENALTIES ASSOCIATED WITH UNCERTAIN TAX POSITIONS AS PART OF THE INCOME TAX PROVISION, WHEN APPLIACABLE. THERE ARE NO AMOUNTS ACCRUED IN THE FINANCIAL STATEMENTS RELATED TO UNCERTAIN TAX POSITIONS FOR THE YEAR ENDED DECEMBER 31, 2024.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleG documentId="RetDoc1041300001">
+      <FundraisingEventInformationGrp>
+        <Event1Nm>EVENTS</Event1Nm>
+        <GrossReceiptsEvent1Amt>102004</GrossReceiptsEvent1Amt>
+        <CharitableContriEvent1Amt>64325</CharitableContriEvent1Amt>
+        <GrossRevenueEvent1Amt>37679</GrossRevenueEvent1Amt>
+        <FoodAndBeverageEvent1Amt>185757</FoodAndBeverageEvent1Amt>
+        <EntertainmentEvent1Amt>4905</EntertainmentEvent1Amt>
+        <OtherDirectExpensesEvent1Amt>17497</OtherDirectExpensesEvent1Amt>
+        <GrossReceiptsTotalAmt>102004</GrossReceiptsTotalAmt>
+        <CharitableContributionsTotAmt>64325</CharitableContributionsTotAmt>
+        <GrossRevenueTotalEventsAmt>37679</GrossRevenueTotalEventsAmt>
+        <FoodAndBeverageTotalEventsAmt>185757</FoodAndBeverageTotalEventsAmt>
+        <EntertainmentTotalEventsAmt>4905</EntertainmentTotalEventsAmt>
+        <OthDirectExpnssTotalEventsAmt>17497</OthDirectExpnssTotalEventsAmt>
+        <DirectExpenseSummaryEventsAmt>208159</DirectExpenseSummaryEventsAmt>
+        <NetIncomeSummaryAmt>-170480</NetIncomeSummaryAmt>
+      </FundraisingEventInformationGrp>
+    </IRS990ScheduleG>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <SeverancePaymentInd>0</SeverancePaymentInd>
+      <SupplementalNonqualRtrPlanInd>0</SupplementalNonqualRtrPlanInd>
+      <EquityBasedCompArrngmInd>0</EquityBasedCompArrngmInd>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>CRYSTAL TRULL</PersonNm>
+        <TitleTxt>EXECUTIVE DIRECTOR</TitleTxt>
+        <BaseCompensationFilingOrgAmt>134680</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>0</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>0</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>4519</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>12099</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>151298</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+        <CompReportPrior990FilingOrgAmt>0</CompReportPrior990FilingOrgAmt>
+        <CompReportPrior990RltdOrgsAmt>0</CompReportPrior990RltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ASSOCIATION OFFERS THE FOLLOWING CATAGORIES OF MEMBERSHIP: ATTORNEY MEMBERS, LEGAL COMMUNITY MEMBERS, LAW STUDENT MEMBERS, AND HONORARY MEMBERS. THE SPECIFIC QUALIFICATION FOR MEMBERSHIP ARE INCLUDED IN THE ASSOCIATION'S BYLAWS WHICH ARE POSTED AT THEIR WEBSITE.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 7A</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE GOVERNING BODY (BOARD OF DIRECTORS) IS ELECTED THROUGH A VOTING BALLOT PROCESS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 7B</FormAndLineReferenceDesc>
+        <ExplanationTxt>DECISIONS OF GOVERNING BODY APPROVAL BY MEMBERS OR SHAREHOLDERS DECISIONS THAT ASSOCIATION COUNSEL DETERMINES ARE RELATED TO MEMBER RIGHTS GO TO THE GENERAL MEMBERSHIP FOR APPROVAL.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>A COPY OF THE FORM 990 IS PROVIDED TO ALL MEMBERS OF THE BOARD OF DIRECTORS IN ELECTRONIC FORMAT UNLESS A PAPER COPY IS REQUESTED.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>A CONFLICT OF INTEREST FORM IS GIVEN TO ALL BOARD MEMBERS, AND TO ANY COMMITTEE MEMBERS WHO HAVE FINANCIAL RESPONSIBILITIES.THEY ARE SIGNED AND RETURNED TO SAN DIEGO BAR ASSOCIATION'S OFFICE, WHERE THEY ARE KEPT ON FILE. IF A CONFLICT OF INTEREST WERE TO ARISE, THE SITUATION WOULD BE REVIEWED AND EITHER RESOLVED OR THE MEMBER WOULD RECUSE THEMSELVES FROM ANY INVOLVEMENT WITH THE TRANSACTION.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 15</FormAndLineReferenceDesc>
+        <ExplanationTxt>ON AN ANNUAL BASIS, THE SDCBA PRESIDENT AND EXECUTIVE COMMITTEE ARE RESPONSIBLE FOR MAKING A RECOMMENDATION REGARDING THE COMPENSATION OF THE EXECUTIVE DIRECTOR, FOR CONDSIDERATION AND APPROVAL BY THE BOARD OF DIRECTORS. THIS VITE MAY TAKE PLACE EITHER AT THE DECEMBER BOARD MEETING, OR AT A SPACIAL MEETING THAT MAY BE COVERED BY THE SDCBA PRESIDENT. BOARD APPROVAL OF THE EXECUTIVE DIRECTORS COMPENSATION IS TO TAKE PLACE PRIDE TO THE END OF THE CALENDAR YEAR. THE SDCBA PRESIDENT AND EXECUTIVE COMMITTEE SHAL MEET WITH THE EXECUTIVE DIRECTOR TO SOLICIT INPUT REGARDING THE SETTING OF COMPENSATION. THE SDCBA PRESIDENT SHAL ALSO CONSIDER AND SOLICIT INPUT FROM ANY MEMBER OF THE BOARD OF DIRECTORS THAT WISHES TO BE HEARD ON THE ISSUES OF THE SETTING OF THE COMPENSATION OF THE EXECUTIVE DIRECTOR. DURING THE ANNUAL COMPENSATION REVIEW, THE PRESIDENT AND EXECUTIVE COMMITTEE WILL REVIEW COMPARISON DATA FROM SIMILAR BAR ASSOCIATIONS AND OTHE PROFESSIONAL MEMBERSHIP ORGANIZATIONS OF SIMILARLY QUALIFIED PERSONS IN FUNCTIONALLY COMPARABLE POSITIONS IN PREPARING THE COMPENSATION RECOMMENDATION TO THE BOARD. A RECORD OF THE MEETING AND DISCUSSIONS RELATIVE TO EXECUTIVE DIRECTORS COMPENSATION WILL BE DOCUMENTED, AND THE JUSTIFICATION FOR ANY RECOMMENDED ADHUSTMENTS TO SAID COMPENSATION WILL ALSO BE DOCUMENTED. THIS RECORD AND DOCUMENTATION SHALL BE SENT TO THE SDCBAS ATTORNEY OF RECORD WHO SHALL PRESERVE THE DOCUMENTATION FOR THE FUTURE BOARD TO REVIEW. THE PRESIDENT AND/OR MEMBER OF THE EXECUTIVE COMMITTEE WHO HAVE A CONFLICT OF INTEREST WITH RESPECT TO THE COMPENSATION ARRANGEMENT OF THE EXECUTIVE DIRECTOR SHALL NOT PARTICIPATE IN ANY RECOMMENDATIONS OR DECISIONS PERTAINING TO THE COMPENSATION OF THE EXECUTIVE DIRECTOR. MODIFICATIONS TO THE EXECUTIVE DIRECTORS SALARY MUST BE DOCUMENTED IN A MEMORANDUM TO THE EXECUTIVE DIRECTOR FROM THE PRESIDENT WITH A COPY TO THE HR DIRECTOR FOR IMPLEMENTATION THROUGH THE PAYROLL SYSTEM. FORM 990, PART VI, SECTION B, LINE 15B THE EXECUTIVE DIRECTOR IS RESPONSIBLE FOR ESTABLISHING THE COMPENSATION OF ALL OTHER SDCBA STAFF, AND SUCH COMPENSATION IS SET AFTER REVIEW OF COMPARISON DATA FROM SIMILAR BAR ASSOCIATIONS AND OTHER PROFESSIONAL MEMBERSHIP ORGANIZATIONS OF SIMILARLY QUALIFIED PERSONS IN FUNCTIONALLY COMPARABLE POSITIONS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION C, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>CONSOLIDATED FINANCIAL STATEMENT: THE AUDITED CONSOLIDATED FINANCIALS ARE AVAILABLE UPON REQUEST. THE INTERNALLY PREPARED ANNUAL REPORT IS AVAILABLE ON THE WEBSITE.OTHER GOVERNANCE DOCUMENTS AVAILABLE:SAN DIEGO COUNTY BAR ASSOCIATION' S BYLAWS AND THE POLICY MANUAL, WHICH INCLUDES THE CONFLICT OF INTEREST POLICY, ARE AVAILABLE ON THE WEBSITE. ALL OTHER GOVERNING DOCUMENTS ARE AVAILABLE UPON REQUEST.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <IdDisregardedEntitiesGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>UNION &amp; B LLC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>401 W A STREET SUITE 100</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92101</ZIPCd>
+        </USAddress>
+        <EIN>465487447</EIN>
+        <PrimaryActivitiesTxt>RENTAL OF OTHER REAL ESTATE</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <TotalIncomeAmt>191434</TotalIncomeAmt>
+        <EndOfYearAssetsAmt>12525465</EndOfYearAssetsAmt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SAN DIEGO COUNTY BAR ASSOCIATION</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+      </IdDisregardedEntitiesGrp>
+      <IdDisregardedEntitiesGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>1241 STATE STREET LLC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>401 W A STREET SUITE 100</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92101</ZIPCd>
+        </USAddress>
+        <EIN>464974270</EIN>
+        <PrimaryActivitiesTxt>RENTAL OF NONRESIDENTIAL BUILDING</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <TotalIncomeAmt>182343</TotalIncomeAmt>
+        <EndOfYearAssetsAmt>2183866</EndOfYearAssetsAmt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SAN DIEGO COUNTY BAR ASSOCIATION</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+      </IdDisregardedEntitiesGrp>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-10-29T13:16:51-07:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>330596551</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HUGHES &amp; PIZZUTO APC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>401 B ST STE 2400</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92101</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>822964852</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Vassiliadis Family Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>VASS</BusinessNameControlTxt>
+      <PhoneNum>6196995846</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>401 B Street 2400</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92101</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Robert P Pizzuto</PersonNm>
+      <PersonTitleTxt>Secretary</PersonTitleTxt>
+      <PhoneNum>6192391211</PhoneNum>
+      <SignatureDt>2025-10-29</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Camille A Perna</PreparerPersonNm>
+      <PTIN>P01525682</PTIN>
+      <PhoneNum>6192391211</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>42185732</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>543750</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>543750</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>543750</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>56430</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>56430</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>56430</DividendsAdjNetIncmAmt>
+        <GrossRentsRevAndExpnssAmt>474053</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>474053</GrossRentsNetInvstIncmAmt>
+        <GrossRentsAdjNetIncmAmt>474053</GrossRentsAdjNetIncmAmt>
+        <NetRentalIncomeOrLossAmt>474053</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>2096722</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1615870</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>18582</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>3170955</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1092815</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1074233</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>37500</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>37500</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">-974</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>-974</LegalFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">4096</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>4096</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">46193</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>46193</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>86815</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>86815</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1350000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1350000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1436815</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1436815</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1734140</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>1092815</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1074233</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>4449597</CashBOYAmt>
+        <CashEOYAmt>4981679</CashEOYAmt>
+        <CashEOYFMVAmt>4981679</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>1882610</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>2511652</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>5620342</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsEOYFMVAmt>31583711</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>6332207</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>7493331</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>42185732</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">5586614</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">5013598</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>5586614</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>5013598</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <AdditionalPaidInCapitalBOYAmt>12055164</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>12055164</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>-11309571</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-9575431</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>745593</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2479733</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6332207</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>7493331</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>745593</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1734140</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2479733</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2479733</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US Bank 6160 - See Attached</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-01-01</AcquiredDt>
+          <SoldDt>2024-01-01</SoldDt>
+          <GrossSalesPriceAmt>1615870</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1597288</CostOrOtherBasisAmt>
+          <GainOrLossAmt>18582</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>18582</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>18582</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>15190</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>15190</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>15190</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>851</EsPenaltyAmt>
+        <TaxDueAmt>16041</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="SubstantialContributorsSchedul">true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>true</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Robert Pizzuto</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6192391211</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92101</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>true</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Robert P Pizzuto</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>8.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>37500</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Carol Vassiliadis</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Melissa Vassiliadis</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Andrew Vassiliadis</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Robert P Pizzuto</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Robert P Pizzuto</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Carol Vassiliadis</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Melissa Vassiliadis</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Andrew Vassiliadis</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2851532</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>4844932</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>31583711</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>39280175</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>39280175</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>589203</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>38690972</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1934549</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1934549</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>15190</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>15190</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1919359</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1919359</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1919359</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>1436815</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>1436815</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1919359</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>52459</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>1436815</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>52459</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>1384356</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>535003</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Carol Vassiliadis</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Francis Parker School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6501 Linda Vista Road</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Francis Parker School's mission is to inspire a diverse community of independent thinkers whose academic excellence, global perspective and strength of character prepare them to make a meaningful difference in the world.</GrantOrContributionPurposeTxt>
+          <Amt>250000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KBPS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5200 Campanile Drive SDSU</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92182</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>KPBS news serves the people of the San Diego region with trustworthy, in-depth information that allows the community to hold its leaders accountable.</GrantOrContributionPurposeTxt>
+          <Amt>200000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Diego Zoo Wildlife Alliance</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2920 Zoo Drive</AddressLine1Txt>
+            <CityNm>San Diego</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92101</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>The San Diego Zoos mission is to save species worldwide by uniting expertise in animal care and conservation science with dedication to inspiring passion for nature.</GrantOrContributionPurposeTxt>
+          <Amt>900000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1350000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>543750</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <RelatedOrExemptFunctionIncmAmt>56430</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp>
+          <RelatedOrExemptFunctionIncmAmt>474053</RelatedOrExemptFunctionIncmAmt>
+        </NetRntlIncmReDebtFincdPropGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>2096722</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>3170955</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>3170955</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>Investments Held for Use in Charitable Purposes</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>4</LineNumberTxt>
+          <RelationshipStatementTxt>Investments Held for Use in Charitable Purposes</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>5</LineNumberTxt>
+          <RelationshipStatementTxt>Investments Held for Use in Charitable Purposes</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>Investments Held for Use in Charitable Purposes</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Investment in Real Estate Partnerships</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <EOYFMVAmt>31583711</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <LegalFeesGrp>
+        <CategoryTxt>Refund of Fees</CategoryTxt>
+        <LegalFeesAmt>974</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>-974</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>Advisor Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>29546</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>29546</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>1647</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1647</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Special Event Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>15000</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>15000</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherLiabilitiesDetail>
+        <Desc>Negative Capital Accounts (Pship Int)</Desc>
+        <BOYBookValueAmt>5584957</BOYBookValueAmt>
+        <EOYBookValueAmt>4979465</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>Payroll Liabilities</Desc>
+        <BOYBookValueAmt>1657</BOYBookValueAmt>
+        <EOYBookValueAmt>34133</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <SubstantialContributorsSch documentId="SubstantialContributorsSchedul" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <SubstantialContributorDetail>
+        <PersonNm>Carol Vassiliadis</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>401 B Street Suite 2400</AddressLine1Txt>
+          <CityNm>San Diego</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92101</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>Foreign Taxes</CategoryTxt>
+        <Amt>107</Amt>
+        <DisbursementsCharitablePrpsAmt>107</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Payroll Taxes</CategoryTxt>
+        <Amt>3989</Amt>
+        <DisbursementsCharitablePrpsAmt>3989</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

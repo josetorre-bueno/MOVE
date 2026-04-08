@@ -1,0 +1,632 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-17T14:34:44-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>952076568</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Leaf &amp; Cole LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2810 Camino Del Rio South Suite 200</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92108</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>953818980</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ST SPYRIDON HELLENIC FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>STSP</BusinessNameControlTxt>
+      <PhoneNum>6195611061</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3655 PARK BOULEVARD</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SPERO TZATHAS</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-11-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>NICHOLAS M GINES</PreparerPersonNm>
+      <PTIN>P00508291</PTIN>
+      <PhoneNum>6192947200</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>9335371</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>23836</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>23836</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>23836</DividendsAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">937645</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>961481</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>23836</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>23836</TotalAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">8523</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesAdjNetIncmAmt>8523</OtherProfFeesAdjNetIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="DepreciationSchedule">131329</DeprecAndDpltnRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">757813</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>100</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>897665</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>8623</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>25000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>25000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>922665</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>8623</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>25000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>38816</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>23836</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>15213</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>522157</CashBOYAmt>
+        <CashEOYAmt>665508</CashEOYAmt>
+        <CashEOYFMVAmt>665508</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>613682</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>622504</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>622504</SavAndTempCashInvstEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>8096596</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>1991348</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>6236577</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="LandEtcSchedule2">6105248</LandEOYAmt>
+        <LandEOYFMVAmt>8044491</LandEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">48201</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">2868</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">2868</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>7420617</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>7396128</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>9335371</TotalAssetsEOYFMVAmt>
+        <MortgagesAndNotesPayableBOYAmt>2997934</MortgagesAndNotesPayableBOYAmt>
+        <MortgagesAndNotesPayableEOYAmt referenceDocumentId="MortgagesAndNotesPayableSchedu">2933639</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSchedule">65460</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">66450</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>3063394</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>3000089</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>4357223</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>4396039</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4357223</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4396039</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>7420617</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>7396128</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4357223</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>38816</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>4396039</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4396039</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>331</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>331</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>331</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>331</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>SPERO TZATHAS</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6195611061</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3655 PARK BOULEVARD</AddressLine1Txt>
+          <CityNm>SAN DIEGO</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92103</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAUL ANAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>13230 GLENCLIFF WAY</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92130</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN KALAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5185 COMANCHE DRIVE D</AddressLine1Txt>
+            <CityNm>LA MESA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91942</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN GEORGES</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10461 GUINCHO PLACE</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92124</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GEORGE SCARVELIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 12512</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92112</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JULIE KARAGIANIDES</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1778 BALANCED ROCK LANE</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92019</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ART BALOURDAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4351 CAM PINTORESCO</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92108</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SPERO TZATHAS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>12750 MAPLEWOOD CT</AddressLine1Txt>
+            <CityNm>POWAY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92064</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>SENIOR RENTAL ASSISTANCE</Description1Txt>
+        <Expenses1Amt>12000</Expenses1Amt>
+        <Description2Txt>ST SPYRIDON CHURCH</Description2Txt>
+        <Expenses2Amt>13000</Expenses2Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>617582</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>486383</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1103965</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1103965</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>16559</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1087406</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>54370</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>25000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>25000</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>15213</CurrentYearAmt>
+          <Year1Amt>22212</Year1Amt>
+          <Year3Amt>115</Year3Amt>
+          <TotalAmt>37540</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <Pct85LessorAdjIncmOrMinRetGrp>
+          <CurrentYearAmt>12931</CurrentYearAmt>
+          <Year1Amt>18880</Year1Amt>
+          <Year3Amt>98</Year3Amt>
+          <TotalAmt>31909</TotalAmt>
+        </Pct85LessorAdjIncmOrMinRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>25000</CurrentYearAmt>
+          <Year1Amt>33465</Year1Amt>
+          <Year2Amt>3000</Year2Amt>
+          <Year3Amt>3000</Year3Amt>
+          <TotalAmt>64465</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>25000</CurrentYearAmt>
+          <Year1Amt>33465</Year1Amt>
+          <Year2Amt>3000</Year2Amt>
+          <Year3Amt>3000</Year3Amt>
+          <TotalAmt>64465</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <CurrentYearAmt>9335371</CurrentYearAmt>
+          <Year1Amt>9231186</Year1Amt>
+          <Year2Amt>9088043</Year2Amt>
+          <Year3Amt>6485004</Year3Amt>
+          <TotalAmt>34139604</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <CurrentYearAmt>9335371</CurrentYearAmt>
+          <Year1Amt>9231186</Year1Amt>
+          <Year2Amt>9088043</Year2Amt>
+          <Year3Amt>6485004</Year3Amt>
+          <TotalAmt>34139604</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <TotalAmt>0</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VARIOUS SENIORS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>VARIOUS</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>RENTAL ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST SPYRIDON CHURCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3655 PARK BOULEVARD</AddressLine1Txt>
+            <CityNm>SAN DIEGO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>ALLEY CLEANUP &amp; GREEK SCHOOL</GrantOrContributionPurposeTxt>
+          <Amt>13000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>25000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>23836</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp>
+          <ExclusionCd>30</ExclusionCd>
+          <ExclusionAmt>-175358</ExclusionAmt>
+        </NetRntlIncmReDebtFincdPropGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>30</ExclusionCd>
+          <ExclusionAmt>223961</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>72439</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>72439</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AmortizationSchedule documentId="AmortizationSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <AmortizationScheduleDetail>
+        <AmortizedExpensesDesc>LOAN FEES 1728-1744 CYPRESS</AmortizedExpensesDesc>
+        <AcquiredCompletedOrExpendedDt>2022-08-26</AcquiredCompletedOrExpendedDt>
+        <AmortizedAmt>12906</AmortizedAmt>
+        <DeductionForPriorYearsAmt>573</DeductionForPriorYearsAmt>
+        <AmortizationPeriodRt>3.0000</AmortizationPeriodRt>
+        <CurrentYearAmortizationAmt>9465</CurrentYearAmortizationAmt>
+        <TotalAmortizationAmt>10038</TotalAmortizationAmt>
+      </AmortizationScheduleDetail>
+    </AmortizationSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BLGDG-3677 PK BL</PropertyDesc>
+        <AcquiredDt>1997-03-01</AcquiredDt>
+        <CostOrOtherBasisAmt>194880</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>189871</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>5009</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BLDG 3710-16 INDIANA</PropertyDesc>
+        <AcquiredDt>2006-01-06</AcquiredDt>
+        <CostOrOtherBasisAmt>751849</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>490971</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>27337</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BLDG 3702-08 INDIANA</PropertyDesc>
+        <AcquiredDt>2007-02-15</AcquiredDt>
+        <CostOrOtherBasisAmt>664547</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>407782</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>24170</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ROOF AND BUILDING REPAIRS</PropertyDesc>
+        <AcquiredDt>2008-06-15</AcquiredDt>
+        <CostOrOtherBasisAmt>25591</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>14458</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>930</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BLDG 4326-4322 ARIZONA</PropertyDesc>
+        <AcquiredDt>2011-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>426120</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>200786</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>15498</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ROOF</PropertyDesc>
+        <AcquiredDt>2016-09-01</AcquiredDt>
+        <CostOrOtherBasisAmt>10848</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2873</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>394</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FENCING</PropertyDesc>
+        <AcquiredDt>2021-03-01</AcquiredDt>
+        <CostOrOtherBasisAmt>7682</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1771</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>150DB</ComputationMethodTxt>
+        <Rt>0.0770</Rt>
+        <CurrentYearExpenseAmt>592</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2021-03-01</AcquiredDt>
+        <CostOrOtherBasisAmt>7170</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>5105</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1152</Rt>
+        <CurrentYearExpenseAmt>826</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>WINDOWS</PropertyDesc>
+        <AcquiredDt>2021-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>25555</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>2284</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>929</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BLDG 1728-1744 CYPRESS</PropertyDesc>
+        <AcquiredDt>2022-08-26</AcquiredDt>
+        <CostOrOtherBasisAmt>1464210</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>73211</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>53239</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2022-04-01</AcquiredDt>
+        <CostOrOtherBasisAmt>4090</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>254</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>149</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>RESTORATION</PropertyDesc>
+        <AcquiredDt>2022-12-01</AcquiredDt>
+        <CostOrOtherBasisAmt>12525</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>474</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>455</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>2022-09-01</AcquiredDt>
+        <CostOrOtherBasisAmt>6441</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3349</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <Rt>0.1920</Rt>
+        <CurrentYearExpenseAmt>1237</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ROOF</PropertyDesc>
+        <AcquiredDt>2022-03-01</AcquiredDt>
+        <CostOrOtherBasisAmt>15525</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1011</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <Rt>0.0364</Rt>
+        <CurrentYearExpenseAmt>564</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Furniture and Fixtures</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>60518</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>52105</AccumulatedDepreciationAmt>
+        <BookValueAmt>8413</BookValueAmt>
+        <EOYFMVAmt>8413</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Buildings</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>4005719</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1937911</AccumulatedDepreciationAmt>
+        <BookValueAmt>2067808</BookValueAmt>
+        <EOYFMVAmt>4005719</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Improvements</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>16615</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>1332</AccumulatedDepreciationAmt>
+        <BookValueAmt>15283</BookValueAmt>
+        <EOYFMVAmt>16615</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>Land</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>4013744</CostOrOtherBasisAmt>
+        <BookValueAmt>4013744</BookValueAmt>
+        <EOYFMVAmt>4013744</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <MortgagesAndNotesPayableSch documentId="MortgagesAndNotesPayableSchedu" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <MortgageAmt>2933639</MortgageAmt>
+      <NotePayableGrp>
+        <LenderNameGrp>
+          <PersonNm>CHASE</PersonNm>
+        </LenderNameGrp>
+        <BalanceDueAmt>333639</BalanceDueAmt>
+      </NotePayableGrp>
+      <NotePayableGrp>
+        <LenderNameGrp>
+          <PersonNm>FIRST REPUBLIC BANK</PersonNm>
+        </LenderNameGrp>
+        <BalanceDueAmt>2600000</BalanceDueAmt>
+      </NotePayableGrp>
+    </MortgagesAndNotesPayableSch>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherAssetsScheduleGrp>
+        <Desc>Net Intangible Assets</Desc>
+        <BOYBookValueAmt>12333</BOYBookValueAmt>
+        <EOYBookValueAmt>2868</EOYBookValueAmt>
+        <EOYFMVAmt>2868</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>Amortization</Desc>
+        <RevenueAndExpensesPerBooksAmt>9465</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>100</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>100</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Rental Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>748248</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherIncomeDetail>
+        <Desc>Rental Income - Noninvestment Property</Desc>
+        <RevenueAndExpensesPerBooksAmt>937645</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherLiabilitiesDetail>
+        <Desc>SECURITY DEPOSITS</Desc>
+        <BOYBookValueAmt>62460</BOYBookValueAmt>
+        <EOYBookValueAmt>63450</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>RENT ASSISTANCE</Desc>
+        <BOYBookValueAmt>3000</BOYBookValueAmt>
+        <EOYBookValueAmt>3000</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TAX PREP</CategoryTxt>
+        <Amt>8523</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>8523</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

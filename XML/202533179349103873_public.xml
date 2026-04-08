@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2024v5.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2025-11-13T15:48:49-08:00</ReturnTs>
+    <TaxPeriodEndDt>2024-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>201147648</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Matranga &amp; Company An Accountancy Corp</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>6255 Lusk Blvd Suite 150</AddressLine1Txt>
+        <CityNm>San Diego</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92121</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2024-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>464304060</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE ANTHONY &amp; TRISSA NAPOLEON FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ANTH</BusinessNameControlTxt>
+      <PhoneNum>8584886561</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1312 OPAL STREET</AddressLine1Txt>
+        <CityNm>SAN DIEGO</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92109</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ANTHONY NAPOLEON</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2025-11-13</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <IRSResponsiblePrtyInfoCurrInd>true</IRSResponsiblePrtyInfoCurrInd>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JOSEPH E MATRANGA</PreparerPersonNm>
+      <PTIN>P00044158</PTIN>
+      <PhoneNum>8585588100</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2024</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1999843</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>9044</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>8030</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>8030</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>8030</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>19595</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>19628</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>19595</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>36669</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>27625</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>8030</TotalAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">1225</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1225</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">605</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>605</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">32654</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>32654</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>34484</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>34484</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>950</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>950</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>35434</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>35434</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1235</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>27625</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>8030</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>4504</CashBOYAmt>
+        <CashEOYAmt>3440</CashEOYAmt>
+        <CashEOYFMVAmt>3440</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>126</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>126</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>126</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>213956</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>211410</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1996277</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>218586</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>214976</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1999843</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <RetainedEarningBOYAmt>218586</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>214976</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>218586</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>214976</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>218586</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>214976</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>218586</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1235</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>219821</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">4845</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>214976</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>96.000 APPLE INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-11-12</AcquiredDt>
+          <SoldDt>2024-11-29</SoldDt>
+          <GrossSalesPriceAmt>19628</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>33</CostOrOtherBasisAmt>
+          <GainOrLossAmt>19595</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>19595</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>19595</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>384</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>384</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>384</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>384</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>ANTHONY NAPOLEON</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8584886561</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>7825 FAY AVE 200</AddressLine1Txt>
+          <CityNm>LA JOLLA</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>92037</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANTHONY NAPOLEON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7825 FAY AVE STE 200</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TRISSA NAPOLEON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7825 FAY AVE STE 200</AddressLine1Txt>
+            <CityNm>LA JOLLA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92037</ZIPCd>
+          </USAddress>
+          <TitleTxt>CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1655546</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>3610</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1659156</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1659156</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>24887</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1634269</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>81713</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>81713</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>384</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>384</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>81329</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>81329</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>81329</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt>35434</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>35434</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>81329</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr2Amt>4676</ExcessDistributionCyovYr2Amt>
+        <TotalExcessDistributionCyovAmt>4676</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>35434</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>35434</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>4676</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>4676</ExcessDistributionCyovAppCYAmt>
+        <UndistributedIncomeCYAmt>41219</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>ANTHONY NAPOLEON</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUMANE SOCIETY OF CONCORD</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2010 WILSHIRE CT SW</AddressLine1Txt>
+            <CityNm>CONCORD</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO SUPPORT ANIMAL SHELTER AND RESCUE CENTERS</GrantOrContributionPurposeTxt>
+          <Amt>50</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EAST COUNTY ANIMAL RESCUE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>144 TASHA VIEW WAY</AddressLine1Txt>
+            <CityNm>EL CAJON</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92021</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO SUPPORT ANIMAL SHELTER AND RESCUE CENTERS</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ANIMAL LEGAL DEFENSE FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>525 EAST COTATI AVENUE</AddressLine1Txt>
+            <CityNm>COTATI</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94931</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO SUPPORT ANIMAL SHELTER AND RESCUE CENTERS</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NORTH VALLEY ANIMAL DISASTER GROUP</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 441</AddressLine1Txt>
+            <CityNm>CHICO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95927</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO SUPPORT NVADG EDUCATES THE PUBLIC ABOUT DISASTER PREPAREDNESS AND ASSISTS IN SHELTERING AND EVACUATION OF ANIMALS DURING A DISASTER</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>AMERICAN WILD HORSE CAMPAIGN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>216 F ST 131</AddressLine1Txt>
+            <CityNm>DAVIS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95616</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO SUPPORT ANIMAL SHELTER AND RESCUE CENTERS</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EASTWOOD RANCH FOUNDATION RESCUE &amp; ADOPT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>28260 DOROTHY DR</AddressLine1Txt>
+            <CityNm>AGOURA HILLS</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>UNRELATED</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>TO SUPPORT ANIMAL SHELTER AND RESCUE CENTERS</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>950</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DividendsAndInterestFromSecDtl>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>8030</ExclusionAmt>
+        </DividendsAndInterestFromSecDtl>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>19595</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>8030</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>19595</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>27625</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>CA SOS</Desc>
+        <RevenueAndExpensesPerBooksAmt>20</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>20</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>740</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>740</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>341</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>341</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER FILING FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>PET FOOD AND SUPPLIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>25326</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>25326</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TELEPHONE</Desc>
+        <RevenueAndExpensesPerBooksAmt>108</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>108</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TRASACTION FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>90</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>90</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>VETRINARY EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>6004</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>6004</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>LEGAL &amp; PROFESSIONAL FEES</CategoryTxt>
+        <Amt>1225</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1225</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="24020490" softwareVersionNum="2024v5.2">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAX</CategoryTxt>
+        <Amt>605</Amt>
+        <DisbursementsCharitablePrpsAmt>605</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

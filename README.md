@@ -33,6 +33,35 @@ To validate EIN-based matching before adding to the full pipeline, I created a s
 ### Output
 - Master_EIN_SD.csv
 
+### EIN + XML Enrichment
+
+After validating nonprofit matching on EIN, I added an IRS XML step to enrich matched nonprofits with organization and leadership contact information.
+
+### XML Sources
+- XML/ (IRS filing XMLs)
+- data/2025_XML/ (additional IRS filing XMLs)
+
+### XML Output
+- EIN_XML_combining.ipynb
+- Person-level nonprofit contact table
+- Fields include EIN, organization name, website, address, person name, and title
+
+### Key Files
+- `Master_EIN_SD.csv`: San Diego nonprofit EIN matching output combining IRS and ProPublica nonprofit information
+- `CalNonprofits_Contact_Information.csv`: nonprofit directory contact data including websites, public emails, social links, and phone numbers
+- `sd_nonprofit_prospects_irs_enriched.csv`: nonprofit prospect list enriched with IRS organization information such as revenue and assets
+- `mission_aligned.csv`: filtered site/entity list used for outreach targeting
+
+### Contact Generation Use Case
+- XML enrichment is used to surface nonprofit leadership contacts from IRS 990 filings
+- Website domains can be cleaned and paired with `person_name` to generate likely email patterns
+- Four main email guesses used:
+  - `first@domain.com`
+  - `first.last@domain.com`
+  - `flast@domain.com`
+  - `firstlast@domain.com`
+- EIN remains the key field used to connect organization-level tax and registry data back to the contact pipeline
+
 ### CA_Nonprofit_Contact_Info
 - Nonprofits sourced from the CalNonprofits member directory
 - Fields: Name, Organization Type, Street Address, County, Website, Emails (General Contact), Staff/Misc Emails, Contact Form Link, Linkedin, Instagram, Facebook, X, Threads, BlueSky, Phone Number
